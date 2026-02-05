@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-06T06:36:13.102474+08:00",
-  "total_titles_processed": 678,
+  "generated_at": "2026-02-06T07:31:19.918939+08:00",
+  "total_titles_processed": 724,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时10分 ~ 06时36分]"
+          "appearance_count": 12,
+          "time_info": "[00时10分 ~ 07时31分]"
         },
         {
           "title": "美国总统特朗普：我完全且坚定地支持欧尔班再次担任匈牙利总理。",
@@ -50,6 +50,21 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时29分"
+        },
+        {
+          "title": "沃什未上任已被特朗普施压",
+          "url": "https://www.douyin.com/hot/2390169",
+          "source": "抖音",
+          "ranks": [
+            24,
+            17,
+            21,
+            20,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时28分 ~ 07时31分]"
         },
         {
           "title": "阿根廷宣布与特朗普政府签署贸易协议",
@@ -111,20 +126,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时28分 ~ 02时29分]"
-        },
-        {
-          "title": "沃什未上任已被特朗普施压",
-          "url": "https://www.douyin.com/hot/2390169",
-          "source": "抖音",
-          "ranks": [
-            24,
-            17,
-            21,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时28分 ~ 03时25分]"
         },
         {
           "title": "苹果CEO库克发誓，要针对美国总统特朗普的移民问题向国会山展开游说。",
@@ -468,11 +469,12 @@
           "source": "华尔街见闻",
           "ranks": [
             6,
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时10分 ~ 06时36分]"
+          "appearance_count": 12,
+          "time_info": "[00时10分 ~ 07时31分]"
         },
         {
           "title": "美股三大期指集体走低 谷歌盘前跌超4% | 今夜看点",
@@ -483,8 +485,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时10分 ~ 06时36分]"
+          "appearance_count": 12,
+          "time_info": "[00时10分 ~ 07时31分]"
         }
       ]
     },
@@ -515,11 +517,12 @@
           "source": "微博",
           "ranks": [
             27,
-            24
+            24,
+            17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时10分 ~ 06时36分]"
+          "appearance_count": 5,
+          "time_info": "[00时10分 ~ 07时31分]"
         }
       ]
     }
