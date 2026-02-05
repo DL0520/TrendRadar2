@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-05T17:55:29.345874+08:00",
-  "total_titles_processed": 1405,
+  "generated_at": "2026-02-05T18:51:39.757516+08:00",
+  "total_titles_processed": 1516,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 35,
+      "match_count": 37,
       "titles": [
         {
           "title": "习近平同美国总统特朗普通电话",
@@ -18,8 +18,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时59分 ~ 17时55分]"
+          "appearance_count": 17,
+          "time_info": "[00时59分 ~ 18时51分]"
         },
         {
           "title": "习近平同特朗普通电话",
@@ -66,8 +66,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[01时56分 ~ 17时55分]"
+          "appearance_count": 16,
+          "time_info": "[01时56分 ~ 18时51分]"
         },
         {
           "title": "降息快了？特朗普直言：若沃什表达过加息意愿 就不会获提名！",
@@ -307,6 +307,17 @@
           "time_info": "[03时01分 ~ 03时46分]"
         },
         {
+          "title": "特朗普也该就爱泼斯坦案去国会作证？美众议长回应",
+          "url": "https://wallstreetcn.com/livenews/3050592",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时51分"
+        },
+        {
           "title": "特朗普：我提名的美联储主席沃什希望降低利率",
           "url": "https://wallstreetcn.com/livenews/3050075",
           "source": "华尔街见闻-快讯",
@@ -360,6 +371,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时59分"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-02-05）",
+          "url": "https://flash.jin10.com/detail/20260205180759718800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时51分"
         },
         {
           "title": "美国联邦住房金融局局长：没有在积极考虑“特朗普房”这个想法",
@@ -431,8 +453,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时39分 ~ 17时55分]"
+          "appearance_count": 9,
+          "time_info": "[10时39分 ~ 18时51分]"
         },
         {
           "title": "谷歌ALL in AI！Q4云业务激增48% 2026“烧钱”速度翻倍",
@@ -457,8 +479,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时54分 ~ 17时55分]"
+          "appearance_count": 8,
+          "time_info": "[12时54分 ~ 18时51分]"
+        },
+        {
+          "title": "谷歌电话会：1850亿支出“不得不花”，确认与苹果合作，Gemini并非SaaS的“终结者”",
+          "url": "https://wallstreetcn.com/articles/3765004",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时33分 ~ 18时51分]"
         },
         {
           "title": "谷歌母公司Alphabet ：我们大约50%的代码由AI代理编写。",
@@ -470,18 +504,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时37分"
-        },
-        {
-          "title": "谷歌电话会：1850亿支出“不得不花”，确认与苹果合作，Gemini并非SaaS的“终结者”",
-          "url": "https://wallstreetcn.com/articles/3765004",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时33分 ~ 17时55分]"
         },
         {
           "title": "英伟达(NVDA.O)和AMD(AMD.O)盘后均涨超1%，谷歌(GOOG.O)大幅上调资本开支预期。",
@@ -584,7 +606,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时55分"
         },
@@ -716,8 +738,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时33分 ~ 17时55分]"
+          "appearance_count": 6,
+          "time_info": "[15时33分 ~ 18时51分]"
         },
         {
           "title": "中国台湾证交所加权股价指数收低1.5%报31,801.27点。",
@@ -779,11 +801,12 @@
             18,
             22,
             25,
-            29
+            29,
+            30
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时59分 ~ 17时55分]"
+          "appearance_count": 17,
+          "time_info": "[00时59分 ~ 18时51分]"
         },
         {
           "title": "中方回应日方深海挖到含稀土泥浆",
