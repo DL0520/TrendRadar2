@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-02-06T15:09:14.941438+08:00",
-  "total_titles_processed": 1310,
+  "generated_at": "2026-02-06T16:04:32.372588+08:00",
+  "total_titles_processed": 1424,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 45,
+      "match_count": 48,
       "titles": [
         {
           "title": "美俄唯一核军控条约失效，特朗普：不如谈个新的",
           "url": "https://news.ifeng.com/c/8qW59pknpCi",
           "source": "凤凰网",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时39分 ~ 15时09分]"
+          "appearance_count": 8,
+          "time_info": "[10时39分 ~ 16时04分]"
         },
         {
           "title": "日本大选前，特朗普发文支持高市",
@@ -51,8 +52,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时39分 ~ 15时09分]"
+          "appearance_count": 8,
+          "time_info": "[10时39分 ~ 16时04分]"
         },
         {
           "title": "沃什未上任已被特朗普施压",
@@ -68,6 +69,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时28分 ~ 07时55分]"
+        },
+        {
+          "title": "中方回应特朗普公开支持高市早苗",
+          "url": "https://news.ifeng.com/c/8qWaGQvtmJo",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时04分"
         },
         {
           "title": "美国总统特朗普：我完全且坚定地支持欧尔班再次担任匈牙利总理。",
@@ -109,7 +121,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时09分"
         },
@@ -283,6 +295,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时25分 ~ 04时01分]"
+        },
+        {
+          "title": "外交部回应特朗普支持高市赢得大选",
+          "url": "https://www.toutiao.com/trending/7603649349884759562/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时04分"
         },
         {
           "title": "特朗普：大选结果对日本未来至关重要 将全力支持高市早苗",
@@ -483,6 +506,17 @@
           "time_info": "10时40分"
         },
         {
+          "title": "特朗普称支持高市早苗赢得日本大选，外交部：不作评论",
+          "url": "https://wallstreetcn.com/livenews/3051213",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时04分"
+        },
+        {
           "title": "巴西总统卢拉：或于3月第一周赴华盛顿会见美国总统特朗普。",
           "url": "https://wallstreetcn.com/livenews/3050760",
           "source": "华尔街见闻-快讯",
@@ -511,7 +545,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时09分"
         },
@@ -579,8 +613,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时39分 ~ 15时09分]"
+          "appearance_count": 8,
+          "time_info": "[10时39分 ~ 16时04分]"
         }
       ]
     },
@@ -596,8 +630,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时39分 ~ 15时09分]"
+          "appearance_count": 8,
+          "time_info": "[10时39分 ~ 16时04分]"
         },
         {
           "title": "如何评价 Anthropic 最新发布的 Claude Opus 4.6? 有哪些技术亮点值得关注？",
@@ -625,6 +659,34 @@
       ]
     },
     {
+      "keyword_group": "台湾",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "中国台湾证交所股价指数收盘变化不大，报31782.92点。",
+          "url": "https://wallstreetcn.com/livenews/3051132",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时01分"
+        },
+        {
+          "title": "立陶宛总理承认在台湾问题上犯错，中方回应",
+          "url": "https://news.ifeng.com/c/8qWaN04MHHv",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时04分"
+        }
+      ]
+    },
+    {
       "keyword_group": "稀土",
       "match_count": 2,
       "titles": [
@@ -646,28 +708,12 @@
           "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%8C%96%E5%88%B0%E7%A8%80%E5%9C%9F%E6%B3%A5%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E4%BA%AE%E4%BA%86%23&t=31&band_rank=8&Refer=top",
           "source": "微博",
           "ranks": [
-            8
+            8,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时08分 ~ 15时09分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "台湾",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "中国台湾证交所股价指数收盘变化不大，报31782.92点。",
-          "url": "https://wallstreetcn.com/livenews/3051132",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时01分"
+          "appearance_count": 3,
+          "time_info": "[15时08分 ~ 16时04分]"
         }
       ]
     }
