@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-06T19:10:20.730316+08:00",
-  "total_titles_processed": 1685,
+  "generated_at": "2026-02-06T19:57:59.950900+08:00",
+  "total_titles_processed": 1772,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 53,
+      "match_count": 54,
       "titles": [
         {
           "title": "美俄唯一核军控条约失效，特朗普：不如谈个新的",
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时39分 ~ 19时10分]"
+          "appearance_count": 12,
+          "time_info": "[10时39分 ~ 19时57分]"
         },
         {
           "title": "波斯湾浪急与马斯喀特和谈之间：特朗普背后的以色列踪影",
@@ -28,11 +28,12 @@
             10,
             7,
             4,
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时39分 ~ 19时10分]"
+          "appearance_count": 12,
+          "time_info": "[10时39分 ~ 19时57分]"
         },
         {
           "title": "日本大选前，特朗普发文支持高市",
@@ -46,6 +47,17 @@
           "time_info": "[10时39分 ~ 15时09分]"
         },
         {
+          "title": "中方回应特朗普公开支持高市早苗",
+          "url": "https://news.ifeng.com/c/8qWaGQvtmJo",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时04分 ~ 19时57分]"
+        },
+        {
           "title": "是否谋求第三任期？特朗普：告诉你就太无聊了",
           "url": "https://news.ifeng.com/c/8qUsyGpiCYu",
           "source": "凤凰网",
@@ -55,17 +67,6 @@
           "is_new": false,
           "appearance_count": 14,
           "time_info": "[00时10分 ~ 07时55分]"
-        },
-        {
-          "title": "中方回应特朗普公开支持高市早苗",
-          "url": "https://news.ifeng.com/c/8qWaGQvtmJo",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时04分 ~ 19时10分]"
         },
         {
           "title": "沃什未上任已被特朗普施压",
@@ -274,6 +275,18 @@
           "time_info": "[02时29分 ~ 03时25分]"
         },
         {
+          "title": "中方回应特朗普公开支持高市早苗",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E5%85%AC%E5%BC%80%E6%94%AF%E6%8C%81%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%23&t=31&band_rank=8&Refer=top",
+          "source": "微博",
+          "ranks": [
+            8,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时10分 ~ 19时57分]"
+        },
+        {
           "title": "特朗普：与其延长“新削减战略武器条约” 不如制定新条约",
           "url": "https://flash.jin10.com/detail/20260206025549486800",
           "source": "金十数据",
@@ -309,6 +322,18 @@
           "time_info": "[18时09分 ~ 18时10分]"
         },
         {
+          "title": "美伊谈判前特朗普发李小龙视频",
+          "url": "https://www.douyin.com/hot/2391580",
+          "source": "抖音",
+          "ranks": [
+            27,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时10分 ~ 19时57分]"
+        },
+        {
           "title": "外交部回应特朗普支持高市赢得大选",
           "url": "https://www.toutiao.com/trending/7603649349884759562/",
           "source": "今日头条",
@@ -329,17 +354,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时29分"
-        },
-        {
-          "title": "中方回应特朗普公开支持高市早苗",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E5%85%AC%E5%BC%80%E6%94%AF%E6%8C%81%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%23&t=31&band_rank=8&Refer=top",
-          "source": "微博",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时10分"
         },
         {
           "title": "美国总统特朗普：我已就迪戈加西亚岛问题与英国首相斯塔默进行了非常富有成效的讨论。",
@@ -417,6 +431,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时49分"
+        },
+        {
+          "title": "美国公司拿下大量委内瑞拉石油，打折卖仍滞销，特朗普亲自「带货」委石油，哪些国家会购买？为何会滞销？",
+          "url": "https://www.zhihu.com/question/2002762561406390549",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时57分"
         },
         {
           "title": "美伊谈判在即，白宫称特朗普有“诸多选项”",
@@ -513,7 +538,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时10分"
         },
@@ -568,7 +593,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时10分"
         },
@@ -593,17 +618,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时09分"
-        },
-        {
-          "title": "美伊谈判前特朗普发李小龙视频",
-          "url": "https://www.douyin.com/hot/2391580",
-          "source": "抖音",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时10分"
         },
         {
           "title": "唐宁街发言人：英国首相斯塔默与美国总统特朗普一致认为，达成一项协议以确保在迪戈加西亚岛建立英美联合基地至关重要，而该基地对双方共同的安全利益依然至关重要。",
@@ -670,8 +684,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时39分 ~ 19时10分]"
+          "appearance_count": 12,
+          "time_info": "[10时39分 ~ 19时57分]"
         }
       ]
     },
@@ -688,8 +702,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时39分 ~ 19时10分]"
+          "appearance_count": 12,
+          "time_info": "[10时39分 ~ 19时57分]"
         },
         {
           "title": "如何评价 Anthropic 最新发布的 Claude Opus 4.6? 有哪些技术亮点值得关注？",
@@ -713,6 +727,45 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时25分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "台湾",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "中国台湾证交所股价指数收盘变化不大，报31782.92点。",
+          "url": "https://wallstreetcn.com/livenews/3051132",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时01分"
+        },
+        {
+          "title": "立陶宛总理承认在台湾问题上犯错，中方回应",
+          "url": "https://news.ifeng.com/c/8qWaN04MHHv",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时04分 ~ 18时10分]"
+        },
+        {
+          "title": "立陶宛承认开设台湾代表处是错误，外交部：同立方沟通大门始终敞开",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32549545",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时57分"
         }
       ]
     },
@@ -755,34 +808,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时09分 ~ 18时10分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "台湾",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "中国台湾证交所股价指数收盘变化不大，报31782.92点。",
-          "url": "https://wallstreetcn.com/livenews/3051132",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时01分"
-        },
-        {
-          "title": "立陶宛总理承认在台湾问题上犯错，中方回应",
-          "url": "https://news.ifeng.com/c/8qWaN04MHHv",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时04分 ~ 18时10分]"
         }
       ]
     }
