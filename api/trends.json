@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-06T07:55:05.122000+08:00",
-  "total_titles_processed": 753,
+  "generated_at": "2026-02-06T10:40:11.812305+08:00",
+  "total_titles_processed": 942,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 38,
+      "match_count": 43,
       "titles": [
         {
           "title": "是否谋求第三任期？特朗普：告诉你就太无聊了",
@@ -32,6 +32,28 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时28分 ~ 07时55分]"
+        },
+        {
+          "title": "美俄唯一核军控条约失效，特朗普：不如谈个新的",
+          "url": "https://news.ifeng.com/c/8qW59pknpCi",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时39分 ~ 10时40分]"
+        },
+        {
+          "title": "日本大选前，特朗普发文支持高市",
+          "url": "https://news.ifeng.com/c/8qWByeKcHHN",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时39分 ~ 10时40分]"
         },
         {
           "title": "美国总统特朗普：我完全且坚定地支持欧尔班再次担任匈牙利总理。",
@@ -226,6 +248,17 @@
           "time_info": "[03时25分 ~ 04时01分]"
         },
         {
+          "title": "波斯湾浪急与马斯喀特和谈之间：特朗普背后的以色列踪影",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32540970",
+          "source": "澎湃新闻",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时39分 ~ 10时40分]"
+        },
+        {
           "title": "美国总统特朗普：与其延长“新削减战略武器条约”，我们更应该让专家们着手制定一项全新、改进且现代化的条约，使其能够长久延续下去。",
           "url": "https://flash.jin10.com/detail/20260206025002718800",
           "source": "金十数据",
@@ -326,6 +359,17 @@
           "time_info": "04时49分"
         },
         {
+          "title": "美伊谈判在即，白宫称特朗普有“诸多选项”",
+          "url": "https://wallstreetcn.com/livenews/3051043",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时40分"
+        },
+        {
           "title": "美国白宫：（就古巴问题）特朗普始终乐于开展外交活动。",
           "url": "https://flash.jin10.com/detail/20260206033919812800",
           "source": "金十数据",
@@ -414,6 +458,17 @@
           "time_info": "00时11分"
         },
         {
+          "title": "外媒：电费上涨正在让特朗普付出政治代价",
+          "url": "https://flash.jin10.com/detail/20260206101301722800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时40分"
+        },
+        {
           "title": "巴西总统卢拉：或于3月第一周赴华盛顿会见美国总统特朗普。",
           "url": "https://wallstreetcn.com/livenews/3050760",
           "source": "华尔街见闻-快讯",
@@ -450,7 +505,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "谷歌All in AI：Q4云收入猛增48%，今年支出指引接近翻倍大超预期，盘后巨震 | 财报见闻",
@@ -486,15 +541,37 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时10分 ~ 07时55分]"
+          "appearance_count": 16,
+          "time_info": "[00时10分 ~ 10时40分]"
+        },
+        {
+          "title": "砸钱AI超谷歌！亚马逊今年支出指引2000亿意外爆表，盘后跳水超10% | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3765100",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时39分 ~ 10时40分]"
         }
       ]
     },
     {
       "keyword_group": "Claude",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "擅长金融研究！Anthropic发布Claude Opus4.6，金融数据库FactSet、汤森路透持续重挫",
+          "url": "https://wallstreetcn.com/articles/3765096",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时39分 ~ 10时40分]"
+        },
         {
           "title": "汤森路透跌幅扩大至7%。Anthropic发布人工智能（AI）模型的最新版本Claude Opus 4.6，用于进行金融研究和其他工作相关的功能。",
           "url": "https://wallstreetcn.com/livenews/3050826",
