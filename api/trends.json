@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-07T03:59:24.390415+08:00",
-  "total_titles_processed": 560,
+  "generated_at": "2026-02-07T04:47:53.970893+08:00",
+  "total_titles_processed": 593,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 22,
+      "match_count": 23,
       "titles": [
         {
           "title": "波斯湾浪急与马斯喀特和谈之间：特朗普背后的以色列踪影",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时09分 ~ 03时59分]"
+          "appearance_count": 9,
+          "time_info": "[00时09分 ~ 04时47分]"
         },
         {
           "title": "美俄唯一核军控条约失效，特朗普：不如谈个新的",
@@ -27,8 +27,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时11分 ~ 03时59分]"
+          "appearance_count": 8,
+          "time_info": "[00时11分 ~ 04时47分]"
         },
         {
           "title": "美伊谈判前特朗普发李小龙视频",
@@ -42,8 +42,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时09分 ~ 03时59分]"
+          "appearance_count": 9,
+          "time_info": "[00时09分 ~ 04时47分]"
         },
         {
           "title": "中方回应特朗普公开支持高市早苗",
@@ -84,11 +84,25 @@
           "source": "金十数据",
           "ranks": [
             1,
-            11
+            11,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时23分 ~ 03时59分]"
+          "appearance_count": 3,
+          "time_info": "[03时23分 ~ 04时47分]"
+        },
+        {
+          "title": "贝森特驳斥关于他与特朗普美元言论存在分歧的说法",
+          "url": "https://wallstreetcn.com/livenews/3051594",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            10,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时23分 ~ 04时47分]"
         },
         {
           "title": "美联储副主席杰斐逊：当前的货币政策对诸多风险准备就绪。 劳动力市场大致平衡，但仍然存在下行风险。 一旦（美国总统特朗普挑起的）关税的影响过去，通胀有望再次放缓。 强劲的生产力增速可能会推高中性利率。 生产力增速可能有助于遏制通胀。 我已经将自己对2026年经济增长速度的预期上修至2.2%。",
@@ -103,29 +117,18 @@
           "time_info": "[01时24分 ~ 02时09分]"
         },
         {
-          "title": "贝森特驳斥关于他与特朗普美元言论存在分歧的说法",
-          "url": "https://wallstreetcn.com/livenews/3051594",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时23分 ~ 03时59分]"
-        },
-        {
           "title": "贝森特重申：特朗普有关解雇沃什的言论是个玩笑",
           "url": "https://wallstreetcn.com/livenews/3051579",
           "source": "华尔街见闻-快讯",
           "ranks": [
             6,
             19,
-            25
+            25,
+            29
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时09分 ~ 03时59分]"
+          "appearance_count": 4,
+          "time_info": "[02时09分 ~ 04时47分]"
         },
         {
           "title": "美国财长贝森特：“特朗普账户”（Trump accounts）可能会成为他最大的政治遗产。（CNBC）",
@@ -134,11 +137,12 @@
           "ranks": [
             7,
             20,
-            26
+            26,
+            30
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时09分 ~ 03时59分]"
+          "appearance_count": 4,
+          "time_info": "[02时09分 ~ 04时47分]"
         },
         {
           "title": "美国财长贝森特：特朗普政府的政策显示了对强势美元的支持",
@@ -146,11 +150,49 @@
           "source": "金十数据",
           "ranks": [
             6,
-            16
+            16,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时23分 ~ 03时59分]"
+          "appearance_count": 3,
+          "time_info": "[03时23分 ~ 04时47分]"
+        },
+        {
+          "title": "泰森食品跌0.3%，报道称美国总统特朗普下令加大对阿根廷牛肉的进口力度。",
+          "url": "https://wallstreetcn.com/livenews/3051588",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            16,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时23分 ~ 04时47分]"
+        },
+        {
+          "title": "一名官员称，美国总统特朗普下令，从阿根廷进口的牛肉将增加三倍。（CBS）",
+          "url": "https://wallstreetcn.com/livenews/3051586",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            18,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时23分 ~ 04时47分]"
+        },
+        {
+          "title": "特朗普“下场”支持日本首相",
+          "url": "https://www.douyin.com/hot/2391219",
+          "source": "抖音",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时23分 ~ 04时47分]"
         },
         {
           "title": "美国纽约-新泽西隧道项目被迫停工，此前特朗普政府冻结资金",
@@ -163,30 +205,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时11分 ~ 01时24分]"
-        },
-        {
-          "title": "泰森食品跌0.3%，报道称美国总统特朗普下令加大对阿根廷牛肉的进口力度。",
-          "url": "https://wallstreetcn.com/livenews/3051588",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时23分 ~ 03时59分]"
-        },
-        {
-          "title": "一名官员称，美国总统特朗普下令，从阿根廷进口的牛肉将增加三倍。（CBS）",
-          "url": "https://wallstreetcn.com/livenews/3051586",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时23分 ~ 03时59分]"
         },
         {
           "title": "美媒：特朗普将下令将从阿根廷进口的牛肉数量增至四倍",
@@ -213,15 +231,15 @@
           "time_info": "[02时09分 ~ 03时23分]"
         },
         {
-          "title": "特朗普“下场”支持日本首相",
-          "url": "https://www.douyin.com/hot/2391219",
-          "source": "抖音",
+          "title": "美国总统特朗普：道琼斯工业平均指数历史上首次突破50,000点。祝贺美国！",
+          "url": "https://flash.jin10.com/detail/20260207034858058800",
+          "source": "金十数据",
           "ranks": [
-            18
+            12
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时23分 ~ 03时59分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时47分"
         },
         {
           "title": "美国财长贝森特：花旗银行将为员工向“特朗普账户”的捐款提供等额配捐。",
@@ -271,7 +289,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "砸钱AI超谷歌！亚马逊今年支出指引2000亿意外爆表，盘后跳水超10% | 财报见闻",
@@ -281,8 +299,19 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时09分 ~ 03时59分]"
+          "appearance_count": 9,
+          "time_info": "[00时09分 ~ 04时47分]"
+        },
+        {
+          "title": "据Fortune：OpenAI旗下ChatGPT应用的市场份额从2025年1月的69.1%骤降至次年的45.3%，而谷歌旗下Gemini聊天机器人应用的市场份额则从14.7%攀升至25.2%。",
+          "url": "https://flash.jin10.com/detail/20260207040250896800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时47分"
         },
         {
           "title": "美国议员们寻求司法部与苹果公司、Alphabet旗下谷歌公司的联系记录。 他们调查司法部在总统特朗普的移民与海关执法局（ICE）追踪类APP上所发挥的作用。（Politico）",
@@ -295,6 +324,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时11分 ~ 01时24分]"
+        },
+        {
+          "title": "景林最新美股持仓曝光：谷歌升至第一大重仓 大幅减持英伟达",
+          "url": "https://flash.jin10.com/detail/20260207035802693800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时47分"
         },
         {
           "title": "凯捷与谷歌云扩大战略合作伙伴关系，以加速大规模人工智能的采用，凯捷将帮助客户采用谷歌云的人工智能技术。",
@@ -321,8 +361,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时09分 ~ 03时59分]"
+          "appearance_count": 9,
+          "time_info": "[00时09分 ~ 04时47分]"
         },
         {
           "title": "高盛引入Anthropic的Claude，实现会计及合规角色自动化",
@@ -330,11 +370,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            9
+            9,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时23分 ~ 03时59分]"
+          "appearance_count": 3,
+          "time_info": "[03时23分 ~ 04时47分]"
         },
         {
           "title": "市场消息：高盛引入Anthropic的Claude模型以实现会计和合规工作自动化。",
@@ -362,8 +403,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时09分 ~ 03时59分]"
+          "appearance_count": 9,
+          "time_info": "[00时09分 ~ 04时47分]"
         }
       ]
     },
@@ -380,11 +421,12 @@
             22,
             20,
             5,
-            12
+            12,
+            7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时09分 ~ 03时59分]"
+          "appearance_count": 9,
+          "time_info": "[00时09分 ~ 04时47分]"
         }
       ]
     }
