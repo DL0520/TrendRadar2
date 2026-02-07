@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-07T19:29:28.507431+08:00",
-  "total_titles_processed": 1345,
+  "generated_at": "2026-02-07T19:49:52.016026+08:00",
+  "total_titles_processed": 1380,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 64,
+      "match_count": 65,
       "titles": [
         {
           "title": "特朗普：下周将再与伊朗谈判",
@@ -51,11 +51,12 @@
             10,
             4,
             5,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[10时34分 ~ 19时29分]"
+          "appearance_count": 13,
+          "time_info": "[10时34分 ~ 19时49分]"
         },
         {
           "title": "特朗普签署行政命令，对与伊朗有贸易往来的国家征收关税",
@@ -86,11 +87,12 @@
             10,
             8,
             9,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[10时34分 ~ 19时29分]"
+          "appearance_count": 13,
+          "time_info": "[10时34分 ~ 19时49分]"
         },
         {
           "title": "特朗普再谈格陵兰岛：丹麦手里有块“冰”，我们想买它！",
@@ -104,11 +106,12 @@
             14,
             11,
             9,
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[10时34分 ~ 19时29分]"
+          "appearance_count": 13,
+          "time_info": "[10时34分 ~ 19时49分]"
         },
         {
           "title": "美伊谈判前特朗普发李小龙视频",
@@ -134,8 +137,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[10时34分 ~ 19时29分]"
+          "appearance_count": 13,
+          "time_info": "[10时34分 ~ 19时49分]"
         },
         {
           "title": "奥巴马夫妇成了大猩猩？特朗普麻烦大了(图)",
@@ -193,6 +196,17 @@
           "time_info": "[12时43分 ~ 16时40分]"
         },
         {
+          "title": "特朗普在经济演讲中宣称通胀胜利近20次，尽管物价高企",
+          "url": "https://wallstreetcn.com/livenews/3051720",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时29分 ~ 19时49分]"
+        },
+        {
           "title": "特朗普拒绝为种族主义视频道歉，称“未看到冒犯内容”",
           "url": "https://wallstreetcn.com/livenews/3051670",
           "source": "华尔街见闻-快讯",
@@ -238,6 +252,18 @@
           "time_info": "[12时44分 ~ 16时40分]"
         },
         {
+          "title": "尽管物价上涨 特朗普近来已20次声称通胀得到控制",
+          "url": "https://flash.jin10.com/detail/20260207191137605800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时29分 ~ 19时49分]"
+        },
+        {
           "title": "美国财长贝森特：特朗普政府的政策显示了对强势美元的支持",
           "url": "https://flash.jin10.com/detail/20260207024944141800",
           "source": "金十数据",
@@ -273,28 +299,6 @@
           "time_info": "01时24分"
         },
         {
-          "title": "尽管物价上涨 特朗普近来已20次声称通胀得到控制",
-          "url": "https://flash.jin10.com/detail/20260207191137605800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时29分"
-        },
-        {
-          "title": "特朗普在经济演讲中宣称通胀胜利近20次，尽管物价高企",
-          "url": "https://wallstreetcn.com/livenews/3051720",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时29分"
-        },
-        {
           "title": "特朗普称美国与伊朗进行了“非常好的会谈”",
           "url": "https://wallstreetcn.com/livenews/3051669",
           "source": "华尔街见闻-快讯",
@@ -309,6 +313,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[10时35分 ~ 16时40分]"
+        },
+        {
+          "title": "贝森特和特朗普“表忠心”：澄清强美元政策，重申起诉沃什是玩笑，暗示鲍威尔失职",
+          "url": "https://wallstreetcn.com/articles/3765201",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时37分 ~ 19时49分]"
         },
         {
           "title": "特朗普称下周将再次与伊朗谈判",
@@ -340,17 +355,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[10时35分 ~ 15时37分]"
-        },
-        {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-02-07）",
-          "url": "https://flash.jin10.com/detail/20260207181103862800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时29分"
         },
         {
           "title": "白宫官员回应特朗普发布针对奥巴马夫妇的种族主义视频：这是白宫工作人员误发该帖，现已删除。",
@@ -392,17 +396,6 @@
           "time_info": "[10时35分 ~ 14时53分]"
         },
         {
-          "title": "贝森特和特朗普“表忠心”：澄清强美元政策，重申起诉沃什是玩笑，暗示鲍威尔失职",
-          "url": "https://wallstreetcn.com/articles/3765201",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时37分 ~ 19时29分]"
-        },
-        {
           "title": "美国总统特朗普发文称，预计到其本届任期结束时，道琼斯指数将达到10万点。",
           "url": "https://wallstreetcn.com/livenews/3051691",
           "source": "华尔街见闻-快讯",
@@ -429,6 +422,29 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时39分 ~ 07时33分]"
+        },
+        {
+          "title": "发奥巴马夫妇被P成猿猴视频翻车，特朗普：你们咋不关心选民欺诈",
+          "url": "https://news.ifeng.com/c/8qYEsnIMXAd",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时38分 ~ 19时49分]"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-02-07）",
+          "url": "https://flash.jin10.com/detail/20260207181103862800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时29分 ~ 19时49分]"
         },
         {
           "title": "贝森特驳斥关于他与特朗普美元言论存在分歧的说法",
@@ -495,15 +511,16 @@
           "time_info": "[04时47分 ~ 07时33分]"
         },
         {
-          "title": "发奥巴马夫妇被P成猿猴视频翻车，特朗普：你们咋不关心选民欺诈",
-          "url": "https://news.ifeng.com/c/8qYEsnIMXAd",
-          "source": "凤凰网",
+          "title": "道指突破5万大关！特朗普自夸：提前三年就完成目标，任期结束将站上10万点",
+          "url": "https://wallstreetcn.com/articles/3765222",
+          "source": "华尔街见闻",
           "ranks": [
-            6
+            8,
+            7
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[17时38分 ~ 19时29分]"
+          "time_info": "[18时35分 ~ 19时49分]"
         },
         {
           "title": "泰森食品跌0.3%，报道称美国总统特朗普下令加大对阿根廷牛肉的进口力度。",
@@ -543,18 +560,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时35分 ~ 13时50分]"
-        },
-        {
-          "title": "道指突破5万大关！特朗普自夸：提前三年就完成目标，任期结束将站上10万点",
-          "url": "https://wallstreetcn.com/articles/3765222",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时35分 ~ 19时29分]"
         },
         {
           "title": "美国纽约-新泽西隧道项目被迫停工，此前特朗普政府冻结资金",
@@ -712,13 +717,24 @@
           "time_info": "[10时35分 ~ 12时44分]"
         },
         {
+          "title": "两大日媒批特朗普干涉日本内政：前所未闻，不可容忍",
+          "url": "https://news.ifeng.com/c/8qY8hiEtDth",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时49分"
+        },
+        {
           "title": "特朗普称道指将站上10万点",
           "url": "https://www.toutiao.com/trending/7603935969964359722/",
           "source": "今日头条",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时29分"
         },
@@ -926,8 +942,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[10时34分 ~ 19时29分]"
+          "appearance_count": 13,
+          "time_info": "[10时34分 ~ 19时49分]"
         },
         {
           "title": "“DeepSeek时刻”1年后，市场见证了“Claude冲击”",
@@ -941,8 +957,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时49分 ~ 19时29分]"
+          "appearance_count": 9,
+          "time_info": "[13时49分 ~ 19时49分]"
         },
         {
           "title": "高盛引入Anthropic的Claude，实现会计及合规角色自动化",
@@ -1048,8 +1064,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时40分 ~ 19时29分]"
+          "appearance_count": 5,
+          "time_info": "[16时40分 ~ 19时49分]"
         }
       ]
     }
