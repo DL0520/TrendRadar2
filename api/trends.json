@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-08T14:28:51.814922+08:00",
-  "total_titles_processed": 792,
+  "generated_at": "2026-02-08T15:25:40.931039+08:00",
+  "total_titles_processed": 839,
   "failed_sources": [],
   "trends": [
     {
@@ -58,6 +58,23 @@
           "time_info": "[00时39分 ~ 13时15分]"
         },
         {
+          "title": "美国联邦通信委员会（FCC）官员Carr谈及总统特朗普力挺Nexstar收购Tegna的交易，宣称：像康卡斯特和迪士尼这样的国家级网络已经聚集了太大的权力。 让我们完成这笔交易，给他们带去真正的竞争。",
+          "url": "https://wallstreetcn.com/livenews/3051751",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            2,
+            3,
+            15,
+            22,
+            25,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[04时37分 ~ 15时25分]"
+        },
+        {
           "title": "特朗普签署行政命令，对与伊朗有贸易往来的国家征收关税",
           "url": "https://www.cls.cn/detail/2283610",
           "source": "财联社热门",
@@ -68,8 +85,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时39分 ~ 14时28分]"
+          "appearance_count": 14,
+          "time_info": "[00时39分 ~ 15时25分]"
         },
         {
           "title": "特朗普是否参与了爱泼斯坦萝莉岛的犯罪行为？",
@@ -96,20 +113,21 @@
           "time_info": "[00时39分 ~ 03时51分]"
         },
         {
-          "title": "美国联邦通信委员会（FCC）官员Carr谈及总统特朗普力挺Nexstar收购Tegna的交易，宣称：像康卡斯特和迪士尼这样的国家级网络已经聚集了太大的权力。 让我们完成这笔交易，给他们带去真正的竞争。",
-          "url": "https://wallstreetcn.com/livenews/3051751",
+          "title": "特朗普态度“大转变”：支持电视广播巨头Nexstar收购Tegna",
+          "url": "https://wallstreetcn.com/livenews/3051747",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1,
-            2,
-            3,
-            15,
-            22,
-            25
+            4,
+            5,
+            6,
+            18,
+            25,
+            28,
+            29
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[04时37分 ~ 14时28分]"
+          "appearance_count": 8,
+          "time_info": "[04时37分 ~ 15时25分]"
         },
         {
           "title": "特朗普手机鸽了8个月还没上市 价格将上调 也不再是“美国制造”",
@@ -170,22 +188,6 @@
           "time_info": "[00时39分 ~ 05时34分]"
         },
         {
-          "title": "特朗普态度“大转变”：支持电视广播巨头Nexstar收购Tegna",
-          "url": "https://wallstreetcn.com/livenews/3051747",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            5,
-            6,
-            18,
-            25,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[04时37分 ~ 14时28分]"
-        },
-        {
           "title": "贝森特和特朗普“表忠心”：澄清强美元政策，重申起诉沃什是玩笑，暗示鲍威尔失职",
           "url": "https://wallstreetcn.com/articles/3765201",
           "source": "华尔街见闻",
@@ -203,11 +205,12 @@
           "ranks": [
             1,
             5,
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时19分 ~ 14时28分]"
+          "appearance_count": 4,
+          "time_info": "[11时19分 ~ 15时25分]"
         },
         {
           "title": "美国联邦通信委员会（FCC）官员Carr谈及总统特朗普力挺Nexstar收购Tegna的交易，宣称：让我们搞定这宗交易。",
@@ -227,11 +230,12 @@
           "ranks": [
             2,
             6,
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时19分 ~ 14时28分]"
+          "appearance_count": 4,
+          "time_info": "[11时19分 ~ 15时25分]"
         },
         {
           "title": "美国总统特朗普：与我的朋友、洪都拉斯总统举行了一次非常重要的会晤。讨论了许多其他问题，包括我们两国之间的投资和贸易。",
@@ -240,11 +244,12 @@
           "ranks": [
             3,
             7,
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时19分 ~ 14时28分]"
+          "appearance_count": 4,
+          "time_info": "[11时19分 ~ 15时25分]"
         },
         {
           "title": "加拿大央行行长：若失去特朗普的CUSMA准入，加拿大经济将面临衰退",
@@ -253,11 +258,12 @@
           "ranks": [
             11,
             18,
-            21
+            21,
+            22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时19分 ~ 14时28分]"
+          "appearance_count": 4,
+          "time_info": "[11时19分 ~ 15时25分]"
         },
         {
           "title": "特朗普：需要通过竞争来打击散播虚假新闻的电视网络",
@@ -277,11 +283,12 @@
           "url": "https://www.toutiao.com/trending/7604317625304223283/",
           "source": "今日头条",
           "ranks": [
-            14
+            14,
+            15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时28分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时28分 ~ 15时25分]"
         },
         {
           "title": "民主党高层对特朗普爆粗口",
@@ -309,11 +316,12 @@
             14,
             16,
             22,
-            25
+            25,
+            28
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时39分 ~ 14时28分]"
+          "appearance_count": 14,
+          "time_info": "[00时39分 ~ 15时25分]"
         },
         {
           "title": "阿根廷加入50国稀土联盟后帮中国说话",
