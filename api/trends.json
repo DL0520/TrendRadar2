@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-10T05:09:55.028827+08:00",
-  "total_titles_processed": 577,
+  "generated_at": "2026-02-10T06:06:32.704407+08:00",
+  "total_titles_processed": 615,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时08分 ~ 05时09分]"
+          "appearance_count": 7,
+          "time_info": "[00时08分 ~ 06时06分]"
         },
         {
           "title": "据华尔街日报：特朗普政府官员最近几周向国会共和党人施压，要求将投资者禁令作为修正案纳入目前正在众议院和参议院审议的两项主要住房法案中。",
@@ -92,7 +92,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时09分"
         },
