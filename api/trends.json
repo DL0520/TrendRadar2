@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-10T07:09:01.309963+08:00",
-  "total_titles_processed": 660,
+  "generated_at": "2026-02-10T08:04:09.352980+08:00",
+  "total_titles_processed": 762,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 13,
+      "match_count": 22,
       "titles": [
         {
           "title": "以“和平”为名：特朗普调停冲突，意在关键矿产？",
@@ -14,11 +14,12 @@
           "ranks": [
             6,
             7,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时08分 ~ 07时09分]"
+          "appearance_count": 11,
+          "time_info": "[00时08分 ~ 08时04分]"
         },
         {
           "title": "美国总统特朗普声称：将与加拿大启动关于密歇根大桥的磋商。",
@@ -27,7 +28,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时09分"
         },
@@ -43,6 +44,28 @@
           "time_info": "02时32分"
         },
         {
+          "title": "外媒：特朗普拟豁免科技巨头芯片关税",
+          "url": "https://flash.jin10.com/detail/20260210073738931800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时04分"
+        },
+        {
+          "title": "白宫官员称特朗普不支持以色列吞并约旦河西岸",
+          "url": "https://wallstreetcn.com/livenews/3052567",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时04分"
+        },
+        {
           "title": "据华尔街日报：消息人士称，美国总统特朗普的官员正施压共和党人，在住房法案中加入禁止华尔街购买独栋住宅的条款。",
           "url": "https://flash.jin10.com/detail/20260210021529965800",
           "source": "金十数据",
@@ -54,17 +77,6 @@
           "time_info": "02时32分"
         },
         {
-          "title": "美联储理事米兰：美联储缩减资产负债表（缩表）之前还需采取许多步骤。 如果货币政策没有（被总统特朗普）政治化，会有更好的结果。 如果保留美联储独立性，美联储就应该坚持其核心使命。",
-          "url": "https://wallstreetcn.com/livenews/3052543",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时09分"
-        },
-        {
           "title": "市场消息：一名美国法官暂时中止了一项法院裁定，该裁定此前要求特朗普政府解冻用于纽约市“门户隧道”项目的资金。",
           "url": "https://flash.jin10.com/detail/20260210020706988800",
           "source": "金十数据",
@@ -74,6 +86,29 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时32分"
+        },
+        {
+          "title": "白宫官员：稳定的约旦河西岸使以色列更加安全，也符合美国总统特朗普政府在该地区实现和平的目标。",
+          "url": "https://flash.jin10.com/detail/20260210073305008800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时04分"
+        },
+        {
+          "title": "美联储理事米兰：美联储缩减资产负债表（缩表）之前还需采取许多步骤。 如果货币政策没有（被总统特朗普）政治化，会有更好的结果。 如果保留美联储独立性，美联储就应该坚持其核心使命。",
+          "url": "https://wallstreetcn.com/livenews/3052543",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时09分 ~ 08时04分]"
         },
         {
           "title": "美民调：多数人不认可特朗普关税政策",
@@ -98,15 +133,37 @@
           "time_info": "[04时04分 ~ 05时09分]"
         },
         {
+          "title": "白宫官员：美国总统特朗普已明确表示，他不支持以色列吞并约旦河西岸。",
+          "url": "https://flash.jin10.com/detail/20260210073116584800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时04分"
+        },
+        {
           "title": "美国总统特朗普：如果沃什能胜任他的工作，美国经济可以增长15%。",
           "url": "https://flash.jin10.com/detail/20260210055913441800",
           "source": "金十数据",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时09分"
+        },
+        {
+          "title": "补偿不到位别想通车 特朗普强索美加大桥一半所有权",
+          "url": "https://flash.jin10.com/detail/20260210072624453800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时04分"
         },
         {
           "title": "美联储理事沃勒：加密货币法案的细节（出台）似乎被卡在了国会山。 随着特朗普第二次当选为美国总统而出现的加密货币（投资）热潮已经在一定程度上消退。 风险造成主流公司卖出比特币。",
@@ -126,9 +183,53 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时09分"
+        },
+        {
+          "title": "美国总统特朗普：共和党应该在中期选举中“大获全胜”。 美国形势不错，将不得不在中期选举中“推销它”。",
+          "url": "https://wallstreetcn.com/livenews/3052547",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时04分"
+        },
+        {
+          "title": "特朗普威胁阻挠加美边境大桥开通",
+          "url": "https://wallstreetcn.com/livenews/3052545",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时04分"
+        },
+        {
+          "title": "特朗普设定15%增长目标 沃什入主美联储压力倍增",
+          "url": "https://flash.jin10.com/detail/20260210070836785800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时04分"
+        },
+        {
+          "title": "美国总统特朗普：在获得“全额补偿”之前，将不允许安大略省与密歇根州之间的大桥通车。",
+          "url": "https://flash.jin10.com/detail/20260210065107652800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时04分"
         },
         {
           "title": "美联储理事沃勒：特朗普引发的加密货币热潮可能正在消退",
@@ -156,7 +257,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "谷歌母公司Alphabet的美元债发行获得超过1000亿美元认购需求。（彭博）",
@@ -168,6 +269,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时29分"
+        },
+        {
+          "title": "美国计划将大型科技企业排除在下一次芯片关税之外，谷歌、亚马逊和微软将免受芯片关税影响；该关税豁免将基于芯片制造商台积电在美国的投资承诺。（英国金融时报）",
+          "url": "https://wallstreetcn.com/livenews/3052564",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时04分"
         },
         {
           "title": "市场消息：谷歌与Entrust将合作推出基于人工智能的身份验证服务。",
