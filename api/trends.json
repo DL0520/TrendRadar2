@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-11T15:59:12.030680+08:00",
-  "total_titles_processed": 1206,
+  "generated_at": "2026-02-11T17:03:19.120268+08:00",
+  "total_titles_processed": 1319,
   "failed_sources": [],
   "trends": [
     {
@@ -26,8 +26,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时54分 ~ 15时59分]"
+          "appearance_count": 6,
+          "time_info": "[10时54分 ~ 17时03分]"
         },
         {
           "title": "内塔尼亚胡1年内将第7次见特朗普，以官员回应",
@@ -39,6 +39,29 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时41分 ~ 07时45分]"
+        },
+        {
+          "title": "特朗普又翻脸了，中国再躺枪",
+          "url": "https://news.ifeng.com/c/8qeOp6WY2Il",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时54分 ~ 17时03分]"
+        },
+        {
+          "title": "以总理将见特朗普，伊朗外长：美国不要受以色列影响",
+          "url": "https://news.ifeng.com/c/8qeNWWhXyTI",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时54分 ~ 17时03分]"
         },
         {
           "title": "据美国媒体报道，以色列总理内塔尼亚胡10日晚在白宫与美国总统特朗普的特使威特科夫和女婿库什纳举行会晤，双方讨论了伊朗局势。",
@@ -58,7 +81,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时59分"
         },
@@ -72,29 +95,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时54分"
-        },
-        {
-          "title": "特朗普又翻脸了，中国再躺枪",
-          "url": "https://news.ifeng.com/c/8qeOp6WY2Il",
-          "source": "凤凰网",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时54分 ~ 15时59分]"
-        },
-        {
-          "title": "以总理将见特朗普，伊朗外长：美国不要受以色列影响",
-          "url": "https://news.ifeng.com/c/8qeNWWhXyTI",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时54分 ~ 15时59分]"
         },
         {
           "title": "报道：特朗普将指示五角大楼与燃煤发电厂签订合同，以期重振煤炭行业",
@@ -217,6 +217,17 @@
           "time_info": "[05时52分 ~ 06时51分]"
         },
         {
+          "title": "特朗普为何突然盯上加拿大这座大桥？加官员这么说",
+          "url": "https://news.ifeng.com/c/8qeou7377qN",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时58分 ~ 17时03分]"
+        },
+        {
           "title": "特朗普对伊朗释放强硬信号 欧洲议会通过2040年减排90%目标 | 环球市场",
           "url": "https://www.cls.cn/detail/2286531",
           "source": "财联社热门",
@@ -227,17 +238,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时54分 ~ 14时42分]"
-        },
-        {
-          "title": "特朗普为何突然盯上加拿大这座大桥？加官员这么说",
-          "url": "https://news.ifeng.com/c/8qeou7377qN",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时58分 ~ 15时59分]"
         },
         {
           "title": "特朗普放话：若美伊谈判无果 或向中东增派航母打击群",
@@ -761,7 +761,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时59分"
         }
