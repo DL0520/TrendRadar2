@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-11T20:07:45.465834+08:00",
-  "total_titles_processed": 1624,
+  "generated_at": "2026-02-11T21:57:31.393079+08:00",
+  "total_titles_processed": 1756,
   "failed_sources": [],
   "trends": [
     {
@@ -61,8 +61,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时29分 ~ 20时07分]"
+          "appearance_count": 4,
+          "time_info": "[18时29分 ~ 21时57分]"
         },
         {
           "title": "以总理将见特朗普，伊朗外长：美国不要受以色列影响",
@@ -261,6 +261,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时54分 ~ 14时42分]"
+        },
+        {
+          "title": "特朗普在爱泼斯坦案文件出现100万次",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%9C%A8%E7%88%B1%E6%B3%BC%E6%96%AF%E5%9D%A6%E6%A1%88%E6%96%87%E4%BB%B6%E5%87%BA%E7%8E%B0100%E4%B8%87%E6%AC%A1",
+          "source": "百度热搜",
+          "ranks": [
+            24,
+            29,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时28分 ~ 21时57分]"
         },
         {
           "title": "特朗普放话：若美伊谈判无果 或向中东增派航母打击群",
@@ -488,18 +501,6 @@
           "time_info": "[03时41分 ~ 04时54分]"
         },
         {
-          "title": "特朗普在爱泼斯坦案文件出现100万次",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%9C%A8%E7%88%B1%E6%B3%BC%E6%96%AF%E5%9D%A6%E6%A1%88%E6%96%87%E4%BB%B6%E5%87%BA%E7%8E%B0100%E4%B8%87%E6%AC%A1",
-          "source": "百度热搜",
-          "ranks": [
-            24,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时28分 ~ 20时07分]"
-        },
-        {
           "title": "特朗普表面祝贺高市私下大发雷霆",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%A1%A8%E9%9D%A2%E7%A5%9D%E8%B4%BA%E9%AB%98%E5%B8%82%E7%A7%81%E4%B8%8B%E5%A4%A7%E5%8F%91%E9%9B%B7%E9%9C%86%23&t=31&band_rank=28&Refer=top",
           "source": "微博",
@@ -528,7 +529,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时07分"
         },
@@ -550,7 +551,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时07分"
         },
@@ -561,7 +562,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时07分"
         },
@@ -649,7 +650,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时07分"
         },
