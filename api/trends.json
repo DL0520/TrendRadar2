@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-13T21:16:13.257311+08:00",
-  "total_titles_processed": 1797,
+  "generated_at": "2026-02-13T22:26:00.875675+08:00",
+  "total_titles_processed": 1921,
   "failed_sources": [],
   "trends": [
     {
@@ -90,11 +90,24 @@
             25,
             28,
             29,
-            26
+            26,
+            30
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时01分 ~ 19时37分]"
+          "appearance_count": 21,
+          "time_info": "[00时01分 ~ 22时26分]"
+        },
+        {
+          "title": "特朗普被曝下月初召开拉美峰会“遏制中国”",
+          "url": "https://news.ifeng.com/c/8qiBqEpZEqH",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[16时54分 ~ 22时26分]"
         },
         {
           "title": "中方回应“特朗普将于4月初访华”",
@@ -124,18 +137,6 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时01分 ~ 13时00分]"
-        },
-        {
-          "title": "特朗普被曝下月初召开拉美峰会“遏制中国”",
-          "url": "https://news.ifeng.com/c/8qiBqEpZEqH",
-          "source": "凤凰网",
-          "ranks": [
-            4,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时54分 ~ 21时16分]"
         },
         {
           "title": "煤炭业的狂欢 环保者的悲哀！特朗普宣布撤销“温室气体危害认定”",
@@ -186,7 +187,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时16分"
         },
@@ -197,7 +198,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时16分"
         },
@@ -508,7 +509,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时16分"
         },
@@ -530,7 +531,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时16分"
         },
@@ -541,7 +542,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时16分"
         },
@@ -780,8 +781,19 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 6,
+      "match_count": 9,
       "titles": [
+        {
+          "title": "欧盟将于4月前就针对谷歌的DMA框架下AI草案措施展开咨询",
+          "url": "https://wallstreetcn.com/livenews/3055238",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时26分"
+        },
         {
           "title": "阿里、谷歌接连“出手” AI购物元年将至？",
           "url": "https://www.cls.cn/detail/2288802",
@@ -814,6 +826,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时13分"
+        },
+        {
+          "title": "欧盟将在六个月内完成对谷歌(GOOG.O)的反垄断调查程序。",
+          "url": "https://flash.jin10.com/detail/20260213215534534800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时26分"
+        },
+        {
+          "title": "欧盟将于4月就《数字市场法》下针对谷歌(GOOG.O)的拟议措施展开磋商。",
+          "url": "https://flash.jin10.com/detail/20260213215318727800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时26分"
         },
         {
           "title": "谷歌：全新深度思考现已通过Gemini应用向Google AI Ultra订阅用户开放，并通过Gemini API向精选研究人员开放。",
@@ -860,11 +894,12 @@
           "source": "百度热搜",
           "ranks": [
             28,
-            27
+            27,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时15分 ~ 21时16分]"
+          "appearance_count": 4,
+          "time_info": "[21时15分 ~ 22时26分]"
         },
         {
           "title": "台湾加权指数上涨1.9%，创下33,707.83点的历史新高。",
