@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-13T13:00:43.483992+08:00",
-  "total_titles_processed": 1076,
+  "generated_at": "2026-02-13T14:09:26.435314+08:00",
+  "total_titles_processed": 1160,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 50,
+      "match_count": 54,
       "titles": [
         {
           "title": "美国总统特朗普预计将于4月初访问中国？外交部：双方就此保持着沟通",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时01分 ~ 13时00分]"
+          "appearance_count": 16,
+          "time_info": "[00时01分 ~ 14时09分]"
         },
         {
           "title": "特朗普将于4月初访华？外交部回应",
@@ -51,8 +51,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时01分 ~ 13时00分]"
+          "appearance_count": 16,
+          "time_info": "[00时01分 ~ 14时09分]"
         },
         {
           "title": "中方回应“特朗普将于4月初访华”",
@@ -91,8 +91,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时50分 ~ 13时00分]"
+          "appearance_count": 4,
+          "time_info": "[10时50分 ~ 14时09分]"
         },
         {
           "title": "特朗普威胁伊朗：不达成协议，就进入第二阶段",
@@ -102,8 +102,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时50分 ~ 13时00分]"
+          "appearance_count": 4,
+          "time_info": "[10时50分 ~ 14时09分]"
         },
         {
           "title": "路透社：特朗普访华前暂停对华科技禁令",
@@ -113,8 +113,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时59分 ~ 13时00分]"
+          "appearance_count": 3,
+          "time_info": "[12时59分 ~ 14时09分]"
         },
         {
           "title": "特朗普：美国“必须”与伊朗达成协议，否则局势将“非常严重”",
@@ -159,11 +159,24 @@
           "source": "财联社热门",
           "ranks": [
             8,
-            10
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时50分 ~ 14时09分]"
+        },
+        {
+          "title": "特朗普称期待4月访华",
+          "url": "https://www.douyin.com/hot/2398935",
+          "source": "抖音",
+          "ranks": [
+            10,
+            11
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[10时50分 ~ 13时00分]"
+          "time_info": "[12时59分 ~ 14时09分]"
         },
         {
           "title": "美国总统特朗普：（1月非农）就业报告在特定方面是惊人的。",
@@ -236,17 +249,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时53分 ~ 04时43分]"
-        },
-        {
-          "title": "特朗普称期待4月访华",
-          "url": "https://www.douyin.com/hot/2398935",
-          "source": "抖音",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时59分 ~ 13时00分]"
         },
         {
           "title": "美国总统特朗普：就业报告在某些方面非常出色。",
@@ -428,6 +430,28 @@
           "time_info": "01时13分"
         },
         {
+          "title": "伦铝期货短线下挫，日内由涨转跌，现报3092美元/吨。消息面上，特朗普准备取消对金属和铝制品征收的关税。",
+          "url": "https://flash.jin10.com/detail/20260213131109290800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时09分"
+        },
+        {
+          "title": "英媒：特朗普拟缩减部分钢铁和铝制品关税 以缓解“可负担性危机”",
+          "url": "https://flash.jin10.com/detail/20260213130819738800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时09分"
+        },
+        {
           "title": "美国白宫：煤炭让美国保持灯火通明。特朗普已经结束了激进左翼对煤炭行业的围剿，他正让煤炭行业以更强的姿态回归。",
           "url": "https://flash.jin10.com/detail/20260213064914521800",
           "source": "金十数据",
@@ -448,6 +472,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时32分"
+        },
+        {
+          "title": "据英国金融时报：特朗普准备取消对金属和铝制品征收的关税。",
+          "url": "https://flash.jin10.com/detail/20260213130325770800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时09分"
         },
         {
           "title": "美国参议院多数党领袖约翰·图恩（John Thune）：预计参议院将对“众议院已经批准的‘拒绝特朗普对加拿大加征关税’”进行表决。",
@@ -481,6 +516,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时13分"
+        },
+        {
+          "title": "释新闻｜内塔尼亚胡紧急提前访美，说动特朗普打击伊朗了吗？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32591114",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时09分"
         },
         {
           "title": "美国能源部长Wright：雪佛龙已经加大在委内瑞拉的投资。 雪佛龙在委内瑞拉的设施的产量将翻倍。 美国（政府）不会向企业提供经济安全保障。 （特朗普政府强行掳走总统马杜罗之后）委内瑞拉第一年（石油）产量将提高30%-40%。",
