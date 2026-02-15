@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-15T22:57:10.260503+08:00",
-  "total_titles_processed": 1268,
+  "generated_at": "2026-02-15T23:34:14.636703+08:00",
+  "total_titles_processed": 1302,
   "failed_sources": [],
   "trends": [
     {
@@ -27,8 +27,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[17时39分 ~ 22时57分]"
+          "appearance_count": 12,
+          "time_info": "[17时39分 ~ 23时34分]"
         },
         {
           "title": "泽连斯基慕安会演讲：美国总让乌克兰让步，“有点”感受到特朗普的压力",
@@ -42,8 +42,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[16时47分 ~ 22时57分]"
+          "appearance_count": 14,
+          "time_info": "[16时47分 ~ 23时34分]"
         },
         {
           "title": "美军被曝正做准备：一旦特朗普下令攻击伊朗 行动或持续数周！",
@@ -105,6 +105,22 @@
           "time_info": "[00时40分 ~ 06时32分]"
         },
         {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-02-15）",
+          "url": "https://flash.jin10.com/detail/20260215183847434800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            4,
+            7,
+            13,
+            17,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[19时30分 ~ 23时34分]"
+        },
+        {
           "title": "王毅：特朗普尊重中方 有人想打压中国",
           "url": "https://www.baidu.com/s?wd=%E7%8E%8B%E6%AF%85%EF%BC%9A%E7%89%B9%E6%9C%97%E6%99%AE%E5%B0%8A%E9%87%8D%E4%B8%AD%E6%96%B9+%E6%9C%89%E4%BA%BA%E6%83%B3%E6%89%93%E5%8E%8B%E4%B8%AD%E5%9B%BD",
           "source": "百度热搜",
@@ -117,21 +133,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[10时51分 ~ 15时59分]"
-        },
-        {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-02-15）",
-          "url": "https://flash.jin10.com/detail/20260215183847434800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            4,
-            7,
-            13,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时30分 ~ 22时57分]"
         },
         {
           "title": "被特朗普恶搞成猿猴 奥巴马首次回应",
@@ -215,11 +216,12 @@
           "source": "金十数据",
           "ranks": [
             2,
-            6
+            6,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时02分 ~ 22时57分]"
+          "appearance_count": 3,
+          "time_info": "[22时02分 ~ 23时34分]"
         },
         {
           "title": "美国国务卿鲁比奥：相信美国总统特朗普的助手威特科夫和特朗普女婿库什纳“此刻”正前往伊朗，举行有关伊朗的重要会议。",
@@ -227,11 +229,24 @@
           "source": "金十数据",
           "ranks": [
             4,
-            8
+            8,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时02分 ~ 22时57分]"
+          "appearance_count": 3,
+          "time_info": "[22时02分 ~ 23时34分]"
+        },
+        {
+          "title": "被特朗普恶搞成猿猴，奥巴马首次回应：廉耻心荡然无存",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32616271",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[22时56分 ~ 23时34分]"
         },
         {
           "title": "奥巴马回应被特朗普恶搞成猴",
@@ -258,17 +273,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[15时23分 ~ 16时48分]"
-        },
-        {
-          "title": "被特朗普恶搞成猿猴，奥巴马首次回应：廉耻心荡然无存",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32616271",
-          "source": "澎湃新闻",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时56分 ~ 22时57分]"
         }
       ]
     },
@@ -286,8 +290,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[10时51分 ~ 22时57分]"
+          "appearance_count": 20,
+          "time_info": "[10时51分 ~ 23时34分]"
         },
         {
           "title": "字节豆包2.0发布：推理成本降一个数量级，正面对标GPT-5和Gemini 3",
@@ -375,11 +379,12 @@
             22,
             24,
             25,
-            26
+            26,
+            28
           ],
           "is_new": false,
-          "appearance_count": 29,
-          "time_info": "[00时39分 ~ 22时57分]"
+          "appearance_count": 31,
+          "time_info": "[00时39分 ~ 23时34分]"
         },
         {
           "title": "日本探测船采集含稀土淤泥返回，将推进经济性评估",
