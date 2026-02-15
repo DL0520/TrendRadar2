@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-16T06:33:10.418666+08:00",
-  "total_titles_processed": 421,
+  "generated_at": "2026-02-16T07:34:49.623357+08:00",
+  "total_titles_processed": 453,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时39分 ~ 06时33分]"
+          "appearance_count": 10,
+          "time_info": "[00时39分 ~ 07时34分]"
         },
         {
           "title": "被特朗普恶搞成猿猴，奥巴马首次回应：廉耻心荡然无存",
@@ -28,8 +28,22 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时39分 ~ 06时33分]"
+          "appearance_count": 10,
+          "time_info": "[00时39分 ~ 07时34分]"
+        },
+        {
+          "title": "奥巴马回应被特朗普恶搞成猿猴",
+          "url": "https://www.douyin.com/hot/2401829",
+          "source": "抖音",
+          "ranks": [
+            24,
+            5,
+            18,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[02时47分 ~ 07时34分]"
         },
         {
           "title": "民主党轮番安抚欧洲：再忍忍，特朗普3年后就会离开",
@@ -42,19 +56,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时39分 ~ 03时33分]"
-        },
-        {
-          "title": "奥巴马回应被特朗普恶搞成猿猴",
-          "url": "https://www.douyin.com/hot/2401829",
-          "source": "抖音",
-          "ranks": [
-            24,
-            5,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时47分 ~ 06时33分]"
         },
         {
           "title": "分析师：特朗普政府中期选举的成败可能取决于选民是否切实感受到日常生活有所改善",
@@ -113,11 +114,12 @@
           "source": "金十数据",
           "ranks": [
             5,
-            15
+            15,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时32分 ~ 06时33分]"
+          "appearance_count": 3,
+          "time_info": "[05时32分 ~ 07时34分]"
         },
         {
           "title": "消息人士：特朗普曾支持以打击伊朗弹道导弹 美军已就协助方案进行讨论",
@@ -125,11 +127,12 @@
           "source": "金十数据",
           "ranks": [
             6,
-            16
+            16,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时32分 ~ 06时33分]"
+          "appearance_count": 3,
+          "time_info": "[05时32分 ~ 07时34分]"
         }
       ]
     },
@@ -147,8 +150,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时39分 ~ 06时33分]"
+          "appearance_count": 10,
+          "time_info": "[00时39分 ~ 07时34分]"
         },
         {
           "title": "消息称 Anthropic 员工效率远超谷歌，入职需「杀死自我」，这种企业文化有效吗？",
@@ -158,11 +161,12 @@
             18,
             15,
             7,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时32分 ~ 06时33分]"
+          "appearance_count": 9,
+          "time_info": "[01时32分 ~ 07时34分]"
         }
       ]
     },
@@ -178,8 +182,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时39分 ~ 06时33分]"
+          "appearance_count": 10,
+          "time_info": "[00时39分 ~ 07时34分]"
         }
       ]
     }
