@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-16T10:48:18.687722+08:00",
-  "total_titles_processed": 645,
+  "generated_at": "2026-02-16T13:06:11.653444+08:00",
+  "total_titles_processed": 775,
   "failed_sources": [],
   "trends": [
     {
@@ -124,6 +124,17 @@
           "time_info": "[05时32分 ~ 07时34分]"
         },
         {
+          "title": "特朗普或支持以色列打击伊朗",
+          "url": "https://news.ifeng.com/c/8qmhQv7Byxy",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时48分 ~ 13时06分]"
+        },
+        {
           "title": "消息人士：特朗普曾支持以打击伊朗弹道导弹 美军已就协助方案进行讨论",
           "url": "https://flash.jin10.com/detail/20260216044347034800",
           "source": "金十数据",
@@ -135,17 +146,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时32分 ~ 07时34分]"
-        },
-        {
-          "title": "特朗普或支持以色列打击伊朗",
-          "url": "https://news.ifeng.com/c/8qmhQv7Byxy",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时48分"
         }
       ]
     },
@@ -163,8 +163,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时39分 ~ 10时48分]"
+          "appearance_count": 13,
+          "time_info": "[00时39分 ~ 13时06分]"
         },
         {
           "title": "消息称 Anthropic 员工效率远超谷歌，入职需「杀死自我」，这种企业文化有效吗？",
@@ -194,9 +194,9 @@
           "ranks": [
             11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时48分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时48分 ~ 13时06分]"
         }
       ]
     },
