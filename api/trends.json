@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-16T14:42:58.882702+08:00",
-  "total_titles_processed": 870,
+  "generated_at": "2026-02-16T15:58:27.741444+08:00",
+  "total_titles_processed": 959,
   "failed_sources": [],
   "trends": [
     {
@@ -60,6 +60,17 @@
           "time_info": "[00时39分 ~ 03时33分]"
         },
         {
+          "title": "美伊第二轮谈判前，内塔尼亚胡提条件、特朗普放狠话",
+          "url": "https://news.ifeng.com/c/8qn5bb5LeJE",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时42分 ~ 15时58分]"
+        },
+        {
           "title": "分析师：特朗普政府中期选举的成败可能取决于选民是否切实感受到日常生活有所改善",
           "url": "https://flash.jin10.com/detail/20260215212555860800",
           "source": "金十数据",
@@ -84,17 +95,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时39分 ~ 05时32分]"
-        },
-        {
-          "title": "美伊第二轮谈判前，内塔尼亚胡提条件、特朗普放狠话",
-          "url": "https://news.ifeng.com/c/8qn5bb5LeJE",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时42分"
         },
         {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-02-15）",
@@ -166,7 +166,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时42分"
         }
@@ -186,8 +186,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时39分 ~ 14时42分]"
+          "appearance_count": 15,
+          "time_info": "[00时39分 ~ 15时58分]"
         },
         {
           "title": "消息称 Anthropic 员工效率远超谷歌，入职需「杀死自我」，这种企业文化有效吗？",
@@ -208,7 +208,7 @@
     },
     {
       "keyword_group": "台湾",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "高金素梅被查！港媒：台湾政治正站在十字路口",
@@ -218,8 +218,19 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时48分 ~ 14时42分]"
+          "appearance_count": 5,
+          "time_info": "[10时48分 ~ 15时58分]"
+        },
+        {
+          "title": "台湾选将拜年抢合体！杨琼璎江启臣将与卢秀燕同框",
+          "url": "https://news.ifeng.com/c/8qn4t4j82tE",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时58分"
         }
       ]
     },
