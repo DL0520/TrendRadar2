@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-17T06:37:03.918560+08:00",
-  "total_titles_processed": 543,
+  "generated_at": "2026-02-17T07:37:21.862752+08:00",
+  "total_titles_processed": 581,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             1,
             11,
-            21
+            21,
+            25
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时55分 ~ 06时37分]"
+          "appearance_count": 6,
+          "time_info": "[02时55分 ~ 07时37分]"
         },
         {
           "title": "美国总统特朗普声称：（民主党州长Newsom的）加州与英国的能源协议“不合适”。（Politico）",
@@ -99,6 +100,18 @@
           "time_info": "[02时55分 ~ 04时40分]"
         },
         {
+          "title": "美伊第二轮开谈前，内塔尼亚胡提条件、特朗普放狠话",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32621372",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时36分 ~ 07时37分]"
+        },
+        {
           "title": "特朗普：联邦政府绝不为“Gateway”项目超支买单",
           "url": "https://flash.jin10.com/detail/20260217020218911800",
           "source": "金十数据",
@@ -150,17 +163,6 @@
           "time_info": "[00时55分 ~ 01时44分]"
         },
         {
-          "title": "美伊第二轮开谈前，内塔尼亚胡提条件、特朗普放狠话",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32621372",
-          "source": "澎湃新闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时36分 ~ 06时37分]"
-        },
-        {
           "title": "CFTC主席Selig：很荣幸能在特朗普总统的领导下庆祝“总统日”，他为美国金融市场开启了黄金时代，并将美国打造成为世界加密货币之都。",
           "url": "https://flash.jin10.com/detail/20260216235622274800",
           "source": "金十数据",
@@ -210,8 +212,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时55分 ~ 06时37分]"
+          "appearance_count": 10,
+          "time_info": "[00时55分 ~ 07时37分]"
         },
         {
           "title": "阿里除夕开源千问3.5：性能媲美Gemini 3 Pro， 实现原生多模态模型代际跃迁",
@@ -224,8 +226,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时55分 ~ 06时37分]"
+          "appearance_count": 10,
+          "time_info": "[00时55分 ~ 07时37分]"
         },
         {
           "title": "印度举办AI“影响力”峰会，谷歌、OpenAI等高管预计出席",
@@ -251,11 +253,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             6,
-            16
+            16,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时36分 ~ 06时37分]"
+          "appearance_count": 3,
+          "time_info": "[05时36分 ~ 07时37分]"
         }
       ]
     }
