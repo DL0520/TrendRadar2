@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-16T07:34:49.623357+08:00",
-  "total_titles_processed": 453,
+  "generated_at": "2026-02-16T10:48:18.687722+08:00",
+  "total_titles_processed": 645,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "泽连斯基慕安会演讲：美国总让乌克兰让步，“有点”感受到特朗普的压力",
@@ -13,11 +13,12 @@
           "source": "澎湃新闻",
           "ranks": [
             6,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时39分 ~ 07时34分]"
+          "appearance_count": 11,
+          "time_info": "[00时39分 ~ 10时48分]"
         },
         {
           "title": "被特朗普恶搞成猿猴，奥巴马首次回应：廉耻心荡然无存",
@@ -25,11 +26,12 @@
           "source": "澎湃新闻",
           "ranks": [
             12,
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时39分 ~ 07时34分]"
+          "appearance_count": 11,
+          "time_info": "[00时39分 ~ 10时48分]"
         },
         {
           "title": "奥巴马回应被特朗普恶搞成猿猴",
@@ -133,6 +135,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时32分 ~ 07时34分]"
+        },
+        {
+          "title": "特朗普或支持以色列打击伊朗",
+          "url": "https://news.ifeng.com/c/8qmhQv7Byxy",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时48分"
         }
       ]
     },
@@ -150,8 +163,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时39分 ~ 07时34分]"
+          "appearance_count": 11,
+          "time_info": "[00时39分 ~ 10时48分]"
         },
         {
           "title": "消息称 Anthropic 员工效率远超谷歌，入职需「杀死自我」，这种企业文化有效吗？",
@@ -167,6 +180,23 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[01时32分 ~ 07时34分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "台湾",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "高金素梅被查！港媒：台湾政治正站在十字路口",
+          "url": "https://news.ifeng.com/c/8qmgSZYUvwX",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时48分"
         }
       ]
     },
