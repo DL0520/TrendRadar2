@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-18T15:35:09.090352+08:00",
-  "total_titles_processed": 1163,
+  "generated_at": "2026-02-18T16:56:29.926031+08:00",
+  "total_titles_processed": 1276,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 35,
+      "match_count": 37,
       "titles": [
         {
           "title": "哈梅内伊回应特朗普威胁",
@@ -78,17 +78,6 @@
           "time_info": "[10时46分 ~ 15时35分]"
         },
         {
-          "title": "美空军确认“空军一号”新涂装将采用特朗普偏爱的配色：红、白、金、深蓝",
-          "url": "https://flash.jin10.com/detail/20260218152713560800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时35分"
-        },
-        {
           "title": "特朗普女儿伊万卡中文拜年：新年快乐",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%A5%B3%E5%84%BF%E4%BC%8A%E4%B8%87%E5%8D%A1%E4%B8%AD%E6%96%87%E6%8B%9C%E5%B9%B4%EF%BC%9A%E6%96%B0%E5%B9%B4%E5%BF%AB%E4%B9%90",
           "source": "百度热搜",
@@ -112,6 +101,29 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时12分"
+        },
+        {
+          "title": "特朗普、拜登、奥巴马、克林顿齐发声",
+          "url": "https://news.ifeng.com/c/8qqUCbPAN8F",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时56分"
+        },
+        {
+          "title": "美空军确认“空军一号”新涂装将采用特朗普偏爱的配色：红、白、金、深蓝",
+          "url": "https://flash.jin10.com/detail/20260218152713560800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时35分 ~ 16时56分]"
         },
         {
           "title": "美国总统特朗普的内阁与顾问开会，讨论中期选举策略。（Politico）",
@@ -293,6 +305,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时37分"
+        },
+        {
+          "title": "泽连斯基抱怨：特朗普总是要求乌克兰让步，这不公平",
+          "url": "https://news.ifeng.com/c/8qqOE4vhF5L",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时56分"
         },
         {
           "title": "市场消息：特朗普内阁与顾问开会讨论中期选举策略。",
