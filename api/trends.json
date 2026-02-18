@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-18T19:47:24.933136+08:00",
-  "total_titles_processed": 1520,
+  "generated_at": "2026-02-18T21:52:47.013577+08:00",
+  "total_titles_processed": 1688,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 42,
+      "match_count": 43,
       "titles": [
         {
           "title": "哈梅内伊回应特朗普威胁",
@@ -44,6 +44,17 @@
           "time_info": "[01时12分 ~ 06时44分]"
         },
         {
+          "title": "特朗普、拜登、奥巴马、克林顿齐发声",
+          "url": "https://news.ifeng.com/c/8qqUCbPAN8F",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时56分 ~ 21时52分]"
+        },
+        {
           "title": "特朗普涉台最新表态，台当局和日本都慌了",
           "url": "https://news.ifeng.com/c/8qpOucjNxj3",
           "source": "凤凰网",
@@ -53,17 +64,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[03时18分 ~ 07时37分]"
-        },
-        {
-          "title": "特朗普、拜登、奥巴马、克林顿齐发声",
-          "url": "https://news.ifeng.com/c/8qqUCbPAN8F",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时56分 ~ 19时47分]"
         },
         {
           "title": "特朗普称希拉里精神错乱",
@@ -342,6 +342,17 @@
           "time_info": "07时37分"
         },
         {
+          "title": "泽连斯基：特朗普只对乌克兰施压不公平",
+          "url": "https://news.ifeng.com/c/8qqlQxdDOZa",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时52分"
+        },
+        {
           "title": "市场消息：特朗普内阁与顾问开会讨论中期选举策略。",
           "url": "https://flash.jin10.com/detail/20260218063655343800",
           "source": "金十数据",
@@ -447,7 +458,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时47分"
         },
@@ -469,7 +480,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时47分"
         },
@@ -567,7 +578,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时47分"
         },
@@ -660,8 +671,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时58分 ~ 19时47分]"
+          "appearance_count": 4,
+          "time_info": "[17时58分 ~ 21时52分]"
         },
         {
           "title": "帅化民：台湾有什么本钱“抗中保台”",
@@ -687,7 +698,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时47分"
         }
