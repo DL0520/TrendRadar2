@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-19T19:44:04.229792+08:00",
-  "total_titles_processed": 1530,
+  "generated_at": "2026-02-19T21:22:33.471767+08:00",
+  "total_titles_processed": 1626,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 45,
+      "match_count": 49,
       "titles": [
         {
           "title": "为不影响特朗普访华，美对台军售疑停滞，白宫回应",
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时44分 ~ 19时44分]"
+          "appearance_count": 12,
+          "time_info": "[10时44分 ~ 21时22分]"
         },
         {
           "title": "特朗普将举行首届“和平委员会”会议，宣布成员国注资",
@@ -307,7 +307,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时44分"
         },
@@ -411,6 +411,17 @@
           "time_info": "03时05分"
         },
         {
+          "title": "在特朗普推动和平计划之际，哈马斯加大对加沙的控制",
+          "url": "https://flash.jin10.com/detail/20260219205710816800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时22分"
+        },
+        {
           "title": "美国总统特朗普：英国首相斯塔默无论如何都不应失去对迪戈加西亚的控制，尤其是通过一项充其量只是脆弱的百年租约来实现。",
           "url": "https://flash.jin10.com/detail/20260219024506455800",
           "source": "金十数据",
@@ -433,6 +444,17 @@
           "time_info": "00时39分"
         },
         {
+          "title": "特朗普的加沙和平计划恐陷入僵局 哈马斯是否放下武器成为焦点",
+          "url": "https://flash.jin10.com/detail/20260219205124822800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时22分"
+        },
+        {
           "title": "美国白宫：美国总统特朗普随时准备介入华盛顿特区的供水危机。",
           "url": "https://flash.jin10.com/detail/20260219024439079800",
           "source": "金十数据",
@@ -442,6 +464,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时05分"
+        },
+        {
+          "title": "市场消息：美国总统特朗普要求孟加拉国总理完成“例行国防”协议。",
+          "url": "https://flash.jin10.com/detail/20260219204541105800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时22分"
         },
         {
           "title": "美国纽约州州长表示，在美国总统特朗普政府解冻剩余资金后，纽约隧道建设将恢复。",
@@ -477,6 +510,17 @@
           "time_info": "14时09分"
         },
         {
+          "title": "美国总统特朗普：在美国大选中我只想要美国人投票。",
+          "url": "https://flash.jin10.com/detail/20260219202807714800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时22分"
+        },
+        {
           "title": "美国参议院卫生委员会将于2月25日就美国总统特朗普提名的公共卫生局局长候选人凯西·米恩斯举行听证会。",
           "url": "https://flash.jin10.com/detail/20260218231039678800",
           "source": "金十数据",
@@ -494,7 +538,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时44分"
         },
@@ -519,6 +563,120 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时05分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "台湾",
+      "match_count": 9,
+      "titles": [
+        {
+          "title": "傅聪：日本若敢武力介入台湾问题，中方必将迎头痛击",
+          "url": "https://news.ifeng.com/c/8qrAxqIMvRo",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[10时44分 ~ 17时58分]"
+        },
+        {
+          "title": "美学者：美若武力介入台湾，第一周内损失两个航母战斗群",
+          "url": "https://news.ifeng.com/c/8qsFEmWAaEt",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时57分 ~ 21时22分]"
+        },
+        {
+          "title": "中国代表：若日本行使“集体自卫权”介入台湾问题，中方必将迎头痛击",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32631952",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            17,
+            13,
+            14,
+            12,
+            11,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[12时59分 ~ 21时22分]"
+        },
+        {
+          "title": "日本若介入台湾问题 中方必迎头痛击",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E8%8B%A5%E4%BB%8B%E5%85%A5%E5%8F%B0%E6%B9%BE%E9%97%AE%E9%A2%98+%E4%B8%AD%E6%96%B9%E5%BF%85%E8%BF%8E%E5%A4%B4%E7%97%9B%E5%87%BB",
+          "source": "百度热搜",
+          "ranks": [
+            8,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时44分 ~ 14时09分]"
+        },
+        {
+          "title": "台湾女子被臭豆腐店熏到焦虑拔头发",
+          "url": "https://news.ifeng.com/c/8qs0hWI4Cnu",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时09分 ~ 16时55分]"
+        },
+        {
+          "title": "傅聪：日若介入台湾问题必将迎头痛击",
+          "url": "https://www.toutiao.com/trending/7607327972428628004/",
+          "source": "今日头条",
+          "ranks": [
+            13,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时44分 ~ 12时59分]"
+        },
+        {
+          "title": "美学者说美若武力介入台湾代价巨大",
+          "url": "https://www.toutiao.com/trending/7607672195451945010/",
+          "source": "今日头条",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时22分"
+        },
+        {
+          "title": "春晚台湾元素在岛内引发热议",
+          "url": "https://www.toutiao.com/trending/7607622616203673641/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时59分"
+        },
+        {
+          "title": "台湾女子被臭豆腐店熏到焦虑拔头发",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%8F%B0%E6%B9%BE%E5%A5%B3%E5%AD%90%E8%A2%AB%E8%87%AD%E8%B1%86%E8%85%90%E5%BA%97%E7%86%8F%E5%88%B0%E7%84%A6%E8%99%91%E6%8B%94%E5%A4%B4%E5%8F%91%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时05分"
         }
       ]
     },
@@ -620,108 +778,6 @@
       ]
     },
     {
-      "keyword_group": "台湾",
-      "match_count": 8,
-      "titles": [
-        {
-          "title": "傅聪：日本若敢武力介入台湾问题，中方必将迎头痛击",
-          "url": "https://news.ifeng.com/c/8qrAxqIMvRo",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时44分 ~ 17时58分]"
-        },
-        {
-          "title": "美学者：美若武力介入台湾，第一周内损失两个航母战斗群",
-          "url": "https://news.ifeng.com/c/8qsFEmWAaEt",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时57分 ~ 19时44分]"
-        },
-        {
-          "title": "中国代表：若日本行使“集体自卫权”介入台湾问题，中方必将迎头痛击",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32631952",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            17,
-            13,
-            14,
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时59分 ~ 19时44分]"
-        },
-        {
-          "title": "日本若介入台湾问题 中方必迎头痛击",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E8%8B%A5%E4%BB%8B%E5%85%A5%E5%8F%B0%E6%B9%BE%E9%97%AE%E9%A2%98+%E4%B8%AD%E6%96%B9%E5%BF%85%E8%BF%8E%E5%A4%B4%E7%97%9B%E5%87%BB",
-          "source": "百度热搜",
-          "ranks": [
-            8,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时44分 ~ 14时09分]"
-        },
-        {
-          "title": "台湾女子被臭豆腐店熏到焦虑拔头发",
-          "url": "https://news.ifeng.com/c/8qs0hWI4Cnu",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时09分 ~ 16时55分]"
-        },
-        {
-          "title": "傅聪：日若介入台湾问题必将迎头痛击",
-          "url": "https://www.toutiao.com/trending/7607327972428628004/",
-          "source": "今日头条",
-          "ranks": [
-            13,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时44分 ~ 12时59分]"
-        },
-        {
-          "title": "春晚台湾元素在岛内引发热议",
-          "url": "https://www.toutiao.com/trending/7607622616203673641/",
-          "source": "今日头条",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时59分"
-        },
-        {
-          "title": "台湾女子被臭豆腐店熏到焦虑拔头发",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%8F%B0%E6%B9%BE%E5%A5%B3%E5%AD%90%E8%A2%AB%E8%87%AD%E8%B1%86%E8%85%90%E5%BA%97%E7%86%8F%E5%88%B0%E7%84%A6%E8%99%91%E6%8B%94%E5%A4%B4%E5%8F%91%23&t=31&band_rank=28&Refer=top",
-          "source": "微博",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时05分"
-        }
-      ]
-    },
-    {
       "keyword_group": "稀土",
       "match_count": 3,
       "titles": [
@@ -734,8 +790,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时59分 ~ 19时44分]"
+          "appearance_count": 10,
+          "time_info": "[12时59分 ~ 21时22分]"
         },
         {
           "title": "稀土磁铁告急,岛国到处找货",
@@ -750,8 +806,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时45分 ~ 19时44分]"
+          "appearance_count": 11,
+          "time_info": "[10时45分 ~ 21时22分]"
         },
         {
           "title": "日本挖到含稀土泥浆的真相来了",
