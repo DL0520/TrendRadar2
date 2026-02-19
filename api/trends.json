@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-19T21:22:33.471767+08:00",
-  "total_titles_processed": 1626,
+  "generated_at": "2026-02-19T22:32:49.012713+08:00",
+  "total_titles_processed": 1716,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 49,
+      "match_count": 53,
       "titles": [
         {
           "title": "为不影响特朗普访华，美对台军售疑停滞，白宫回应",
@@ -105,6 +105,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时08分"
+        },
+        {
+          "title": "美国财政部声明：特朗普将于12月14日至15日在迈阿密主持G20峰会。美国将于8月下旬和9月在北卡罗来纳州阿什维尔举办G20财政官员会议。",
+          "url": "https://flash.jin10.com/detail/20260219220303113800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时32分"
+        },
+        {
+          "title": "英国阻止特朗普使用英国空军基地打击伊朗",
+          "url": "https://flash.jin10.com/detail/20260219220045780800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时32分"
+        },
+        {
+          "title": "英国阻止特朗普使用英国的基地打击伊朗。（泰晤士报）",
+          "url": "https://wallstreetcn.com/livenews/3056653",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时32分"
         },
         {
           "title": "美国总统特朗普援引《国防生产法》， 签署行政命令，指示美国农业部和国防部确保元素磷、除草剂充足。",
@@ -334,6 +367,17 @@
           "time_info": "03时05分"
         },
         {
+          "title": "英国阻止特朗普使用英国的基地打击伊朗。",
+          "url": "https://flash.jin10.com/detail/20260219215414927800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时32分"
+        },
+        {
           "title": "美国总统特朗普：英国首相斯塔默在就迪戈加西亚签署百年租约一事上犯下了重大错误。",
           "url": "https://flash.jin10.com/detail/20260219024624113800",
           "source": "金十数据",
@@ -417,7 +461,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时22分"
         },
@@ -450,7 +494,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时22分"
         },
@@ -472,7 +516,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时22分"
         },
@@ -516,7 +560,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时22分"
         },
@@ -568,7 +612,7 @@
     },
     {
       "keyword_group": "台湾",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "傅聪：日本若敢武力介入台湾问题，中方必将迎头痛击",
@@ -590,8 +634,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时57分 ~ 21时22分]"
+          "appearance_count": 7,
+          "time_info": "[17时57分 ~ 22时32分]"
         },
         {
           "title": "中国代表：若日本行使“集体自卫权”介入台湾问题，中方必将迎头痛击",
@@ -604,11 +648,23 @@
             14,
             12,
             11,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时59分 ~ 21时22分]"
+          "appearance_count": 11,
+          "time_info": "[12时59分 ~ 22时32分]"
+        },
+        {
+          "title": "美国若武力介入台湾代价巨大",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E8%8B%A5%E6%AD%A6%E5%8A%9B%E4%BB%8B%E5%85%A5%E5%8F%B0%E6%B9%BE%E4%BB%A3%E4%BB%B7%E5%B7%A8%E5%A4%A7%23&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时32分"
         },
         {
           "title": "日本若介入台湾问题 中方必迎头痛击",
@@ -650,11 +706,12 @@
           "url": "https://www.toutiao.com/trending/7607672195451945010/",
           "source": "今日头条",
           "ranks": [
-            12
+            12,
+            14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时22分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时22分 ~ 22时32分]"
         },
         {
           "title": "春晚台湾元素在岛内引发热议",
@@ -779,7 +836,7 @@
     },
     {
       "keyword_group": "稀土",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "日本挖到稀土,全是选举戏码",
@@ -787,11 +844,12 @@
           "source": "贴吧",
           "ranks": [
             3,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时59分 ~ 21时22分]"
+          "appearance_count": 11,
+          "time_info": "[12时59分 ~ 22时32分]"
         },
         {
           "title": "稀土磁铁告急,岛国到处找货",
@@ -803,11 +861,12 @@
             8,
             10,
             11,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时45分 ~ 21时22分]"
+          "appearance_count": 12,
+          "time_info": "[10时45分 ~ 22时32分]"
         },
         {
           "title": "日本挖到含稀土泥浆的真相来了",
@@ -820,6 +879,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时48分 ~ 07时38分]"
+        },
+        {
+          "title": "我国科学家发现深海稀土循环与富集新机制",
+          "url": "https://wallstreetcn.com/livenews/3056660",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时32分"
         }
       ]
     }
