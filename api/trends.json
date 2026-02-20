@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-20T22:13:12.498879+08:00",
-  "total_titles_processed": 1715,
+  "generated_at": "2026-02-20T23:10:58.406922+08:00",
+  "total_titles_processed": 1794,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 96,
+      "match_count": 100,
       "titles": [
         {
           "title": "“10-15天”最后通牒？特朗普：美伊必须达成有意义协议，否则发生“糟糕的事”",
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[10时40分 ~ 22时13分]"
+          "appearance_count": 17,
+          "time_info": "[10时40分 ~ 23时10分]"
         },
         {
           "title": "特朗普：高市早苗“特别喜欢我”",
@@ -64,8 +64,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[12时53分 ~ 22时13分]"
+          "appearance_count": 16,
+          "time_info": "[12时53分 ~ 23时10分]"
         },
         {
           "title": "对于伊朗和油价，特朗普是“自信过头”还是“姿态做足”？",
@@ -116,6 +116,20 @@
           "time_info": "[12时53分 ~ 16时05分]"
         },
         {
+          "title": "特朗普称将解密外星生命相关的政府文件，如何看待这一解密承诺？有哪些与外星人相关的待解之谜？",
+          "url": "https://www.zhihu.com/question/2008125477047509192",
+          "source": "知乎",
+          "ranks": [
+            18,
+            13,
+            9,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[19时07分 ~ 23时10分]"
+        },
+        {
           "title": "特朗普被曝考虑军事打击伊朗，细节披露",
           "url": "https://news.ifeng.com/c/8qt5v4Gxsqm",
           "source": "凤凰网",
@@ -146,22 +160,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时13分"
         },
         {
-          "title": "特朗普称将解密外星生命相关的政府文件，如何看待这一解密承诺？有哪些与外星人相关的待解之谜？",
-          "url": "https://www.zhihu.com/question/2008125477047509192",
-          "source": "知乎",
+          "title": "联邦公报文件：美国总统特朗普政府发布拟议规则，可能使庇护申请人的工作许可被暂停多年。",
+          "url": "https://flash.jin10.com/detail/20260220225158251800",
+          "source": "金十数据",
           "ranks": [
-            18,
-            13,
-            9
+            2
           ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[19时07分 ~ 22时13分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时10分"
         },
         {
           "title": "白宫披露美国与印度尼西亚的协议。 白宫称，2月19日与印尼签署了协议。 美国总统特朗普在华盛顿会见印尼领导人普拉博沃·苏比安托（Prabowo Subianto）。 双方同意围绕盟友关系“采取进一步行动”。",
@@ -379,6 +391,17 @@
           "time_info": "[02时13分 ~ 04时47分]"
         },
         {
+          "title": "特朗普回忆2017年访华经历，赞叹中国仪仗队强大阵容",
+          "url": "https://news.ifeng.com/c/8qu28qoqKpX",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时12分 ~ 23时10分]"
+        },
+        {
           "title": "特朗普称美国将开始公布与外星人、不明飞行物相关的文件。",
           "url": "https://wallstreetcn.com/livenews/3056840",
           "source": "华尔街见闻-快讯",
@@ -428,17 +451,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时47分 ~ 05时41分]"
-        },
-        {
-          "title": "特朗普回忆2017年访华经历，赞叹中国仪仗队强大阵容",
-          "url": "https://news.ifeng.com/c/8qu28qoqKpX",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时12分 ~ 22时13分]"
         },
         {
           "title": "美国总统特朗普赞赏商务部长卢特尼克。",
@@ -685,6 +697,17 @@
           "time_info": "21时18分"
         },
         {
+          "title": "白宫经济委员会主任哈塞特：特朗普经济增速接近3%，表现相当不错。 今日的GDP数据“有些令人失望”。 （谈自己对纽约联储的反应）可能有点情绪化了。 资本支出热潮已经持续了三个季度。",
+          "url": "https://wallstreetcn.com/livenews/3056970",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时10分"
+        },
+        {
           "title": "特朗普：石油和天然气产量上升了。",
           "url": "https://flash.jin10.com/detail/20260220055058967800",
           "source": "金十数据",
@@ -784,6 +807,17 @@
           "time_info": "19时57分"
         },
         {
+          "title": "市场消息：民主党人推动就特朗普关税政策进行投票的努力遭遇挫折。",
+          "url": "https://flash.jin10.com/detail/20260220224144837800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时10分"
+        },
+        {
           "title": "美国白宫经济顾问委员会代理主席Yared：投资推动供给侧增长。 无法从美国纽约联储的研究中推断出（总统特朗普挑起的）关税由谁承担。 对纽约联储研究结果的批评并非对美联储独立性的攻击。",
           "url": "https://wallstreetcn.com/livenews/3056759",
           "source": "华尔街见闻-快讯",
@@ -837,6 +871,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时40分"
+        },
+        {
+          "title": "美国总统特朗普表示，他正在考虑对伊朗发动有限打击。",
+          "url": "https://flash.jin10.com/detail/20260220223737744800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时10分"
         },
         {
           "title": "美国总统特朗普：共和党必须在选民身份和邮寄选票问题上取胜。",
@@ -1231,11 +1276,12 @@
             14,
             15,
             17,
-            18
+            18,
+            19
           ],
           "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[01时04分 ~ 22时13分]"
+          "appearance_count": 27,
+          "time_info": "[01时04分 ~ 23时10分]"
         },
         {
           "title": "稀土磁铁告急,岛国到处找货",
@@ -1247,11 +1293,12 @@
             20,
             21,
             23,
-            24
+            24,
+            25
           ],
           "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[01时04分 ~ 22时13分]"
+          "appearance_count": 27,
+          "time_info": "[01时04分 ~ 23时10分]"
         },
         {
           "title": "科学家发现深海稀土循环与富集新机制",
