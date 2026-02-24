@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-25T00:09:39.043450+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-02-25T02:02:35.366626+08:00",
+  "total_titles_processed": 418,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 7,
+      "match_count": 12,
       "titles": [
         {
           "title": "特朗普称将会在3月31日访问中国，外交部回应",
@@ -15,19 +15,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时09分"
+          "appearance_count": 2,
+          "time_info": "[00时09分 ~ 02时02分]"
         },
         {
           "title": "特朗普称将会在3月31日访问中国，外交部回应",
           "url": "https://m.thepaper.cn/newsDetail_forward_32649172",
           "source": "澎湃新闻",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时09分"
+          "appearance_count": 2,
+          "time_info": "[00时09分 ~ 02时02分]"
         },
         {
           "title": "特朗普第二任期首场国情咨文会谈什么？“剧透”来了",
@@ -37,8 +38,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时09分"
+          "appearance_count": 2,
+          "time_info": "[00时09分 ~ 02时02分]"
+        },
+        {
+          "title": "中美就特朗普访华事宜保持着沟通",
+          "url": "https://www.douyin.com/hot/2410424",
+          "source": "抖音",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时09分 ~ 02时02分]"
         },
         {
           "title": "英国央行行长贝利：特朗普关税出现变动，这对英国的影响偏小。",
@@ -63,15 +76,26 @@
           "time_info": "00时09分"
         },
         {
-          "title": "中美就特朗普访华事宜保持着沟通",
-          "url": "https://www.douyin.com/hot/2410424",
-          "source": "抖音",
+          "title": "美国参议院民主党成员Warren等人要求就特朗普关税退款问题制定计划。",
+          "url": "https://wallstreetcn.com/livenews/3058275",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            8
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时09分"
+          "time_info": "02时02分"
+        },
+        {
+          "title": "报道：特朗普拟用AI定关键矿产参考价，锗、镓、锑、钨首批纳入",
+          "url": "https://wallstreetcn.com/articles/3766081",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时02分"
         },
         {
           "title": "美国民主党参议员沃伦：我会问任何特朗普提名的美联储人选，他们与特朗普在哪些方面存在分歧。",
@@ -83,12 +107,45 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时09分"
+        },
+        {
+          "title": "乌克兰驻美大使斯特凡尼希娜：我受邀出席美国总统特朗普的国情咨文演讲。",
+          "url": "https://flash.jin10.com/detail/20260225011114735800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时02分"
+        },
+        {
+          "title": "乌克兰驻美大使斯特凡尼希娜：美国的制裁法案总体而言是一项非常好的法案，若该法案获国会通过，预计美国总统特朗普会予以签署。",
+          "url": "https://flash.jin10.com/detail/20260225011033725800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时02分"
+        },
+        {
+          "title": "乌克兰驻美大使斯特凡尼希娜：预计将在美国总统特朗普的国情咨文演讲中听到有关结束冲突的信息。",
+          "url": "https://flash.jin10.com/detail/20260225004034013800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时02分"
         }
       ]
     },
     {
       "keyword_group": "Claude",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "亚马逊(AMZN.O)：Claude已通过亚马逊云服务(AWS)的Amazon Bedrock在东南亚地区上线可用。",
@@ -117,11 +174,12 @@
           "url": "https://wallstreetcn.com/articles/3766010",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时09分"
+          "appearance_count": 2,
+          "time_info": "[00时09分 ~ 02时02分]"
         },
         {
           "title": "亚马逊(AMZN.O)：亚马逊云服务(AWS)在阿联酋、巴林推出Claude跨区域推理服务。",
@@ -133,6 +191,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时09分"
+        },
+        {
+          "title": "如何看待 2026 年 2 月 24 日 Anthropic 公司声称中国实验室对 Claude 模型大规模蒸馏并点名？",
+          "url": "https://www.zhihu.com/question/2009482926241382805",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时02分"
         },
         {
           "title": "Anthropic的Claude AI模型产品负责人Scott White：公司的目标是消除人们使用人工智能（AI）回答工作相关查询的方式与他们从事具体工作所用的工具之间的隔阂。 将市场表现与单一产品发布联系起来“有点过度解读或反应过度了”，公司的AI模型正在帮助企业客户实现增长。",
@@ -148,6 +217,34 @@
       ]
     },
     {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "谷歌AI Avatars和AI Voiceovers新增七种语言。 其中包括法语、德语、意大利语、葡萄牙语、西班牙语、韩语、日语。 此前，只适用于英语。",
+          "url": "https://wallstreetcn.com/livenews/3058274",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时02分"
+        },
+        {
+          "title": "谷歌将在明尼苏达州建设数据中心，配套新增太阳能、风电及储能项目",
+          "url": "https://wallstreetcn.com/livenews/3058254",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时02分"
+        }
+      ]
+    },
+    {
       "keyword_group": "台湾",
       "match_count": 1,
       "titles": [
@@ -156,11 +253,12 @@
           "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%B0%86%E5%9C%A8%E8%B7%9D%E5%8F%B0%E6%B9%BE%E5%B2%9B110%E5%85%AC%E9%87%8C%E5%A4%84%E9%83%A8%E7%BD%B2%E5%AF%BC%E5%BC%B9",
           "source": "百度热搜",
           "ranks": [
-            20
+            20,
+            6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时09分"
+          "appearance_count": 2,
+          "time_info": "[00时09分 ~ 02时02分]"
         }
       ]
     }
