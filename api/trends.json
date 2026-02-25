@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-25T20:03:39.973435+08:00",
-  "total_titles_processed": 1675,
+  "generated_at": "2026-02-25T21:52:05.203098+08:00",
+  "total_titles_processed": 1817,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 89,
+      "match_count": 90,
       "titles": [
         {
           "title": "特朗普称将会在3月31日访问中国，外交部回应",
@@ -71,6 +71,29 @@
           "time_info": "[00时09分 ~ 06时41分]"
         },
         {
+          "title": "特朗普戏精上身，模仿民众哭诉“赢到不知道该怎么办”(图)",
+          "url": "https://v.ifeng.com/c/8r1uSam1Yxo",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时04分 ~ 21时52分]"
+        },
+        {
+          "title": "特朗普声称争取到18万亿美元投资承诺，美媒打脸：纯属虚构",
+          "url": "https://news.ifeng.com/c/8r1wCrsmaVy",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时04分 ~ 21时52分]"
+        },
+        {
           "title": "中美就特朗普访华事宜保持着沟通",
           "url": "https://www.douyin.com/hot/2410424",
           "source": "抖音",
@@ -96,29 +119,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[10时44分 ~ 14时11分]"
-        },
-        {
-          "title": "特朗普戏精上身，模仿民众哭诉“赢到不知道该怎么办”(图)",
-          "url": "https://v.ifeng.com/c/8r1uSam1Yxo",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时04分 ~ 20时03分]"
-        },
-        {
-          "title": "特朗普声称争取到18万亿美元投资承诺，美媒打脸：纯属虚构",
-          "url": "https://news.ifeng.com/c/8r1wCrsmaVy",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时04分 ~ 20时03分]"
         },
         {
           "title": "特朗普发表国情咨文演讲，民主党议员举横幅被带离",
@@ -166,6 +166,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[15时43分 ~ 16时59分]"
+        },
+        {
+          "title": "特朗普国情咨文：“关税提振了股市”，大型科技公司需自建电厂，应立法禁议员炒股",
+          "url": "https://wallstreetcn.com/articles/3766126",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时04分 ~ 21时52分]"
         },
         {
           "title": "解读特朗普2.0首份国情咨文：过去一年美国经济到底赢没赢？",
@@ -329,18 +342,6 @@
           "time_info": "[04时01分 ~ 08时08分]"
         },
         {
-          "title": "特朗普国情咨文：“关税提振了股市”，大型科技公司需自建电厂，应立法禁议员炒股",
-          "url": "https://wallstreetcn.com/articles/3766126",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时04分 ~ 20时03分]"
-        },
-        {
           "title": "市场消息：特朗普政府已下令美国外交官游说反对监管美国科技公司处理外国人数据的行为。",
           "url": "https://flash.jin10.com/detail/20260225190515560800",
           "source": "金十数据",
@@ -481,6 +482,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时43分 ~ 06时41分]"
+        },
+        {
+          "title": "白宫称特朗普对伊朗问题的首选手段永远是外交",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32650673",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时51分 ~ 21时52分]"
         },
         {
           "title": "周三亚太盘初，美国三大股指期货微幅下跌，罗素2000股指期货跌0.15%。 美国总统特朗普即将发表国情咨文演讲。",
@@ -1116,7 +1128,7 @@
     },
     {
       "keyword_group": "台湾",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "日本将在距台湾岛110公里处部署导弹",
@@ -1132,6 +1144,29 @@
           "time_info": "[00时09分 ~ 08时08分]"
         },
         {
+          "title": "福建喊话回归台湾回复收到",
+          "url": "https://www.baidu.com/s?wd=%E7%A6%8F%E5%BB%BA%E5%96%8A%E8%AF%9D%E5%9B%9E%E5%BD%92%E5%8F%B0%E6%B9%BE%E5%9B%9E%E5%A4%8D%E6%94%B6%E5%88%B0",
+          "source": "百度热搜",
+          "ranks": [
+            8,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时24分 ~ 21时52分]"
+        },
+        {
+          "title": "福建喊话回归台湾回复收到",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%A6%8F%E5%BB%BA%E5%96%8A%E8%AF%9D%E5%9B%9E%E5%BD%92%E5%8F%B0%E6%B9%BE%E5%9B%9E%E5%A4%8D%E6%94%B6%E5%88%B0%23&t=31&band_rank=4&Refer=top",
+          "source": "微博",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时51分 ~ 21时52分]"
+        },
+        {
           "title": "台湾证交所加权股价指数涨2.1%至35415.88点。",
           "url": "https://wallstreetcn.com/livenews/3058490",
           "source": "华尔街见闻-快讯",
@@ -1141,18 +1176,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时44分"
-        },
-        {
-          "title": "福建喊话回归台湾回复收到",
-          "url": "https://www.baidu.com/s?wd=%E7%A6%8F%E5%BB%BA%E5%96%8A%E8%AF%9D%E5%9B%9E%E5%BD%92%E5%8F%B0%E6%B9%BE%E5%9B%9E%E5%A4%8D%E6%94%B6%E5%88%B0",
-          "source": "百度热搜",
-          "ranks": [
-            8,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时24分 ~ 20时03分]"
         },
         {
           "title": "台湾基准股指日内涨幅扩大至1.8%，报35312.8点，创历史新高。",
