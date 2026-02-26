@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-26T18:01:34.254837+08:00",
-  "total_titles_processed": 1467,
+  "generated_at": "2026-02-26T19:01:36.389157+08:00",
+  "total_titles_processed": 1568,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 22,
+      "match_count": 25,
       "titles": [
         {
           "title": "特朗普戏精上身，模仿民众哭诉“赢到不知道该怎么办”(图)",
@@ -76,8 +76,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时04分 ~ 18时01分]"
+          "appearance_count": 6,
+          "time_info": "[14时04分 ~ 19时01分]"
         },
         {
           "title": "阿斯顿马丁将裁员至多20%，来应对美国总统特朗普挑起的关税所造成的复杂形势。",
@@ -152,8 +152,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时58分 ~ 18时01分]"
+          "appearance_count": 3,
+          "time_info": "[16时58分 ~ 19时01分]"
         },
         {
           "title": "特朗普把国情咨文演讲开成吹牛大会",
@@ -189,6 +189,17 @@
           "time_info": "12时57分"
         },
         {
+          "title": "特朗普和泽连斯基通话30分钟，谈及俄乌冲突结束时间",
+          "url": "https://news.ifeng.com/c/8r3yuvat2ge",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时01分"
+        },
+        {
           "title": "美媒：特朗普告诉泽连斯基让冲突一个月内结束",
           "url": "https://flash.jin10.com/detail/20260226101237292800",
           "source": "金十数据",
@@ -220,6 +231,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时41分"
+        },
+        {
+          "title": "特朗普白宫设宴，请美国男子冰球队吃麦当劳",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32658507",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时01分"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-02-26）",
+          "url": "https://flash.jin10.com/detail/20260226180905801800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时01分"
         },
         {
           "title": "俄罗斯总统新闻秘书佩斯科夫：目前没有安排普京和特朗普之间的对话。",
@@ -309,11 +342,12 @@
             6,
             7,
             10,
-            13
+            13,
+            15
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时57分 ~ 18时01分]"
+          "appearance_count": 7,
+          "time_info": "[12时57分 ~ 19时01分]"
         },
         {
           "title": "台湾女孩疑在日本街头被恶意撞倒",
