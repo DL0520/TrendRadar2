@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-26T19:51:42.304974+08:00",
-  "total_titles_processed": 1648,
+  "generated_at": "2026-02-26T21:22:32.463743+08:00",
+  "total_titles_processed": 1778,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 25,
+      "match_count": 28,
       "titles": [
         {
           "title": "特朗普戏精上身，模仿民众哭诉“赢到不知道该怎么办”(图)",
@@ -76,8 +76,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时04分 ~ 19时51分]"
+          "appearance_count": 8,
+          "time_info": "[14时04分 ~ 21时22分]"
         },
         {
           "title": "阿斯顿马丁将裁员至多20%，来应对美国总统特朗普挑起的关税所造成的复杂形势。",
@@ -131,6 +131,18 @@
           "time_info": "[16时58分 ~ 19时51分]"
         },
         {
+          "title": "特朗普和泽连斯基通话30分钟，谈及俄乌冲突结束时间",
+          "url": "https://news.ifeng.com/c/8r3yuvat2ge",
+          "source": "凤凰网",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时01分 ~ 21时22分]"
+        },
+        {
           "title": "乌克兰总统泽连斯基：刚刚和美国总统特朗普通了电话。美国总统特使威特科夫和贾里德·库什纳也参加了通话。我们讨论了双方代表明天在日内瓦双边会晤中将要讨论的问题，以及三月初三方谈判团队全体会议的筹备工作。",
           "url": "https://flash.jin10.com/detail/20260226033018187800",
           "source": "金十数据",
@@ -157,28 +169,17 @@
           "time_info": "[03时15分 ~ 04时52分]"
         },
         {
-          "title": "特朗普和泽连斯基通话30分钟，谈及俄乌冲突结束时间",
-          "url": "https://news.ifeng.com/c/8r3yuvat2ge",
-          "source": "凤凰网",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时01分 ~ 19时51分]"
-        },
-        {
           "title": "特朗普白宫设宴，请美国男子冰球队吃麦当劳",
           "url": "https://m.thepaper.cn/newsDetail_forward_32658507",
           "source": "澎湃新闻",
           "ranks": [
             16,
-            14
+            14,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时01分 ~ 19时51分]"
+          "appearance_count": 3,
+          "time_info": "[19时01分 ~ 21时22分]"
         },
         {
           "title": "特朗普把国情咨文演讲开成吹牛大会",
@@ -212,6 +213,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时57分"
+        },
+        {
+          "title": "消息人士：特朗普政府计划将至少50%的生物燃料强制掺混豁免额度重新分配给大型炼油企业，并暗示比例还可能提高。",
+          "url": "https://flash.jin10.com/detail/20260226205022901800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时22分"
         },
         {
           "title": "美媒：特朗普告诉泽连斯基让冲突一个月内结束",
@@ -258,6 +270,17 @@
           "time_info": "19时01分"
         },
         {
+          "title": "特朗普将召集科技巨头签自行发电承诺",
+          "url": "https://www.toutiao.com/trending/7610290087637123126/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时22分"
+        },
+        {
           "title": "俄罗斯总统新闻秘书佩斯科夫：目前没有安排普京和特朗普之间的对话。",
           "url": "https://flash.jin10.com/detail/20260226023258257800",
           "source": "金十数据",
@@ -267,6 +290,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时15分"
+        },
+        {
+          "title": "特朗普威胁将教父饰演者驱逐出境",
+          "url": "https://www.toutiao.com/trending/7610586645797863478/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时22分"
         },
         {
           "title": "美国堪萨斯城联储主席Schmid：（总统特朗普的美联储主席提名人）凯文·沃什出任美联储理事将是合适的。",
@@ -350,8 +384,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时57分 ~ 19时51分]"
+          "appearance_count": 9,
+          "time_info": "[12时57分 ~ 21时22分]"
         },
         {
           "title": "台湾女孩疑在日本街头被恶意撞倒",
