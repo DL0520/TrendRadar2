@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-28T04:37:03.640537+08:00",
-  "total_titles_processed": 585,
+  "generated_at": "2026-02-28T05:36:36.479250+08:00",
+  "total_titles_processed": 634,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 51,
+      "match_count": 53,
       "titles": [
         {
           "title": "美军中东最高指挥官向特朗普汇报",
@@ -17,8 +17,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时03分 ~ 04时37分]"
+          "appearance_count": 9,
+          "time_info": "[00时03分 ~ 05时36分]"
         },
         {
           "title": "爱泼斯坦案风波延烧，希拉里一句话把矛头指向特朗普",
@@ -28,8 +28,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时03分 ~ 04时37分]"
+          "appearance_count": 9,
+          "time_info": "[00时03分 ~ 05时36分]"
         },
         {
           "title": "释疑｜特朗普再出重拳，美国用了哪些杀招让古巴“窒息”？",
@@ -40,8 +40,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时03分 ~ 04时37分]"
+          "appearance_count": 9,
+          "time_info": "[00时03分 ~ 05时36分]"
         },
         {
           "title": "美国总统特朗普：（对购房者）再等等，你们会得到一个非常低的利率。",
@@ -53,17 +53,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时04分"
-        },
-        {
-          "title": "特朗普政府表示，在额外获得2亿美元资金后，对新型农业实践研究的投入将超过10亿美元。",
-          "url": "https://flash.jin10.com/detail/20260228041113668800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时37分"
         },
         {
           "title": "美国总统特朗普谈及买房人，宣称：（为了）节省资金，（可以）等待更长时间。 （再）等等，你们将有一个“非常低的”（抵押贷款）利率。",
@@ -97,6 +86,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时04分"
+        },
+        {
+          "title": "特朗普政府表示，在额外获得2亿美元资金后，对新型农业实践研究的投入将超过10亿美元。",
+          "url": "https://flash.jin10.com/detail/20260228041113668800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时37分 ~ 05时36分]"
         },
         {
           "title": "美国总统特朗普宣称：关税已经影响到诺华制药。 该公司打算在美国建厂。",
@@ -306,6 +307,17 @@
           "time_info": "02时04分"
         },
         {
+          "title": "特朗普下令：所有联邦政府机构将立即停用Anthropic",
+          "url": "https://flash.jin10.com/detail/20260228045153490800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时36分"
+        },
+        {
           "title": "美国总统特朗普：伊朗没有说出那句“金句”，即“不会有核武器”。",
           "url": "https://flash.jin10.com/detail/20260228014042817800",
           "source": "金十数据",
@@ -337,6 +349,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时04分"
+        },
+        {
+          "title": "特朗普：Anthropic做错了，要求所有部门停止采用Anthropic的技术",
+          "url": "https://wallstreetcn.com/livenews/3060501",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时36分"
         },
         {
           "title": "美国总统特朗普：（谈爱泼斯坦案）我已被完全洗清罪名。",
@@ -606,8 +629,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时03分 ~ 04时37分]"
+          "appearance_count": 7,
+          "time_info": "[02时03分 ~ 05时36分]"
         }
       ]
     },
@@ -624,8 +647,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时03分 ~ 04时37分]"
+          "appearance_count": 9,
+          "time_info": "[00时03分 ~ 05时36分]"
         }
       ]
     }
