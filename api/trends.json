@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-01T06:53:16.728804+08:00",
-  "total_titles_processed": 674,
+  "generated_at": "2026-03-01T07:29:59.256072+08:00",
+  "total_titles_processed": 704,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 55,
+      "match_count": 57,
       "titles": [
         {
           "title": "多国撤人，航母抵以，美国要边打边谈？特朗普称美伊将继续谈判、警告“有时不得不打”",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时35分 ~ 06时53分]"
+          "appearance_count": 15,
+          "time_info": "[00时35分 ~ 07时29分]"
         },
         {
           "title": "Anthropic拒绝五角大楼要求，特朗普下令联邦机构停用Anthropic产品",
@@ -41,8 +41,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时35分 ~ 06时53分]"
+          "appearance_count": 15,
+          "time_info": "[00时35分 ~ 07时29分]"
         },
         {
           "title": "高市早苗当众施压下属：别让我在特朗普面前难堪！网友：职场霸凌",
@@ -52,8 +52,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时35分 ~ 06时53分]"
+          "appearance_count": 15,
+          "time_info": "[00时35分 ~ 07时29分]"
         },
         {
           "title": "实时更新丨特朗普宣布哈梅内伊已死",
@@ -63,8 +63,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时31分 ~ 06时53分]"
+          "appearance_count": 4,
+          "time_info": "[06时31分 ~ 07时29分]"
         },
         {
           "title": "特朗普宣布哈梅内伊已死",
@@ -74,8 +74,19 @@
             1
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时31分 ~ 07时29分]"
+        },
+        {
+          "title": "特朗普：伊朗最高领袖哈梅内伊已身亡",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E4%BC%8A%E6%9C%97%E6%9C%80%E9%AB%98%E9%A2%86%E8%A2%96%E5%93%88%E6%A2%85%E5%86%85%E4%BC%8A%E5%B7%B2%E8%BA%AB%E4%BA%A1",
+          "source": "百度热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[06时31分 ~ 06时53分]"
+          "time_info": "[06时52分 ~ 07时29分]"
         },
         {
           "title": "白宫：特朗普彻夜关注伊朗局势，并与内塔尼亚胡通电话",
@@ -94,15 +105,16 @@
           "time_info": "[01时27分 ~ 05时28分]"
         },
         {
-          "title": "特朗普：伊朗最高领袖哈梅内伊已身亡",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E4%BC%8A%E6%9C%97%E6%9C%80%E9%AB%98%E9%A2%86%E8%A2%96%E5%93%88%E6%A2%85%E5%86%85%E4%BC%8A%E5%B7%B2%E8%BA%AB%E4%BA%A1",
-          "source": "百度热搜",
+          "title": "特朗普称哈梅内伊“已死”",
+          "url": "https://www.toutiao.com/trending/7611690055245021211/",
+          "source": "今日头条",
           "ranks": [
-            1
+            2,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时52分 ~ 06时53分]"
+          "appearance_count": 3,
+          "time_info": "[06时52分 ~ 07时29分]"
         },
         {
           "title": "实时更新丨特朗普认为哈梅内伊已死报道准确",
@@ -142,17 +154,6 @@
           "time_info": "[00时35分 ~ 06时53分]"
         },
         {
-          "title": "特朗普称哈梅内伊“已死”",
-          "url": "https://www.toutiao.com/trending/7611690055245021211/",
-          "source": "今日头条",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时52分 ~ 06时53分]"
-        },
-        {
           "title": "美国副总统万斯、能源部长Wright、财政部长贝森特陪同总统特朗普监督美军与以色列袭击伊朗的过程。（NBC）",
           "url": "https://wallstreetcn.com/livenews/3060964",
           "source": "华尔街见闻-快讯",
@@ -166,18 +167,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[02时42分 ~ 05时47分]"
-        },
-        {
-          "title": "特朗普：对伊朗的不间断打击将持续一周甚至更长时间",
-          "url": "https://wallstreetcn.com/livenews/3061008",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时31分 ~ 06时53分]"
         },
         {
           "title": "据Punchbowl：特朗普政府官员将于周日向国会工作人员简报伊朗的情况。",
@@ -202,15 +191,28 @@
           "time_info": "[01时48分 ~ 01时49分]"
         },
         {
-          "title": "伊朗少将阿卜杜拉希（Abdollahi）：特朗普应该知道，这一次他不再负责结束战争，而伊朗将决定战争的终结。",
-          "url": "https://flash.jin10.com/detail/20260301064326842800",
-          "source": "金十数据",
+          "title": "特朗普：对伊朗的不间断打击将持续一周甚至更长时间",
+          "url": "https://wallstreetcn.com/livenews/3061008",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            4,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时31分 ~ 07时29分]"
+        },
+        {
+          "title": "特朗普称哈梅内伊已死",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%93%88%E6%A2%85%E5%86%85%E4%BC%8A%E5%B7%B2%E6%AD%BB%23&t=31&band_rank=1&Refer=top",
+          "source": "微博",
           "ranks": [
             1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时53分"
+          "time_info": "07时29分"
         },
         {
           "title": "据ABC新闻：美国总统特朗普在被问及伊朗领导层的情况以及美国是否认为他们是在袭击中丧生时回应称，很大程度上是这样的。虽然我们还不完全清楚，但在很大程度上是这样。这是一次非常强有力的打击。",
@@ -224,6 +226,17 @@
           "time_info": "04时34分"
         },
         {
+          "title": "特朗普：对伊打击将持续一周或更长",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E5%AF%B9%E4%BC%8A%E6%89%93%E5%87%BB%E5%B0%86%E6%8C%81%E7%BB%AD%E4%B8%80%E5%91%A8%E6%88%96%E6%9B%B4%E9%95%BF",
+          "source": "百度热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时29分"
+        },
+        {
           "title": "美国白宫公布特朗普监督美国对伊朗发动袭击的照片。",
           "url": "https://flash.jin10.com/detail/20260301041230948800",
           "source": "金十数据",
@@ -233,6 +246,45 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时34分"
+        },
+        {
+          "title": "美国总统特朗普：这是伊朗人民夺回国家的千载难逢的机会。",
+          "url": "https://flash.jin10.com/detail/20260301053913994800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            13,
+            23,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[05时47分 ~ 07时29分]"
+        },
+        {
+          "title": "伊朗少将阿卜杜拉希（Abdollahi）：特朗普应该知道，这一次他不再负责结束战争，而伊朗将决定战争的终结。",
+          "url": "https://flash.jin10.com/detail/20260301064326842800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时53分 ~ 07时29分]"
+        },
+        {
+          "title": "特朗普称哈梅内伊死亡",
+          "url": "https://wallstreetcn.com/livenews/3061004",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            7,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时31分 ~ 07时29分]"
         },
         {
           "title": "据NBC新闻：美国总统特朗普（被问及谁将接替伊朗最高领袖哈梅内伊时）表示，“我不知道，但总有一天他们会打电话问我想要谁”。他补充道，\"我这么说只是稍微带点讽刺意味。\"",
@@ -248,31 +300,6 @@
           "time_info": "[05时28分 ~ 06时31分]"
         },
         {
-          "title": "美国总统特朗普：这是伊朗人民夺回国家的千载难逢的机会。",
-          "url": "https://flash.jin10.com/detail/20260301053913994800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            13,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时47分 ~ 06时53分]"
-        },
-        {
-          "title": "特朗普称哈梅内伊死亡",
-          "url": "https://wallstreetcn.com/livenews/3061004",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时31分 ~ 06时53分]"
-        },
-        {
           "title": "美国总统特朗普：听说伊朗伊斯兰革命卫队、军队及其他安全和警察力量中的许多人，已经不想再打仗了，正在寻求美国的豁免权。",
           "url": "https://flash.jin10.com/detail/20260301053903112800",
           "source": "金十数据",
@@ -284,6 +311,20 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时47分 ~ 06时53分]"
+        },
+        {
+          "title": "特朗普前盟友批评美国对伊朗动武",
+          "url": "https://wallstreetcn.com/livenews/3060996",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            12,
+            14,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[05时47分 ~ 07时29分]"
         },
         {
           "title": "特朗普和内塔尼亚胡通话",
@@ -300,6 +341,34 @@
           "time_info": "[01时27分 ~ 03时27分]"
         },
         {
+          "title": "特朗普认为哈梅内伊已死报道准确#",
+          "url": "https://wallstreetcn.com/livenews/3060995",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            15,
+            17,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[05时47分 ~ 07时29分]"
+        },
+        {
+          "title": "特朗普称其对伊行动已预留多条“退路”",
+          "url": "https://wallstreetcn.com/livenews/3060991",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            21,
+            23,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[05时47分 ~ 07时29分]"
+        },
+        {
           "title": "美国总统特朗普在社交平台发文称，伊朗最高领袖哈梅内伊已死。",
           "url": "https://flash.jin10.com/detail/20260301053829342800",
           "source": "金十数据",
@@ -307,19 +376,6 @@
             6,
             15,
             25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时47分 ~ 06时53分]"
-        },
-        {
-          "title": "特朗普前盟友批评美国对伊朗动武",
-          "url": "https://wallstreetcn.com/livenews/3060996",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            12,
-            14
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -339,6 +395,19 @@
           "time_info": "[05时47分 ~ 06时53分]"
         },
         {
+          "title": "特朗普发文确认：伊朗最高领袖哈梅内伊已死 精准轰炸将持续进行",
+          "url": "https://flash.jin10.com/detail/20260301054807770800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            18,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时31分 ~ 07时29分]"
+        },
+        {
           "title": "据沙特国家通讯社：沙特王储接到来自美国总统特朗普的电话。",
           "url": "https://flash.jin10.com/detail/20260301052952640800",
           "source": "金十数据",
@@ -352,42 +421,16 @@
           "time_info": "[05时47分 ~ 06时53分]"
         },
         {
-          "title": "特朗普认为哈梅内伊已死报道准确#",
-          "url": "https://wallstreetcn.com/livenews/3060995",
-          "source": "华尔街见闻-快讯",
+          "title": "Claude 遭特朗普封杀，亚马逊、英伟达等联手助 OpenAI 完成 1100 亿美元融资，对此你怎么看？",
+          "url": "https://www.zhihu.com/question/2011023228328510169",
+          "source": "知乎",
           "ranks": [
-            9,
-            15,
-            17
+            16,
+            15
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[05时47分 ~ 06时53分]"
-        },
-        {
-          "title": "特朗普称其对伊行动已预留多条“退路”",
-          "url": "https://wallstreetcn.com/livenews/3060991",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15,
-            21,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时47分 ~ 06时53分]"
-        },
-        {
-          "title": "特朗普发文确认：伊朗最高领袖哈梅内伊已死 精准轰炸将持续进行",
-          "url": "https://flash.jin10.com/detail/20260301054807770800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时31分 ~ 06时53分]"
+          "time_info": "[06时52分 ~ 07时29分]"
         },
         {
           "title": "卡塔尔国家媒体：卡塔尔埃米尔接到美国总统特朗普的电话。",
@@ -411,17 +454,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时27分 ~ 03时45分]"
-        },
-        {
-          "title": "Claude 遭特朗普封杀，亚马逊、英伟达等联手助 OpenAI 完成 1100 亿美元融资，对此你怎么看？",
-          "url": "https://www.zhihu.com/question/2011023228328510169",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时52分 ~ 06时53分]"
         },
         {
           "title": "以色列总理内塔尼亚胡：感谢特朗普的领导。",
