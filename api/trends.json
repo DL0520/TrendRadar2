@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-01T23:32:05.239463+08:00",
-  "total_titles_processed": 1880,
+  "generated_at": "2026-03-01T23:51:51.396598+08:00",
+  "total_titles_processed": 1886,
   "failed_sources": [],
   "trends": [
     {
@@ -29,8 +29,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[13时01分 ~ 23时32分]"
+          "appearance_count": 17,
+          "time_info": "[13时01分 ~ 23时51分]"
         },
         {
           "title": "美以空袭致伊近千人伤亡 特朗普称哈梅内伊“已死” 伊朗否认",
@@ -43,8 +43,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[10时52分 ~ 23时32分]"
+          "appearance_count": 19,
+          "time_info": "[10时52分 ~ 23时51分]"
         },
         {
           "title": "高市早苗当众施压下属：别让我在特朗普面前难堪！网友：职场霸凌",
@@ -120,8 +120,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[10时52分 ~ 23时32分]"
+          "appearance_count": 19,
+          "time_info": "[10时52分 ~ 23时51分]"
         },
         {
           "title": "特朗普：伊朗最高领袖哈梅内伊已身亡",
@@ -145,6 +145,19 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[06时52分 ~ 07时49分]"
+        },
+        {
+          "title": "特朗普不怕油价？报道称美国不考虑释放战略原油储备，而OPEC+考虑增产",
+          "url": "https://wallstreetcn.com/articles/3766448",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[19时27分 ~ 23时51分]"
         },
         {
           "title": "白宫：特朗普彻夜关注伊朗局势，并与内塔尼亚胡通电话",
@@ -175,19 +188,6 @@
           "time_info": "[01时48分 ~ 13时01分]"
         },
         {
-          "title": "特朗普不怕油价？报道称美国不考虑释放战略原油储备，而OPEC+考虑增产",
-          "url": "https://wallstreetcn.com/articles/3766448",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[19时27分 ~ 23时32分]"
-        },
-        {
           "title": "实时更新丨特朗普认为哈梅内伊已死报道准确",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
           "source": "凤凰网",
@@ -208,6 +208,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时27分 ~ 03时45分]"
+        },
+        {
+          "title": "据福克斯新闻：美国总统特朗普称，针对伊朗方面的行动进展迅速。“没人能相信我们取得的成功会如此之大”。",
+          "url": "https://flash.jin10.com/detail/20260301232709215800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时32分 ~ 23时51分]"
+        },
+        {
+          "title": "美国总统特朗普谈及霍尔木兹海峡和石油，称：什么都不担心。（福克斯新闻）",
+          "url": "https://wallstreetcn.com/livenews/3061240",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时32分 ~ 23时51分]"
         },
         {
           "title": "特朗普称哈梅内伊已死",
@@ -296,28 +318,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[19时27分 ~ 19时46分]"
-        },
-        {
-          "title": "据福克斯新闻：美国总统特朗普称，针对伊朗方面的行动进展迅速。“没人能相信我们取得的成功会如此之大”。",
-          "url": "https://flash.jin10.com/detail/20260301232709215800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时32分"
-        },
-        {
-          "title": "美国总统特朗普谈及霍尔木兹海峡和石油，称：什么都不担心。（福克斯新闻）",
-          "url": "https://wallstreetcn.com/livenews/3061240",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时32分"
         },
         {
           "title": "据ABC新闻：美国总统特朗普在被问及伊朗领导层的情况以及美国是否认为他们是在袭击中丧生时回应称，很大程度上是这样的。虽然我们还不完全清楚，但在很大程度上是这样。这是一次非常强有力的打击。",
@@ -646,6 +646,17 @@
           "time_info": "[15时01分 ~ 15时42分]"
         },
         {
+          "title": "据福克斯新闻：美国总统特朗普称伊朗险些在两周内就能拥有核武器。",
+          "url": "https://flash.jin10.com/detail/20260301232258667800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时32分 ~ 23时51分]"
+        },
+        {
           "title": "卡塔尔国家媒体：卡塔尔埃米尔接到美国总统特朗普的电话。",
           "url": "https://flash.jin10.com/detail/20260301050014158800",
           "source": "金十数据",
@@ -656,6 +667,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时28分 ~ 05时47分]"
+        },
+        {
+          "title": "据福克斯新闻：美国总统特朗普谈及霍尔木兹海峡和石油时称，什么都不担心。",
+          "url": "https://flash.jin10.com/detail/20260301232214546800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时32分 ~ 23时51分]"
         },
         {
           "title": "美国加州州长纽森：特朗普对美国人民撒谎。他发动的鲁莽和非法的战争没有关于如何收场的描述，也没有对生存威胁的解释。",
@@ -679,6 +701,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时27分 ~ 03时45分]"
+        },
+        {
+          "title": "德国总理默茨：我将于周二在华盛顿与美国总统特朗普讨论中东局势。",
+          "url": "https://flash.jin10.com/detail/20260301231437631800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时32分 ~ 23时51分]"
         },
         {
           "title": "以色列总理内塔尼亚胡：感谢特朗普的领导。",
@@ -725,17 +758,6 @@
           "time_info": "14时01分"
         },
         {
-          "title": "据福克斯新闻：美国总统特朗普称伊朗险些在两周内就能拥有核武器。",
-          "url": "https://flash.jin10.com/detail/20260301232258667800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时32分"
-        },
-        {
           "title": "据NBC新闻：美国副总统万斯、美国能源部长赖特、美国财长贝森特与美国总统特朗普一同关注伊朗袭击事件。",
           "url": "https://flash.jin10.com/detail/20260301020732738800",
           "source": "金十数据",
@@ -756,17 +778,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时01分"
-        },
-        {
-          "title": "据福克斯新闻：美国总统特朗普谈及霍尔木兹海峡和石油时称，什么都不担心。",
-          "url": "https://flash.jin10.com/detail/20260301232214546800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时32分"
         },
         {
           "title": "特朗普谈伊朗：我既能选择长期作战，也可以在两三天内结束",
@@ -866,17 +877,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "21时02分"
-        },
-        {
-          "title": "德国总理默茨：我将于周二在华盛顿与美国总统特朗普讨论中东局势。",
-          "url": "https://flash.jin10.com/detail/20260301231437631800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时32分"
         },
         {
           "title": "特朗普政府高级官员：美国曾提出愿永远向伊朗免费提供核燃料，但伊朗坚持要求获得铀浓缩能力。",
@@ -1048,8 +1048,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[19时27分 ~ 23时32分]"
+          "appearance_count": 8,
+          "time_info": "[19时27分 ~ 23时51分]"
         }
       ]
     }
