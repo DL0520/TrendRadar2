@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-01T21:02:53.368191+08:00",
-  "total_titles_processed": 1671,
+  "generated_at": "2026-03-01T21:57:46.969151+08:00",
+  "total_titles_processed": 1754,
   "failed_sources": [],
   "trends": [
     {
@@ -29,8 +29,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[13时01分 ~ 21时02分]"
+          "appearance_count": 13,
+          "time_info": "[13时01分 ~ 21时57分]"
         },
         {
           "title": "美以空袭致伊近千人伤亡 特朗普称哈梅内伊“已死” 伊朗否认",
@@ -43,8 +43,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[10时52分 ~ 21时02分]"
+          "appearance_count": 15,
+          "time_info": "[10时52分 ~ 21时57分]"
         },
         {
           "title": "高市早苗当众施压下属：别让我在特朗普面前难堪！网友：职场霸凌",
@@ -73,19 +73,6 @@
           "time_info": "[00时35分 ~ 05时47分]"
         },
         {
-          "title": "特朗普称哈梅内伊已身亡 伊外交部此前回应称其“安然无恙”",
-          "url": "https://www.cls.cn/detail/2298666",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[10时52分 ~ 21时02分]"
-        },
-        {
           "title": "多国撤人、双航母就位，特朗普就伊朗问题释放最新信号",
           "url": "https://m.thepaper.cn/newsDetail_forward_32669796",
           "source": "澎湃新闻",
@@ -98,6 +85,20 @@
           "is_new": false,
           "appearance_count": 15,
           "time_info": "[00时35分 ~ 07时29分]"
+        },
+        {
+          "title": "特朗普称哈梅内伊已身亡 伊外交部此前回应称其“安然无恙”",
+          "url": "https://www.cls.cn/detail/2298666",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            9,
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[10时52分 ~ 21时57分]"
         },
         {
           "title": "实时更新丨特朗普宣布哈梅内伊已死",
@@ -493,6 +494,18 @@
           "time_info": "[06时31分 ~ 07时49分]"
         },
         {
+          "title": "特朗普不怕油价？报道称美国不考虑释放战略原油储备，而OPEC+考虑增产",
+          "url": "https://wallstreetcn.com/articles/3766448",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时27分 ~ 21时57分]"
+        },
+        {
           "title": "伊朗媒体说伊朗总统等将领导国家，特朗普：外交解决方案仍“易于”达成，已有可执掌伊朗政权的“合适人选”",
           "url": "https://wallstreetcn.com/livenews/3061056",
           "source": "华尔街见闻-快讯",
@@ -570,18 +583,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时53分 ~ 14时01分]"
-        },
-        {
-          "title": "特朗普不怕油价？报道称美国不考虑释放战略原油储备，而OPEC+考虑增产",
-          "url": "https://wallstreetcn.com/articles/3766448",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时27分 ~ 21时02分]"
         },
         {
           "title": "据沙特国家通讯社：沙特王储接到来自美国总统特朗普的电话。",
@@ -816,7 +817,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时02分"
         },
@@ -990,8 +991,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时27分 ~ 21时02分]"
+          "appearance_count": 4,
+          "time_info": "[19时27分 ~ 21时57分]"
         }
       ]
     }
