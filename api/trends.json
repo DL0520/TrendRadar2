@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-01T15:42:05.859244+08:00",
-  "total_titles_processed": 1253,
+  "generated_at": "2026-03-01T16:40:26.998830+08:00",
+  "total_titles_processed": 1320,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 76,
+      "match_count": 77,
       "titles": [
         {
           "title": "多国撤人，航母抵以，美国要边打边谈？特朗普称美伊将继续谈判、警告“有时不得不打”",
@@ -34,6 +34,20 @@
           "time_info": "[00时35分 ~ 15时01分]"
         },
         {
+          "title": "美以空袭致伊近千人伤亡 特朗普称哈梅内伊“已死” 伊朗否认",
+          "url": "https://wallstreetcn.com/articles/3766446",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            4,
+            5,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[10时52分 ~ 16时40分]"
+        },
+        {
           "title": "Anthropic拒绝五角大楼要求，特朗普下令联邦机构停用Anthropic产品",
           "url": "https://wallstreetcn.com/articles/3766399",
           "source": "华尔街见闻",
@@ -44,19 +58,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时35分 ~ 05时47分]"
-        },
-        {
-          "title": "美以空袭致伊近千人伤亡 特朗普称哈梅内伊“已死” 伊朗否认",
-          "url": "https://wallstreetcn.com/articles/3766446",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时52分 ~ 15时42分]"
         },
         {
           "title": "多国撤人、双航母就位，特朗普就伊朗问题释放最新信号",
@@ -118,6 +119,31 @@
           "time_info": "[06时52分 ~ 07时49分]"
         },
         {
+          "title": "伊朗媒体说伊朗总统等将领导国家，特朗普：外交解决方案仍“易于”达成，已有可执掌伊朗政权的“合适人选”",
+          "url": "https://wallstreetcn.com/articles/3766454",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时01分 ~ 16时40分]"
+        },
+        {
+          "title": "特朗普称哈梅内伊已身亡 伊外交部此前回应称其“安然无恙”",
+          "url": "https://www.cls.cn/detail/2298666",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[10时52分 ~ 16时40分]"
+        },
+        {
           "title": "白宫：特朗普彻夜关注伊朗局势，并与内塔尼亚胡通电话",
           "url": "https://wallstreetcn.com/livenews/3060943",
           "source": "华尔街见闻-快讯",
@@ -134,18 +160,6 @@
           "time_info": "[01时27分 ~ 05时28分]"
         },
         {
-          "title": "伊朗媒体说伊朗总统等将领导国家，特朗普：外交解决方案仍“易于”达成，已有可执掌伊朗政权的“合适人选”",
-          "url": "https://wallstreetcn.com/articles/3766454",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时01分 ~ 15时42分]"
-        },
-        {
           "title": "特朗普称此次袭击要摧毁伊朗导弹工业，消灭伊朗海军，伊朗导弹工业、伊朗海军目前处于什么水平？",
           "url": "https://www.zhihu.com/question/2011106123147675013",
           "source": "知乎",
@@ -156,19 +170,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时48分 ~ 13时01分]"
-        },
-        {
-          "title": "特朗普称哈梅内伊已身亡 伊外交部此前回应称其“安然无恙”",
-          "url": "https://www.cls.cn/detail/2298666",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时52分 ~ 15时42分]"
         },
         {
           "title": "实时更新丨特朗普认为哈梅内伊已死报道准确",
@@ -572,6 +573,19 @@
           "time_info": "[05时47分 ~ 06时53分]"
         },
         {
+          "title": "特朗普：若伊朗发动猛烈行动 美将以“前所未见的强大力量”回击",
+          "url": "https://wallstreetcn.com/livenews/3061070",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            18,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时01分 ~ 16时40分]"
+        },
+        {
           "title": "特朗普威胁伊朗勿发起更猛烈反击",
           "url": "https://www.toutiao.com/trending/7611809487199931958/",
           "source": "今日头条",
@@ -580,18 +594,6 @@
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[15时01分 ~ 15时42分]"
-        },
-        {
-          "title": "特朗普：若伊朗发动猛烈行动 美将以“前所未见的强大力量”回击",
-          "url": "https://wallstreetcn.com/livenews/3061070",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
           "time_info": "[15时01分 ~ 15时42分]"
         },
         {
@@ -639,6 +641,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时27分 ~ 03时45分]"
+        },
+        {
+          "title": "美媒称特朗普政府“暂停”对台军售",
+          "url": "https://www.toutiao.com/trending/7611080988840280107/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时40分"
         },
         {
           "title": "据以色列第12频道报道，特朗普看到了哈梅内伊遗体的照片。",
