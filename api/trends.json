@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-03T17:10:17.223673+08:00",
-  "total_titles_processed": 1546,
+  "generated_at": "2026-03-03T18:08:34.151987+08:00",
+  "total_titles_processed": 1664,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 69,
+      "match_count": 73,
       "titles": [
         {
           "title": "“委内瑞拉模式”结局是选项之一？特朗普：同意与伊朗新领导层对话，伊朗：不谈",
@@ -30,6 +30,18 @@
           "time_info": "[00时04分 ~ 10时44分]"
         },
         {
+          "title": "动武后才通知国会！特朗普向国会提交《战争权力法案》通知",
+          "url": "https://news.ifeng.com/c/8rBh2u8DdpX",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[10时43分 ~ 18时08分]"
+        },
+        {
           "title": "外交部回应特朗普3月访华能否成行",
           "url": "https://www.toutiao.com/trending/7611824247237361727/",
           "source": "今日头条",
@@ -41,16 +53,17 @@
           "time_info": "[00时04分 ~ 07时34分]"
         },
         {
-          "title": "动武后才通知国会！特朗普向国会提交《战争权力法案》通知",
-          "url": "https://news.ifeng.com/c/8rBh2u8DdpX",
-          "source": "凤凰网",
+          "title": "美国要“打入”伊朗？特朗普不排除“必要时”派遣地面部队，北约称不参与军事行动",
+          "url": "https://wallstreetcn.com/articles/3766558",
+          "source": "华尔街见闻",
           "ranks": [
-            4,
-            3
+            6,
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时43分 ~ 17时10分]"
+          "appearance_count": 10,
+          "time_info": "[10时43分 ~ 18时08分]"
         },
         {
           "title": "特朗普称不达目标不停战 伊朗称何时停战由伊方决定",
@@ -65,6 +78,18 @@
           "time_info": "[00时04分 ~ 07时34分]"
         },
         {
+          "title": "特朗普批民主党：如果不动手，他们又要叫唤",
+          "url": "https://news.ifeng.com/c/8rBnoV8tG9m",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时52分 ~ 18时08分]"
+        },
+        {
           "title": "特朗普称对伊朗军事行动或持续约4周，伊朗公布反击“成果”，英法德或采取防御",
           "url": "https://wallstreetcn.com/articles/3766474",
           "source": "华尔街见闻",
@@ -74,31 +99,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时04分 ~ 04时50分]"
-        },
-        {
-          "title": "美国要“打入”伊朗？特朗普不排除“必要时”派遣地面部队，北约称不参与军事行动",
-          "url": "https://wallstreetcn.com/articles/3766558",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时43分 ~ 17时10分]"
-        },
-        {
-          "title": "特朗普批民主党：如果不动手，他们又要叫唤",
-          "url": "https://news.ifeng.com/c/8rBnoV8tG9m",
-          "source": "凤凰网",
-          "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时52分 ~ 17时10分]"
         },
         {
           "title": "特朗普3月访华能否成行？外交部回应",
@@ -170,6 +170,17 @@
           "time_info": "[00时04分 ~ 07时34分]"
         },
         {
+          "title": "特朗普夫人首次主持安理会会议，中方强烈谴责",
+          "url": "https://news.ifeng.com/c/8rBij7DRy9X",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时52分 ~ 18时08分]"
+        },
+        {
           "title": "AI国防应用持续强化：特朗普“拉黑”Anthropic后 美军仍在美伊冲突中使用其产品",
           "url": "https://www.cls.cn/detail/2299598",
           "source": "财联社热门",
@@ -179,17 +190,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时04分 ~ 02时06分]"
-        },
-        {
-          "title": "特朗普夫人首次主持安理会会议，中方强烈谴责",
-          "url": "https://news.ifeng.com/c/8rBij7DRy9X",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时52分 ~ 17时10分]"
         },
         {
           "title": "美以伊战争最新动态｜美驻沙特使馆遭袭，特朗普回应",
@@ -223,6 +223,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时52分 ~ 13时56分]"
+        },
+        {
+          "title": "特朗普“不惜一切”誓言加剧恐慌，全球股债遭抛售，油涨金银跌，汇市美元独秀！",
+          "url": "https://wallstreetcn.com/articles/3766590",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时08分"
         },
         {
           "title": "美以伊战争最新动态｜特朗普：不排除向伊派地面部队",
@@ -269,6 +280,17 @@
           "time_info": "01时25分"
         },
         {
+          "title": "克里姆林宫发言人佩斯科夫：俄罗斯总统普京与美国总统特朗普之间目前没有举行电话会议的计划。",
+          "url": "https://flash.jin10.com/detail/20260303175115231800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时08分"
+        },
+        {
           "title": "美国总统特朗普：将确保伊朗无法获得核武器。",
           "url": "https://flash.jin10.com/detail/20260303005407805800",
           "source": "金十数据",
@@ -300,6 +322,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时25分"
+        },
+        {
+          "title": "欧盟贸易抉择陷入两难 审批延宕挑战特朗普耐心",
+          "url": "https://flash.jin10.com/detail/20260303175024119800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时08分"
         },
         {
           "title": "英国首相斯塔默：判断什么对英国最有利是我的职责，而非美国总统特朗普的责任。",
@@ -359,8 +392,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时02分 ~ 17时10分]"
+          "appearance_count": 4,
+          "time_info": "[16时02分 ~ 18时08分]"
         },
         {
           "title": "摩根大通CEO戴蒙：如果伊朗冲突不延长，就不会出现严重通货膨胀。 通胀可能会是（美国总统特朗普）经济的“败笔”。（CNBC）",
@@ -566,6 +599,17 @@
           "time_info": "10时44分"
         },
         {
+          "title": "特朗普：没有必要对伊朗采取地面军事行动",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32689484",
+          "source": "澎湃新闻",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时08分"
+        },
+        {
           "title": "白宫：美国总统特朗普将于周二下午2点（北京时间次日03:00）会见财政部长和能源部长。",
           "url": "https://flash.jin10.com/detail/20260303102957992800",
           "source": "金十数据",
@@ -583,7 +627,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时10分"
         },
