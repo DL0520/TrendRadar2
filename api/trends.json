@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-03T15:03:11.074391+08:00",
-  "total_titles_processed": 1316,
+  "generated_at": "2026-03-03T16:02:58.610350+08:00",
+  "total_titles_processed": 1429,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 64,
+      "match_count": 67,
       "titles": [
         {
           "title": "“委内瑞拉模式”结局是选项之一？特朗普：同意与伊朗新领导层对话，伊朗：不谈",
@@ -64,6 +64,18 @@
           "time_info": "[00时04分 ~ 04时50分]"
         },
         {
+          "title": "动武后才通知国会！特朗普向国会提交《战争权力法案》通知",
+          "url": "https://news.ifeng.com/c/8rBh2u8DdpX",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时43分 ~ 16时02分]"
+        },
+        {
           "title": "特朗普3月访华能否成行？外交部回应",
           "url": "https://m.thepaper.cn/newsDetail_forward_32684163",
           "source": "澎湃新闻",
@@ -77,20 +89,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[02时06分 ~ 15时03分]"
-        },
-        {
-          "title": "动武后才通知国会！特朗普向国会提交《战争权力法案》通知",
-          "url": "https://news.ifeng.com/c/8rBh2u8DdpX",
-          "source": "凤凰网",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时43分 ~ 15时03分]"
+          "appearance_count": 15,
+          "time_info": "[02时06分 ~ 16时02分]"
         },
         {
           "title": "特朗普，还有一仗？",
@@ -130,6 +130,19 @@
           "time_info": "[00时04分 ~ 07时34分]"
         },
         {
+          "title": "美国要“打入”伊朗？特朗普不排除“必要时”派遣地面部队，北约称不参与军事行动",
+          "url": "https://wallstreetcn.com/articles/3766558",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时43分 ~ 16时02分]"
+        },
+        {
           "title": "特朗普称不达目标不停战",
           "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E4%B8%8D%E8%BE%BE%E7%9B%AE%E6%A0%87%E4%B8%8D%E5%81%9C%E6%88%98",
           "source": "bilibili 热搜",
@@ -145,17 +158,16 @@
           "time_info": "[00时04分 ~ 07时34分]"
         },
         {
-          "title": "美国要“打入”伊朗？特朗普不排除“必要时”派遣地面部队，北约称不参与军事行动",
-          "url": "https://wallstreetcn.com/articles/3766558",
-          "source": "华尔街见闻",
+          "title": "特朗普批民主党：如果不动手，他们又要叫唤",
+          "url": "https://news.ifeng.com/c/8rBnoV8tG9m",
+          "source": "凤凰网",
           "ranks": [
-            6,
-            5,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时43分 ~ 15时03分]"
+          "appearance_count": 5,
+          "time_info": "[12时52分 ~ 16时02分]"
         },
         {
           "title": "AI国防应用持续强化：特朗普“拉黑”Anthropic后 美军仍在美伊冲突中使用其产品",
@@ -167,18 +179,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时04分 ~ 02时06分]"
-        },
-        {
-          "title": "特朗普批民主党：如果不动手，他们又要叫唤",
-          "url": "https://news.ifeng.com/c/8rBnoV8tG9m",
-          "source": "凤凰网",
-          "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时52分 ~ 15时03分]"
         },
         {
           "title": "美以伊战争最新动态｜美驻沙特使馆遭袭，特朗普回应",
@@ -236,6 +236,17 @@
           "time_info": "01时25分"
         },
         {
+          "title": "特朗普夫人首次主持安理会会议，中方强烈谴责",
+          "url": "https://news.ifeng.com/c/8rBij7DRy9X",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时52分 ~ 16时02分]"
+        },
+        {
           "title": "美国总统特朗普：将确保伊朗无法为其境外武装提供资金以及确保伊朗无法指挥境外武装。",
           "url": "https://flash.jin10.com/detail/20260303005448583800",
           "source": "金十数据",
@@ -258,6 +269,17 @@
           "time_info": "01时25分"
         },
         {
+          "title": "特朗普“不惜一切”誓言加剧股市抛售，油价三连涨，日韩股市狂泻，三星跌10%，金价回落至5300美元下方",
+          "url": "https://wallstreetcn.com/articles/3766590",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时02分"
+        },
+        {
           "title": "美国总统特朗普：拥有核武器的伊朗对美国而言是不可容忍的。这是我们最后一次最佳打击机会。我们的目标明确，包括了摧毁伊朗导弹能力。",
           "url": "https://flash.jin10.com/detail/20260303005223492800",
           "source": "金十数据",
@@ -278,17 +300,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时05分"
-        },
-        {
-          "title": "特朗普夫人首次主持安理会会议，中方强烈谴责",
-          "url": "https://news.ifeng.com/c/8rBij7DRy9X",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时52分 ~ 15时03分]"
         },
         {
           "title": "特朗普称对伊朗军事行动可能持续4至5周",
@@ -456,6 +467,17 @@
           "time_info": "01时25分"
         },
         {
+          "title": "美使馆遭袭，特朗普：将很快采取报复行动",
+          "url": "https://www.cls.cn/detail/2300728",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时02分"
+        },
+        {
           "title": "美国总统特朗普：伊朗很快就会拥有能够抵达美国的导弹。",
           "url": "https://flash.jin10.com/detail/20260303005107770800",
           "source": "金十数据",
@@ -542,6 +564,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时44分"
+        },
+        {
+          "title": "美将领：2月27日15时38分收到特朗普最终对伊军事行动指令",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32685888",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时02分"
         },
         {
           "title": "美国中央司令部：昨晚，美国B-1轰炸机深入伊朗，打击伊朗的弹道导弹能力。正如总统特朗普所说，我们要摧毁他们的导弹，把他们的导弹工业夷为平地。",
@@ -830,11 +863,12 @@
             8,
             11,
             19,
-            24
+            24,
+            27
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时04分 ~ 15时03分]"
+          "appearance_count": 18,
+          "time_info": "[00时04分 ~ 16时02分]"
         },
         {
           "title": "深成指跌超2%，沪指跌1.14%，创业板指跌1.33%，有色、贵金属、军工、稀土等方向跌幅居前，沪深京三市下跌个股近4600只。",
@@ -891,11 +925,12 @@
           "url": "https://s.weibo.com/weibo?q=%23%E5%8F%B0%E6%B9%BE%E7%83%AD%E8%AE%AE%E5%8F%B0%E8%83%9E%E8%AF%81%E8%83%BD%E6%95%91%E5%91%BD%23&t=31&band_rank=27&Refer=top",
           "source": "微博",
           "ranks": [
-            27
+            27,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时02分 ~ 15时03分]"
+          "appearance_count": 3,
+          "time_info": "[15时02分 ~ 16时02分]"
         },
         {
           "title": "台湾证交所加权股价指数收低2.2%，报34323.65点。",
