@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-04T04:01:24.911979+08:00",
-  "total_titles_processed": 592,
+  "generated_at": "2026-03-04T04:45:50.663687+08:00",
+  "total_titles_processed": 631,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 61,
+      "match_count": 62,
       "titles": [
         {
           "title": "特朗普放话“不惜一切” ，美三大股指均跌超2%，黄金跌超5%，白银暴跌11%，布油涨近8%，美元指数涨1%",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时10分 ~ 04时01分]"
+          "appearance_count": 8,
+          "time_info": "[00时10分 ~ 04时45分]"
         },
         {
           "title": "斩首?老外通报特朗普坐标",
@@ -26,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时10分 ~ 04时01分]"
+          "appearance_count": 8,
+          "time_info": "[00时10分 ~ 04时45分]"
         },
         {
           "title": "冲突升级！美伊双方都“不惜代价”，特朗普吹嘘“无限”弹药，并将很快回应大使馆遇袭",
@@ -38,8 +38,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时10分 ~ 04时01分]"
+          "appearance_count": 8,
+          "time_info": "[00时10分 ~ 04时45分]"
         },
         {
           "title": "动武后才通知国会！特朗普向国会提交《战争权力法案》通知",
@@ -49,8 +49,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时10分 ~ 04时01分]"
+          "appearance_count": 8,
+          "time_info": "[00时10分 ~ 04时45分]"
         },
         {
           "title": "美国要“打入”伊朗？特朗普不排除“必要时”派遣地面部队，北约称不参与军事行动",
@@ -64,15 +64,15 @@
           "time_info": "[00时10分 ~ 01时24分]"
         },
         {
-          "title": "美国总统特朗普：如果伊朗参加世界杯，我真不在乎。",
-          "url": "https://flash.jin10.com/detail/20260304035531242800",
-          "source": "金十数据",
+          "title": "胡锡进：伊朗希望用新的“中东泥潭”吓退特朗普",
+          "url": "https://news.ifeng.com/c/8rCZ8DyypW7",
+          "source": "凤凰网",
           "ranks": [
-            1
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时01分"
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时24分 ~ 04时45分]"
         },
         {
           "title": "美国总统特朗普：我们正在对关税进行各种研究。",
@@ -84,17 +84,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时24分"
-        },
-        {
-          "title": "美国原油期货短线跳水超2美元，特朗普将为途经海湾地区的贸易提供保险",
-          "url": "https://wallstreetcn.com/livenews/3062985",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时01分"
         },
         {
           "title": "美国总统特朗普：我有权叫停与西班牙有关的一切事宜。",
@@ -130,38 +119,41 @@
           "time_info": "01时24分"
         },
         {
-          "title": "特朗普称将切断贸易往来，西班牙回应：美国须尊重双边协定",
-          "url": "https://wallstreetcn.com/livenews/3062981",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时01分"
-        },
-        {
-          "title": "胡锡进：伊朗希望用新的“中东泥潭”吓退特朗普",
-          "url": "https://news.ifeng.com/c/8rCZ8DyypW7",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时24分 ~ 04时01分]"
-        },
-        {
           "title": "特朗普否认被以色列“拖入战争”",
           "url": "https://wallstreetcn.com/livenews/3062965",
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
+            17,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时26分 ~ 04时45分]"
+        },
+        {
+          "title": "美国总统特朗普：如果伊朗参加世界杯，我真不在乎。",
+          "url": "https://flash.jin10.com/detail/20260304035531242800",
+          "source": "金十数据",
+          "ranks": [
+            1,
             17
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[03时26分 ~ 04时01分]"
+          "time_info": "[04时01分 ~ 04时45分]"
+        },
+        {
+          "title": "美国原油期货短线跳水超2美元，特朗普将为途经海湾地区的贸易提供保险",
+          "url": "https://wallstreetcn.com/livenews/3062985",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时01分 ~ 04时45分]"
         },
         {
           "title": "美国总统特朗普：等一切都结束后，油价将会下跌。 （美国和以色列对伊朗挑起的）战争结束后，油价可能会低于战前的水平。",
@@ -188,6 +180,18 @@
           "time_info": "[02时08分 ~ 03时26分]"
         },
         {
+          "title": "特朗普称将切断贸易往来，西班牙回应：美国须尊重双边协定",
+          "url": "https://wallstreetcn.com/livenews/3062981",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时01分 ~ 04时45分]"
+        },
+        {
           "title": "领袖遇刺后的伊朗：有人喊报复，有人跳特朗普舞",
           "url": "https://news.ifeng.com/c/8rCTN6bsA7p",
           "source": "凤凰网",
@@ -197,6 +201,42 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时10分 ~ 00时11分]"
+        },
+        {
+          "title": "特朗普宣布为海上原油运输提供保险 必要时海军将护航",
+          "url": "https://flash.jin10.com/detail/20260304034529973800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时01分 ~ 04时45分]"
+        },
+        {
+          "title": "美、布两油短线跳水近2美元，特朗普宣布保障原油海上运输的措施。",
+          "url": "https://flash.jin10.com/detail/20260304034033102800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时01分 ~ 04时45分]"
+        },
+        {
+          "title": "美国总统特朗普：如有必要，美国海军将尽快开始护送油轮通过霍尔木兹海峡。",
+          "url": "https://flash.jin10.com/detail/20260304033906785800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时01分 ~ 04时45分]"
         },
         {
           "title": "美国总统特朗普：我认为德国总理默茨做得不错。",
@@ -221,6 +261,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时26分 ~ 04时01分]"
+        },
+        {
+          "title": "美国总统特朗普：已指示美国国际开发金融公司（DFC）以非常合理的价格提供政治风险保险和保证，确保所有海上贸易的金融安全，特别是通过海湾的能源贸易。",
+          "url": "https://flash.jin10.com/detail/20260304033851666800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时01分 ~ 04时45分]"
+        },
+        {
+          "title": "据华尔街日报：特朗普考虑支持民兵组织以推翻伊朗政权。",
+          "url": "https://flash.jin10.com/detail/20260304033637754800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时01分 ~ 04时45分]"
         },
         {
           "title": "美国总统特朗普告诉到访的德国总理默茨：我们将商谈贸易协议。",
@@ -259,15 +323,16 @@
           "time_info": "[03时26分 ~ 04时01分]"
         },
         {
-          "title": "特朗普宣布为海上原油运输提供保险 必要时海军将护航",
-          "url": "https://flash.jin10.com/detail/20260304034529973800",
-          "source": "金十数据",
+          "title": "美国参议院民主党领导人Schumer：参议院将于周三表决（总统特朗普）对伊朗发动战争的权力。",
+          "url": "https://wallstreetcn.com/livenews/3062968",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            15,
+            23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时01分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时01分 ~ 04时45分]"
         },
         {
           "title": "美国总统特朗普：关税让美国变得非常富裕。",
@@ -281,17 +346,6 @@
           "time_info": "01时24分"
         },
         {
-          "title": "美、布两油短线跳水近2美元，特朗普宣布保障原油海上运输的措施。",
-          "url": "https://flash.jin10.com/detail/20260304034033102800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时01分"
-        },
-        {
           "title": "美国总统特朗普：对英国也不满意。",
           "url": "https://wallstreetcn.com/livenews/3062920",
           "source": "华尔街见闻-快讯",
@@ -303,6 +357,17 @@
           "time_info": "01时24分"
         },
         {
+          "title": "美国总统特朗普的商务部长卢特尼克自愿就自己与爱泼斯坦的关系出席听证会。（Axios）",
+          "url": "https://wallstreetcn.com/livenews/3062988",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时45分"
+        },
+        {
           "title": "美国总统特朗普：预计油价将在对伊朗采取的行动结束后下跌。",
           "url": "https://flash.jin10.com/detail/20260304010850676800",
           "source": "金十数据",
@@ -312,17 +377,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时24分"
-        },
-        {
-          "title": "美国总统特朗普：如有必要，美国海军将尽快开始护送油轮通过霍尔木兹海峡。",
-          "url": "https://flash.jin10.com/detail/20260304033906785800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时01分"
         },
         {
           "title": "美国总统特朗普：油价可能会维持一段时间，但随后会下跌。",
@@ -345,28 +399,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时26分"
-        },
-        {
-          "title": "美国总统特朗普：已指示美国国际开发金融公司（DFC）以非常合理的价格提供政治风险保险和保证，确保所有海上贸易的金融安全，特别是通过海湾的能源贸易。",
-          "url": "https://flash.jin10.com/detail/20260304033851666800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时01分"
-        },
-        {
-          "title": "据华尔街日报：特朗普考虑支持民兵组织以推翻伊朗政权。",
-          "url": "https://flash.jin10.com/detail/20260304033637754800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时01分"
         },
         {
           "title": "美国总统特朗普：我们在世界各国储存了大量弹药，有无限的中高口径弹药。",
@@ -433,17 +465,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时24分"
-        },
-        {
-          "title": "美国参议院民主党领导人Schumer：参议院将于周三表决（总统特朗普）对伊朗发动战争的权力。",
-          "url": "https://wallstreetcn.com/livenews/3062968",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时01分"
         },
         {
           "title": "特朗普：伊朗军备几近衰竭 愿与该国幸存官员合作",
@@ -756,8 +777,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时10分 ~ 04时01分]"
+          "appearance_count": 8,
+          "time_info": "[00时10分 ~ 04时45分]"
         },
         {
           "title": "挪威稀土公司报告：欧洲最大矿床估值上调81%",
