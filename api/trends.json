@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-03T13:56:21.249109+08:00",
-  "total_titles_processed": 1192,
+  "generated_at": "2026-03-03T15:03:11.074391+08:00",
+  "total_titles_processed": 1316,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 63,
+      "match_count": 64,
       "titles": [
         {
           "title": "“委内瑞拉模式”结局是选项之一？特朗普：同意与伊朗新领导层对话，伊朗：不谈",
@@ -64,6 +64,35 @@
           "time_info": "[00时04分 ~ 04时50分]"
         },
         {
+          "title": "特朗普3月访华能否成行？外交部回应",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32684163",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            18,
+            19,
+            10,
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[02时06分 ~ 15时03分]"
+        },
+        {
+          "title": "动武后才通知国会！特朗普向国会提交《战争权力法案》通知",
+          "url": "https://news.ifeng.com/c/8rBh2u8DdpX",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时43分 ~ 15时03分]"
+        },
+        {
           "title": "特朗普，还有一仗？",
           "url": "https://news.ifeng.com/c/8rAbiWHwmP6",
           "source": "凤凰网",
@@ -101,22 +130,6 @@
           "time_info": "[00时04分 ~ 07时34分]"
         },
         {
-          "title": "特朗普3月访华能否成行？外交部回应",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32684163",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            18,
-            19,
-            10,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[02时06分 ~ 13时56分]"
-        },
-        {
           "title": "特朗普称不达目标不停战",
           "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E4%B8%8D%E8%BE%BE%E7%9B%AE%E6%A0%87%E4%B8%8D%E5%81%9C%E6%88%98",
           "source": "bilibili 热搜",
@@ -132,6 +145,19 @@
           "time_info": "[00时04分 ~ 07时34分]"
         },
         {
+          "title": "美国要“打入”伊朗？特朗普不排除“必要时”派遣地面部队，北约称不参与军事行动",
+          "url": "https://wallstreetcn.com/articles/3766558",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时43分 ~ 15时03分]"
+        },
+        {
           "title": "AI国防应用持续强化：特朗普“拉黑”Anthropic后 美军仍在美伊冲突中使用其产品",
           "url": "https://www.cls.cn/detail/2299598",
           "source": "财联社热门",
@@ -143,29 +169,16 @@
           "time_info": "[00时04分 ~ 02时06分]"
         },
         {
-          "title": "动武后才通知国会！特朗普向国会提交《战争权力法案》通知",
-          "url": "https://news.ifeng.com/c/8rBh2u8DdpX",
+          "title": "特朗普批民主党：如果不动手，他们又要叫唤",
+          "url": "https://news.ifeng.com/c/8rBnoV8tG9m",
           "source": "凤凰网",
           "ranks": [
             4,
-            3
+            5
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[10时43分 ~ 13时56分]"
-        },
-        {
-          "title": "美国要“打入”伊朗？特朗普不排除“必要时”派遣地面部队，北约称不参与军事行动",
-          "url": "https://wallstreetcn.com/articles/3766558",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时43分 ~ 13时56分]"
+          "time_info": "[12时52分 ~ 15时03分]"
         },
         {
           "title": "美以伊战争最新动态｜美驻沙特使馆遭袭，特朗普回应",
@@ -182,17 +195,6 @@
           "title": "美国会拟限制特朗普继续对伊动武",
           "url": "https://www.toutiao.com/trending/7611738955826462762/",
           "source": "今日头条",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时52分 ~ 13时56分]"
-        },
-        {
-          "title": "特朗普批民主党：如果不动手，他们又要叫唤",
-          "url": "https://news.ifeng.com/c/8rBnoV8tG9m",
-          "source": "凤凰网",
           "ranks": [
             4
           ],
@@ -218,7 +220,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时56分"
         },
@@ -276,6 +278,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时05分"
+        },
+        {
+          "title": "特朗普夫人首次主持安理会会议，中方强烈谴责",
+          "url": "https://news.ifeng.com/c/8rBij7DRy9X",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时52分 ~ 15时03分]"
         },
         {
           "title": "特朗普称对伊朗军事行动可能持续4至5周",
@@ -352,17 +365,6 @@
           "time_info": "[00时04分 ~ 01时25分]"
         },
         {
-          "title": "特朗普夫人首次主持安理会会议，中方强烈谴责",
-          "url": "https://news.ifeng.com/c/8rBij7DRy9X",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时52分 ~ 13时56分]"
-        },
-        {
           "title": "周一（3月2日），降息赢家指数跌1.99%，报96.33点。 “特朗普关税输家”指数跌2.25%，报111.90点。 “特朗普金融指数”涨0.69%，报155.57点。 散户抱团概念股指数/迷因股（meme stock）指数跌2.40%，报12.94点。",
           "url": "https://wallstreetcn.com/livenews/3062170",
           "source": "华尔街见闻-快讯",
@@ -397,6 +399,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时01分 ~ 04时50分]"
+        },
+        {
+          "title": "特朗普夫人联合国主持会议遭批",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%A4%AB%E4%BA%BA%E8%81%94%E5%90%88%E5%9B%BD%E4%B8%BB%E6%8C%81%E4%BC%9A%E8%AE%AE%E9%81%AD%E6%89%B9%23&t=31&band_rank=14&Refer=top",
+          "source": "微博",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时02分 ~ 15时03分]"
         },
         {
           "title": "美国总统特朗普称，谈判失败是因为“我们无法与这些人达成协议”，并补充说伊朗不肯停止铀浓缩活动。",
@@ -603,7 +616,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时56分"
         },
@@ -740,11 +753,12 @@
           "source": "澎湃新闻",
           "ranks": [
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时52分 ~ 13时56分]"
+          "appearance_count": 4,
+          "time_info": "[12时52分 ~ 15时03分]"
         },
         {
           "title": "Anthropic：Claude.AI中出错率偏高这个问题得到解决。",
@@ -815,11 +829,12 @@
           "ranks": [
             8,
             11,
-            19
+            19,
+            24
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时04分 ~ 13时56分]"
+          "appearance_count": 17,
+          "time_info": "[00时04分 ~ 15时03分]"
         },
         {
           "title": "深成指跌超2%，沪指跌1.14%，创业板指跌1.33%，有色、贵金属、军工、稀土等方向跌幅居前，沪深京三市下跌个股近4600只。",
@@ -869,8 +884,19 @@
     },
     {
       "keyword_group": "台湾",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "台湾热议台胞证能救命",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%8F%B0%E6%B9%BE%E7%83%AD%E8%AE%AE%E5%8F%B0%E8%83%9E%E8%AF%81%E8%83%BD%E6%95%91%E5%91%BD%23&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时02分 ~ 15时03分]"
+        },
         {
           "title": "台湾证交所加权股价指数收低2.2%，报34323.65点。",
           "url": "https://wallstreetcn.com/livenews/3062439",
@@ -878,7 +904,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时56分"
         },
