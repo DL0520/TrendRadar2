@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-05T21:21:55.859789+08:00",
-  "total_titles_processed": 1906,
+  "generated_at": "2026-03-05T22:26:23.296680+08:00",
+  "total_titles_processed": 2019,
   "failed_sources": [],
   "trends": [
     {
@@ -53,8 +53,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时39分 ~ 21时21分]"
+          "appearance_count": 11,
+          "time_info": "[10时39分 ~ 22时26分]"
         },
         {
           "title": "特朗普夫人，“翻车”了",
@@ -105,6 +105,17 @@
           "time_info": "[10时39分 ~ 19时58分]"
         },
         {
+          "title": "特朗普：若满分10分，我给美对伊行动打15分",
+          "url": "https://news.ifeng.com/c/8rFQi0S5RcE",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时09分 ~ 22时26分]"
+        },
+        {
           "title": "特朗普正式提名凯文·沃什出任美联储主席 参议院确认战将启",
           "url": "https://www.cls.cn/detail/2303132",
           "source": "财联社热门",
@@ -131,17 +142,6 @@
           "time_info": "[00时06分 ~ 07时38分]"
         },
         {
-          "title": "特朗普：若满分10分，我给美对伊行动打15分",
-          "url": "https://news.ifeng.com/c/8rFQi0S5RcE",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时09分 ~ 21时21分]"
-        },
-        {
           "title": "特朗普“大发战争财”，借打伊朗搞募款",
           "url": "https://news.ifeng.com/c/8rFJaJq0Rej",
           "source": "凤凰网",
@@ -150,8 +150,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时10分 ~ 21时21分]"
+          "appearance_count": 5,
+          "time_info": "[18时10分 ~ 22时26分]"
         },
         {
           "title": "美国弹药库存告急！特朗普本周将召集军工巨头赴白宫，讨论加快武器生产",
@@ -599,7 +599,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时21分"
         },
