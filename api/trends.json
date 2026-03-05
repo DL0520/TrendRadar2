@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-05T16:02:45.611116+08:00",
-  "total_titles_processed": 1404,
+  "generated_at": "2026-03-05T17:09:47.221906+08:00",
+  "total_titles_processed": 1517,
   "failed_sources": [],
   "trends": [
     {
@@ -114,8 +114,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时39分 ~ 16时02分]"
+          "appearance_count": 6,
+          "time_info": "[10时39分 ~ 17时09分]"
         },
         {
           "title": "美国弹药库存告急！特朗普本周将召集军工巨头赴白宫，讨论加快武器生产",
@@ -129,6 +129,30 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[04时47分 ~ 10时39分]"
+        },
+        {
+          "title": "弹药告急！特朗普将召见军工大佬，筹划掏500亿美元补充军火",
+          "url": "https://news.ifeng.com/c/8rFCPechKEM",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时55分 ~ 17时09分]"
+        },
+        {
+          "title": "西班牙首相回击特朗普",
+          "url": "https://www.douyin.com/hot/2419161",
+          "source": "抖音",
+          "ranks": [
+            15,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时39分 ~ 17时09分]"
         },
         {
           "title": "白宫称已向美国参议院提交总统特朗普委任凯文·沃什为美联储主席的提名。",
@@ -173,30 +197,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时06分"
-        },
-        {
-          "title": "弹药告急！特朗普将召见军工大佬，筹划掏500亿美元补充军火",
-          "url": "https://news.ifeng.com/c/8rFCPechKEM",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时55分 ~ 16时02分]"
-        },
-        {
-          "title": "西班牙首相回击特朗普",
-          "url": "https://www.douyin.com/hot/2419161",
-          "source": "抖音",
-          "ranks": [
-            15,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时39分 ~ 16时02分]"
         },
         {
           "title": "美国参议院Ron Wyden就特朗普政府在国内实施监控（国内间谍）的政策施压多家人工智能（AI）公司。",
@@ -247,6 +247,18 @@
           "time_info": "[10时39分 ~ 13时55分]"
         },
         {
+          "title": "伊朗高官让特朗普想想美以谁优先",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E9%AB%98%E5%AE%98%E8%AE%A9%E7%89%B9%E6%9C%97%E6%99%AE%E6%83%B3%E6%83%B3%E7%BE%8E%E4%BB%A5%E8%B0%81%E4%BC%98%E5%85%88%23&t=31&band_rank=21&Refer=top",
+          "source": "微博",
+          "ranks": [
+            21,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时02分 ~ 17时09分]"
+        },
+        {
           "title": "据知情人士透露，美国白宫计划在3月底之前递交关于下一个财年的预算申请。 特朗普政府尤其希望在3月31日当天披露预算报告。（彭博）",
           "url": "https://wallstreetcn.com/livenews/3063861",
           "source": "华尔街见闻-快讯",
@@ -269,18 +281,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时41分 ~ 06时39分]"
-        },
-        {
-          "title": "伊朗高官让特朗普想想美以谁优先",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E9%AB%98%E5%AE%98%E8%AE%A9%E7%89%B9%E6%9C%97%E6%99%AE%E6%83%B3%E6%83%B3%E7%BE%8E%E4%BB%A5%E8%B0%81%E4%BC%98%E5%85%88%23&t=31&band_rank=21&Refer=top",
-          "source": "微博",
-          "ranks": [
-            21,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时02分 ~ 16时02分]"
         },
         {
           "title": "美国参议院未通过叫停特朗普打击伊朗的投票",
@@ -550,9 +550,63 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时02分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "台湾",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "人大台湾团代表：统一大势挡不住",
+          "url": "https://www.toutiao.com/trending/7613260801981599278/",
+          "source": "今日头条",
+          "ranks": [
+            29,
+            4,
+            20,
+            27,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[02时05分 ~ 10时39分]"
+        },
+        {
+          "title": "中国台湾1月工业生产年率 28.51%，预期29.00%，前值21.57%。",
+          "url": "https://flash.jin10.com/detail/20260305160009601800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时02分"
+        },
+        {
+          "title": "中国台湾证交所加权股价指数收高2.6%报33,672.94点。",
+          "url": "https://wallstreetcn.com/livenews/3064229",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时55分"
+        },
+        {
+          "title": "代表：美国必须停止加速武装台湾",
+          "url": "https://www.baidu.com/s?wd=%E4%BB%A3%E8%A1%A8%EF%BC%9A%E7%BE%8E%E5%9B%BD%E5%BF%85%E9%A1%BB%E5%81%9C%E6%AD%A2%E5%8A%A0%E9%80%9F%E6%AD%A6%E8%A3%85%E5%8F%B0%E6%B9%BE",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时09分"
         }
       ]
     },
@@ -595,49 +649,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时39分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "台湾",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "人大台湾团代表：统一大势挡不住",
-          "url": "https://www.toutiao.com/trending/7613260801981599278/",
-          "source": "今日头条",
-          "ranks": [
-            29,
-            4,
-            20,
-            27,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[02时05分 ~ 10时39分]"
-        },
-        {
-          "title": "中国台湾1月工业生产年率 28.51%，预期29.00%，前值21.57%。",
-          "url": "https://flash.jin10.com/detail/20260305160009601800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时02分"
-        },
-        {
-          "title": "中国台湾证交所加权股价指数收高2.6%报33,672.94点。",
-          "url": "https://wallstreetcn.com/livenews/3064229",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时55分"
         }
       ]
     },
