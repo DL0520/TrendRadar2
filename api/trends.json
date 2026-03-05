@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-05T19:58:28.932485+08:00",
-  "total_titles_processed": 1785,
+  "generated_at": "2026-03-05T21:21:55.859789+08:00",
+  "total_titles_processed": 1906,
   "failed_sources": [],
   "trends": [
     {
@@ -53,8 +53,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时39分 ~ 19时58分]"
+          "appearance_count": 10,
+          "time_info": "[10时39分 ~ 21时21分]"
         },
         {
           "title": "特朗普夫人，“翻车”了",
@@ -138,8 +138,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时09分 ~ 19时58分]"
+          "appearance_count": 3,
+          "time_info": "[19时09分 ~ 21时21分]"
+        },
+        {
+          "title": "特朗普“大发战争财”，借打伊朗搞募款",
+          "url": "https://news.ifeng.com/c/8rFJaJq0Rej",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时10分 ~ 21时21分]"
         },
         {
           "title": "美国弹药库存告急！特朗普本周将召集军工巨头赴白宫，讨论加快武器生产",
@@ -188,18 +200,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时11分"
-        },
-        {
-          "title": "特朗普“大发战争财”，借打伊朗搞募款",
-          "url": "https://news.ifeng.com/c/8rFJaJq0Rej",
-          "source": "凤凰网",
-          "ranks": [
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时10分 ~ 19时58分]"
         },
         {
           "title": "美国政府数据显示，美国总统特朗普第二任期首年美国联邦政府裁员386,826人。",
@@ -391,7 +391,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时58分"
         },
@@ -553,7 +553,7 @@
     },
     {
       "keyword_group": "台湾",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "人大台湾团代表：统一大势挡不住",
@@ -591,6 +591,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时55分"
+        },
+        {
+          "title": "伊朗封锁海峡台湾担心快断气了",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E5%B0%81%E9%94%81%E6%B5%B7%E5%B3%A1%E5%8F%B0%E6%B9%BE%E6%8B%85%E5%BF%83%E5%BF%AB%E6%96%AD%E6%B0%94%E4%BA%86%23&t=31&band_rank=22&Refer=top",
+          "source": "微博",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时21分"
         },
         {
           "title": "代表：美国必须停止加速武装台湾",
