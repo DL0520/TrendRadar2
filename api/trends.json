@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-06T17:50:33.687819+08:00",
-  "total_titles_processed": 1414,
+  "generated_at": "2026-03-06T18:44:20.366493+08:00",
+  "total_titles_processed": 1522,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 48,
+      "match_count": 50,
       "titles": [
         {
           "title": "特朗普：若满分10分，我给美对伊行动打15分",
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[03时22分 ~ 17时50分]"
+          "appearance_count": 15,
+          "time_info": "[03时22分 ~ 18时44分]"
         },
         {
           "title": "特朗普妄称“必须亲自参与”选定伊朗新领导人",
@@ -28,8 +28,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时15分 ~ 17时50分]"
+          "appearance_count": 8,
+          "time_info": "[11时15分 ~ 18时44分]"
         },
         {
           "title": "特朗普“大发战争财”，借打伊朗搞募款",
@@ -67,6 +67,17 @@
           "time_info": "[11时15分 ~ 16时49分]"
         },
         {
+          "title": "美国24州联合起诉特朗普政府新关税政策",
+          "url": "https://news.ifeng.com/c/8rGDBDdQi38",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[11时15分 ~ 18时44分]"
+        },
+        {
           "title": "特朗普要求立即赦免以色列总理",
           "url": "https://news.ifeng.com/c/8rGUp5Pqv3s",
           "source": "凤凰网",
@@ -87,17 +98,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时55分 ~ 15时01分]"
-        },
-        {
-          "title": "美国24州联合起诉特朗普政府新关税政策",
-          "url": "https://news.ifeng.com/c/8rGDBDdQi38",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时15分 ~ 17时50分]"
         },
         {
           "title": "美国24州宣布提起诉讼，阻止特朗普最新全球关税政策",
@@ -266,6 +266,19 @@
           "time_info": "[12时58分 ~ 13时55分]"
         },
         {
+          "title": "特朗普夸梅西强过贝利，还称C罗也很棒！梅西在一旁表情亮了",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32711665",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时48分 ~ 18时44分]"
+        },
+        {
           "title": "美国24州联合起诉特朗普政府",
           "url": "https://www.toutiao.com/trending/7613919843846897683/",
           "source": "今日头条",
@@ -306,16 +319,16 @@
           "time_info": "[15时01分 ~ 16时49分]"
         },
         {
-          "title": "特朗普夸梅西强过贝利，还称C罗也很棒！梅西在一旁表情亮了",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32711665",
-          "source": "澎湃新闻",
+          "title": "特朗普承诺护航霍尔木兹 高盛也来“泼冷水”：可行性存疑！",
+          "url": "https://www.cls.cn/detail/2304727",
+          "source": "财联社热门",
           "ranks": [
-            16,
-            13
+            10,
+            9
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[15时48分 ~ 17时50分]"
+          "time_info": "[16时49分 ~ 18时44分]"
         },
         {
           "title": "特朗普称对伊朗军事行动“没有时间限制”",
@@ -340,18 +353,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时58分 ~ 13时55分]"
-        },
-        {
-          "title": "特朗普承诺护航霍尔木兹 高盛也来“泼冷水”：可行性存疑！",
-          "url": "https://www.cls.cn/detail/2304727",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时49分 ~ 17时50分]"
         },
         {
           "title": "美国总统特朗普：马奎恩·马林将于2026年3月31日起担任美国国土安全部部长。",
@@ -454,6 +455,17 @@
           "time_info": "06时00分"
         },
         {
+          "title": "特朗普称当前未考虑向伊朗派地面部队",
+          "url": "https://wallstreetcn.com/livenews/3065170",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时44分"
+        },
+        {
           "title": "美国总统特朗普提名美国参议员马奎恩·马林接替克里斯蒂·诺姆出任美国国土安全部部长。",
           "url": "https://flash.jin10.com/detail/20260306024210116800",
           "source": "金十数据",
@@ -553,6 +565,17 @@
           "time_info": "03时22分"
         },
         {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-03-06）",
+          "url": "https://flash.jin10.com/detail/20260306180952383800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时44分"
+        },
+        {
           "title": "特朗普谈油价：涨就涨吧，军事行动重要得多",
           "url": "https://flash.jin10.com/detail/20260306045155124800",
           "source": "金十数据",
@@ -575,11 +598,12 @@
           "source": "今日头条",
           "ranks": [
             12,
-            11
+            11,
+            17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时01分 ~ 17时50分]"
+          "appearance_count": 5,
+          "time_info": "[15时01分 ~ 18时44分]"
         },
         {
           "title": "中国台湾证交所加权股价指数收低0.2%，报33599.54点。",
