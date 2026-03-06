@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-06T13:55:41.821991+08:00",
-  "total_titles_processed": 999,
+  "generated_at": "2026-03-06T15:01:49.576491+08:00",
+  "total_titles_processed": 1108,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 44,
+      "match_count": 46,
       "titles": [
         {
           "title": "特朗普：若满分10分，我给美对伊行动打15分",
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[03时22分 ~ 13时55分]"
+          "appearance_count": 11,
+          "time_info": "[03时22分 ~ 15时01分]"
         },
         {
           "title": "特朗普“大发战争财”，借打伊朗搞募款",
@@ -46,11 +46,12 @@
           "url": "https://news.ifeng.com/c/8rGUp5Pquod",
           "source": "凤凰网",
           "ranks": [
-            2
+            2,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时15分 ~ 13时55分]"
+          "appearance_count": 4,
+          "time_info": "[11时15分 ~ 15时01分]"
         },
         {
           "title": "美国内政部长透露：特朗普政府正考虑“所有方案”来控制油价！",
@@ -60,8 +61,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时15分 ~ 13时55分]"
+          "appearance_count": 4,
+          "time_info": "[11时15分 ~ 15时01分]"
         },
         {
           "title": "特朗普要求立即赦免以色列总理",
@@ -81,9 +82,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时55分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时55分 ~ 15时01分]"
         },
         {
           "title": "特朗普政府正在权衡降低油价的所有选项",
@@ -163,6 +164,18 @@
           "time_info": "[03时22分 ~ 06时00分]"
         },
         {
+          "title": "美国24州宣布提起诉讼，阻止特朗普最新全球关税政策",
+          "url": "https://www.cls.cn/detail/2304459",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[08时05分 ~ 15时01分]"
+        },
+        {
           "title": "美国总统特朗普：马克韦恩·穆林（Markwayne Mullin）将于2026年3月31日起担任美国国土安全部部长。",
           "url": "https://wallstreetcn.com/livenews/3064642",
           "source": "华尔街见闻-快讯",
@@ -240,16 +253,15 @@
           "time_info": "[12时58分 ~ 13时55分]"
         },
         {
-          "title": "美国24州宣布提起诉讼，阻止特朗普最新全球关税政策",
-          "url": "https://www.cls.cn/detail/2304459",
-          "source": "财联社热门",
+          "title": "美国24州联合起诉特朗普政府新关税政策",
+          "url": "https://news.ifeng.com/c/8rGDBDdQi38",
+          "source": "凤凰网",
           "ranks": [
-            11,
-            10
+            11
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[08时05分 ~ 13时55分]"
+          "time_info": "[11时15分 ~ 15时01分]"
         },
         {
           "title": "特朗普倾向于解除诺姆的国土安全部长职务（彭博社）",
@@ -265,15 +277,17 @@
           "time_info": "[03时22分 ~ 05时04分]"
         },
         {
-          "title": "美国24州联合起诉特朗普政府新关税政策",
-          "url": "https://news.ifeng.com/c/8rGDBDdQi38",
-          "source": "凤凰网",
+          "title": "美国24州联合起诉特朗普政府",
+          "url": "https://www.toutiao.com/trending/7613919843846897683/",
+          "source": "今日头条",
           "ranks": [
-            11
+            23,
+            22,
+            24
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[11时15分 ~ 13时55分]"
+          "time_info": "[12时58分 ~ 15时01分]"
         },
         {
           "title": "特朗普称对伊朗军事行动“没有时间限制”",
@@ -312,18 +326,6 @@
           "time_info": "[03时22分 ~ 04时06分]"
         },
         {
-          "title": "美国24州联合起诉特朗普政府",
-          "url": "https://www.toutiao.com/trending/7613919843846897683/",
-          "source": "今日头条",
-          "ranks": [
-            23,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时58分 ~ 13时55分]"
-        },
-        {
           "title": "美国总统特朗普：呼吁伊朗军方放下武器。",
           "url": "https://flash.jin10.com/detail/20260306054104658800",
           "source": "金十数据",
@@ -352,7 +354,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时55分"
         },
@@ -412,6 +414,17 @@
           "time_info": "06时00分"
         },
         {
+          "title": "伊朗战火下美汽油价格大涨 特朗普：不担心，无意动用战略油储！",
+          "url": "https://www.cls.cn/detail/2304532",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时01分"
+        },
+        {
           "title": "美国总统特朗普提名美国参议员马奎恩·马林接替克里斯蒂·诺姆出任美国国土安全部部长。",
           "url": "https://flash.jin10.com/detail/20260306024210116800",
           "source": "金十数据",
@@ -440,9 +453,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时55分"
+        },
+        {
+          "title": "印尼政府：总统普拉博沃已向当地伊斯兰团体保证，如果美国总统特朗普的“和平委员会”平台不能为巴勒斯坦人带来利益，他将退出该委员会。",
+          "url": "https://flash.jin10.com/detail/20260306141544711800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时01分"
         },
         {
           "title": "特朗普：即将采取进一步措施缓解油市压力",
@@ -514,18 +538,30 @@
     },
     {
       "keyword_group": "台湾",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "中国台湾证交所加权股价指数收低0.2%，报33599.54点。",
           "url": "https://wallstreetcn.com/livenews/3064899",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            7,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时55分 ~ 15时01分]"
+        },
+        {
+          "title": "台湾网红“馆长”首次出庭不认罪",
+          "url": "https://www.toutiao.com/trending/7613781575419887642/",
+          "source": "今日头条",
+          "ranks": [
+            12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时55分"
+          "time_info": "15时01分"
         }
       ]
     }
