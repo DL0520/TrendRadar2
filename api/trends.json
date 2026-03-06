@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-07T03:57:12.773289+08:00",
-  "total_titles_processed": 584,
+  "generated_at": "2026-03-07T04:42:17.030630+08:00",
+  "total_titles_processed": 603,
   "failed_sources": [],
   "trends": [
     {
@@ -15,19 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时03分 ~ 03时57分]"
-        },
-        {
-          "title": "据The Verge：任天堂已起诉美国政府，要求退还特朗普时期征收的关税。",
-          "url": "https://flash.jin10.com/detail/20260307034359509800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时57分"
+          "appearance_count": 7,
+          "time_info": "[00时03分 ~ 04时42分]"
         },
         {
           "title": "反转！报道：特朗普政府搁置财政部“操盘”原油期货的计划",
@@ -38,8 +27,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时03分 ~ 03时57分]"
+          "appearance_count": 7,
+          "time_info": "[00时03分 ~ 04时42分]"
         },
         {
           "title": "“甩锅”特朗普，与下属传婚外情，她被开了",
@@ -49,19 +38,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时03分 ~ 03时57分]"
-        },
-        {
-          "title": "美国总统特朗普：（谈伊朗）无条件投降可能是（伊朗人）宣布无条件投降，也可能是他们再也无法战斗，没有人或东西可以战斗时。",
-          "url": "https://flash.jin10.com/detail/20260307033923007800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时57分"
+          "appearance_count": 7,
+          "time_info": "[00时03分 ~ 04时42分]"
         },
         {
           "title": "特朗普威胁下一个就是古巴",
@@ -71,8 +49,32 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时09分 ~ 03时57分]"
+          "appearance_count": 6,
+          "time_info": "[01时09分 ~ 04时42分]"
+        },
+        {
+          "title": "据The Verge：任天堂已起诉美国政府，要求退还特朗普时期征收的关税。",
+          "url": "https://flash.jin10.com/detail/20260307034359509800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时57分 ~ 04时42分]"
+        },
+        {
+          "title": "美国总统特朗普：（谈伊朗）无条件投降可能是（伊朗人）宣布无条件投降，也可能是他们再也无法战斗，没有人或东西可以战斗时。",
+          "url": "https://flash.jin10.com/detail/20260307033923007800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时57分 ~ 04时42分]"
         },
         {
           "title": "特朗普：不接受哈梅内伊儿子担任伊朗新领导人，“我必须亲自参与任命”，伊朗外长：这完全是伊朗人民的事，任何人都无权干涉",
@@ -82,8 +84,20 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时12分 ~ 03时57分]"
+          "appearance_count": 4,
+          "time_info": "[03时12分 ~ 04时42分]"
+        },
+        {
+          "title": "美国总统特朗普将于十分钟后会见美国国防部长赫格塞斯。",
+          "url": "https://flash.jin10.com/detail/20260307032000001800",
+          "source": "金十数据",
+          "ranks": [
+            12,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时57分 ~ 04时42分]"
         },
         {
           "title": "美国海关与边境保护局告知法官，该部门无法遵守（关于总统特朗普的）关税退款命令。 标普跌1%，道指跌1.1%，纳指跌0.8%。",
@@ -95,17 +109,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时09分"
-        },
-        {
-          "title": "美国总统特朗普将于十分钟后会见美国国防部长赫格塞斯。",
-          "url": "https://flash.jin10.com/detail/20260307032000001800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时57分"
         },
         {
           "title": "特朗普政府放宽委内瑞拉对美售金，缓解其美元短缺压力",
@@ -136,7 +139,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时57分"
         }
@@ -146,6 +149,19 @@
       "keyword_group": "台湾",
       "match_count": 3,
       "titles": [
+        {
+          "title": "台湾网红“馆长”首次出庭不认罪",
+          "url": "https://www.toutiao.com/trending/7613781575419887642/",
+          "source": "今日头条",
+          "ranks": [
+            27,
+            15,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时02分 ~ 04时42分]"
+        },
         {
           "title": "郑丽文：我们一定会为台湾人看紧荷包",
           "url": "https://www.toutiao.com/trending/7613591895302176818/",
@@ -157,18 +173,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时03分 ~ 03时57分]"
-        },
-        {
-          "title": "台湾网红“馆长”首次出庭不认罪",
-          "url": "https://www.toutiao.com/trending/7613781575419887642/",
-          "source": "今日头条",
-          "ranks": [
-            27,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时02分 ~ 03时12分]"
         },
         {
           "title": "台湾网红“馆长”首次出庭不认罪",
@@ -204,11 +208,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             5,
-            15
+            15,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时12分 ~ 03时57分]"
+          "appearance_count": 3,
+          "time_info": "[03时12分 ~ 04时42分]"
         }
       ]
     },
@@ -221,11 +226,12 @@
           "url": "https://flash.jin10.com/detail/20260307034037320800",
           "source": "金十数据",
           "ranks": [
-            3
+            3,
+            10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时57分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时57分 ~ 04时42分]"
         }
       ]
     }
