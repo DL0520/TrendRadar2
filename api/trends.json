@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-07T17:36:56.036147+08:00",
-  "total_titles_processed": 1415,
+  "generated_at": "2026-03-07T18:32:10.692211+08:00",
+  "total_titles_processed": 1475,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 28,
+      "match_count": 29,
       "titles": [
         {
           "title": "特朗普：若满分10分，我给美对伊行动打15分",
@@ -23,11 +23,12 @@
           "url": "https://wallstreetcn.com/articles/3766927",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[10时29分 ~ 17时36分]"
+          "appearance_count": 16,
+          "time_info": "[10时29分 ~ 18时32分]"
         },
         {
           "title": "奥巴马、拜登“不点名”抨击特朗普政府",
@@ -111,6 +112,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[03时57分 ~ 07时34分]"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-03-07）",
+          "url": "https://flash.jin10.com/detail/20260307180738661800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时32分"
         },
         {
           "title": "美国总统特朗普将于十分钟后会见美国国防部长赫格塞斯。",
