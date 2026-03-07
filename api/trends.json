@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-07T21:57:07.421146+08:00",
-  "total_titles_processed": 1698,
+  "generated_at": "2026-03-07T22:32:54.884470+08:00",
+  "total_titles_processed": 1742,
   "failed_sources": [],
   "trends": [
     {
@@ -28,8 +28,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[10时29分 ~ 21时57分]"
+          "appearance_count": 24,
+          "time_info": "[10时29分 ~ 22时32分]"
         },
         {
           "title": "奥巴马、拜登“不点名”抨击特朗普政府",
@@ -198,6 +198,19 @@
           "time_info": "[13时23分 ~ 14时03分]"
         },
         {
+          "title": "特朗普宣称考虑扩大打击范围 伊朗或遭受“非常沉重打击”",
+          "url": "https://wallstreetcn.com/livenews/3065718",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时02分 ~ 22时32分]"
+        },
+        {
           "title": "特朗普称美军工企业同意将“精良级”武器产量“翻两番”",
           "url": "https://wallstreetcn.com/livenews/3065488",
           "source": "华尔街见闻-快讯",
@@ -208,18 +221,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时37分 ~ 07时34分]"
-        },
-        {
-          "title": "特朗普宣称考虑扩大打击范围 伊朗或遭受“非常沉重打击”",
-          "url": "https://wallstreetcn.com/livenews/3065718",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时02分 ~ 21时57分]"
         },
         {
           "title": "白宫确认：特朗普将出席在对伊军事行动中死亡的6名美军士兵遗体移交仪式",
