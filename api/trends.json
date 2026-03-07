@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-07T15:51:15.366255+08:00",
-  "total_titles_processed": 1237,
+  "generated_at": "2026-03-07T16:40:14.720278+08:00",
+  "total_titles_processed": 1313,
   "failed_sources": [],
   "trends": [
     {
@@ -26,8 +26,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时29分 ~ 15时51分]"
+          "appearance_count": 13,
+          "time_info": "[10时29分 ~ 16时40分]"
+        },
+        {
+          "title": "奥巴马、拜登“不点名”抨击特朗普政府",
+          "url": "https://news.ifeng.com/c/8rIXypaKu4O",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[14时01分 ~ 16时40分]"
         },
         {
           "title": "反转！报道：特朗普政府搁置财政部“操盘”原油期货的计划",
@@ -75,18 +87,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[03时12分 ~ 07时34分]"
-        },
-        {
-          "title": "奥巴马、拜登“不点名”抨击特朗普政府",
-          "url": "https://news.ifeng.com/c/8rIXypaKu4O",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时01分 ~ 15时51分]"
         },
         {
           "title": "据The Verge：任天堂已起诉美国政府，要求退还特朗普时期征收的关税。",
