@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-07T18:32:10.692211+08:00",
-  "total_titles_processed": 1475,
+  "generated_at": "2026-03-07T19:28:07.396015+08:00",
+  "total_titles_processed": 1554,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 29,
+      "match_count": 30,
       "titles": [
         {
           "title": "特朗普：若满分10分，我给美对伊行动打15分",
@@ -24,11 +24,12 @@
           "source": "华尔街见闻",
           "ranks": [
             4,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[10时29分 ~ 18时32分]"
+          "appearance_count": 18,
+          "time_info": "[10时29分 ~ 19时28分]"
         },
         {
           "title": "奥巴马、拜登“不点名”抨击特朗普政府",
@@ -114,15 +115,15 @@
           "time_info": "[03时57分 ~ 07时34分]"
         },
         {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-03-07）",
-          "url": "https://flash.jin10.com/detail/20260307180738661800",
+          "title": "特朗普：伊朗今日将遭受沉重打击",
+          "url": "https://flash.jin10.com/detail/20260307191516778800",
           "source": "金十数据",
           "ranks": [
-            3
+            1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时32分"
+          "time_info": "19时28分"
         },
         {
           "title": "美国总统特朗普将于十分钟后会见美国国防部长赫格塞斯。",
@@ -158,6 +159,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时03分 ~ 15时06分]"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-03-07）",
+          "url": "https://flash.jin10.com/detail/20260307180738661800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时32分 ~ 19时28分]"
         },
         {
           "title": "Robert Lighthizer将退出特朗普媒体科技集团董事会。",
