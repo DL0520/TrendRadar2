@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-08T19:28:25.753453+08:00",
-  "total_titles_processed": 1279,
+  "generated_at": "2026-03-08T19:48:15.571369+08:00",
+  "total_titles_processed": 1312,
   "failed_sources": [],
   "trends": [
     {
@@ -72,11 +72,12 @@
             13,
             17,
             18,
-            20
+            20,
+            28
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时43分 ~ 19时28分]"
+          "appearance_count": 12,
+          "time_info": "[10时43分 ~ 19时48分]"
         },
         {
           "title": "王毅回应特朗普访华",
@@ -189,18 +190,6 @@
           "time_info": "[00时36分 ~ 03时47分]"
         },
         {
-          "title": "据福克斯新闻：特朗普已从佛罗里达出发，前往特拉华州的多佛空军基地，以向在伊朗冲突中阵亡的美国军人致敬。",
-          "url": "https://flash.jin10.com/detail/20260308004923405800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时29分 ~ 01时50分]"
-        },
-        {
           "title": "两会外长会｜王毅谈特朗普访华：今年是中美关系“大年”",
           "url": "https://m.thepaper.cn/newsDetail_forward_32726656",
           "source": "澎湃新闻",
@@ -210,8 +199,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时40分 ~ 19时28分]"
+          "appearance_count": 6,
+          "time_info": "[16时40分 ~ 19时48分]"
         },
         {
           "title": "伊朗：今天或选出最高领袖！特朗普再度妄称：希望参与伊朗下一任领导人选择",
@@ -222,8 +211,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时37分 ~ 19时28分]"
+          "appearance_count": 5,
+          "time_info": "[17时37分 ~ 19时48分]"
         },
         {
           "title": "特朗普：已排除库尔德武装参战可能，部署地面部队需要“非常好的理由”",
@@ -234,8 +223,20 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时37分 ~ 19时28分]"
+          "appearance_count": 5,
+          "time_info": "[17时37分 ~ 19时48分]"
+        },
+        {
+          "title": "据福克斯新闻：特朗普已从佛罗里达出发，前往特拉华州的多佛空军基地，以向在伊朗冲突中阵亡的美国军人致敬。",
+          "url": "https://flash.jin10.com/detail/20260308004923405800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时29分 ~ 01时50分]"
         },
         {
           "title": "特朗普称没有迹象表明俄罗斯支持伊朗",
@@ -347,6 +348,18 @@
           "time_info": "[01时29分 ~ 01时50分]"
         },
         {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-03-08）",
+          "url": "https://flash.jin10.com/detail/20260308183208221800",
+          "source": "金十数据",
+          "ranks": [
+            17,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时28分 ~ 19时48分]"
+        },
+        {
           "title": "据福克斯新闻：特朗普抵达多佛空军基地，参加六名在“史诗怒火”行动中阵亡的美国军人的庄重移交仪式。",
           "url": "https://flash.jin10.com/detail/20260308023151361800",
           "source": "金十数据",
@@ -447,17 +460,6 @@
           "time_info": "02时43分"
         },
         {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-03-08）",
-          "url": "https://flash.jin10.com/detail/20260308183208221800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时28分"
-        },
-        {
           "title": "美国总统特朗普：美国参议院应该专注于，必要时完全专注于《拯救美国法案》，这是大家都想要的！",
           "url": "https://flash.jin10.com/detail/20260307233704025800",
           "source": "金十数据",
@@ -497,6 +499,17 @@
       "match_count": 13,
       "titles": [
         {
+          "title": "王毅：台湾绝无可能成为“国家”",
+          "url": "https://www.douyin.com/hot/2423009",
+          "source": "抖音",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[15时36分 ~ 19时48分]"
+        },
+        {
           "title": "王毅：台湾事务日本有什么资格插手",
           "url": "https://www.toutiao.com/trending/7614053753309842963/",
           "source": "今日头条",
@@ -505,11 +518,12 @@
             2,
             8,
             16,
-            13
+            13,
+            20
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时49分 ~ 19时28分]"
+          "appearance_count": 10,
+          "time_info": "[12时49分 ~ 19时48分]"
         },
         {
           "title": "王毅：台湾绝无可能成为“国家”",
@@ -520,22 +534,12 @@
             5,
             2,
             19,
-            8
+            8,
+            14
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时49分 ~ 19时28分]"
-        },
-        {
-          "title": "王毅：台湾绝无可能成为“国家”",
-          "url": "https://www.douyin.com/hot/2423009",
-          "source": "抖音",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时36分 ~ 19时28分]"
+          "appearance_count": 10,
+          "time_info": "[12时49分 ~ 19时48分]"
         },
         {
           "title": "王毅表示台湾绝无可能成为国家，其地位已被一系列国际法律文件锁定，如何解读？",
@@ -547,8 +551,37 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时36分 ~ 19时28分]"
+          "appearance_count": 7,
+          "time_info": "[15时36分 ~ 19时48分]"
+        },
+        {
+          "title": "王毅谈台湾问题",
+          "url": "https://search.bilibili.com/all?keyword=%E7%8E%8B%E6%AF%85%E8%B0%88%E5%8F%B0%E6%B9%BE%E9%97%AE%E9%A2%98",
+          "source": "bilibili 热搜",
+          "ranks": [
+            12,
+            28,
+            24,
+            23,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[12时49分 ~ 19时48分]"
+        },
+        {
+          "title": "王毅谈解决台湾问题",
+          "url": "https://www.douyin.com/hot/2423020",
+          "source": "抖音",
+          "ranks": [
+            22,
+            21,
+            18,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[13时50分 ~ 19时48分]"
         },
         {
           "title": "王毅：解决台湾问题 实现祖国完全统一不可阻挡",
@@ -568,32 +601,15 @@
           "time_info": "[12时49分 ~ 18时33分]"
         },
         {
-          "title": "王毅谈台湾问题",
-          "url": "https://search.bilibili.com/all?keyword=%E7%8E%8B%E6%AF%85%E8%B0%88%E5%8F%B0%E6%B9%BE%E9%97%AE%E9%A2%98",
-          "source": "bilibili 热搜",
+          "title": "王毅表示中日关系取决于日方选择，日本没资格插手台湾事务，如何解读?",
+          "url": "https://www.zhihu.com/question/2013934915129974854",
+          "source": "知乎",
           "ranks": [
-            12,
-            28,
-            24,
-            23,
-            30
+            5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时49分 ~ 19时28分]"
-        },
-        {
-          "title": "王毅谈解决台湾问题",
-          "url": "https://www.douyin.com/hot/2423020",
-          "source": "抖音",
-          "ranks": [
-            22,
-            21,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时50分 ~ 19时28分]"
+          "appearance_count": 3,
+          "time_info": "[19时28分 ~ 19时48分]"
         },
         {
           "title": "王毅谈中日关系：台湾事务是中国内政，日本没有资格插手",
@@ -623,17 +639,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[12时49分 ~ 15时36分]"
-        },
-        {
-          "title": "王毅表示中日关系取决于日方选择，日本没资格插手台湾事务，如何解读?",
-          "url": "https://www.zhihu.com/question/2013934915129974854",
-          "source": "知乎",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时28分"
         },
         {
           "title": "王毅：台湾绝无可能成为“国家”",
@@ -691,8 +696,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时43分 ~ 19时28分]"
+          "appearance_count": 12,
+          "time_info": "[10时43分 ~ 19时48分]"
         }
       ]
     }
