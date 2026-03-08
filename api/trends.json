@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-08T21:58:34.939281+08:00",
-  "total_titles_processed": 1470,
+  "generated_at": "2026-03-08T22:35:25.173165+08:00",
+  "total_titles_processed": 1509,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 46,
+      "match_count": 47,
       "titles": [
         {
           "title": "特朗普先“赢”上了：伊朗道歉都是我的功劳，今天伊朗将遭受重击",
@@ -77,8 +77,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[10时43分 ~ 21时03分]"
+          "appearance_count": 14,
+          "time_info": "[10时43分 ~ 22时35分]"
         },
         {
           "title": "王毅回应特朗普访华",
@@ -105,8 +105,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时40分 ~ 21时58分]"
+          "appearance_count": 9,
+          "time_info": "[16时40分 ~ 22时35分]"
         },
         {
           "title": "伊朗：今天或选出最高领袖！特朗普再度妄称：希望参与伊朗下一任领导人选择",
@@ -119,8 +119,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时37分 ~ 21时58分]"
+          "appearance_count": 8,
+          "time_info": "[17时37分 ~ 22时35分]"
         },
         {
           "title": "特朗普：已排除库尔德武装参战可能，部署地面部队需要“非常好的理由”",
@@ -133,8 +133,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时37分 ~ 21时58分]"
+          "appearance_count": 8,
+          "time_info": "[17时37分 ~ 22时35分]"
         },
         {
           "title": "美以伊战争｜特朗普：目前无计划在伊朗部署地面部队",
@@ -184,6 +184,30 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[06时31分 ~ 10时44分]"
+        },
+        {
+          "title": "王毅谈特朗普访华",
+          "url": "https://www.douyin.com/hot/2423029",
+          "source": "抖音",
+          "ranks": [
+            6,
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时03分 ~ 22时35分]"
+        },
+        {
+          "title": "白宫新闻秘书莱维特：特朗普的当前计划中不包括部署地面部队。特朗普并未排除这一选项。",
+          "url": "https://flash.jin10.com/detail/20260308221917861800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时35分"
         },
         {
           "title": "伊朗最高国家安全委员会秘书拉里贾尼：特朗普最好承认他犯了错误，被以色列欺骗了。",
@@ -244,18 +268,6 @@
           "time_info": "21时03分"
         },
         {
-          "title": "王毅谈特朗普访华",
-          "url": "https://www.douyin.com/hot/2423029",
-          "source": "抖音",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时03分 ~ 21时58分]"
-        },
-        {
           "title": "据福克斯新闻：特朗普已从佛罗里达出发，前往特拉华州的多佛空军基地，以向在伊朗冲突中阵亡的美国军人致敬。",
           "url": "https://flash.jin10.com/detail/20260308004923405800",
           "source": "金十数据",
@@ -266,6 +278,19 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时29分 ~ 01时50分]"
+        },
+        {
+          "title": "特朗普要求赦免以色列总理 以总统：战争期间“不讨论”",
+          "url": "https://wallstreetcn.com/livenews/3065878",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            16,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时03分 ~ 22时35分]"
         },
         {
           "title": "特朗普称没有迹象表明俄罗斯支持伊朗",
@@ -279,18 +304,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时49分 ~ 14时54分]"
-        },
-        {
-          "title": "特朗普要求赦免以色列总理 以总统：战争期间“不讨论”",
-          "url": "https://wallstreetcn.com/livenews/3065878",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时03分 ~ 21时58分]"
         },
         {
           "title": "美国总统特朗普：我们士兵在这场战争中的牺牲是为了整个世界，而不仅仅是中东。",
@@ -399,6 +412,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[19时28分 ~ 19时48分]"
+        },
+        {
+          "title": "据德黑兰时报：一位政治消息人士透露，伊朗总统昨天的讲话是一个试探美国反应的陷阱。结果很有趣：特朗普欣喜若狂，并热情洋溢地谈论伊朗的投降。",
+          "url": "https://flash.jin10.com/detail/20260308210942502800",
+          "source": "金十数据",
+          "ranks": [
+            17,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时58分 ~ 22时35分]"
         },
         {
           "title": "据福克斯新闻：特朗普抵达多佛空军基地，参加六名在“史诗怒火”行动中阵亡的美国军人的庄重移交仪式。",
@@ -512,17 +537,6 @@
           "time_info": "02时43分"
         },
         {
-          "title": "据德黑兰时报：一位政治消息人士透露，伊朗总统昨天的讲话是一个试探美国反应的陷阱。结果很有趣：特朗普欣喜若狂，并热情洋溢地谈论伊朗的投降。",
-          "url": "https://flash.jin10.com/detail/20260308210942502800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时58分"
-        },
-        {
           "title": "美国总统特朗普：美国参议院应该专注于，必要时完全专注于《拯救美国法案》，这是大家都想要的！",
           "url": "https://flash.jin10.com/detail/20260307233704025800",
           "source": "金十数据",
@@ -562,17 +576,6 @@
       "match_count": 15,
       "titles": [
         {
-          "title": "王毅：台湾绝无可能成为“国家”",
-          "url": "https://www.douyin.com/hot/2423009",
-          "source": "抖音",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时36分 ~ 21时58分]"
-        },
-        {
           "title": "王毅表示台湾绝无可能成为国家，其地位已被一系列国际法律文件锁定，如何解读？",
           "url": "https://www.zhihu.com/question/2013938239111709347",
           "source": "知乎",
@@ -583,8 +586,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时36分 ~ 21时58分]"
+          "appearance_count": 10,
+          "time_info": "[15时36分 ~ 22时35分]"
+        },
+        {
+          "title": "王毅：台湾绝无可能成为“国家”",
+          "url": "https://www.douyin.com/hot/2423009",
+          "source": "抖音",
+          "ranks": [
+            2,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[15时36分 ~ 22时35分]"
         },
         {
           "title": "王毅：台湾事务日本有什么资格插手",
@@ -613,11 +628,23 @@
             19,
             8,
             14,
-            20
+            20,
+            30
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时49分 ~ 21时58分]"
+          "appearance_count": 13,
+          "time_info": "[12时49分 ~ 22时35分]"
+        },
+        {
+          "title": "王毅表示中日关系取决于日方选择，日本没资格插手台湾事务，如何解读?",
+          "url": "https://www.zhihu.com/question/2013934915129974854",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[19时28分 ~ 22时35分]"
         },
         {
           "title": "王毅谈台湾问题",
@@ -645,19 +672,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[13时50分 ~ 21时03分]"
-        },
-        {
-          "title": "王毅表示中日关系取决于日方选择，日本没资格插手台湾事务，如何解读?",
-          "url": "https://www.zhihu.com/question/2013934915129974854",
-          "source": "知乎",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时28分 ~ 21时58分]"
+          "appearance_count": 11,
+          "time_info": "[13时50分 ~ 22时35分]"
         },
         {
           "title": "王毅：解决台湾问题 实现祖国完全统一不可阻挡",
@@ -706,17 +722,6 @@
           "time_info": "[12时49分 ~ 15时36分]"
         },
         {
-          "title": "台湾代表连报十几个大陆APP",
-          "url": "https://www.baidu.com/s?wd=%E5%8F%B0%E6%B9%BE%E4%BB%A3%E8%A1%A8%E8%BF%9E%E6%8A%A5%E5%8D%81%E5%87%A0%E4%B8%AA%E5%A4%A7%E9%99%86APP",
-          "source": "百度热搜",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时58分"
-        },
-        {
           "title": "王毅：台湾绝无可能成为“国家”",
           "url": "https://www.baidu.com/s?wd=%E7%8E%8B%E6%AF%85%EF%BC%9A%E5%8F%B0%E6%B9%BE%E7%BB%9D%E6%97%A0%E5%8F%AF%E8%83%BD%E6%88%90%E4%B8%BA%E2%80%9C%E5%9B%BD%E5%AE%B6%E2%80%9D",
           "source": "百度热搜",
@@ -729,6 +734,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[14时54分 ~ 18时33分]"
+        },
+        {
+          "title": "台湾代表连报十几个大陆APP",
+          "url": "https://www.baidu.com/s?wd=%E5%8F%B0%E6%B9%BE%E4%BB%A3%E8%A1%A8%E8%BF%9E%E6%8A%A5%E5%8D%81%E5%87%A0%E4%B8%AA%E5%A4%A7%E9%99%86APP",
+          "source": "百度热搜",
+          "ranks": [
+            4,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时58分 ~ 22时35分]"
         },
         {
           "title": "王毅：日本没资格插手台湾事务",
