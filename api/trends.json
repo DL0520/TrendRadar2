@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-08T10:44:24.756357+08:00",
-  "total_titles_processed": 759,
+  "generated_at": "2026-03-08T12:49:27.164446+08:00",
+  "total_titles_processed": 911,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 32,
+      "match_count": 36,
       "titles": [
         {
           "title": "特朗普先“赢”上了：伊朗道歉都是我的功劳，今天伊朗将遭受重击",
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时36分 ~ 10时44分]"
+          "appearance_count": 20,
+          "time_info": "[00时36分 ~ 12时49分]"
         },
         {
           "title": "专家：特朗普的麻烦还在后面，美国与伊朗的战争成本接近300:1",
@@ -49,8 +49,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时31分 ~ 10时44分]"
+          "appearance_count": 6,
+          "time_info": "[07时31分 ~ 12时49分]"
         },
         {
           "title": "美以伊战争｜特朗普：目前无计划在伊朗部署地面部队",
@@ -102,6 +102,18 @@
           "time_info": "[06时31分 ~ 10时44分]"
         },
         {
+          "title": "英国可能部署航母至中东，特朗普：不需要",
+          "url": "https://news.ifeng.com/c/8rJVEzbISO2",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时31分 ~ 12时49分]"
+        },
+        {
           "title": "伊朗最高国家安全委员会秘书拉里贾尼：特朗普最好承认他犯了错误，被以色列欺骗了。",
           "url": "https://flash.jin10.com/detail/20260308041630102800",
           "source": "金十数据",
@@ -149,18 +161,6 @@
           "time_info": "[00时36分 ~ 03时47分]"
         },
         {
-          "title": "英国可能部署航母至中东，特朗普：不需要",
-          "url": "https://news.ifeng.com/c/8rJVEzbISO2",
-          "source": "凤凰网",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时31分 ~ 10时44分]"
-        },
-        {
           "title": "据福克斯新闻：特朗普已从佛罗里达出发，前往特拉华州的多佛空军基地，以向在伊朗冲突中阵亡的美国军人致敬。",
           "url": "https://flash.jin10.com/detail/20260308004923405800",
           "source": "金十数据",
@@ -171,6 +171,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时29分 ~ 01时50分]"
+        },
+        {
+          "title": "委内瑞拉代总统致函特朗普",
+          "url": "https://www.toutiao.com/trending/7614119677836476458/",
+          "source": "今日头条",
+          "ranks": [
+            13,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时43分 ~ 12时49分]"
         },
         {
           "title": "美国总统特朗普：我们士兵在这场战争中的牺牲是为了整个世界，而不仅仅是中东。",
@@ -221,17 +233,6 @@
           "time_info": "[00时36分 ~ 01时29分]"
         },
         {
-          "title": "委内瑞拉代总统致函特朗普",
-          "url": "https://www.toutiao.com/trending/7614119677836476458/",
-          "source": "今日头条",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时43分 ~ 10时44分]"
-        },
-        {
           "title": "据NBC新闻：民调显示，90%的MAGA（让美国再次伟大）信众支持特朗普针对伊朗的行动。",
           "url": "https://flash.jin10.com/detail/20260308002707649800",
           "source": "金十数据",
@@ -278,6 +279,17 @@
           "time_info": "01时50分"
         },
         {
+          "title": "美媒：特朗普打击伊朗的选项包括派遣特种部队摧毁伊朗核设施",
+          "url": "https://flash.jin10.com/detail/20260308105750349800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时49分"
+        },
+        {
           "title": "美国国务院：特朗普、鲁比奥以及整个国务院都将美国公民的安全和安保视为最高优先事项。我们正在研究其他选项，以协助美国人离开中东。",
           "url": "https://flash.jin10.com/detail/20260308010746115800",
           "source": "金十数据",
@@ -311,6 +323,17 @@
           "time_info": "02时43分"
         },
         {
+          "title": "特朗普称没有迹象表明俄罗斯支持伊朗",
+          "url": "https://flash.jin10.com/detail/20260308104028991800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时49分"
+        },
+        {
           "title": "伊朗外交部长：如果特朗普想升级局势，他将如愿以偿。",
           "url": "https://flash.jin10.com/detail/20260308015219595800",
           "source": "金十数据",
@@ -328,7 +351,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时44分"
         },
@@ -342,6 +365,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时43分"
+        },
+        {
+          "title": "王毅回应特朗普访华",
+          "url": "https://www.baidu.com/s?wd=%E7%8E%8B%E6%AF%85%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E5%8D%8E",
+          "source": "百度热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时49分"
+        },
+        {
+          "title": "特朗普称没有迹象表明俄罗斯支持伊朗",
+          "url": "https://wallstreetcn.com/livenews/3065812",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时49分"
         },
         {
           "title": "美国总统特朗普：美国参议院应该专注于，必要时完全专注于《拯救美国法案》，这是大家都想要的！",
@@ -361,7 +406,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时44分"
         },
@@ -372,9 +417,103 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时44分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "台湾",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "王毅：解决台湾问题 实现祖国完全统一不可阻挡",
+          "url": "https://wallstreetcn.com/livenews/3065828",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时49分"
+        },
+        {
+          "title": "王毅：台湾事务日本有什么资格插手",
+          "url": "https://www.toutiao.com/trending/7614053753309842963/",
+          "source": "今日头条",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时49分"
+        },
+        {
+          "title": "王毅谈中日关系：台湾事务是中国内政，日本没有资格插手",
+          "url": "https://wallstreetcn.com/livenews/3065823",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时49分"
+        },
+        {
+          "title": "日本没资格插手台湾事务",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%B2%A1%E8%B5%84%E6%A0%BC%E6%8F%92%E6%89%8B%E5%8F%B0%E6%B9%BE%E4%BA%8B%E5%8A%A1%23&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时49分"
+        },
+        {
+          "title": "台湾绝无可能成为国家",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%8F%B0%E6%B9%BE%E7%BB%9D%E6%97%A0%E5%8F%AF%E8%83%BD%E6%88%90%E4%B8%BA%E5%9B%BD%E5%AE%B6%23&t=31&band_rank=11&Refer=top",
+          "source": "微博",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时49分"
+        },
+        {
+          "title": "王毅谈台湾问题",
+          "url": "https://search.bilibili.com/all?keyword=%E7%8E%8B%E6%AF%85%E8%B0%88%E5%8F%B0%E6%B9%BE%E9%97%AE%E9%A2%98",
+          "source": "bilibili 热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时49分"
+        },
+        {
+          "title": "王毅：台湾绝无可能成为“国家”",
+          "url": "https://www.toutiao.com/trending/7613952495227977754/",
+          "source": "今日头条",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时49分"
+        },
+        {
+          "title": "王毅：日本没资格插手台湾事务",
+          "url": "https://www.baidu.com/s?wd=%E7%8E%8B%E6%AF%85%EF%BC%9A%E6%97%A5%E6%9C%AC%E6%B2%A1%E8%B5%84%E6%A0%BC%E6%8F%92%E6%89%8B%E5%8F%B0%E6%B9%BE%E4%BA%8B%E5%8A%A1",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时49分"
         }
       ]
     },
@@ -387,11 +526,12 @@
           "url": "https://wallstreetcn.com/articles/3766958",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时43分 ~ 10时44分]"
+          "appearance_count": 3,
+          "time_info": "[10时43分 ~ 12时49分]"
         }
       ]
     }
