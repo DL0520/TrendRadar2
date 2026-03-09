@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-10T02:09:43.448423+08:00",
-  "total_titles_processed": 469,
+  "generated_at": "2026-03-10T03:25:08.533563+08:00",
+  "total_titles_processed": 532,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 24,
+      "match_count": 29,
       "titles": [
         {
           "title": "哈梅内伊次子当选伊朗新任最高领袖 特朗普威胁“难长久”",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时04分 ~ 02时09分]"
+          "appearance_count": 6,
+          "time_info": "[00时04分 ~ 03时25分]"
         },
         {
           "title": "特朗普回应拉里贾尼威胁",
@@ -26,8 +26,52 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时04分 ~ 02时09分]"
+          "appearance_count": 6,
+          "time_info": "[00时04分 ~ 03时25分]"
+        },
+        {
+          "title": "美以伊战争｜特朗普：距离向伊朗派兵“还差得远”",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时24分 ~ 03时25分]"
+        },
+        {
+          "title": "是时候卖原油了？美银Hartnett：特朗普要赢中期选举，美伊战争必须在3月“降级”",
+          "url": "https://wallstreetcn.com/articles/3767022",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时04分 ~ 03时25分]"
+        },
+        {
+          "title": "特朗普：将与以总理共同作出停战决定",
+          "url": "https://news.ifeng.com/c/8rM8XXIvw2a",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时04分 ~ 03时25分]"
+        },
+        {
+          "title": "胡锡进：伊朗成心气特朗普，把一口带血的痰吐他脸上",
+          "url": "https://news.ifeng.com/c/8rM8XXIvw5H",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时04分 ~ 03时25分]"
         },
         {
           "title": "特朗普：澳大利亚总理正在处理伊朗女足队员安置问题",
@@ -58,53 +102,32 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时09分"
         },
         {
-          "title": "特朗普将举行对伊朗发动军事行动以来首次新闻发布会",
-          "url": "https://wallstreetcn.com/livenews/3066669",
+          "title": "特朗普家族增加国防投资，部署一家新型无人机企业",
+          "url": "https://wallstreetcn.com/livenews/3066695",
           "source": "华尔街见闻-快讯",
           "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时09分"
+          "time_info": "03时25分"
         },
         {
-          "title": "是时候卖原油了？美银Hartnett：特朗普要赢中期选举，美伊战争必须在3月“降级”",
-          "url": "https://wallstreetcn.com/articles/3767022",
-          "source": "华尔街见闻",
+          "title": "特朗普将举行对伊朗发动军事行动以来首次新闻发布会",
+          "url": "https://wallstreetcn.com/livenews/3066669",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            4,
+            22
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时04分 ~ 02时09分]"
-        },
-        {
-          "title": "特朗普：将与以总理共同作出停战决定",
-          "url": "https://news.ifeng.com/c/8rM8XXIvw2a",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时04分 ~ 02时09分]"
-        },
-        {
-          "title": "胡锡进：伊朗成心气特朗普，把一口带血的痰吐他脸上",
-          "url": "https://news.ifeng.com/c/8rM8XXIvw5H",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时04分 ~ 02时09分]"
+          "appearance_count": 2,
+          "time_info": "[02时09分 ~ 03时25分]"
         },
         {
           "title": "美国总统特朗普将于美东时间周一17:30举行新闻发布会。",
@@ -125,7 +148,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时09分"
         },
@@ -152,6 +175,17 @@
           "time_info": "00时04分"
         },
         {
+          "title": "美国交通部副部长布拉德伯里：特朗普政府正在推进关于如何重建华盛顿杜勒斯机场的讨论。",
+          "url": "https://flash.jin10.com/detail/20260310024511881800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时25分"
+        },
+        {
           "title": "美国总统特朗普：将于美国东部时间下午5点30分左右举行新闻发布会。",
           "url": "https://flash.jin10.com/detail/20260310004418380800",
           "source": "金十数据",
@@ -169,7 +203,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时09分"
         },
@@ -180,7 +214,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时09分"
         },
@@ -191,7 +225,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时09分"
         },
@@ -202,7 +236,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时09分"
         },
@@ -235,7 +269,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时09分"
         },
@@ -246,9 +280,20 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时09分"
+        },
+        {
+          "title": "美媒：如果穆杰塔巴不满足美国的要求，特朗普支持将其击毙",
+          "url": "https://flash.jin10.com/detail/20260310023140282800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时25分"
         },
         {
           "title": "特朗普称未到美军进入伊朗“保护”核材料的地步",
@@ -271,6 +316,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时27分"
+        },
+        {
+          "title": "市场消息：美国总统特朗普暗示支持打击伊朗新任最高领袖。",
+          "url": "https://flash.jin10.com/detail/20260310022147977800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时25分"
         }
       ]
     },
@@ -284,11 +340,12 @@
           "source": "澎湃新闻",
           "ranks": [
             10,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时04分 ~ 02时09分]"
+          "appearance_count": 6,
+          "time_info": "[00时04分 ~ 03时25分]"
         }
       ]
     }
