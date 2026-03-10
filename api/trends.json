@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-10T10:35:54.587250+08:00",
-  "total_titles_processed": 977,
+  "generated_at": "2026-03-10T12:48:29.491939+08:00",
+  "total_titles_processed": 1131,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 118,
+      "match_count": 120,
       "titles": [
         {
           "title": "哈梅内伊次子当选伊朗新任最高领袖 特朗普威胁“难长久”",
@@ -40,8 +40,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时04分 ~ 10时35分]"
+          "appearance_count": 14,
+          "time_info": "[00时04分 ~ 12时48分]"
         },
         {
           "title": "特朗普：将与以总理共同作出停战决定",
@@ -78,6 +78,17 @@
           "time_info": "[03时24分 ~ 04时01分]"
         },
         {
+          "title": "TACO！特朗普称“战争很快结束”，美国股债深V反转，原油一度较日高跳水30%",
+          "url": "https://wallstreetcn.com/articles/3766990",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时35分 ~ 12时48分]"
+        },
+        {
           "title": "美以伊战争｜特朗普：战争已基本结束",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
           "source": "凤凰网",
@@ -89,17 +100,6 @@
           "time_info": "[04时49分 ~ 06时37分]"
         },
         {
-          "title": "TACO！特朗普称“战争很快结束”，美国股债深V反转，原油一度较日高跳水30%",
-          "url": "https://wallstreetcn.com/articles/3766990",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时35分 ~ 10时35分]"
-        },
-        {
           "title": "美股收盘：特朗普称战争“基本结束” 三大指数集体收涨 纳指涨超1%",
           "url": "https://www.cls.cn/detail/2307796",
           "source": "财联社热门",
@@ -109,8 +109,45 @@
             1
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时37分 ~ 12时48分]"
+        },
+        {
+          "title": "特朗普：对伊行动或很快将结束，但不是在本周，将取消一些制裁以平抑油价",
+          "url": "https://wallstreetcn.com/articles/3767083",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时35分 ~ 12时48分]"
+        },
+        {
+          "title": "特朗普：将暂时免除一些制裁以平抑油价 对伊战事“很快”会结束",
+          "url": "https://www.cls.cn/detail/2307862",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时35分 ~ 12时48分]"
+        },
+        {
+          "title": "特朗普称伊朗战争已基本结束 国际油价高位跳水",
+          "url": "https://www.cls.cn/detail/2307782",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            4,
+            5
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[06时37分 ~ 10时35分]"
+          "time_info": "[07时35分 ~ 12时48分]"
         },
         {
           "title": "大逆转！特朗普一句“战争结束”，美国股债深V反转，原油较日高暴跌30%",
@@ -135,6 +172,17 @@
           "time_info": "07时35分"
         },
         {
+          "title": "美以伊战争｜伊媒头版：特朗普，直视他们的眼睛！",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时48分"
+        },
+        {
           "title": "特朗普：澳大利亚总理正在处理伊朗女足队员安置问题",
           "url": "https://flash.jin10.com/detail/20260309235743204800",
           "source": "金十数据",
@@ -157,17 +205,6 @@
           "time_info": "06时37分"
         },
         {
-          "title": "特朗普：对伊行动或很快将结束，但不是在本周，将取消一些制裁以平抑油价",
-          "url": "https://wallstreetcn.com/articles/3767083",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时35分"
-        },
-        {
           "title": "美国总统特朗普：美国正在打击伊朗的无人机制造基地，随着军事行动的持续，伊朗将“很快完蛋”。",
           "url": "https://flash.jin10.com/detail/20260310051406873800",
           "source": "金十数据",
@@ -188,6 +225,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时37分"
+        },
+        {
+          "title": "【早报】特朗普：将取消部分制裁，以平抑油价；国际油价高位跳水",
+          "url": "https://www.cls.cn/detail/2307815",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时35分 ~ 12时48分]"
         },
         {
           "title": "美国总统特朗普：刚刚与澳大利亚总理阿尔巴尼斯通了电话。阿尔巴尼斯很关注伊朗女足国家队的问题。",
@@ -234,17 +283,6 @@
           "time_info": "07时35分"
         },
         {
-          "title": "特朗普：将暂时免除一些制裁以平抑油价 对伊战事“很快”会结束",
-          "url": "https://www.cls.cn/detail/2307862",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时35分"
-        },
-        {
           "title": "周一（3月9日），降息赢家指数涨0.09%，报91.37点，跳空低开之后，盘初跌至87.53点。 “特朗普关税输家”指数涨0.01%，“特朗普金融指数”跌0.20%。 散户抱团概念股指数/迷因股（meme stock）指数涨1.79%。",
           "url": "https://wallstreetcn.com/livenews/3066731",
           "source": "华尔街见闻-快讯",
@@ -280,30 +318,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时01分 ~ 04时49分]"
-        },
-        {
-          "title": "【早报】特朗普：将取消部分制裁，以平抑油价；国际油价高位跳水",
-          "url": "https://www.cls.cn/detail/2307815",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时35分 ~ 10时35分]"
-        },
-        {
-          "title": "特朗普称伊朗战争已基本结束 国际油价高位跳水",
-          "url": "https://www.cls.cn/detail/2307782",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时35分 ~ 10时35分]"
         },
         {
           "title": "特朗普将举行对伊朗发动军事行动以来首次新闻发布会",
@@ -384,11 +398,12 @@
           "source": "百度热搜",
           "ranks": [
             6,
-            14
+            14,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时35分 ~ 10时35分]"
+          "appearance_count": 3,
+          "time_info": "[07时35分 ~ 12时48分]"
         },
         {
           "title": "报道：特朗普正在权衡平抑油价飙涨的几种方案",
@@ -403,6 +418,18 @@
           "time_info": "[05时40分 ~ 06时37分]"
         },
         {
+          "title": "美媒：特朗普没有对伊朗的“战后计划”",
+          "url": "https://news.ifeng.com/c/8rN9ezF5RPS",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时35分 ~ 12时48分]"
+        },
+        {
           "title": "美国总统特朗普将于美东时间周一17:30举行新闻发布会。",
           "url": "https://wallstreetcn.com/livenews/3066647",
           "source": "华尔街见闻-快讯",
@@ -413,6 +440,29 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时27分 ~ 02时09分]"
+        },
+        {
+          "title": "特朗普称对伊战事将很快结束 G7承诺必要时释放石油储备 | 环球市场",
+          "url": "https://www.cls.cn/detail/2307809",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时35分 ~ 12时48分]"
+        },
+        {
+          "title": "媒体证实是美国「战斧」巡航导弹炸了伊朗小学，特朗普曾说是伊朗「自导自演」，究竟是怎么回事？",
+          "url": "https://www.zhihu.com/question/2014356299022821037",
+          "source": "知乎",
+          "ranks": [
+            11,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时35分 ~ 12时48分]"
         },
         {
           "title": "俄总统助理：普京与特朗普通话，讨论中东地区形势及乌克兰问题",
@@ -460,15 +510,15 @@
           "time_info": "07时35分"
         },
         {
-          "title": "美媒：特朗普没有对伊朗的“战后计划”",
-          "url": "https://news.ifeng.com/c/8rN9ezF5RPS",
+          "title": "美媒最新民调：特朗普支持率下滑至44%",
+          "url": "https://news.ifeng.com/c/8rNS9E6Ovmp",
           "source": "凤凰网",
           "ranks": [
             7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时35分"
+          "time_info": "12时48分"
         },
         {
           "title": "美国总统特朗普：（就油价问题）我对一切都有计划。",
@@ -524,17 +574,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时35分"
-        },
-        {
-          "title": "特朗普称对伊战事将很快结束 G7承诺必要时释放石油储备 | 环球市场",
-          "url": "https://www.cls.cn/detail/2307809",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时35分"
         },
         {
           "title": "美国总统特朗普：（针对伊朗）我们已经赢了。但我们还没有赢得足够。我们决心彻底战胜这个恐怖政权。",
@@ -645,17 +684,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时37分"
-        },
-        {
-          "title": "媒体证实是美国「战斧」巡航导弹炸了伊朗小学，特朗普曾说是伊朗「自导自演」，究竟是怎么回事？",
-          "url": "https://www.zhihu.com/question/2014356299022821037",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时35分"
         },
         {
           "title": "美国总统特朗普：将于美国东部时间下午5点30分左右举行新闻发布会。",
@@ -1071,7 +1099,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时35分"
         },
@@ -1258,7 +1286,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时35分"
         },
@@ -1360,6 +1388,34 @@
       ]
     },
     {
+      "keyword_group": "稀土",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "市场消息：美国稀土(USAR.O)公司在与美国政府达成具有里程碑意义的协议后扩充领导团队。",
+          "url": "https://flash.jin10.com/detail/20260310043803223800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时49分"
+        },
+        {
+          "title": "中国2月铁矿砂及其精矿进口9763.8万吨；1-2月累计铁矿砂及其精矿进口21002.3万吨，同比增10.0%。 中国2月未锻轧铜及铜材进口31.6万吨；1-2月累计未锻轧铜及铜材进口69.96万吨，同比下降16.1%。 中国2月铜矿砂及其精矿进口231.03万吨；1-2月累计铜矿砂及其精矿进口493.3万吨，同比增4.9%。 中国2月未锻轧铝及铝材出口42.96万吨；1-2月累计未锻轧铝及铝材出口97.06万吨，同比增12.8%。 中国2月钢材出口783.7万吨；1-2月累计钢材出口1559.1万吨，同比下降8.1%。 中国2月稀土出口4407.1吨；1-2月累计稀土出口10468.3吨，同比增23.0%。",
+          "url": "https://wallstreetcn.com/livenews/3066999",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时48分"
+        }
+      ]
+    },
+    {
       "keyword_group": "谷歌 google gemini",
       "match_count": 1,
       "titles": [
@@ -1392,25 +1448,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时04分 ~ 10时35分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "稀土",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "市场消息：美国稀土(USAR.O)公司在与美国政府达成具有里程碑意义的协议后扩充领导团队。",
-          "url": "https://flash.jin10.com/detail/20260310043803223800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时49分"
+          "appearance_count": 14,
+          "time_info": "[00时04分 ~ 12时48分]"
         }
       ]
     }
