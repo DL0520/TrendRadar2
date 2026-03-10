@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-10T17:54:59.460830+08:00",
-  "total_titles_processed": 1647,
+  "generated_at": "2026-03-10T18:51:38.131819+08:00",
+  "total_titles_processed": 1743,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 132,
+      "match_count": 133,
       "titles": [
         {
           "title": "TACO！特朗普称“战争很快结束”，美国股债深V反转，原油一度较日高跳水30%",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时35分 ~ 17时54分]"
+          "appearance_count": 11,
+          "time_info": "[07时35分 ~ 18时51分]"
         },
         {
           "title": "哈梅内伊次子当选伊朗新任最高领袖 特朗普威胁“难长久”",
@@ -30,6 +30,18 @@
           "time_info": "[00时04分 ~ 06时37分]"
         },
         {
+          "title": "特朗普：对伊行动或很快将结束，但不是在本周，将取消一些制裁以平抑油价",
+          "url": "https://wallstreetcn.com/articles/3767083",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[10时35分 ~ 18时51分]"
+        },
+        {
           "title": "特朗普回应拉里贾尼威胁",
           "url": "https://news.ifeng.com/c/8rM7NkGzfDg",
           "source": "凤凰网",
@@ -39,18 +51,6 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时04分 ~ 07时35分]"
-        },
-        {
-          "title": "特朗普：对伊行动或很快将结束，但不是在本周，将取消一些制裁以平抑油价",
-          "url": "https://wallstreetcn.com/articles/3767083",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时35分 ~ 17时54分]"
         },
         {
           "title": "特朗普：将暂时免除一些制裁以平抑油价 对伊战事“很快”会结束",
@@ -120,6 +120,18 @@
           "time_info": "[07时35分 ~ 15时51分]"
         },
         {
+          "title": "美媒：特朗普没有对伊朗的“战后计划”",
+          "url": "https://news.ifeng.com/c/8rN9ezF5RPS",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[10时35分 ~ 18时51分]"
+        },
+        {
           "title": "特朗普：将与以总理共同作出停战决定",
           "url": "https://news.ifeng.com/c/8rM8XXIvw2a",
           "source": "凤凰网",
@@ -143,29 +155,6 @@
           "time_info": "[00时04分 ~ 10时35分]"
         },
         {
-          "title": "美媒：特朗普没有对伊朗的“战后计划”",
-          "url": "https://news.ifeng.com/c/8rN9ezF5RPS",
-          "source": "凤凰网",
-          "ranks": [
-            7,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时35分 ~ 17时54分]"
-        },
-        {
-          "title": "美以伊战争｜特朗普：距离向伊朗派兵“还差得远”",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时24分 ~ 04时01分]"
-        },
-        {
           "title": "美媒最新民调：特朗普支持率下滑至44%",
           "url": "https://news.ifeng.com/c/8rNS9E6Ovmp",
           "source": "凤凰网",
@@ -173,8 +162,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时48分 ~ 17时54分]"
+          "appearance_count": 9,
+          "time_info": "[12时48分 ~ 18时51分]"
         },
         {
           "title": "专家预言“霍尔木兹危机”将持续更久，特朗普发出“20倍攻击力”警告！",
@@ -187,8 +176,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时01分 ~ 17时54分]"
+          "appearance_count": 7,
+          "time_info": "[15时01分 ~ 18时51分]"
+        },
+        {
+          "title": "美以伊战争｜特朗普：距离向伊朗派兵“还差得远”",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时24分 ~ 04时01分]"
         },
         {
           "title": "特朗普称对伊战事将很快结束 G7承诺必要时释放石油储备 | 环球市场",
@@ -203,6 +203,21 @@
           "time_info": "[10时35分 ~ 16时54分]"
         },
         {
+          "title": "特朗普：若伊朗阻断霍尔木兹海峡，美将施以“比以往猛烈20倍的打击”",
+          "url": "https://www.cls.cn/detail/2307968",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            10,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[13时53分 ~ 18时51分]"
+        },
+        {
           "title": "美以伊战争｜特朗普：战争已基本结束",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
           "source": "凤凰网",
@@ -212,20 +227,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时49分 ~ 06时37分]"
-        },
-        {
-          "title": "特朗普：若伊朗阻断霍尔木兹海峡，美将施以“比以往猛烈20倍的打击”",
-          "url": "https://www.cls.cn/detail/2307968",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12,
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时53分 ~ 17时54分]"
         },
         {
           "title": "普京与特朗普通话讨论伊朗局势",
@@ -238,8 +239,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时53分 ~ 17时54分]"
+          "appearance_count": 8,
+          "time_info": "[13时53分 ~ 18时51分]"
         },
         {
           "title": "大逆转！特朗普一句“战争结束”，美国股债深V反转，原油较日高暴跌30%",
@@ -563,7 +564,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时54分"
         },
@@ -621,6 +622,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时40分"
+        },
+        {
+          "title": "特朗普释放停战信号，美股期指盘前上涨，美元持续下跌，现货黄金日内涨幅达1%，油价跳水",
+          "url": "https://wallstreetcn.com/articles/3767097",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时51分"
         },
         {
           "title": "消息人士：美国总统特朗普政府正考虑在油价飙升之际进一步放松对俄石油制裁。",
@@ -728,7 +740,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时54分"
         },
@@ -970,7 +982,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时54分"
         },
@@ -1506,7 +1518,7 @@
     },
     {
       "keyword_group": "Claude",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "Anthropic：计划在Claude Code中推出“代码审查”（Code Review）功能，该功能将率在Claude for Teams和Claude for Enterprise客户的研究预览版中推出。",
@@ -1519,6 +1531,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时01分 ~ 04时49分]"
+        },
+        {
+          "title": "亚马逊发言人：AWS客户和合作伙伴可以继续将其所有与美国战争部无关的工作负载迁移到Claude上。",
+          "url": "https://flash.jin10.com/detail/20260310182126798800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时51分"
         },
         {
           "title": "亚马逊云服务(AWS)：将为亚马逊基础模型服务（Amazon Bedrock）引入全球跨区域推理功能，并在印度引入Anthropic公司的Claude模型。",
