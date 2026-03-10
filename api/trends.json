@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-10T22:27:52.483221+08:00",
-  "total_titles_processed": 2066,
+  "generated_at": "2026-03-10T23:37:17.212937+08:00",
+  "total_titles_processed": 2171,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[07时35分 ~ 22时27分]"
+          "appearance_count": 17,
+          "time_info": "[07时35分 ~ 23时37分]"
         },
         {
           "title": "哈梅内伊次子当选伊朗新任最高领袖 特朗普威胁“难长久”",
@@ -38,8 +38,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[10时35分 ~ 22时27分]"
+          "appearance_count": 16,
+          "time_info": "[10时35分 ~ 23时37分]"
         },
         {
           "title": "特朗普回应拉里贾尼威胁",
@@ -195,6 +195,29 @@
           "time_info": "[13时53分 ~ 22时27分]"
         },
         {
+          "title": "特朗普称对伊军事行动很快结束，专家：美出现短板，被伊朗抓住",
+          "url": "https://news.ifeng.com/c/8rNxjUXwYy8",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[21时16分 ~ 23时37分]"
+        },
+        {
+          "title": "特朗普对伊朗开战的目标达成了吗？他承受了多大压力？",
+          "url": "https://v.ifeng.com/c/8rNwUGNMvZG",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[21时16分 ~ 23时37分]"
+        },
+        {
           "title": "特朗普：若伊朗阻断霍尔木兹海峡，美将施以“比以往猛烈20倍的打击”",
           "url": "https://www.cls.cn/detail/2307968",
           "source": "财联社热门",
@@ -219,6 +242,19 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[03时24分 ~ 04时01分]"
+        },
+        {
+          "title": "特朗普：有可能有条件同伊朗谈判",
+          "url": "https://www.cls.cn/detail/2308807",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[21时16分 ~ 23时37分]"
         },
         {
           "title": "特朗普称对伊战事将很快结束 G7承诺必要时释放石油储备 | 环球市场",
@@ -255,26 +291,16 @@
           "time_info": "[21时16分 ~ 22时27分]"
         },
         {
-          "title": "特朗普称对伊军事行动很快结束，专家：美出现短板，被伊朗抓住",
-          "url": "https://news.ifeng.com/c/8rNxjUXwYy8",
-          "source": "凤凰网",
+          "title": "特朗普释放停战对话信号，美股开盘涨跌互现，美元持续下跌，现货黄金日内涨幅达1%，油价跳水",
+          "url": "https://wallstreetcn.com/articles/3767097",
+          "source": "华尔街见闻",
           "ranks": [
-            2
+            4,
+            3
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[21时16分 ~ 22时27分]"
-        },
-        {
-          "title": "特朗普对伊朗开战的目标达成了吗？他承受了多大压力？",
-          "url": "https://v.ifeng.com/c/8rNwUGNMvZG",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时16分 ~ 22时27分]"
+          "time_info": "[22时27分 ~ 23时37分]"
         },
         {
           "title": "大逆转！特朗普一句“战争结束”，美国股债深V反转，原油较日高暴跌30%",
@@ -343,18 +369,6 @@
           "time_info": "06时37分"
         },
         {
-          "title": "特朗普：有可能有条件同伊朗谈判",
-          "url": "https://www.cls.cn/detail/2308807",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时16分 ~ 22时27分]"
-        },
-        {
           "title": "美国总统特朗普：美国正在打击伊朗的无人机制造基地，随着军事行动的持续，伊朗将“很快完蛋”。",
           "url": "https://flash.jin10.com/detail/20260310051406873800",
           "source": "金十数据",
@@ -387,17 +401,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[19时39分 ~ 21时17分]"
-        },
-        {
-          "title": "特朗普释放停战对话信号，美股开盘涨跌互现，美元持续下跌，现货黄金日内涨幅达1%，油价跳水",
-          "url": "https://wallstreetcn.com/articles/3767097",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时27分"
         },
         {
           "title": "美国总统特朗普：刚刚与澳大利亚总理阿尔巴尼斯通了电话。阿尔巴尼斯很关注伊朗女足国家队的问题。",
@@ -1095,7 +1098,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时27分"
         },
@@ -1664,8 +1667,19 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "IPX Power宣布正式作为独立发电企业（IPP）投入运营，此前谷歌已完成对能源供应商Intersect的收购。",
+          "url": "https://wallstreetcn.com/livenews/3067419",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时37分"
+        },
         {
           "title": "据AXIOS网站：由谷歌和特斯拉等公司组成的联盟将通过挖掘未充分利用的电网容量来解决能源可负担性问题。",
           "url": "https://flash.jin10.com/detail/20260310205317042800",
@@ -1696,7 +1710,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时27分"
         }
@@ -1743,6 +1757,45 @@
       ]
     },
     {
+      "keyword_group": "稀土",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "市场消息：美国稀土(USAR.O)公司在与美国政府达成具有里程碑意义的协议后扩充领导团队。",
+          "url": "https://flash.jin10.com/detail/20260310043803223800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时49分"
+        },
+        {
+          "title": "今日稀土主流产品价格大幅下跌",
+          "url": "https://www.toutiao.com/trending/7615503840435273754/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时36分 ~ 23时37分]"
+        },
+        {
+          "title": "中国2月铁矿砂及其精矿进口9763.8万吨；1-2月累计铁矿砂及其精矿进口21002.3万吨，同比增10.0%。 中国2月未锻轧铜及铜材进口31.6万吨；1-2月累计未锻轧铜及铜材进口69.96万吨，同比下降16.1%。 中国2月铜矿砂及其精矿进口231.03万吨；1-2月累计铜矿砂及其精矿进口493.3万吨，同比增4.9%。 中国2月未锻轧铝及铝材出口42.96万吨；1-2月累计未锻轧铝及铝材出口97.06万吨，同比增12.8%。 中国2月钢材出口783.7万吨；1-2月累计钢材出口1559.1万吨，同比下降8.1%。 中国2月稀土出口4407.1吨；1-2月累计稀土出口10468.3吨，同比增23.0%。",
+          "url": "https://wallstreetcn.com/livenews/3066999",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时48分"
+        }
+      ]
+    },
+    {
       "keyword_group": "台湾",
       "match_count": 2,
       "titles": [
@@ -1772,34 +1825,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时53分 ~ 15时02分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "稀土",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "市场消息：美国稀土(USAR.O)公司在与美国政府达成具有里程碑意义的协议后扩充领导团队。",
-          "url": "https://flash.jin10.com/detail/20260310043803223800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时49分"
-        },
-        {
-          "title": "中国2月铁矿砂及其精矿进口9763.8万吨；1-2月累计铁矿砂及其精矿进口21002.3万吨，同比增10.0%。 中国2月未锻轧铜及铜材进口31.6万吨；1-2月累计未锻轧铜及铜材进口69.96万吨，同比下降16.1%。 中国2月铜矿砂及其精矿进口231.03万吨；1-2月累计铜矿砂及其精矿进口493.3万吨，同比增4.9%。 中国2月未锻轧铝及铝材出口42.96万吨；1-2月累计未锻轧铝及铝材出口97.06万吨，同比增12.8%。 中国2月钢材出口783.7万吨；1-2月累计钢材出口1559.1万吨，同比下降8.1%。 中国2月稀土出口4407.1吨；1-2月累计稀土出口10468.3吨，同比增23.0%。",
-          "url": "https://wallstreetcn.com/livenews/3066999",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时48分"
         }
       ]
     }
