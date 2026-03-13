@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-13T19:06:39.963808+08:00",
-  "total_titles_processed": 1580,
+  "generated_at": "2026-03-13T19:56:39.009167+08:00",
+  "total_titles_processed": 1666,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 37,
+      "match_count": 40,
       "titles": [
         {
           "title": "特朗普称穆杰塔巴可能受伤但仍活着",
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时38分 ~ 19时06分]"
+          "appearance_count": 11,
+          "time_info": "[10时38分 ~ 19时56分]"
         },
         {
           "title": "中方回应特朗普计划访华",
@@ -65,8 +65,22 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时38分 ~ 19时06分]"
+          "appearance_count": 11,
+          "time_info": "[10时38分 ~ 19时56分]"
+        },
+        {
+          "title": "不再鼓吹低油价？特朗普态度“180度大转弯”：高油价让美国大赚！",
+          "url": "https://www.cls.cn/detail/2311714",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[13时55分 ~ 19时56分]"
         },
         {
           "title": "中方回应特朗普计划访华",
@@ -78,24 +92,23 @@
             10,
             29,
             27,
-            19
+            19,
+            30
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时04分 ~ 19时06分]"
+          "appearance_count": 14,
+          "time_info": "[01时04分 ~ 19时56分]"
         },
         {
-          "title": "不再鼓吹低油价？特朗普态度“180度大转弯”：高油价让美国大赚！",
-          "url": "https://www.cls.cn/detail/2311714",
-          "source": "财联社热门",
+          "title": "草台班子？特朗普政府低估伊朗决心，让人目瞪口呆",
+          "url": "https://news.ifeng.com/c/8rSg9cinRV8",
+          "source": "凤凰网",
           "ranks": [
-            9,
-            8,
-            5
+            2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时55分 ~ 19时06分]"
+          "appearance_count": 2,
+          "time_info": "[19时06分 ~ 19时56分]"
         },
         {
           "title": "特朗普政府准备豁免《琼斯法案》 以应对燃料价格飙升",
@@ -109,17 +122,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[10时38分 ~ 16时03分]"
-        },
-        {
-          "title": "草台班子？特朗普政府低估伊朗决心，让人目瞪口呆",
-          "url": "https://news.ifeng.com/c/8rSg9cinRV8",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时06分"
         },
         {
           "title": "特朗普：伊朗的一切都在被摧毁",
@@ -208,6 +210,17 @@
           "time_info": "[10时38分 ~ 13时55分]"
         },
         {
+          "title": "特朗普没料到，能拦截油轮的，除了伊朗还有一个资本财团",
+          "url": "https://news.ifeng.com/c/8rSOJi1DH0g",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时06分 ~ 19时56分]"
+        },
+        {
           "title": "特朗普敦促鲍威尔立即降息：不要等到美联储下次开会",
           "url": "https://wallstreetcn.com/livenews/3069118",
           "source": "华尔街见闻-快讯",
@@ -254,6 +267,18 @@
           "time_info": "[06时05分 ~ 06时33分]"
         },
         {
+          "title": "特朗普访华后将签署美国对台一揽子军售方案？外交部回应",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32761207",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时06分 ~ 19时56分]"
+        },
+        {
           "title": "周四（3月12日），降息赢家指数跌2.72%，报87.51点，跳空低开之后持续走低。 “特朗普关税输家”指数跌3.14%，“特朗普金融指数”跌3.08%。 散户抱团概念股指数/迷因股（meme stock）指数跌2.73%。",
           "url": "https://wallstreetcn.com/livenews/3069156",
           "source": "华尔街见闻-快讯",
@@ -286,17 +311,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时39分"
-        },
-        {
-          "title": "特朗普没料到，能拦截油轮的，除了伊朗还有一个资本财团",
-          "url": "https://news.ifeng.com/c/8rSOJi1DH0g",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时06分"
         },
         {
           "title": "48%的美国人将高油价归咎于特朗普，这一比例高于其他任何因素。",
@@ -332,6 +346,17 @@
           "time_info": "04时01分"
         },
         {
+          "title": "特朗普：普京可能以为我们在帮乌克兰。",
+          "url": "https://flash.jin10.com/detail/20260313193110059800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时56分"
+        },
+        {
           "title": "伊朗最高安全官员对特朗普表示：结束战争可不是发几条推特就能做到的。",
           "url": "https://flash.jin10.com/detail/20260313002551576800",
           "source": "金十数据",
@@ -354,6 +379,17 @@
           "time_info": "04时58分"
         },
         {
+          "title": "特朗普：普京可能在“稍微”帮助伊朗。",
+          "url": "https://flash.jin10.com/detail/20260313193025192800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时56分"
+        },
+        {
           "title": "伊朗最高安全官员对特朗普表示：除非你承认错误并付出代价，否则我们不会放你走。",
           "url": "https://flash.jin10.com/detail/20260313002535367800",
           "source": "金十数据",
@@ -363,17 +399,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时04分"
-        },
-        {
-          "title": "特朗普访华后将签署美国对台一揽子军售方案？外交部回应",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32761207",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时06分"
         },
         {
           "title": "特朗普政府任命42名移民法官，其中许多人拥有执法背景",
@@ -420,13 +445,24 @@
           "time_info": "02时12分"
         },
         {
+          "title": "特朗普称必要时将护航霍尔木兹海峡 威胁加大对伊朗打击",
+          "url": "https://flash.jin10.com/detail/20260313191927288800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时56分"
+        },
+        {
           "title": "特朗普鼓动油轮“拿出点胆量”通过霍尔木兹海峡",
           "url": "https://wallstreetcn.com/livenews/3069649",
           "source": "华尔街见闻-快讯",
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时06分"
         },
@@ -440,6 +476,56 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时55分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "稀土",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "智利方面称，已与美国签署关于关键矿产和稀土的联合声明。",
+          "url": "https://flash.jin10.com/detail/20260313014315200800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时12分"
+        },
+        {
+          "title": "北方稀土：拟以自有资金出资1.16亿元人民币与宁波铄腾新材料有限公司合资成立北方铄腾磁业（内蒙古）有限公司，并以新公司为主体建设年产10000吨含铈钕铁硼磁性材料项目，工程总投资5.95亿元。",
+          "url": "https://wallstreetcn.com/livenews/3069714",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时56分"
+        },
+        {
+          "title": "智利与美国寻求在关键矿产和稀土领域开展合作",
+          "url": "https://flash.jin10.com/detail/20260313035054916800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时58分"
+        },
+        {
+          "title": "中国稀土集团与中核铀业举行工作会谈",
+          "url": "https://wallstreetcn.com/livenews/3069645",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时06分"
         }
       ]
     },
@@ -480,45 +566,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时26分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "稀土",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "智利方面称，已与美国签署关于关键矿产和稀土的联合声明。",
-          "url": "https://flash.jin10.com/detail/20260313014315200800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时12分"
-        },
-        {
-          "title": "智利与美国寻求在关键矿产和稀土领域开展合作",
-          "url": "https://flash.jin10.com/detail/20260313035054916800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时58分"
-        },
-        {
-          "title": "中国稀土集团与中核铀业举行工作会谈",
-          "url": "https://wallstreetcn.com/livenews/3069645",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时06分"
         }
       ]
     },
