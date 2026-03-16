@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-16T19:55:52.424646+08:00",
-  "total_titles_processed": 1459,
+  "generated_at": "2026-03-16T21:28:56.062304+08:00",
+  "total_titles_processed": 1584,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 56,
+      "match_count": 58,
       "titles": [
         {
           "title": "条件“还不够好”！特朗普称暂时不会与伊朗达成停火协议，美官员：目前重点是继续战争",
@@ -133,8 +133,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[10时57分 ~ 19时55分]"
+          "appearance_count": 13,
+          "time_info": "[10时57分 ~ 21时28分]"
         },
         {
           "title": "特朗普称将联合多国派遣军舰，确保霍尔木兹海峡通航安全",
@@ -190,17 +190,6 @@
           "time_info": "[10时57分 ~ 19时55分]"
         },
         {
-          "title": "美以伊战争丨不协助护航特朗普就不访华？外交部回应",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时11分 ~ 17时43分]"
-        },
-        {
           "title": "外交部：中美双方就特朗普总统访华事宜保持着沟通",
           "url": "https://www.cls.cn/detail/2314062",
           "source": "财联社热门",
@@ -210,8 +199,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时42分 ~ 19时55分]"
+          "appearance_count": 5,
+          "time_info": "[17时42分 ~ 21时28分]"
         },
         {
           "title": "特朗普会投入地面部队吗？",
@@ -221,8 +210,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时42分 ~ 19时55分]"
+          "appearance_count": 5,
+          "time_info": "[17时42分 ~ 21时28分]"
         },
         {
           "title": "外交部回应特朗普将推迟访华言论，「双方就特朗普总统访华事宜保持着沟通」，哪些信息值得关注？",
@@ -231,11 +220,23 @@
           "ranks": [
             4,
             3,
-            2
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时42分 ~ 21时28分]"
+        },
+        {
+          "title": "美以伊战争丨不协助护航特朗普就不访华？外交部回应",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[17时42分 ~ 19时55分]"
+          "time_info": "[16时11分 ~ 17时43分]"
         },
         {
           "title": "中方：中美就特朗普访华保持着沟通",
@@ -263,6 +264,29 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时41分 ~ 06时36分]"
+        },
+        {
+          "title": "中美就特朗普总统访华事保持着沟通",
+          "url": "https://www.toutiao.com/trending/7616995731195052086/",
+          "source": "今日头条",
+          "ranks": [
+            2,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时42分 ~ 21时28分]"
+        },
+        {
+          "title": "特朗普，赚了近100亿",
+          "url": "https://news.ifeng.com/c/8rXsIKxSU6H",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时02分 ~ 21时28分]"
         },
         {
           "title": "美以伊战争丨伊外长：人们被杀只因特朗普想找乐子",
@@ -309,18 +333,6 @@
           "time_info": "[19时02分 ~ 19时55分]"
         },
         {
-          "title": "中美就特朗普总统访华事保持着沟通",
-          "url": "https://www.toutiao.com/trending/7616995731195052086/",
-          "source": "今日头条",
-          "ranks": [
-            2,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时42分 ~ 19时55分]"
-        },
-        {
           "title": "特朗普威胁将取消访华 中方回应",
           "url": "https://www.douyin.com/hot/2432550",
           "source": "抖音",
@@ -333,15 +345,15 @@
           "time_info": "[16时11分 ~ 17时43分]"
         },
         {
-          "title": "特朗普，赚了近100亿",
-          "url": "https://news.ifeng.com/c/8rXsIKxSU6H",
+          "title": "美以伊战争丨特朗普求护航，德国：这不是北约的战争",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
           "source": "凤凰网",
           "ranks": [
-            4
+            1
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时02分 ~ 19时55分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时28分"
         },
         {
           "title": "民调：特朗普正将美国盟友推向中国",
@@ -403,6 +415,30 @@
           "time_info": "10时58分"
         },
         {
+          "title": "特朗普强推“护航联盟”：不派舰，北约未来“非常糟糕”；日澳已拒绝",
+          "url": "https://wallstreetcn.com/articles/3767606",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时02分 ~ 21时28分]"
+        },
+        {
+          "title": "释新闻｜特朗普呼吁组建“护航联盟”打通霍尔木兹海峡，为何反应平平？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32775654",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时42分 ~ 21时28分]"
+        },
+        {
           "title": "英国首相府：英国首相斯塔默今晚与美国总统特朗普、加拿大总理卡尼进行了通话。",
           "url": "https://flash.jin10.com/detail/20260316032528121800",
           "source": "金十数据",
@@ -441,26 +477,17 @@
           "time_info": "[17时42分 ~ 19时55分]"
         },
         {
-          "title": "释新闻｜特朗普呼吁组建“护航联盟”打通霍尔木兹海峡，为何反应平平？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32775654",
+          "title": "中国不协助霍尔木兹海峡护航特朗普就推迟访华？外交部回应",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32776754",
           "source": "澎湃新闻",
           "ranks": [
-            14
+            18,
+            13,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时42分 ~ 19时55分]"
-        },
-        {
-          "title": "特朗普强推“护航联盟”：不派舰，北约未来“非常糟糕”；日澳已拒绝",
-          "url": "https://wallstreetcn.com/articles/3767606",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时02分 ~ 19时55分]"
+          "appearance_count": 3,
+          "time_info": "[19时02分 ~ 21时28分]"
         },
         {
           "title": "据华尔街日报：特朗普政府计划最快于本周宣布，多个国家已同意组成联盟，为通过霍尔木兹海峡的船只提供护航。不过各方仍在讨论这些行动应在伊朗敌对行动结束之前还是之后启动。",
@@ -473,18 +500,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时34分 ~ 06时36分]"
-        },
-        {
-          "title": "中国不协助霍尔木兹海峡护航特朗普就推迟访华？外交部回应",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32776754",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时02分 ~ 19时55分]"
         },
         {
           "title": "据华尔街日报：石油行业警告，特朗普政府导致的能源危机很可能进一步恶化。",
@@ -647,7 +662,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时55分"
         },
@@ -661,6 +676,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时25分"
+        },
+        {
+          "title": "白宫新闻秘书莱维特：特朗普希望英国能更早、更快地行动。",
+          "url": "https://flash.jin10.com/detail/20260316205003667800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时28分"
         }
       ]
     },
