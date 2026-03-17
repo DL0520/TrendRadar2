@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-03-17T07:43:27.339641+08:00",
-  "total_titles_processed": 754,
+  "generated_at": "2026-03-17T10:41:30.819207+08:00",
+  "total_titles_processed": 937,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 70,
+      "match_count": 75,
       "titles": [
+        {
+          "title": "外交部：中美双方就特朗普总统访华事保持着沟通",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32776754",
+          "source": "澎湃新闻",
+          "ranks": [
+            4,
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时12分 ~ 10时41分]"
+        },
         {
           "title": "特朗普会投入地面部队吗？",
           "url": "https://news.ifeng.com/c/8rXXAfLW18s",
@@ -44,16 +57,31 @@
           "time_info": "[00时12分 ~ 07时43分]"
         },
         {
-          "title": "外交部：中美双方就特朗普总统访华事保持着沟通",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32776754",
-          "source": "澎湃新闻",
+          "title": "特朗普强推“护航联盟”：不派舰，北约未来“非常糟糕”；日澳已拒绝",
+          "url": "https://wallstreetcn.com/articles/3767606",
+          "source": "华尔街见闻",
           "ranks": [
-            4,
-            5
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时12分 ~ 07时43分]"
+          "appearance_count": 10,
+          "time_info": "[00时12分 ~ 10时41分]"
+        },
+        {
+          "title": "伊朗外长：从未请求停火或谈判，特朗普想“找乐子”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32775868",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            13,
+            10,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时12分 ~ 10时41分]"
         },
         {
           "title": "美以伊战争丨特朗普求护航，德国：这不是北约的战争",
@@ -67,36 +95,10 @@
           "time_info": "[00时12分 ~ 04时02分]"
         },
         {
-          "title": "特朗普强推“护航联盟”：不派舰，北约未来“非常糟糕”；日澳已拒绝",
-          "url": "https://wallstreetcn.com/articles/3767606",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时12分 ~ 07时43分]"
-        },
-        {
           "title": "特朗普点名多国参加护航霍尔木兹海峡，德法日韩：不去",
           "url": "https://news.ifeng.com/c/8rXCGrQJNtV",
           "source": "凤凰网",
           "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时12分 ~ 07时43分]"
-        },
-        {
-          "title": "伊朗外长：从未请求停火或谈判，特朗普想“找乐子”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32775868",
-          "source": "澎湃新闻",
-          "ranks": [
-            12,
-            13,
-            10,
             9
           ],
           "is_new": false,
@@ -132,7 +134,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时43分"
         },
@@ -154,7 +156,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时43分"
         },
@@ -172,6 +174,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[03时13分 ~ 06时59分]"
+        },
+        {
+          "title": "白宫官员：特朗普拒绝重启与伊朗谈判",
+          "url": "https://news.ifeng.com/c/8rYnLJ4bT0Q",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时41分"
         },
         {
           "title": "据NBC：特朗普每日都会收到结束伊朗冲突的方案选项。",
@@ -202,9 +215,31 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时43分"
+        },
+        {
+          "title": "特朗普“护航联盟”为何应者寥寥？美军真的会夺哈尔克岛吗｜907编辑部",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32777497",
+          "source": "澎湃新闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时41分"
+        },
+        {
+          "title": "特朗普抱怨部分盟友不帮忙 并暗示将袭击哈尔克岛石油设施 | 环球市场",
+          "url": "https://www.cls.cn/detail/2314895",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时41分"
         },
         {
           "title": "美国总统特朗普结束新闻发布会。",
@@ -359,6 +394,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时04分 ~ 06时59分]"
+        },
+        {
+          "title": "特朗普“三个很开心”，让全世界脊背发凉",
+          "url": "https://news.ifeng.com/c/8rYllPsJnfC",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时41分"
         },
         {
           "title": "美国总统特朗普：真主党一直是个问题。",
@@ -603,6 +649,17 @@
           "time_info": "05时08分"
         },
         {
+          "title": "全球前瞻｜特朗普称将继续“猛烈空袭”伊朗，中美正探讨建立全新机制",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32776082",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时41分"
+        },
+        {
           "title": "美国总统特朗普：很多油轮船主不想冒风险。",
           "url": "https://flash.jin10.com/detail/20260317010535305800",
           "source": "金十数据",
@@ -763,7 +820,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时43分"
         },
@@ -796,7 +853,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时43分"
         }
