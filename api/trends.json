@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-20T06:39:47.730226+08:00",
-  "total_titles_processed": 636,
+  "generated_at": "2026-03-20T07:37:19.706822+08:00",
+  "total_titles_processed": 696,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 34,
+      "match_count": 35,
       "titles": [
         {
           "title": "特朗普盟友警告：美国经济受不了对伊动武所致高油价",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时35分 ~ 06时39分]"
+          "appearance_count": 9,
+          "time_info": "[00时35分 ~ 07时37分]"
         },
         {
           "title": "报告与特朗普开战理由相悖？美情报总监矛盾表态",
@@ -26,8 +26,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时35分 ~ 06时39分]"
+          "appearance_count": 9,
+          "time_info": "[00时35分 ~ 07时37分]"
         },
         {
           "title": "特朗普威胁：再炸卡塔尔，把你们伊朗气田炸上天",
@@ -37,8 +37,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时35分 ~ 06时39分]"
+          "appearance_count": 9,
+          "time_info": "[00时35分 ~ 07时37分]"
         },
         {
           "title": "被特朗普抱怨不积极，默茨最新表态",
@@ -49,8 +49,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时35分 ~ 06时39分]"
+          "appearance_count": 9,
+          "time_info": "[00时35分 ~ 07时37分]"
         },
         {
           "title": "“能源战”升级！以军轰炸伊朗最大气田、油价暴涨背后：以色列完全“控制”了特朗普？",
@@ -58,11 +58,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时35分 ~ 06时39分]"
+          "appearance_count": 9,
+          "time_info": "[00时35分 ~ 07时37分]"
         },
         {
           "title": "特朗普见高市早苗提偷袭珍珠港",
@@ -72,8 +73,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时06分 ~ 06时39分]"
+          "appearance_count": 8,
+          "time_info": "[02时06分 ~ 07时37分]"
         },
         {
           "title": "特朗普称已告知以色列勿攻击伊朗境内能源设施",
@@ -163,11 +164,24 @@
           "url": "https://wallstreetcn.com/articles/3767948",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时57分 ~ 07时37分]"
+        },
+        {
+          "title": "美国参议院少数党领袖舒默：美国人被迫在救命药物和日常必需品之间做出选择，而特朗普却要求为他的战争再拨款2000亿美元，延长《平价医疗法案》税收抵免给超过2000万美国人的成本还不到这个数字的一半。",
+          "url": "https://flash.jin10.com/detail/20260320061455278800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            25
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[05时57分 ~ 06时39分]"
+          "time_info": "[06时39分 ~ 07时37分]"
         },
         {
           "title": "特朗普会晤高市早苗，把美国袭击伊朗比作偷袭珍珠港",
@@ -191,17 +205,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时10分"
-        },
-        {
-          "title": "美国参议院少数党领袖舒默：美国人被迫在救命药物和日常必需品之间做出选择，而特朗普却要求为他的战争再拨款2000亿美元，延长《平价医疗法案》税收抵免给超过2000万美国人的成本还不到这个数字的一半。",
-          "url": "https://flash.jin10.com/detail/20260320061455278800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时39分"
         },
         {
           "title": "美国总统特朗普结束白宫新闻发布会。",
@@ -276,7 +279,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时39分"
         },
@@ -323,6 +326,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时03分"
+        },
+        {
+          "title": "特朗普会晤高市早苗 要求日本就伊朗战事出力",
+          "url": "https://flash.jin10.com/detail/20260320064109049800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时37分"
         },
         {
           "title": "美国总统特朗普：英国现在想派航母，我早就这么想了。",
@@ -433,6 +447,23 @@
       ]
     },
     {
+      "keyword_group": "Claude",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "Claude Code核心工程师Thariq：刚刚发布了Claude Code渠道（Claude Code channels），可以通过指定的MCP控制Claude Code会话，首批支持Telegram和Discord。使用这个功能可以直接从手机给Claude Code发消息。",
+          "url": "https://flash.jin10.com/detail/20260320063934981800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时37分"
+        }
+      ]
+    },
+    {
       "keyword_group": "台湾",
       "match_count": 1,
       "titles": [
@@ -442,11 +473,12 @@
           "source": "微博",
           "ranks": [
             22,
-            21
+            21,
+            23
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时35分 ~ 06时39分]"
+          "appearance_count": 9,
+          "time_info": "[00时35分 ~ 07时37分]"
         }
       ]
     }
