@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-20T17:08:55.841341+08:00",
-  "total_titles_processed": 1420,
+  "generated_at": "2026-03-20T18:07:22.535910+08:00",
+  "total_titles_processed": 1534,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 49,
+      "match_count": 50,
       "titles": [
         {
           "title": "特朗普盟友警告：美国经济受不了对伊动武所致高油价",
@@ -51,8 +51,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[05时57分 ~ 17时08分]"
+          "appearance_count": 12,
+          "time_info": "[05时57分 ~ 18时07分]"
         },
         {
           "title": "被特朗普抱怨不积极，默茨最新表态",
@@ -80,6 +80,17 @@
           "time_info": "[00时35分 ~ 10时40分]"
         },
         {
+          "title": "全世界都被特朗普逗笑了，除了高市早苗",
+          "url": "https://news.ifeng.com/c/8rdmWWFqwvD",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[10时39分 ~ 18时07分]"
+        },
+        {
           "title": "美以伊战争丨特朗普最佳王牌下周抵达中东，能做什么",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
           "source": "凤凰网",
@@ -102,17 +113,6 @@
           "time_info": "[02时06分 ~ 07时37分]"
         },
         {
-          "title": "全世界都被特朗普逗笑了，除了高市早苗",
-          "url": "https://news.ifeng.com/c/8rdmWWFqwvD",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时39分 ~ 17时08分]"
-        },
-        {
           "title": "特朗普会晤高市早苗 把美国袭击伊朗比作偷袭珍珠港",
           "url": "https://www.cls.cn/detail/2318930",
           "source": "财联社热门",
@@ -125,6 +125,18 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[10时39分 ~ 16时03分]"
+        },
+        {
+          "title": "特朗普指着带口音的记者问高市：这是你们的人，他是好是坏？",
+          "url": "https://v.ifeng.com/c/8rckHP0Ciue",
+          "source": "凤凰网",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时58分 ~ 18时07分]"
         },
         {
           "title": "特朗普称已告知以色列勿攻击伊朗境内能源设施",
@@ -158,17 +170,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时10分"
-        },
-        {
-          "title": "特朗普指着带口音的记者问高市：这是你们的人，他是好是坏？",
-          "url": "https://v.ifeng.com/c/8rckHP0Ciue",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时58分 ~ 17时08分]"
         },
         {
           "title": "周四（3月19日），降息赢家指数跌0.12%，报86.81点，绝大部分时间低位震荡，北京时间03:00前后迅猛拉升，使得日内整体跌幅快速收窄。 2月10日美股收盘以来，已经累计下跌18.77%。 “特朗普关税输家”指数涨0.65%，“特朗普金融指数”涨0.10%。 散户抱团概念股指数/迷因股（meme stock）指数跌0.07%。",
@@ -276,6 +277,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时39分 ~ 10时40分]"
+        },
+        {
+          "title": "高市早苗秀英语没说几句就“翻车”，特朗普：我们还是用翻译吧",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32799795",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时08分 ~ 18时07分]"
         },
         {
           "title": "特朗普会晤高市早苗，把美国袭击伊朗比作日本偷袭珍珠港，如何解读这一言论？如何看待当前美日关系？",
@@ -405,7 +418,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时08分"
         },
@@ -476,17 +489,6 @@
           "time_info": "00时35分"
         },
         {
-          "title": "高市早苗秀英语没说几句就“翻车”，特朗普：我们还是用翻译吧",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32799795",
-          "source": "澎湃新闻",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时08分"
-        },
-        {
           "title": "美国总统特朗普：日本和欧洲通过霍尔木兹海峡获取石油。",
           "url": "https://flash.jin10.com/detail/20260320000949699800",
           "source": "金十数据",
@@ -540,6 +542,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时35分"
+        },
+        {
+          "title": "行业集体施压奏效！特朗普政府明确放弃石油出口禁令选项",
+          "url": "https://flash.jin10.com/detail/20260320172358241800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时07分"
         },
         {
           "title": "美防长：世界应感谢特朗普",
@@ -655,11 +668,12 @@
           "url": "https://news.ifeng.com/c/8rdeuwfkoWL",
           "source": "凤凰网",
           "ranks": [
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时58分 ~ 17时08分]"
+          "appearance_count": 6,
+          "time_info": "[13时58分 ~ 18时07分]"
         },
         {
           "title": "苹果日本供应商：稀土采购仍依赖中国",
