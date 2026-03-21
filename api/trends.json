@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-21T21:04:03.137976+08:00",
-  "total_titles_processed": 1477,
+  "generated_at": "2026-03-21T22:00:05.892692+08:00",
+  "total_titles_processed": 1528,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 74,
+      "match_count": 76,
       "titles": [
         {
           "title": "特朗普称正考虑逐步降级对伊朗的军事行动",
@@ -19,8 +19,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[07时36分 ~ 21时04分]"
+          "appearance_count": 17,
+          "time_info": "[07时36分 ~ 22时00分]"
         },
         {
           "title": "响应特朗普呼声，以色列总理称将暂停空袭伊朗能源设施，卡塔尔称伊袭破坏17%LNG产能",
@@ -44,8 +44,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[12时43分 ~ 21时04分]"
+          "appearance_count": 15,
+          "time_info": "[12时43分 ~ 22时00分]"
         },
         {
           "title": "美股期货跌幅扩大，报道：特朗普考虑占领或封锁伊朗哈尔克岛",
@@ -75,8 +75,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[06时36分 ~ 21时04分]"
+          "appearance_count": 18,
+          "time_info": "[06时36分 ~ 22时00分]"
         },
         {
           "title": "特朗普据称考虑占领或封锁哈尔克岛 以迫使伊朗重开霍尔木兹海峡",
@@ -91,8 +91,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时08分 ~ 21时04分]"
+          "appearance_count": 27,
+          "time_info": "[00时08分 ~ 22时00分]"
         },
         {
           "title": "对话｜海湾战事三周（上）：特朗普矛盾表态是策略，伊朗非对称作战奏效",
@@ -106,8 +106,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[10时33分 ~ 21时04分]"
+          "appearance_count": 16,
+          "time_info": "[10时33分 ~ 22时00分]"
         },
         {
           "title": "向特朗普提问的日本记者，遭疯狂网暴",
@@ -181,11 +181,12 @@
             8,
             9,
             10,
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[10时33分 ~ 21时04分]"
+          "appearance_count": 16,
+          "time_info": "[10时33分 ~ 22时00分]"
         },
         {
           "title": "高市早苗抵达白宫，特朗普张开双臂欢迎，两人热情拥抱",
@@ -212,6 +213,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时47分 ~ 07时36分]"
+        },
+        {
+          "title": "江学勤教授预警：特朗普或启动全美征兵",
+          "url": "https://news.ifeng.com/c/8rg6sjUJDpt",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[19时30分 ~ 22时00分]"
         },
         {
           "title": "美国总统特朗普：英国本应行动更快。",
@@ -260,15 +272,15 @@
           "time_info": "[06时36分 ~ 07时36分]"
         },
         {
-          "title": "江学勤教授预警：特朗普或启动全美征兵",
-          "url": "https://news.ifeng.com/c/8rg6sjUJDpt",
-          "source": "凤凰网",
+          "title": "特朗普称考虑逐步减少对伊朗的军事行动，美股ETF盘后转涨",
+          "url": "https://wallstreetcn.com/articles/3768039",
+          "source": "华尔街见闻",
           "ranks": [
-            6
+            10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[19时30分 ~ 21时04分]"
+          "appearance_count": 7,
+          "time_info": "[10时33分 ~ 22时00分]"
         },
         {
           "title": "默茨说特朗普对他不太满意",
@@ -356,15 +368,15 @@
           "time_info": "[12时43分 ~ 15时38分]"
         },
         {
-          "title": "特朗普称考虑逐步减少对伊朗的军事行动，美股ETF盘后转涨",
-          "url": "https://wallstreetcn.com/articles/3768039",
-          "source": "华尔街见闻",
+          "title": "捅了马蜂窝却让别人去护航，特朗普为何频频发出矛盾表态？",
+          "url": "https://news.ifeng.com/c/8rgDgdm9Vc6",
+          "source": "凤凰网",
           "ranks": [
-            10
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时33分 ~ 21时04分]"
+          "appearance_count": 4,
+          "time_info": "[21时03分 ~ 22时00分]"
         },
         {
           "title": "周五（3月20日），降息赢家指数跌2.23%，报84.87点，本周累计下跌2.49%。 “特朗普关税输家”指数跌2.56%，本周累跌2.01%；“特朗普金融指数”涨0.35%，本周累涨1.46%。 散户抱团概念股指数/迷因股（meme stock）指数跌3.65%，本周累跌2.78%。",
@@ -499,17 +511,6 @@
           "time_info": "[06时36分 ~ 10时33分]"
         },
         {
-          "title": "捅了马蜂窝却让别人去护航，特朗普为何频频发出矛盾表态？",
-          "url": "https://news.ifeng.com/c/8rgDgdm9Vc6",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时03分 ~ 21时04分]"
-        },
-        {
           "title": "美国总统特朗普：伊朗现在没有雷达、侦察员、飞机，领导人也都被我们击毙了。",
           "url": "https://flash.jin10.com/detail/20260321034659408800",
           "source": "金十数据",
@@ -639,6 +640,17 @@
           "time_info": "00时08分"
         },
         {
+          "title": "伊朗官员誓言要给特朗普“一个教训”",
+          "url": "https://flash.jin10.com/detail/20260321211515397800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时00分"
+        },
+        {
           "title": "美国总统特朗普：北约没有勇气在伊朗问题上帮助我们。",
           "url": "https://flash.jin10.com/detail/20260321034511161800",
           "source": "金十数据",
@@ -648,6 +660,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时58分"
+        },
+        {
+          "title": "海湾国家担忧特朗普留下烂摊子 称伊朗控制海峡“不可接受”",
+          "url": "https://flash.jin10.com/detail/20260321211140614800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时00分"
         },
         {
           "title": "美国总统特朗普：开启霍尔木兹海峡需要大量的协助。",
