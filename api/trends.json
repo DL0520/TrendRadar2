@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-21T19:51:14.140343+08:00",
-  "total_titles_processed": 1403,
+  "generated_at": "2026-03-21T21:04:03.137976+08:00",
+  "total_titles_processed": 1477,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 73,
+      "match_count": 74,
       "titles": [
         {
           "title": "特朗普称正考虑逐步降级对伊朗的军事行动",
@@ -19,8 +19,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[07时36分 ~ 19时51分]"
+          "appearance_count": 15,
+          "time_info": "[07时36分 ~ 21时04分]"
         },
         {
           "title": "响应特朗普呼声，以色列总理称将暂停空袭伊朗能源设施，卡塔尔称伊袭破坏17%LNG产能",
@@ -44,8 +44,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时43分 ~ 19时51分]"
+          "appearance_count": 13,
+          "time_info": "[12时43分 ~ 21时04分]"
         },
         {
           "title": "美股期货跌幅扩大，报道：特朗普考虑占领或封锁伊朗哈尔克岛",
@@ -75,8 +75,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[06时36分 ~ 19时51分]"
+          "appearance_count": 16,
+          "time_info": "[06时36分 ~ 21时04分]"
         },
         {
           "title": "特朗普据称考虑占领或封锁哈尔克岛 以迫使伊朗重开霍尔木兹海峡",
@@ -91,8 +91,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时08分 ~ 19时51分]"
+          "appearance_count": 25,
+          "time_info": "[00时08分 ~ 21时04分]"
         },
         {
           "title": "对话｜海湾战事三周（上）：特朗普矛盾表态是策略，伊朗非对称作战奏效",
@@ -102,11 +102,12 @@
             12,
             8,
             6,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[10时33分 ~ 19时51分]"
+          "appearance_count": 14,
+          "time_info": "[10时33分 ~ 21时04分]"
         },
         {
           "title": "向特朗普提问的日本记者，遭疯狂网暴",
@@ -183,8 +184,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[10时33分 ~ 19时51分]"
+          "appearance_count": 14,
+          "time_info": "[10时33分 ~ 21时04分]"
         },
         {
           "title": "高市早苗抵达白宫，特朗普张开双臂欢迎，两人热情拥抱",
@@ -257,6 +258,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时36分 ~ 07时36分]"
+        },
+        {
+          "title": "江学勤教授预警：特朗普或启动全美征兵",
+          "url": "https://news.ifeng.com/c/8rg6sjUJDpt",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[19时30分 ~ 21时04分]"
         },
         {
           "title": "默茨说特朗普对他不太满意",
@@ -344,15 +356,15 @@
           "time_info": "[12时43分 ~ 15时38分]"
         },
         {
-          "title": "江学勤教授预警：特朗普或启动全美征兵",
-          "url": "https://news.ifeng.com/c/8rg6sjUJDpt",
-          "source": "凤凰网",
+          "title": "特朗普称考虑逐步减少对伊朗的军事行动，美股ETF盘后转涨",
+          "url": "https://wallstreetcn.com/articles/3768039",
+          "source": "华尔街见闻",
           "ranks": [
-            6
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时30分 ~ 19时51分]"
+          "appearance_count": 5,
+          "time_info": "[10时33分 ~ 21时04分]"
         },
         {
           "title": "周五（3月20日），降息赢家指数跌2.23%，报84.87点，本周累计下跌2.49%。 “特朗普关税输家”指数跌2.56%，本周累跌2.01%；“特朗普金融指数”涨0.35%，本周累涨1.46%。 散户抱团概念股指数/迷因股（meme stock）指数跌3.65%，本周累跌2.78%。",
@@ -487,15 +499,15 @@
           "time_info": "[06时36分 ~ 10时33分]"
         },
         {
-          "title": "特朗普称考虑逐步减少对伊朗的军事行动，美股ETF盘后转涨",
-          "url": "https://wallstreetcn.com/articles/3768039",
-          "source": "华尔街见闻",
+          "title": "捅了马蜂窝却让别人去护航，特朗普为何频频发出矛盾表态？",
+          "url": "https://news.ifeng.com/c/8rgDgdm9Vc6",
+          "source": "凤凰网",
           "ranks": [
-            10
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时33分 ~ 18时35分]"
+          "appearance_count": 2,
+          "time_info": "[21时03分 ~ 21时04分]"
         },
         {
           "title": "美国总统特朗普：伊朗现在没有雷达、侦察员、飞机，领导人也都被我们击毙了。",
