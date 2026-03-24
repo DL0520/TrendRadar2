@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-25T04:04:37.340087+08:00",
-  "total_titles_processed": 523,
+  "generated_at": "2026-03-25T05:08:11.370413+08:00",
+  "total_titles_processed": 566,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时39分 ~ 04时04分]"
+          "appearance_count": 8,
+          "time_info": "[00时39分 ~ 05时08分]"
         },
         {
           "title": "视频丨特朗普称同伊朗对话“完美”：若一切顺利，将结束冲突",
@@ -27,8 +27,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时39分 ~ 04时04分]"
+          "appearance_count": 8,
+          "time_info": "[00时39分 ~ 05时08分]"
         },
         {
           "title": "美伊谈判是真是假，至少华尔街已从特朗普引发的五分钟狂飙获得明确信号",
@@ -38,8 +38,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时39分 ~ 04时04分]"
+          "appearance_count": 8,
+          "time_info": "[00时39分 ~ 05时08分]"
         },
         {
           "title": "美伊到底“谈了吗”？特朗普立场突变背后的秘密外交和压力测试",
@@ -50,8 +50,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时39分 ~ 04时04分]"
+          "appearance_count": 8,
+          "time_info": "[00时39分 ~ 05时08分]"
         },
         {
           "title": "特朗普“临阵变卦”有何意图",
@@ -62,8 +62,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时39分 ~ 04时04分]"
+          "appearance_count": 8,
+          "time_info": "[00时39分 ~ 05时08分]"
         },
         {
           "title": "开始甩锅？特朗普谈中东点名美防长：是他第一个说要打伊朗",
@@ -74,8 +74,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时39分 ~ 04时04分]"
+          "appearance_count": 8,
+          "time_info": "[00时39分 ~ 05时08分]"
         },
         {
           "title": "美国前中情局局长：比起特朗普我更信伊朗",
@@ -243,7 +243,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时04分"
         },
@@ -309,7 +309,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时04分"
         },
@@ -353,7 +353,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时04分"
         },
@@ -432,8 +432,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时01分 ~ 04时04分]"
+          "appearance_count": 7,
+          "time_info": "[02时01分 ~ 05时08分]"
         },
         {
           "title": "Anthropic宣布，大模型Claude现在可以自主做出权限决策。 为Claude Code推出“自动模式”（Auto Model）。 安全防护机制将在操作执行前进行预监测。 现已作为“研究预览版”面向团队版（Team Plan）用户开放。 将在未来几天内推送到企业版（Enterprise Plan）和API用户。",
@@ -471,8 +471,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时39分 ~ 04时04分]"
+          "appearance_count": 8,
+          "time_info": "[00时39分 ~ 05时08分]"
         }
       ]
     }
