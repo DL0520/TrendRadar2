@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-03-26T05:05:19.881434+08:00",
-  "total_titles_processed": 536,
+  "generated_at": "2026-03-26T06:05:05.745243+08:00",
+  "total_titles_processed": 578,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 15,
+      "match_count": 17,
       "titles": [
-        {
-          "title": "特朗普称美伊谈判“可能已相当接近达成协议”、伊朗同意永不拥有核武，报道称美国有意停火一个月、提15条和谈方案",
-          "url": "https://wallstreetcn.com/articles/3768302",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时43分 ~ 05时05分]"
-        },
         {
           "title": "美以伊战争丨美媒：军方只向特朗普展示胜利画面",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
@@ -26,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时43分 ~ 05时05分]"
+          "appearance_count": 8,
+          "time_info": "[00时43分 ~ 06时05分]"
         },
         {
           "title": "凤凰女记者：伊朗民众认为特朗普说谎，在为美方袭击做准备",
@@ -35,6 +24,17 @@
           "source": "凤凰网",
           "ranks": [
             4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时43分 ~ 06时05分]"
+        },
+        {
+          "title": "特朗普称美伊谈判“可能已相当接近达成协议”、伊朗同意永不拥有核武，报道称美国有意停火一个月、提15条和谈方案",
+          "url": "https://wallstreetcn.com/articles/3768302",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
           ],
           "is_new": false,
           "appearance_count": 6,
@@ -48,8 +48,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时43分 ~ 05时05分]"
+          "appearance_count": 8,
+          "time_info": "[00时43分 ~ 06时05分]"
         },
         {
           "title": "伊朗称向美林肯号航母发射导弹，特朗普再谈正与伊朗谈判，声称收到伊方「大礼」，具体情况如何？",
@@ -60,8 +60,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时43分 ~ 05时05分]"
+          "appearance_count": 8,
+          "time_info": "[00时43分 ~ 06时05分]"
         },
         {
           "title": "又赢了？特朗普声称已实现伊朗的政权更迭，“他们还同意放弃拥核”",
@@ -72,8 +72,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时43分 ~ 05时05分]"
+          "appearance_count": 8,
+          "time_info": "[00时43分 ~ 06时05分]"
         },
         {
           "title": "美媒：以总理希望呼吁伊朗人民“起义” 遭特朗普拒绝",
@@ -111,6 +111,17 @@
           "time_info": "[03时27分 ~ 05时05分]"
         },
         {
+          "title": "伊朗拒绝美国停战方案、称不允许特朗普决定停战时间，白宫称美伊在谈判且有成效，伊外长称信息交流并非谈判",
+          "url": "https://wallstreetcn.com/articles/3768393",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时04分 ~ 06时05分]"
+        },
+        {
           "title": "伊朗称不允许特朗普决定停战时间、美国15条提议是“罗列幻想”，美众议长称不会在伊进行地面作战",
           "url": "https://wallstreetcn.com/articles/3768393",
           "source": "华尔街见闻",
@@ -120,6 +131,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时43分 ~ 00时44分]"
+        },
+        {
+          "title": "野村辜朝明：“伊朗战争”发生在特朗普输掉“高院关税战”后几天，这不是巧合",
+          "url": "https://wallstreetcn.com/articles/3768337",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时04分 ~ 06时05分]"
         },
         {
           "title": "特朗普政府发布紧急豁免令，放宽夏季燃料限制以平抑战争高油价",
@@ -247,7 +269,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时05分"
         }
@@ -262,11 +284,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_32827099",
           "source": "澎湃新闻",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时43分 ~ 05时05分]"
+          "appearance_count": 8,
+          "time_info": "[00时43分 ~ 06时05分]"
         },
         {
           "title": "如何看待国台办回应「和平统一」，称「统一后建京台高速，台湾民众可沿京台高速自驾到北京」？透露哪些信息？",
@@ -280,8 +303,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时43分 ~ 05时05分]"
+          "appearance_count": 8,
+          "time_info": "[00时43分 ~ 06时05分]"
         },
         {
           "title": "和平统一后大陆可帮台湾建环岛高铁",
@@ -291,11 +314,12 @@
             28,
             26,
             25,
-            29
+            29,
+            27
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时03分 ~ 05时05分]"
+          "appearance_count": 6,
+          "time_info": "[02时03分 ~ 06时05分]"
         },
         {
           "title": "台湾赌王身中29枪死亡5枪爆头",
@@ -304,11 +328,12 @@
           "ranks": [
             27,
             29,
-            24
+            24,
+            30
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时27分 ~ 05时05分]"
+          "appearance_count": 5,
+          "time_info": "[03时27分 ~ 06时05分]"
         }
       ]
     },
@@ -324,8 +349,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时43分 ~ 05时05分]"
+          "appearance_count": 8,
+          "time_info": "[00时43分 ~ 06时05分]"
         }
       ]
     }
