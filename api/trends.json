@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-26T13:45:22.961755+08:00",
-  "total_titles_processed": 1068,
+  "generated_at": "2026-03-26T15:19:57.927690+08:00",
+  "total_titles_processed": 1193,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 32,
+      "match_count": 33,
       "titles": [
         {
           "title": "凤凰女记者：伊朗民众认为特朗普说谎，在为美方袭击做准备",
@@ -39,6 +39,18 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时43分 ~ 05时05分]"
+        },
+        {
+          "title": "伊朗拒绝美国停战方案、称不允许特朗普决定停战时间，白宫称美伊在谈判且有成效，伊外长称信息交流并非谈判",
+          "url": "https://wallstreetcn.com/articles/3768393",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[06时04分 ~ 15时19分]"
         },
         {
           "title": "伊朗喊话特朗普：美国在中东地区的投资将不复存在",
@@ -76,16 +88,40 @@
           "time_info": "[00时43分 ~ 08时02分]"
         },
         {
-          "title": "伊朗拒绝美国停战方案、称不允许特朗普决定停战时间，白宫称美伊在谈判且有成效，伊外长称信息交流并非谈判",
-          "url": "https://wallstreetcn.com/articles/3768393",
-          "source": "华尔街见闻",
+          "title": "白宫：特朗普将于5月中旬访华",
+          "url": "https://news.ifeng.com/c/8rnwMTANtGP",
+          "source": "凤凰网",
           "ranks": [
-            6,
-            2
+            1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[06时04分 ~ 13时45分]"
+          "appearance_count": 3,
+          "time_info": "[11时38分 ~ 15时19分]"
+        },
+        {
+          "title": "特朗普：伊朗迫切希望达成协议，但又不敢明说",
+          "url": "https://news.ifeng.com/c/8rnmpUhhTBm",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时38分 ~ 15时19分]"
+        },
+        {
+          "title": "释新闻｜美伊谈判迷雾：特朗普的算盘和巴基斯坦的中间人角色",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32828540",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            4,
+            3,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[08时01分 ~ 15时19分]"
         },
         {
           "title": "野村辜朝明：“伊朗战争”发生在特朗普输掉“高院关税战”后几天，这不是巧合",
@@ -99,41 +135,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[06时04分 ~ 13时45分]"
-        },
-        {
-          "title": "白宫：特朗普将于5月中旬访华",
-          "url": "https://news.ifeng.com/c/8rnwMTANtGP",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时38分 ~ 13时45分]"
-        },
-        {
-          "title": "释新闻｜美伊谈判迷雾：特朗普的算盘和巴基斯坦的中间人角色",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32828540",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时01分 ~ 13时45分]"
-        },
-        {
-          "title": "特朗普：伊朗迫切希望达成协议，但又不敢明说",
-          "url": "https://news.ifeng.com/c/8rnmpUhhTBm",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时38分 ~ 13时45分]"
         },
         {
           "title": "停战心切！特朗普欲遵循4-6周时间表，却发现毫无退路",
@@ -250,6 +251,17 @@
           "time_info": "11时38分"
         },
         {
+          "title": "标志性投票！特朗普“后院失火”：民主党赢了“海湖庄园所在地”的佛州选区",
+          "url": "https://wallstreetcn.com/articles/3768421",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时19分"
+        },
+        {
           "title": "白宫：特朗普将于当地时间周四上午10点召开内阁会议。",
           "url": "https://wallstreetcn.com/livenews/3076963",
           "source": "华尔街见闻-快讯",
@@ -311,7 +323,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时45分"
         },
@@ -333,7 +345,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时45分"
         },
@@ -344,7 +356,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时45分"
         },
@@ -374,7 +386,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "谷歌发布KV缓存压缩技术，存储需求预期遭冲击，美股存储板块集体下挫",
@@ -386,8 +398,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时05分 ~ 13时45分]"
+          "appearance_count": 6,
+          "time_info": "[07时05分 ~ 15时19分]"
         },
         {
           "title": "谷歌在青少年社交媒体成瘾案中被判定负有责任。",
@@ -428,11 +440,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时38分 ~ 13时45分]"
+          "appearance_count": 3,
+          "time_info": "[11时38分 ~ 15时19分]"
         },
         {
           "title": "META和谷歌在社交媒体成瘾案中被认为负有责任。",
@@ -445,6 +458,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时03分 ~ 03时27分]"
+        },
+        {
+          "title": "谷歌突破性算法震惊硅谷 华尔街激辩：内存需求要降温了？",
+          "url": "https://www.cls.cn/detail/2325322",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时19分"
         },
         {
           "title": "谷歌：推出Lyria 3 Pro，支持更具结构意识的长音频处理。",
@@ -483,7 +507,7 @@
     },
     {
       "keyword_group": "台湾",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "国台办：和平统一将是台湾基础设施、新型基础设施焕然一新的起点",
@@ -536,7 +560,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时45分"
         },
@@ -547,7 +571,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时45分"
         },
@@ -564,12 +588,23 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[03时27分 ~ 06时05分]"
+        },
+        {
+          "title": "台湾民众党前主席柯文哲被判17年",
+          "url": "https://www.baidu.com/s?wd=%E5%8F%B0%E6%B9%BE%E6%B0%91%E4%BC%97%E5%85%9A%E5%89%8D%E4%B8%BB%E5%B8%AD%E6%9F%AF%E6%96%87%E5%93%B2%E8%A2%AB%E5%88%A417%E5%B9%B4",
+          "source": "百度热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时19分"
         }
       ]
     },
     {
       "keyword_group": "稀土",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "连云港海关未查获所谓“稀土走私大案”",
@@ -591,8 +626,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时38分 ~ 13时45分]"
+          "appearance_count": 3,
+          "time_info": "[11时38分 ~ 15时19分]"
         },
         {
           "title": "“海关破获46亿元稀土走私案”不实",
@@ -601,9 +636,20 @@
           "ranks": [
             11
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时45分 ~ 15时19分]"
+        },
+        {
+          "title": "江苏连云港破获涉案稀土220吨、价值超46亿走私案？官方辟谣",
+          "url": "https://wallstreetcn.com/livenews/3077181",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时45分"
+          "time_info": "15时19分"
         }
       ]
     }
