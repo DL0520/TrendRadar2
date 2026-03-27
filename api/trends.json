@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-27T15:07:18.312028+08:00",
-  "total_titles_processed": 1203,
+  "generated_at": "2026-03-27T16:03:20.597945+08:00",
+  "total_titles_processed": 1304,
   "failed_sources": [],
   "trends": [
     {
@@ -19,8 +19,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时42分 ~ 15时07分]"
+          "appearance_count": 13,
+          "time_info": "[00时42分 ~ 16时03分]"
         },
         {
           "title": "特朗普：不知美伊能否达成协议、我不迫切，伊朗允许十艘油轮通行霍尔木兹，市场对冲突反应没预期剧烈",
@@ -35,8 +35,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[03时38分 ~ 15时07分]"
+          "appearance_count": 11,
+          "time_info": "[03时38分 ~ 16时03分]"
         },
         {
           "title": "担心特朗普叫停，内塔尼亚胡下令猛炸伊朗",
@@ -48,6 +48,18 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时42分 ~ 07时40分]"
+        },
+        {
+          "title": "美股收盘：标普、纳指创开战后最大单日跌幅 特朗普盘后发声",
+          "url": "https://www.cls.cn/detail/2326270",
+          "source": "财联社热门",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[07时39分 ~ 16时03分]"
         },
         {
           "title": "特朗普何时再“TACO”？华尔街发现规律：美油逼近100美元 or 美债收益率4.5%",
@@ -77,18 +89,6 @@
           "time_info": "[00时42分 ~ 06时38分]"
         },
         {
-          "title": "美股收盘：标普、纳指创开战后最大单日跌幅 特朗普盘后发声",
-          "url": "https://www.cls.cn/detail/2326270",
-          "source": "财联社热门",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时39分 ~ 15时07分]"
-        },
-        {
           "title": "中方回应特朗普称5月中旬访华",
           "url": "https://www.toutiao.com/trending/7621462030418972210/",
           "source": "今日头条",
@@ -101,6 +101,19 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时42分 ~ 07时40分]"
+        },
+        {
+          "title": "收盘后11分钟发帖！美股遭遇伊朗战争以来“最惨一天”，特朗普“立刻”延长10天“谈判时间”",
+          "url": "https://wallstreetcn.com/articles/3768527",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时55分 ~ 16时03分]"
         },
         {
           "title": "伊朗战争还将持续多久？据传特朗普希望4-6周内终结战事",
@@ -153,9 +166,9 @@
           "time_info": "[00时42分 ~ 10时55分]"
         },
         {
-          "title": "收盘后11分钟发帖！美股遭遇伊朗战争以来“最惨一天”，特朗普“立刻”延长10天“谈判时间”",
-          "url": "https://wallstreetcn.com/articles/3768527",
-          "source": "华尔街见闻",
+          "title": "大摩数据印证特朗普口中“大礼” ：霍尔木兹海峡流量正明显增加",
+          "url": "https://www.cls.cn/detail/2326560",
+          "source": "财联社热门",
           "ranks": [
             7,
             4,
@@ -163,7 +176,7 @@
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[10时55分 ~ 15时07分]"
+          "time_info": "[13时13分 ~ 16时03分]"
         },
         {
           "title": "美以伊战争丨特朗普：再推迟10天打击伊朗发电厂",
@@ -183,9 +196,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时07分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时07分 ~ 16时03分]"
         },
         {
           "title": "美财政部称纸币印特朗普签名“实至名归”",
@@ -221,16 +234,16 @@
           "time_info": "00时42分"
         },
         {
-          "title": "大摩数据印证特朗普口中“大礼” ：霍尔木兹海峡流量正明显增加",
-          "url": "https://www.cls.cn/detail/2326560",
-          "source": "财联社热门",
+          "title": "一直赢的特朗普，又给自己续了10天",
+          "url": "https://news.ifeng.com/c/8rpKy15FPLN",
+          "source": "凤凰网",
           "ranks": [
-            7,
-            4
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时13分 ~ 15时07分]"
+          "appearance_count": 5,
+          "time_info": "[10时55分 ~ 16时03分]"
         },
         {
           "title": "特朗普：如果美伊达成“正确的协议”，霍尔木兹海峡将会开放",
@@ -255,6 +268,19 @@
           "time_info": "07时40分"
         },
         {
+          "title": "特朗普推迟十天打击伊朗能源设施，最后期限延至4月6日，称美伊谈判“非常顺利”",
+          "url": "https://wallstreetcn.com/articles/3768510",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时55分 ~ 16时03分]"
+        },
+        {
           "title": "特朗普将空袭伊朗能源设施时间再推迟10天，美国原油转为空头情绪占优。后市市场情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
           "url": "https://flash.jin10.com/detail/20260327104542392800",
           "source": "金十数据",
@@ -266,30 +292,6 @@
           "time_info": "10时55分"
         },
         {
-          "title": "一直赢的特朗普，又给自己续了10天",
-          "url": "https://news.ifeng.com/c/8rpKy15FPLN",
-          "source": "凤凰网",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时55分 ~ 15时07分]"
-        },
-        {
-          "title": "特朗普推迟十天打击伊朗能源设施，最后期限延至4月6日，称美伊谈判“非常顺利”",
-          "url": "https://wallstreetcn.com/articles/3768510",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时55分 ~ 15时07分]"
-        },
-        {
           "title": "特朗普签名将出现在美国纸币上 苹果据传拟开放Siri接入更多模型 | 环球市场",
           "url": "https://www.cls.cn/detail/2326334",
           "source": "财联社热门",
@@ -298,8 +300,32 @@
             9
           ],
           "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时55分 ~ 16时03分]"
+        },
+        {
+          "title": "美伊极致拉扯：特朗普称收到“大礼”，再推迟10天打击能源设施！",
+          "url": "https://www.cls.cn/detail/2326367",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时55分 ~ 16时03分]"
+        },
+        {
+          "title": "美元纸币将印上特朗普签名",
+          "url": "https://news.ifeng.com/c/8rpZSKNA39N",
+          "source": "凤凰网",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
           "appearance_count": 4,
-          "time_info": "[10时55分 ~ 15时07分]"
+          "time_info": "[13时13分 ~ 16时03分]"
         },
         {
           "title": "国际油价急剧跳水，特朗普称对伊朗能源设施空袭再推迟10天",
@@ -312,30 +338,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时42分 ~ 05时38分]"
-        },
-        {
-          "title": "美伊极致拉扯：特朗普称收到“大礼”，再推迟10天打击能源设施！",
-          "url": "https://www.cls.cn/detail/2326367",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时55分 ~ 15时07分]"
-        },
-        {
-          "title": "美元纸币将印上特朗普签名",
-          "url": "https://news.ifeng.com/c/8rpZSKNA39N",
-          "source": "凤凰网",
-          "ranks": [
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时13分 ~ 15时07分]"
         },
         {
           "title": "特朗普称再推迟10天打击伊朗发电厂",
@@ -373,6 +375,18 @@
           "time_info": "[07时39分 ~ 07时40分]"
         },
         {
+          "title": "打破165年传统 美钞将印特朗普签名",
+          "url": "https://www.baidu.com/s?wd=%E6%89%93%E7%A0%B4165%E5%B9%B4%E4%BC%A0%E7%BB%9F+%E7%BE%8E%E9%92%9E%E5%B0%86%E5%8D%B0%E7%89%B9%E6%9C%97%E6%99%AE%E7%AD%BE%E5%90%8D",
+          "source": "百度热搜",
+          "ranks": [
+            18,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时07分 ~ 16时03分]"
+        },
+        {
           "title": "特朗普揭晓所谓伊朗“大礼”",
           "url": "https://www.toutiao.com/trending/7621688276944093203/",
           "source": "今日头条",
@@ -382,6 +396,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时13分 ~ 13时14分]"
+        },
+        {
+          "title": "特朗普再次就停战谈判威胁伊朗",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32837558",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时07分 ~ 16时03分]"
         },
         {
           "title": "特朗普将签行政令向机场安检人员发薪",
@@ -525,28 +551,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时40分"
-        },
-        {
-          "title": "打破165年传统 美钞将印特朗普签名",
-          "url": "https://www.baidu.com/s?wd=%E6%89%93%E7%A0%B4165%E5%B9%B4%E4%BC%A0%E7%BB%9F+%E7%BE%8E%E9%92%9E%E5%B0%86%E5%8D%B0%E7%89%B9%E6%9C%97%E6%99%AE%E7%AD%BE%E5%90%8D",
-          "source": "百度热搜",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时07分"
-        },
-        {
-          "title": "特朗普再次就停战谈判威胁伊朗",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32837558",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时07分"
         },
         {
           "title": "特朗普再推迟对伊能源设施打击 4月6日成下个焦点",
@@ -709,7 +713,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时07分"
         },
@@ -728,7 +732,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "谷歌发布KV缓存压缩技术，存储需求预期遭冲击，美股存储板块集体下挫",
@@ -748,11 +752,25 @@
           "ranks": [
             2,
             3,
-            15
+            15,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时55分 ~ 16时03分]"
+        },
+        {
+          "title": "UP主实测谷歌压缩算法",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%AE%9E%E6%B5%8B%E8%B0%B7%E6%AD%8C%E5%8E%8B%E7%BC%A9%E7%AE%97%E6%B3%95",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9,
+            4,
+            2
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[10时55分 ~ 15时07分]"
+          "time_info": "[13时13分 ~ 16时03分]"
         },
         {
           "title": "TurboQuant“横空出世”，科技圈高呼“谷歌版DeepSeek”、“真实版Pied Piper”，华尔街“呵呵，抄底内存股”",
@@ -765,18 +783,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时42分 ~ 07时40分]"
-        },
-        {
-          "title": "UP主实测谷歌压缩算法",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%AE%9E%E6%B5%8B%E8%B0%B7%E6%AD%8C%E5%8E%8B%E7%BC%A9%E7%AE%97%E6%B3%95",
-          "source": "bilibili 热搜",
-          "ranks": [
-            9,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时13分 ~ 15时07分]"
         },
         {
           "title": "谷歌母公司Alphabet跌幅迅速扩大至4.3%。",
@@ -795,11 +801,23 @@
           "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8CTurboQuant%E8%AE%BA%E6%96%87%E8%A7%A3%E8%AF%BB",
           "source": "bilibili 热搜",
           "ranks": [
-            8
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时07分 ~ 16时03分]"
+        },
+        {
+          "title": "3月27日投资避雷针：谷歌推出压缩算法TurboQuant 美股存储板块遭重挫",
+          "url": "https://www.cls.cn/detail/2326356",
+          "source": "财联社热门",
+          "ranks": [
+            13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时07分"
+          "time_info": "16时03分"
         },
         {
           "title": "谷歌公司Fiber更名为GFiber。",
