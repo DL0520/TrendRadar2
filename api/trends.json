@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-27T21:52:37.330854+08:00",
-  "total_titles_processed": 1863,
+  "generated_at": "2026-03-27T22:59:02.525981+08:00",
+  "total_titles_processed": 1981,
   "failed_sources": [],
   "trends": [
     {
@@ -19,8 +19,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[10时55分 ~ 21时52分]"
+          "appearance_count": 14,
+          "time_info": "[10时55分 ~ 22时59分]"
         },
         {
           "title": "大摩数据印证特朗普口中“大礼” ：霍尔木兹海峡流量正明显增加",
@@ -65,8 +65,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[03时38分 ~ 21时52分]"
+          "appearance_count": 20,
+          "time_info": "[03时38分 ~ 22时59分]"
         },
         {
           "title": "担心特朗普叫停，内塔尼亚胡下令猛炸伊朗",
@@ -128,8 +128,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[10时55分 ~ 21时52分]"
+          "appearance_count": 14,
+          "time_info": "[10时55分 ~ 22时59分]"
         },
         {
           "title": "中方回应特朗普称5月中旬访华",
@@ -269,6 +269,18 @@
           "time_info": "[07时39分 ~ 07时40分]"
         },
         {
+          "title": "美钞将印上特朗普签名，打破165年来的传统",
+          "url": "https://www.cls.cn/detail/2326823",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[18时27分 ~ 22时59分]"
+        },
+        {
           "title": "打破165年传统 美钞将印特朗普签名",
           "url": "https://www.baidu.com/s?wd=%E6%89%93%E7%A0%B4165%E5%B9%B4%E4%BC%A0%E7%BB%9F+%E7%BE%8E%E9%92%9E%E5%B0%86%E5%8D%B0%E7%89%B9%E6%9C%97%E6%99%AE%E7%AD%BE%E5%90%8D",
           "source": "百度热搜",
@@ -360,18 +372,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[10时55分 ~ 16时03分]"
-        },
-        {
-          "title": "美钞将印上特朗普签名，打破165年来的传统",
-          "url": "https://www.cls.cn/detail/2326823",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时27分 ~ 21时52分]"
         },
         {
           "title": "国际油价急剧跳水，特朗普称对伊朗能源设施空袭再推迟10天",
@@ -636,7 +636,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时52分"
         },
@@ -822,11 +822,12 @@
             5,
             15,
             20,
-            19
+            19,
+            21
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[13时13分 ~ 21时52分]"
+          "appearance_count": 13,
+          "time_info": "[13时13分 ~ 22时59分]"
         },
         {
           "title": "内存股大跌与谷歌论文有关吗",
@@ -838,11 +839,12 @@
             15,
             20,
             18,
-            17
+            17,
+            19
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[10时55分 ~ 21时52分]"
+          "appearance_count": 14,
+          "time_info": "[10时55分 ~ 22时59分]"
         },
         {
           "title": "谷歌TurboQuant论文解读",
@@ -854,11 +856,12 @@
             9,
             16,
             13,
-            14
+            14,
+            23
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时07分 ~ 21时52分]"
+          "appearance_count": 11,
+          "time_info": "[15时07分 ~ 22时59分]"
         },
         {
           "title": "谷歌发布KV缓存压缩技术，存储需求预期遭冲击，美股存储板块集体下挫",
@@ -954,8 +957,19 @@
     },
     {
       "keyword_group": "稀土",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
+        {
+          "title": "“海关破获46亿元稀土走私案”不实",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E6%B5%B7%E5%85%B3%E7%A0%B4%E8%8E%B746%E4%BA%BF%E5%85%83%E7%A8%80%E5%9C%9F%E8%B5%B0%E7%A7%81%E6%A1%88%E2%80%9D%E4%B8%8D%E5%AE%9E",
+          "source": "百度热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[17时30分 ~ 22时59分]"
+        },
         {
           "title": "四川发现世界第二大轻稀土矿 业内称重塑资源版图但短期受制指标管控|行业观察",
           "url": "https://www.cls.cn/detail/2325984",
@@ -967,17 +981,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时42分 ~ 07时40分]"
-        },
-        {
-          "title": "“海关破获46亿元稀土走私案”不实",
-          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E6%B5%B7%E5%85%B3%E7%A0%B4%E8%8E%B746%E4%BA%BF%E5%85%83%E7%A8%80%E5%9C%9F%E8%B5%B0%E7%A7%81%E6%A1%88%E2%80%9D%E4%B8%8D%E5%AE%9E",
-          "source": "百度热搜",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时30分 ~ 21时52分]"
         },
         {
           "title": "江苏连云港破获涉案稀土220吨、价值超46亿走私案？官方辟谣",
@@ -1000,9 +1003,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时52分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时52分 ~ 22时59分]"
+        },
+        {
+          "title": "“46亿稀土走私案”系谣言",
+          "url": "https://www.douyin.com/hot/2446041",
+          "source": "抖音",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时58分 ~ 22时59分]"
         },
         {
           "title": "A股小金属、有色金属板块持续拉升，云南锗业涨停创新高，翔鹭钨业、章源钨业、中矿资源、华锡有色、中国稀土跟涨。",
