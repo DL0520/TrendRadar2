@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-27T19:26:41.183915+08:00",
-  "total_titles_processed": 1658,
+  "generated_at": "2026-03-27T20:05:52.318653+08:00",
+  "total_titles_processed": 1722,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 66,
+      "match_count": 67,
       "titles": [
         {
           "title": "收盘后11分钟发帖！美股遭遇伊朗战争以来“最惨一天”，特朗普“立刻”延长10天“谈判时间”",
@@ -15,11 +15,12 @@
             7,
             4,
             3,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时55分 ~ 19时26分]"
+          "appearance_count": 11,
+          "time_info": "[10时55分 ~ 20时05分]"
         },
         {
           "title": "大摩数据印证特朗普口中“大礼” ：霍尔木兹海峡流量正明显增加",
@@ -33,8 +34,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时13分 ~ 19时26分]"
+          "appearance_count": 10,
+          "time_info": "[13时13分 ~ 20时05分]"
         },
         {
           "title": "特朗普称将在5月中旬访华，外交部：中美就此事保持着沟通",
@@ -64,8 +65,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[03时38分 ~ 19时26分]"
+          "appearance_count": 17,
+          "time_info": "[03时38分 ~ 20时05分]"
         },
         {
           "title": "担心特朗普叫停，内塔尼亚胡下令猛炸伊朗",
@@ -127,8 +128,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时55分 ~ 19时26分]"
+          "appearance_count": 11,
+          "time_info": "[10时55分 ~ 20时05分]"
         },
         {
           "title": "中方回应特朗普称5月中旬访华",
@@ -191,6 +192,20 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时42分 ~ 07时40分]"
+        },
+        {
+          "title": "特朗普再次就停战谈判威胁伊朗",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32837558",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            18,
+            14,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[15时07分 ~ 20时05分]"
         },
         {
           "title": "外交部回应「特朗普称将在 5 月中旬访华」，表示中美保持着沟通，透露出哪些信息？",
@@ -263,20 +278,6 @@
             14,
             16,
             23
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时07分 ~ 19时26分]"
-        },
-        {
-          "title": "特朗普再次就停战谈判威胁伊朗",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32837558",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            18,
-            14,
-            13
           ],
           "is_new": false,
           "appearance_count": 7,
@@ -381,8 +382,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时27分 ~ 19时26分]"
+          "appearance_count": 4,
+          "time_info": "[18时27分 ~ 20时05分]"
         },
         {
           "title": "特朗普称再推迟10天打击伊朗发电厂",
@@ -473,6 +474,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时30分"
+        },
+        {
+          "title": "谈判又增兵，特朗普双轨操作下，美军入局风险未消丨Hi，今天怎么看？",
+          "url": "https://flash.jin10.com/detail/20260327194504883800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时05分"
         },
         {
           "title": "特朗普再次就停战谈判威胁伊朗",
@@ -797,11 +809,12 @@
             4,
             2,
             5,
-            15
+            15,
+            20
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时13分 ~ 19时26分]"
+          "appearance_count": 10,
+          "time_info": "[13时13分 ~ 20时05分]"
         },
         {
           "title": "内存股大跌与谷歌论文有关吗",
@@ -816,8 +829,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时55分 ~ 19时26分]"
+          "appearance_count": 11,
+          "time_info": "[10时55分 ~ 20时05分]"
         },
         {
           "title": "谷歌发布KV缓存压缩技术，存储需求预期遭冲击，美股存储板块集体下挫",
@@ -839,11 +852,12 @@
             10,
             9,
             16,
-            13
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时07分 ~ 19时26分]"
+          "appearance_count": 8,
+          "time_info": "[15时07分 ~ 20时05分]"
         },
         {
           "title": "TurboQuant“横空出世”，科技圈高呼“谷歌版DeepSeek”、“真实版Pied Piper”，华尔街“呵呵，抄底内存股”",
@@ -964,8 +978,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时30分 ~ 19时26分]"
+          "appearance_count": 6,
+          "time_info": "[17时30分 ~ 20时05分]"
         },
         {
           "title": "A股小金属、有色金属板块持续拉升，云南锗业涨停创新高，翔鹭钨业、章源钨业、中矿资源、华锡有色、中国稀土跟涨。",
