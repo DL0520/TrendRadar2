@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-28T19:02:02.584479+08:00",
-  "total_titles_processed": 1379,
+  "generated_at": "2026-03-28T19:38:49.228496+08:00",
+  "total_titles_processed": 1414,
   "failed_sources": [],
   "trends": [
     {
@@ -28,8 +28,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[13时00分 ~ 19时02分]"
+          "appearance_count": 11,
+          "time_info": "[13时00分 ~ 19时38分]"
         },
         {
           "title": "特朗普发出威胁：“下一个是古巴”",
@@ -42,8 +42,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[13时00分 ~ 19时02分]"
+          "appearance_count": 11,
+          "time_info": "[13时00分 ~ 19时38分]"
         },
         {
           "title": "特朗普揭晓所谓伊朗大礼",
@@ -89,8 +89,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时45分 ~ 19时02分]"
+          "appearance_count": 12,
+          "time_info": "[10时45分 ~ 19时38分]"
         },
         {
           "title": "预测\"特朗普何时结束战争\"？这是五大关键点",
@@ -117,8 +117,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[02时31分 ~ 19时02分]"
+          "appearance_count": 22,
+          "time_info": "[02时31分 ~ 19时38分]"
         },
         {
           "title": "特朗普：乌克兰曾试图干预美大选",
@@ -151,11 +151,35 @@
           "ranks": [
             9,
             8,
-            7
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[14时06分 ~ 19时38分]"
+        },
+        {
+          "title": "想跑跑不了，特朗普失控",
+          "url": "https://news.ifeng.com/c/8rrd4miP6TY",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时02分 ~ 19时38分]"
+        },
+        {
+          "title": "特朗普总在周末出手，华尔街已经不敢持仓过周末了",
+          "url": "https://wallstreetcn.com/articles/3768631",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
           ],
           "is_new": false,
           "appearance_count": 8,
-          "time_info": "[14时06分 ~ 19时02分]"
+          "time_info": "[15时30分 ~ 19时38分]"
         },
         {
           "title": "美以伊战争丨特朗普与莫迪讨论中东局势，马斯克参与",
@@ -167,28 +191,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时42分 ~ 06时40分]"
-        },
-        {
-          "title": "想跑跑不了，特朗普失控",
-          "url": "https://news.ifeng.com/c/8rrd4miP6TY",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时02分 ~ 19时02分]"
-        },
-        {
-          "title": "特朗普总在周末出手，华尔街已经不敢持仓过周末了",
-          "url": "https://wallstreetcn.com/articles/3768631",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时30分 ~ 19时02分]"
         },
         {
           "title": "特朗普发出威胁：“下一个是古巴”",
@@ -262,6 +264,18 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[10时45分 ~ 17时07分]"
+        },
+        {
+          "title": "美银Hartnett：美股还没“跌透”，特朗普或将被迫推出\"政策急救包\"",
+          "url": "https://wallstreetcn.com/articles/3768593",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时04分 ~ 19时38分]"
         },
         {
           "title": "特朗普：不知美伊能否达成协议、我不迫切，伊朗允许十艘油轮通行霍尔木兹，市场对冲突反应没预期剧烈",
@@ -364,17 +378,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时40分"
-        },
-        {
-          "title": "美银Hartnett：美股还没“跌透”，特朗普或将被迫推出\"政策急救包\"",
-          "url": "https://wallstreetcn.com/articles/3768593",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时04分 ~ 19时02分]"
         },
         {
           "title": "美国中东问题特使威特科夫：认为本周将与伊朗举行会谈，特朗普希望达成和平协议。",
@@ -575,6 +578,18 @@
           "time_info": "[06时40分 ~ 07时40分]"
         },
         {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-03-28）",
+          "url": "https://flash.jin10.com/detail/20260328182648074800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时02分 ~ 19时38分]"
+        },
+        {
           "title": "美国总统特朗普：（谈英国航空母舰） 它们不太好。它们速度慢，而且性能也不太好。",
           "url": "https://flash.jin10.com/detail/20260328055428270800",
           "source": "金十数据",
@@ -668,17 +683,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时04分 ~ 17时07分]"
-        },
-        {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-03-28）",
-          "url": "https://flash.jin10.com/detail/20260328182648074800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时02分"
         },
         {
           "title": "美国总统特朗普：正寻求国会采取行动，允许E15乙醇汽油全年销售使用。",
@@ -826,8 +830,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时02分 ~ 19时02分]"
+          "appearance_count": 25,
+          "time_info": "[00时02分 ~ 19时38分]"
         },
         {
           "title": "内存股大跌与谷歌论文有关吗",
@@ -843,11 +847,12 @@
             20,
             18,
             22,
-            27
+            27,
+            21
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时02分 ~ 19时02分]"
+          "appearance_count": 25,
+          "time_info": "[00时02分 ~ 19时38分]"
         },
         {
           "title": "UP主实测谷歌压缩算法",
@@ -866,8 +871,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时02分 ~ 19时02分]"
+          "appearance_count": 25,
+          "time_info": "[00时02分 ~ 19时38分]"
         },
         {
           "title": "谷歌推出压缩算法 TurboQuant，宣称实现约 6 倍内存节省，会成为大模型端侧落地的突破口吗？",
@@ -876,11 +881,12 @@
           "ranks": [
             20,
             18,
-            15
+            15,
+            13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时07分 ~ 19时02分]"
+          "appearance_count": 5,
+          "time_info": "[17时07分 ~ 19时38分]"
         },
         {
           "title": "据英国金融时报：谷歌接近达成协议，为租予Anthropic的数十亿美元数据中心提供资金支持。",
@@ -958,19 +964,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时02分 ~ 19时02分]"
+          "appearance_count": 4,
+          "time_info": "[18时02分 ~ 19时38分]"
         },
         {
           "title": "菲律宾重申不承认台湾是“主权国家”",
           "url": "https://www.toutiao.com/trending/7622224812396429358/",
           "source": "今日头条",
           "ranks": [
-            4
+            4,
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时01分 ~ 19时02分]"
+          "appearance_count": 3,
+          "time_info": "[19时01分 ~ 19时38分]"
         }
       ]
     }
