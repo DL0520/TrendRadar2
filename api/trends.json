@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-28T17:07:35.104324+08:00",
-  "total_titles_processed": 1258,
+  "generated_at": "2026-03-28T18:02:58.962300+08:00",
+  "total_titles_processed": 1323,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 63,
+      "match_count": 64,
       "titles": [
         {
           "title": "收盘后11分钟发帖！美股遭遇伊朗战争以来“最惨一天”，特朗普“立刻”延长10天“谈判时间”",
@@ -18,6 +18,18 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时02分 ~ 07时40分]"
+        },
+        {
+          "title": "特朗普发出威胁：下一个是古巴",
+          "url": "https://news.ifeng.com/c/8rrDwUJUTQk",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[13时00分 ~ 18时02分]"
         },
         {
           "title": "特朗普揭晓所谓伊朗大礼",
@@ -43,16 +55,17 @@
           "time_info": "[04时48分 ~ 10时45分]"
         },
         {
-          "title": "特朗普发出威胁：下一个是古巴",
-          "url": "https://news.ifeng.com/c/8rrDwUJUTQk",
-          "source": "凤凰网",
+          "title": "特朗普发出威胁：“下一个是古巴”",
+          "url": "https://www.cls.cn/detail/2327781",
+          "source": "财联社热门",
           "ranks": [
-            5,
-            4
+            7,
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时00分 ~ 17时07分]"
+          "appearance_count": 8,
+          "time_info": "[13时00分 ~ 18时02分]"
         },
         {
           "title": "特朗普推迟十天打击伊朗能源设施，最后期限延至4月6日，称美伊谈判“非常顺利”",
@@ -66,19 +79,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时02分 ~ 04时49分]"
-        },
-        {
-          "title": "特朗普发出威胁：“下一个是古巴”",
-          "url": "https://www.cls.cn/detail/2327781",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时00分 ~ 17时07分]"
         },
         {
           "title": "预测\"特朗普何时结束战争\"？这是五大关键点",
@@ -105,8 +105,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[02时31分 ~ 17时07分]"
+          "appearance_count": 19,
+          "time_info": "[02时31分 ~ 18时02分]"
         },
         {
           "title": "特朗普：乌克兰曾试图干预美大选",
@@ -140,8 +140,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时45分 ~ 17时07分]"
+          "appearance_count": 9,
+          "time_info": "[10时45分 ~ 18时02分]"
         },
         {
           "title": "美以伊战争丨特朗普与莫迪讨论中东局势，马斯克参与",
@@ -210,6 +210,19 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[06时40分 ~ 13时01分]"
+        },
+        {
+          "title": "特朗普“口头缓和”失效，原油“现货冲击”逼近，美股真的慌了！",
+          "url": "https://wallstreetcn.com/articles/3768633",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时06分 ~ 18时02分]"
         },
         {
           "title": "特朗普称霍尔木兹为特朗普海峡",
@@ -297,17 +310,15 @@
           "time_info": "[06时40分 ~ 13时01分]"
         },
         {
-          "title": "特朗普“口头缓和”失效，原油“现货冲击”逼近，美股真的慌了！",
-          "url": "https://wallstreetcn.com/articles/3768633",
-          "source": "华尔街见闻",
+          "title": "想跑跑不了，特朗普失控",
+          "url": "https://news.ifeng.com/c/8rrd4miP6TY",
+          "source": "凤凰网",
           "ranks": [
-            9,
-            8,
-            7
+            5
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时06分 ~ 17时07分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时02分"
         },
         {
           "title": "市场消息：美国总统特朗普承诺降低拖拉机成本，并“消除大量针对农业设备的荒谬规定”。",
@@ -341,6 +352,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时40分"
+        },
+        {
+          "title": "特朗普总在周末出手，华尔街已经不敢持仓过周末了",
+          "url": "https://wallstreetcn.com/articles/3768631",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时30分 ~ 18时02分]"
         },
         {
           "title": "美国中东问题特使威特科夫：认为本周将与伊朗举行会谈，特朗普希望达成和平协议。",
@@ -442,17 +464,6 @@
           "time_info": "[02时32分 ~ 03时44分]"
         },
         {
-          "title": "特朗普总在周末出手，华尔街已经不敢持仓过周末了",
-          "url": "https://wallstreetcn.com/articles/3768631",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时30分 ~ 17时07分]"
-        },
-        {
           "title": "美国总统特朗普谈伊朗：我们摧毁了伊朗97%的发射器。",
           "url": "https://flash.jin10.com/detail/20260328055901554800",
           "source": "金十数据",
@@ -463,6 +474,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时40分 ~ 07时40分]"
+        },
+        {
+          "title": "美银Hartnett：美股还没“跌透”，特朗普或将被迫推出\"政策急救包\"",
+          "url": "https://wallstreetcn.com/articles/3768593",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时04分 ~ 18时02分]"
         },
         {
           "title": "美国总统特朗普：仍然希望与伊朗达成协议。",
@@ -562,17 +584,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时40分 ~ 07时40分]"
-        },
-        {
-          "title": "美银Hartnett：美股还没“跌透”，特朗普或将被迫推出\"政策急救包\"",
-          "url": "https://wallstreetcn.com/articles/3768593",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时04分 ~ 17时07分]"
         },
         {
           "title": "特朗普将霍尔木兹海峡说成特朗普海峡",
@@ -803,8 +814,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时02分 ~ 17时07分]"
+          "appearance_count": 22,
+          "time_info": "[00时02分 ~ 18时02分]"
         },
         {
           "title": "内存股大跌与谷歌论文有关吗",
@@ -818,11 +829,12 @@
             17,
             16,
             20,
-            18
+            18,
+            22
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时02分 ~ 17时07分]"
+          "appearance_count": 22,
+          "time_info": "[00时02分 ~ 18时02分]"
         },
         {
           "title": "UP主实测谷歌压缩算法",
@@ -837,11 +849,24 @@
             14,
             15,
             22,
-            13
+            13,
+            19
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时02分 ~ 17时07分]"
+          "appearance_count": 22,
+          "time_info": "[00时02分 ~ 18时02分]"
+        },
+        {
+          "title": "谷歌推出压缩算法 TurboQuant，宣称实现约 6 倍内存节省，会成为大模型端侧落地的突破口吗？",
+          "url": "https://www.zhihu.com/question/2020455049218712383",
+          "source": "知乎",
+          "ranks": [
+            20,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时07分 ~ 18时02分]"
         },
         {
           "title": "据英国金融时报：谷歌接近达成协议，为租予Anthropic的数十亿美元数据中心提供资金支持。",
@@ -864,17 +889,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时32分"
-        },
-        {
-          "title": "谷歌推出压缩算法 TurboQuant，宣称实现约 6 倍内存节省，会成为大模型端侧落地的突破口吗？",
-          "url": "https://www.zhihu.com/question/2020455049218712383",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时07分"
         }
       ]
     },
@@ -915,6 +929,23 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时02分 ~ 07时40分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "台湾",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "菲律宾重申不承认台湾是“主权国家”",
+          "url": "https://www.baidu.com/s?wd=%E8%8F%B2%E5%BE%8B%E5%AE%BE%E9%87%8D%E7%94%B3%E4%B8%8D%E6%89%BF%E8%AE%A4%E5%8F%B0%E6%B9%BE%E6%98%AF%E2%80%9C%E4%B8%BB%E6%9D%83%E5%9B%BD%E5%AE%B6%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时02分"
         }
       ]
     }
