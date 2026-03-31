@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-31T15:32:12.965370+08:00",
-  "total_titles_processed": 1252,
+  "generated_at": "2026-03-31T16:39:41.833387+08:00",
+  "total_titles_processed": 1389,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 44,
+      "match_count": 45,
       "titles": [
         {
           "title": "特朗普：若达不成协议将“摧毁伊朗所有发电厂、油井及哈尔克岛”，伊朗回应：若遭袭，将给整个地区断电！",
@@ -18,8 +18,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时06分 ~ 15时32分]"
+          "appearance_count": 20,
+          "time_info": "[00时06分 ~ 16时39分]"
         },
         {
           "title": "特朗普威胁：若不达成协议，就摧毁伊朗发电厂、油井和哈尔克岛",
@@ -61,6 +61,19 @@
           "time_info": "[00时06分 ~ 08时05分]"
         },
         {
+          "title": "特朗普给伊朗“划红线”",
+          "url": "https://news.ifeng.com/c/8rvXSKYsnyO",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[06时05分 ~ 16时39分]"
+        },
+        {
           "title": "美以伊战争丨特朗普给伊朗“划红线”",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
           "source": "凤凰网",
@@ -72,29 +85,17 @@
           "time_info": "[03时13分 ~ 05时11分]"
         },
         {
-          "title": "特朗普给伊朗“划红线”",
-          "url": "https://news.ifeng.com/c/8rvXSKYsnyO",
-          "source": "凤凰网",
-          "ranks": [
-            6,
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[06时05分 ~ 15时32分]"
-        },
-        {
           "title": "特朗普：即使霍尔木兹海峡仍关闭也愿结束战争",
           "url": "https://www.cls.cn/detail/2329919",
           "source": "财联社热门",
           "ranks": [
             4,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时40分 ~ 15时32分]"
+          "appearance_count": 5,
+          "time_info": "[11时40分 ~ 16时39分]"
         },
         {
           "title": "白宫称特朗普希望4月6日前达成协议、有意让阿拉伯国家埋单、美伊对话持续且进展顺利，伊朗否认谈判",
@@ -105,8 +106,21 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时40分 ~ 15时32分]"
+          "appearance_count": 5,
+          "time_info": "[11时40分 ~ 16时39分]"
+        },
+        {
+          "title": "特朗普的“退出路线图”浮现：愿意先结束战争，重开霍尔木兹就交给欧洲和海湾盟友",
+          "url": "https://wallstreetcn.com/articles/3768825",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时40分 ~ 16时39分]"
         },
         {
           "title": "美以伊战争丨特朗普：与伊朗谈判已取得重大进展",
@@ -153,16 +167,17 @@
           "time_info": "[15时31分 ~ 15时32分]"
         },
         {
-          "title": "特朗普的“退出路线图”浮现：愿意先结束战争，重开霍尔木兹就交给欧洲和海湾盟友",
-          "url": "https://wallstreetcn.com/articles/3768825",
-          "source": "华尔街见闻",
+          "title": "白宫：美伊对话进展顺利 特朗普有意呼吁阿拉伯国家为战争埋单",
+          "url": "https://www.cls.cn/detail/2329869",
+          "source": "财联社热门",
           "ranks": [
-            8,
-            2
+            9,
+            7,
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时40分 ~ 15时32分]"
+          "appearance_count": 5,
+          "time_info": "[11时40分 ~ 16时39分]"
         },
         {
           "title": "美以伊战争丨\"伊朗前领导人对特朗普撒谎，所以被杀\"",
@@ -198,6 +213,42 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[08时05分 ~ 15时32分]"
+        },
+        {
+          "title": "特朗普称即使霍尔木兹海峡仍关闭也愿结束战争",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32865149",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时40分 ~ 16时39分]"
+        },
+        {
+          "title": "伊朗重申未与美方直接对话，特朗普被曝希望 4 月 6 日前达成协议，双方各说各话在博弈什么？为什么是 4 月 6 日？",
+          "url": "https://www.zhihu.com/question/2022216922670915942",
+          "source": "知乎",
+          "ranks": [
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时40分 ~ 16时39分]"
+        },
+        {
+          "title": "特朗普欲让阿拉伯国家为美国打伊朗埋单",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32864907",
+          "source": "澎湃新闻",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时40分 ~ 16时39分]"
         },
         {
           "title": "特朗普欲让阿拉伯国家为美国打伊朗埋单",
@@ -251,18 +302,6 @@
           "time_info": "[00时06分 ~ 01时58分]"
         },
         {
-          "title": "白宫：美伊对话进展顺利 特朗普有意呼吁阿拉伯国家为战争埋单",
-          "url": "https://www.cls.cn/detail/2329869",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时40分 ~ 15时32分]"
-        },
-        {
           "title": "以色列总理内塔尼亚胡：美国正在主导军事行动以重新开放霍尔木兹海峡；特朗普目前的优先事项是伊朗的浓缩铀。",
           "url": "https://flash.jin10.com/detail/20260331052900277800",
           "source": "金十数据",
@@ -275,40 +314,17 @@
           "time_info": "[06时06分 ~ 07时06分]"
         },
         {
-          "title": "特朗普称即使霍尔木兹海峡仍关闭也愿结束战争",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32865149",
+          "title": "美媒：特朗普想结束对伊朗战争，重开霍尔木兹海峡就交给欧洲和海湾盟友",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32865352",
           "source": "澎湃新闻",
           "ranks": [
-            14,
-            12,
-            11
+            19,
+            16,
+            15
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[11时40分 ~ 15时32分]"
-        },
-        {
-          "title": "伊朗重申未与美方直接对话，特朗普被曝希望 4 月 6 日前达成协议，双方各说各话在博弈什么？为什么是 4 月 6 日？",
-          "url": "https://www.zhihu.com/question/2022216922670915942",
-          "source": "知乎",
-          "ranks": [
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时40分 ~ 15时32分]"
-        },
-        {
-          "title": "特朗普欲让阿拉伯国家为美国打伊朗埋单",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32864907",
-          "source": "澎湃新闻",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时40分 ~ 15时32分]"
+          "time_info": "[13时56分 ~ 16时39分]"
         },
         {
           "title": "特朗普称愿结束对伊朗军事行动",
@@ -335,18 +351,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时07分 ~ 06时06分]"
-        },
-        {
-          "title": "美媒：特朗普想结束对伊朗战争，重开霍尔木兹海峡就交给欧洲和海湾盟友",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32865352",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时56分 ~ 15时32分]"
         },
         {
           "title": "白宫：特朗普希望4月6日前与伊朗达成协议",
@@ -382,6 +386,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时58分"
+        },
+        {
+          "title": "报道称特朗普愿在海峡关闭时停战！美股期指集体上涨，油价回吐涨幅，伦铝月内涨近10%",
+          "url": "https://wallstreetcn.com/articles/3768819",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时39分"
         },
         {
           "title": "美国佛罗里达州州长罗恩·德桑蒂斯签署立法，正式将棕榈滩机场更名为美国总统特朗普机场。",
@@ -550,7 +565,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时32分"
         },
@@ -564,6 +579,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时56分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "稀土",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "印度尼西亚总统： 印尼邀请日本在关键矿产、稀土、可再生能源及核能领域开展合作。",
+          "url": "https://wallstreetcn.com/livenews/3079798",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时40分"
+        },
+        {
+          "title": "日本金属生产商三菱材料株式会社将收购美国印第安纳州ReElement Technologies Corp.的股份，旨在使稀土成为自己的一个核心业务。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3079974",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时39分"
         }
       ]
     },
@@ -586,23 +629,6 @@
           "is_new": false,
           "appearance_count": 15,
           "time_info": "[00时06分 ~ 08时05分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "稀土",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "印度尼西亚总统： 印尼邀请日本在关键矿产、稀土、可再生能源及核能领域开展合作。",
-          "url": "https://wallstreetcn.com/livenews/3079798",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时40分"
         }
       ]
     }
