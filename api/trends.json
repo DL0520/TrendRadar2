@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-03-31T19:29:12.283486+08:00",
-  "total_titles_processed": 1628,
+  "generated_at": "2026-03-31T20:11:04.829735+08:00",
+  "total_titles_processed": 1726,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 52,
+      "match_count": 62,
       "titles": [
+        {
+          "title": "白宫称特朗普希望4月6日前达成协议、有意让阿拉伯国家埋单、美伊对话持续且进展顺利，伊朗否认谈判",
+          "url": "https://wallstreetcn.com/articles/3768804",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[11时40分 ~ 20时11分]"
+        },
         {
           "title": "特朗普：若达不成协议将“摧毁伊朗所有发电厂、油井及哈尔克岛”，伊朗回应：若遭袭，将给整个地区断电！",
           "url": "https://wallstreetcn.com/articles/3768769",
@@ -46,6 +59,19 @@
           "time_info": "[00时06分 ~ 08时05分]"
         },
         {
+          "title": "特朗普的“退出路线图”浮现：愿意先结束战争，重开霍尔木兹就交给欧洲和海湾盟友",
+          "url": "https://wallstreetcn.com/articles/3768825",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[11时40分 ~ 20时11分]"
+        },
+        {
           "title": "特朗普释放缓和信号 美股期指反弹 鲍威尔讲话来袭 | 今夜看点",
           "url": "https://www.cls.cn/detail/2329476",
           "source": "财联社热门",
@@ -61,32 +87,6 @@
           "time_info": "[00时06分 ~ 08时05分]"
         },
         {
-          "title": "白宫称特朗普希望4月6日前达成协议、有意让阿拉伯国家埋单、美伊对话持续且进展顺利，伊朗否认谈判",
-          "url": "https://wallstreetcn.com/articles/3768804",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时40分 ~ 19时29分]"
-        },
-        {
-          "title": "特朗普的“退出路线图”浮现：愿意先结束战争，重开霍尔木兹就交给欧洲和海湾盟友",
-          "url": "https://wallstreetcn.com/articles/3768825",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时40分 ~ 19时29分]"
-        },
-        {
           "title": "特朗普给伊朗“划红线”",
           "url": "https://news.ifeng.com/c/8rvXSKYsnyO",
           "source": "凤凰网",
@@ -96,8 +96,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[06时05分 ~ 19时29分]"
+          "appearance_count": 15,
+          "time_info": "[06时05分 ~ 20时11分]"
         },
         {
           "title": "美以伊战争丨特朗普给伊朗“划红线”",
@@ -111,6 +111,44 @@
           "time_info": "[03时13分 ~ 05时11分]"
         },
         {
+          "title": "特朗普称即使霍尔木兹海峡仍关闭也愿结束战争",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32865149",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            12,
+            11,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[11时40分 ~ 20时11分]"
+        },
+        {
+          "title": "特朗普欲让阿拉伯国家为美国打伊朗埋单",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32864907",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[11时40分 ~ 20时11分]"
+        },
+        {
+          "title": "伊朗重申未与美方直接对话，特朗普被曝希望 4 月 6 日前达成协议，双方各说各话在博弈什么？为什么是 4 月 6 日？",
+          "url": "https://www.zhihu.com/question/2022216922670915942",
+          "source": "知乎",
+          "ranks": [
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[11时40分 ~ 20时11分]"
+        },
+        {
           "title": "特朗普：即使霍尔木兹海峡仍关闭也愿结束战争",
           "url": "https://www.cls.cn/detail/2329919",
           "source": "财联社热门",
@@ -122,6 +160,20 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[11时40分 ~ 16时39分]"
+        },
+        {
+          "title": "美媒：特朗普想结束对伊朗战争，重开霍尔木兹海峡就交给欧洲和海湾盟友",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32865352",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            16,
+            15,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[13时56分 ~ 20时11分]"
         },
         {
           "title": "美以伊战争丨特朗普：与伊朗谈判已取得重大进展",
@@ -146,42 +198,15 @@
           "time_info": "[07时05分 ~ 08时05分]"
         },
         {
-          "title": "特朗普称即使霍尔木兹海峡仍关闭也愿结束战争",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32865149",
-          "source": "澎湃新闻",
+          "title": "美国为何爆发反特朗普抗议",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E4%B8%BA%E4%BD%95%E7%88%86%E5%8F%91%E5%8F%8D%E7%89%B9%E6%9C%97%E6%99%AE%E6%8A%97%E8%AE%AE",
+          "source": "bilibili 热搜",
           "ranks": [
-            14,
-            12,
-            11,
-            8
+            1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时40分 ~ 19时29分]"
-        },
-        {
-          "title": "特朗普欲让阿拉伯国家为美国打伊朗埋单",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32864907",
-          "source": "澎湃新闻",
-          "ranks": [
-            13,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时40分 ~ 19时29分]"
-        },
-        {
-          "title": "伊朗重申未与美方直接对话，特朗普被曝希望 4 月 6 日前达成协议，双方各说各话在博弈什么？为什么是 4 月 6 日？",
-          "url": "https://www.zhihu.com/question/2022216922670915942",
-          "source": "知乎",
-          "ranks": [
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时40分 ~ 19时29分]"
+          "appearance_count": 2,
+          "time_info": "[20时10分 ~ 20时11分]"
         },
         {
           "title": "美以伊战争丨特朗普：美国正与伊朗议长卡利巴夫对话",
@@ -206,18 +231,15 @@
           "time_info": "[15时31分 ~ 15时32分]"
         },
         {
-          "title": "美媒：特朗普想结束对伊朗战争，重开霍尔木兹海峡就交给欧洲和海湾盟友",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32865352",
-          "source": "澎湃新闻",
+          "title": "特朗普释放停战信号，美股期指涨幅扩大，金银油齐涨，伦铝月内涨近10%",
+          "url": "https://wallstreetcn.com/articles/3768819",
+          "source": "华尔街见闻",
           "ranks": [
-            19,
-            16,
-            15,
-            12
+            2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时56分 ~ 19时29分]"
+          "appearance_count": 2,
+          "time_info": "[20时10分 ~ 20时11分]"
         },
         {
           "title": "白宫：美伊对话进展顺利 特朗普有意呼吁阿拉伯国家为战争埋单",
@@ -255,17 +277,6 @@
           "time_info": "13时56分"
         },
         {
-          "title": "美国总统特朗普：（谈伊朗问题）各国可前往海峡，自行夺取石油，自行学习如何作战。",
-          "url": "https://flash.jin10.com/detail/20260331191317455800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时29分"
-        },
-        {
           "title": "特朗普证实，美国正与伊朗议会议长卡利巴夫进行对话",
           "url": "https://flash.jin10.com/detail/20260331001406582800",
           "source": "金十数据",
@@ -275,28 +286,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时37分"
-        },
-        {
-          "title": "美国总统特朗普：（谈伊朗问题）各国应从美国购买石油。",
-          "url": "https://flash.jin10.com/detail/20260331191237799800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时29分"
-        },
-        {
-          "title": "市场消息：美国总统特朗普敦促英国从美国购买喷气式飞机燃料。",
-          "url": "https://flash.jin10.com/detail/20260331191209849800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时29分"
         },
         {
           "title": "特朗普欲让阿拉伯国家为美国打伊朗埋单 WTI原油结算价突破每桶100美元 | 环球市场",
@@ -363,6 +352,18 @@
           "time_info": "[00时06分 ~ 01时58分]"
         },
         {
+          "title": "美国总统特朗普：（谈伊朗问题）各国可前往海峡，自行夺取石油，自行学习如何作战。",
+          "url": "https://flash.jin10.com/detail/20260331191317455800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时29分 ~ 20时11分]"
+        },
+        {
           "title": "报道称特朗普愿在海峡关闭时停战！美股期指集体上涨，油价回吐涨幅，伦铝月内涨近10%",
           "url": "https://wallstreetcn.com/articles/3768819",
           "source": "华尔街见闻",
@@ -385,6 +386,41 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时06分 ~ 07时06分]"
+        },
+        {
+          "title": "美国总统特朗普：（谈伊朗问题）各国应从美国购买石油。",
+          "url": "https://flash.jin10.com/detail/20260331191237799800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时29分 ~ 20时11分]"
+        },
+        {
+          "title": "市场消息：美国总统特朗普敦促英国从美国购买喷气式飞机燃料。",
+          "url": "https://flash.jin10.com/detail/20260331191209849800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时29分 ~ 20时11分]"
+        },
+        {
+          "title": "特朗普围伊“救”俄",
+          "url": "https://news.ifeng.com/c/8rwfG2fN0oV",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时28分 ~ 20时11分]"
         },
         {
           "title": "特朗普称愿结束对伊朗军事行动",
@@ -437,15 +473,26 @@
           "time_info": "[04时07分 ~ 05时11分]"
         },
         {
-          "title": "特朗普围伊“救”俄",
-          "url": "https://news.ifeng.com/c/8rwfG2fN0oV",
-          "source": "凤凰网",
+          "title": "特朗普：各国应自行去霍尔木兹海峡“抢石油”",
+          "url": "https://wallstreetcn.com/articles/3768886",
+          "source": "华尔街见闻",
           "ranks": [
             10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[19时28分 ~ 19时29分]"
+          "time_info": "[20时10分 ~ 20时11分]"
+        },
+        {
+          "title": "特朗普：各国应自行去霍尔木兹海峡“抢石油”",
+          "url": "https://www.cls.cn/detail/2330869",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时10分 ~ 20时11分]"
         },
         {
           "title": "无视特朗普警告 伊朗硬刚回应 科威特满载油轮遭袭令油价再现震荡！",
@@ -547,6 +594,17 @@
           "time_info": "03时14分"
         },
         {
+          "title": "特朗普：美国会记住法国“极不配合”对伊军事行动",
+          "url": "https://wallstreetcn.com/livenews/3080137",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时11分"
+        },
+        {
           "title": "美国白宫：特朗普希望国会开会以结束国土安全部的停摆。",
           "url": "https://flash.jin10.com/detail/20260331015946804800",
           "source": "金十数据",
@@ -591,6 +649,28 @@
           "time_info": "08时05分"
         },
         {
+          "title": "特朗普：各国应自行去霍尔木兹海峡“抢石油”",
+          "url": "https://wallstreetcn.com/livenews/3080133",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时11分"
+        },
+        {
+          "title": "美国总统特朗普：法国不允许装载军事物资的飞机经法国领空前往以色列。法国在“伊朗屠夫”问题上非常不合作，美国会铭记这一切！！！",
+          "url": "https://flash.jin10.com/detail/20260331192254545800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时11分"
+        },
+        {
           "title": "美国白宫：总统特朗普希望在4月6日截止日期之前达成协议。",
           "url": "https://flash.jin10.com/detail/20260331014952767800",
           "source": "金十数据",
@@ -611,6 +691,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时14分"
+        },
+        {
+          "title": "特朗普：伊朗基本上已经被摧毁殆尽 去争取你们自己的石油吧",
+          "url": "https://flash.jin10.com/detail/20260331191522342800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时11分"
+        },
+        {
+          "title": "特朗普告诉盟国要么从美国买航空燃油，要么去霍尔木兹海峡“拿”",
+          "url": "https://wallstreetcn.com/livenews/3080121",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时11分"
+        },
+        {
+          "title": "美国总统特朗普：伊朗基本上已经被摧毁。艰难的部分已经完成。去拿你们自己的石油吧！",
+          "url": "https://flash.jin10.com/detail/20260331191335588800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时11分"
         },
         {
           "title": "鲍威尔：美国联邦公开市场委员会（FOMC）将实现2%通胀目标。 并没有迹象表明美联储过去的债券购买行动引发通胀。 （总统特朗普挑起的）关税对通胀造成一次性影响。 美联储的那些工具对供应冲击并没有实质性的影响。 通胀将在一段时期内错过目标。 通胀预期仍然得到很好的锚定。",
@@ -711,6 +824,23 @@
           "is_new": false,
           "appearance_count": 15,
           "time_info": "[00时06分 ~ 08时05分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "Claude",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "Claude Code完整源代码疑似因npm配置失误遭泄露",
+          "url": "https://flash.jin10.com/detail/20260331194021815800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时11分"
         }
       ]
     }
