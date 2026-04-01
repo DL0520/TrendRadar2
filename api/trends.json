@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-01T07:41:36.284853+08:00",
-  "total_titles_processed": 686,
+  "generated_at": "2026-04-01T11:27:48.774587+08:00",
+  "total_titles_processed": 897,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 55,
+      "match_count": 63,
       "titles": [
         {
           "title": "特朗普的“退出路线图”浮现：愿意先结束战争，重开霍尔木兹就交给欧洲和海湾盟友",
@@ -63,8 +63,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时07分 ~ 07时41分]"
+          "appearance_count": 10,
+          "time_info": "[01时07分 ~ 11时27分]"
         },
         {
           "title": "特朗普称即使霍尔木兹海峡仍关闭也愿结束战争",
@@ -185,6 +185,29 @@
           "time_info": "05时49分"
         },
         {
+          "title": "美伊转折点？特朗普：将在“两到三周”内结束战争，协议亦可能达成！",
+          "url": "https://www.cls.cn/detail/2331376",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时27分"
+        },
+        {
+          "title": "俄10万吨石油抵达古巴，特朗普：没有任何意见",
+          "url": "https://news.ifeng.com/c/8rxB6hK0gY7",
+          "source": "凤凰网",
+          "ranks": [
+            10,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时41分 ~ 11时27分]"
+        },
+        {
           "title": "美国总统特朗普：（被问及伊朗威胁打击中东地区美国公司）拿什么威胁？玩具枪（BB guns）吗？他们已经没什么可以拿来威胁的了。",
           "url": "https://flash.jin10.com/detail/20260401062411940800",
           "source": "金十数据",
@@ -257,17 +280,6 @@
           "time_info": "[04时53分 ~ 05时49分]"
         },
         {
-          "title": "俄10万吨石油抵达古巴，特朗普：没有任何意见",
-          "url": "https://news.ifeng.com/c/8rxB6hK0gY7",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时41分 ~ 07时41分]"
-        },
-        {
           "title": "美国总统特朗普：将于周三就出生地公民权案件上诉至最高法院。",
           "url": "https://flash.jin10.com/detail/20260401060429496800",
           "source": "金十数据",
@@ -304,6 +316,17 @@
           "time_info": "[02时32分 ~ 03时57分]"
         },
         {
+          "title": "战争烂尾，特朗普要跑了",
+          "url": "https://news.ifeng.com/c/8rxhKnCdBaV",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时27分"
+        },
+        {
           "title": "据路透/益普索民调：美国总统特朗普所属共和党人中，四成认为美国应尽快结束对伊战争，即便目标未达成亦如此。",
           "url": "https://flash.jin10.com/detail/20260401050120968800",
           "source": "金十数据",
@@ -321,7 +344,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时41分"
         },
@@ -337,13 +360,24 @@
           "time_info": "01时07分"
         },
         {
+          "title": "特朗普称将在“两到三周”内结束伊朗战事 霍尔木兹海峡由他国自行解决",
+          "url": "https://wallstreetcn.com/articles/3768931",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时27分"
+        },
+        {
           "title": "特朗普：伊朗需15到20年才能完成重建",
           "url": "https://flash.jin10.com/detail/20260401064207291800",
           "source": "金十数据",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时41分"
         },
@@ -365,7 +399,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时41分"
         },
@@ -376,7 +410,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时41分"
         },
@@ -392,6 +426,17 @@
           "time_info": "01时07分"
         },
         {
+          "title": "战争烂尾 特朗普要跑了",
+          "url": "https://www.baidu.com/s?wd=%E6%88%98%E4%BA%89%E7%83%82%E5%B0%BE+%E7%89%B9%E6%9C%97%E6%99%AE%E8%A6%81%E8%B7%91%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时27分"
+        },
+        {
           "title": "白宫官员：特朗普总统对很快达成协议充满信心。",
           "url": "https://flash.jin10.com/detail/20260401015412302800",
           "source": "金十数据",
@@ -401,6 +446,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时32分"
+        },
+        {
+          "title": "特朗普释放战争结束信号 亚太股市借机反弹",
+          "url": "https://flash.jin10.com/detail/20260401105530121800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时27分"
         },
         {
           "title": "美国总统特朗普称：将出席最高法院有关公民身份问题的听证会。",
@@ -420,7 +476,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时41分"
         },
@@ -445,6 +501,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时57分"
+        },
+        {
+          "title": "特朗普：各国应自行去霍尔木兹海峡“抢石油”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32867877",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时27分"
         },
         {
           "title": "美国总统特朗普：在此（美国撤出伊朗）之前有可能达成协议。",
@@ -557,6 +624,17 @@
           "time_info": "06时41分"
         },
         {
+          "title": "明早9点特朗普发表黄金时段讲话，将宣布伊朗战争“重要更新”！",
+          "url": "https://flash.jin10.com/detail/20260401104731609800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时27分"
+        },
+        {
           "title": "特朗普：美盟友必须“介入和处理”霍尔木兹海峡问题",
           "url": "https://wallstreetcn.com/livenews/3080277",
           "source": "华尔街见闻-快讯",
@@ -566,6 +644,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时07分"
+        },
+        {
+          "title": "特朗普将于美国东部时间周三上午10时出席最高法院口头辩论。",
+          "url": "https://wallstreetcn.com/livenews/3080543",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时27分"
         },
         {
           "title": "特朗普谴责保险公司在加州火灾后拒赔，称政府已介入调查",
@@ -637,7 +726,7 @@
     },
     {
       "keyword_group": "Claude",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "如何看待 Anthropic 官方工具 Claude Code 源码泄露事件？",
@@ -666,15 +755,55 @@
           "time_info": "[01时07分 ~ 07时41分]"
         },
         {
+          "title": "深度解析Claude源码泄漏",
+          "url": "https://search.bilibili.com/all?keyword=%E6%B7%B1%E5%BA%A6%E8%A7%A3%E6%9E%90Claude%E6%BA%90%E7%A0%81%E6%B3%84%E6%BC%8F",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时27分"
+        },
+        {
           "title": "史诗级泄露！51.2万行，Claude Code源代码开源了！",
           "url": "https://wallstreetcn.com/articles/3768915",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时41分 ~ 11时27分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "台湾",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "国台办回应台湾参与WTO活动相关争议：必须按照一个中国原则来处理",
+          "url": "https://wallstreetcn.com/livenews/3080566",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时41分"
+          "time_info": "11时27分"
+        },
+        {
+          "title": "国台办：和平统一后，台湾同胞再也无需为各种能源物资短缺而焦虑",
+          "url": "https://wallstreetcn.com/livenews/3080553",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时27分"
         }
       ]
     },
