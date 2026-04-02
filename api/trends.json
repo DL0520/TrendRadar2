@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-02T07:08:42.916567+08:00",
-  "total_titles_processed": 644,
+  "generated_at": "2026-04-02T08:00:25.576475+08:00",
+  "total_titles_processed": 719,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 62,
+      "match_count": 66,
       "titles": [
         {
           "title": "马克龙访日暗讽特朗普",
@@ -15,19 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时33分 ~ 07时08分]"
-        },
-        {
-          "title": "俄10万吨石油抵达古巴，特朗普：没有任何意见",
-          "url": "https://news.ifeng.com/c/8rxB6hK0gY7",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时33分 ~ 07时08分]"
+          "appearance_count": 10,
+          "time_info": "[00时33分 ~ 08时00分]"
         },
         {
           "title": "特朗普称将在“两到三周”内结束伊朗战事 霍尔木兹海峡由他国自行解决",
@@ -36,6 +25,17 @@
           "ranks": [
             5,
             4
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时33分 ~ 08时00分]"
+        },
+        {
+          "title": "俄10万吨石油抵达古巴，特朗普：没有任何意见",
+          "url": "https://news.ifeng.com/c/8rxB6hK0gY7",
+          "source": "凤凰网",
+          "ranks": [
+            3
           ],
           "is_new": false,
           "appearance_count": 8,
@@ -58,11 +58,12 @@
           "source": "华尔街见闻",
           "ranks": [
             7,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时33分 ~ 07时08分]"
+          "appearance_count": 10,
+          "time_info": "[00时33分 ~ 08时00分]"
         },
         {
           "title": "外媒：特朗普正“认真考虑”让美国退出北约",
@@ -73,8 +74,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时33分 ~ 07时08分]"
+          "appearance_count": 10,
+          "time_info": "[00时33分 ~ 08时00分]"
         },
         {
           "title": "特朗普称美军将很快撤出伊朗战事",
@@ -82,11 +83,12 @@
           "source": "今日头条",
           "ranks": [
             12,
-            13
+            13,
+            18
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时33分 ~ 07时08分]"
+          "appearance_count": 10,
+          "time_info": "[00时33分 ~ 08时00分]"
         },
         {
           "title": "美国将结束打击伊朗？特朗普：两三周内撤离，霍尔木兹海峡通航问题与美无关",
@@ -96,8 +98,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时33分 ~ 07时08分]"
+          "appearance_count": 10,
+          "time_info": "[00时33分 ~ 08时00分]"
         },
         {
           "title": "特朗普最新表态：有无协议都会撤出伊朗，只要伊方没有核武器",
@@ -107,8 +109,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时33分 ~ 07时08分]"
+          "appearance_count": 10,
+          "time_info": "[00时33分 ~ 08时00分]"
         },
         {
           "title": "特朗普正“认真考虑”让美国退出北约，美防长：对伊朗展开大规模行动时，北约盟友甚至连通行权限都不给美国",
@@ -119,8 +121,57 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时55分 ~ 07时08分]"
+          "appearance_count": 9,
+          "time_info": "[01时55分 ~ 08时00分]"
+        },
+        {
+          "title": "美国汽油价格突破每加仑4美元，特朗普：美军离开伊朗油价就能跌",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32870657",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时33分 ~ 08时00分]"
+        },
+        {
+          "title": "特朗普称伊朗新政权总统请求停火",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E4%BC%8A%E6%9C%97%E6%96%B0%E6%94%BF%E6%9D%83%E6%80%BB%E7%BB%9F%E8%AF%B7%E6%B1%82%E5%81%9C%E7%81%AB%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30,
+            15,
+            14,
+            16,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[03时13分 ~ 08时00分]"
+        },
+        {
+          "title": "美股收盘：投资者聚焦特朗普重要讲话 三大指数集体收涨",
+          "url": "https://www.cls.cn/detail/2332707",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时08分 ~ 08时00分]"
+        },
+        {
+          "title": "美以伊战争丨特朗普：我要发表讲话说我干得多好",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时59分 ~ 08时00分]"
         },
         {
           "title": "马克龙“暗批”特朗普",
@@ -132,17 +183,6 @@
             16,
             17,
             28
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时33分 ~ 06时06分]"
-        },
-        {
-          "title": "美国汽油价格突破每加仑4美元，特朗普：美军离开伊朗油价就能跌",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32870657",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
           ],
           "is_new": false,
           "appearance_count": 7,
@@ -171,18 +211,15 @@
           "time_info": "06时06分"
         },
         {
-          "title": "特朗普称伊朗新政权总统请求停火",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E4%BC%8A%E6%9C%97%E6%96%B0%E6%94%BF%E6%9D%83%E6%80%BB%E7%BB%9F%E8%AF%B7%E6%B1%82%E5%81%9C%E7%81%AB%23&t=31&band_rank=30&Refer=top",
-          "source": "微博",
+          "title": "韩国财政部称，特朗普讲话后市场波动可能加剧。",
+          "url": "https://wallstreetcn.com/livenews/3081171",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            30,
-            15,
-            14,
-            16
+            1
           ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时13分 ~ 07时08分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时00分"
         },
         {
           "title": "据Axios记者：美国总统特朗普周三与沙特王储通了电话。",
@@ -196,17 +233,6 @@
           "time_info": "00时33分"
         },
         {
-          "title": "美股收盘：投资者聚焦特朗普重要讲话 三大指数集体收涨",
-          "url": "https://www.cls.cn/detail/2332707",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时08分"
-        },
-        {
           "title": "白宫官员：总统特朗普预计将在周三的讲话中重申在2至3周内结束对伊行动的时间表。",
           "url": "https://flash.jin10.com/detail/20260402001125659800",
           "source": "金十数据",
@@ -216,6 +242,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时33分"
+        },
+        {
+          "title": "伊朗高官喊话特朗普：霍尔木兹海峡肯定会重新开放，但不会对美国开放",
+          "url": "https://wallstreetcn.com/articles/3768990",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[06时05分 ~ 08时00分]"
         },
         {
           "title": "美国总统特朗普宣称，美国正与伊朗议长对话。（ABC新闻）",
@@ -292,17 +330,6 @@
           "time_info": "[04时09分 ~ 06时06分]"
         },
         {
-          "title": "伊朗高官喊话特朗普：霍尔木兹海峡肯定会重新开放，但不会对美国开放",
-          "url": "https://wallstreetcn.com/articles/3768990",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时05分 ~ 07时08分]"
-        },
-        {
           "title": "白带：特朗普将在黄金时段宣布战争即将结束，海峡责任全在北约",
           "url": "https://wallstreetcn.com/livenews/3081095",
           "source": "华尔街见闻-快讯",
@@ -314,6 +341,29 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时09分 ~ 06时06分]"
+        },
+        {
+          "title": "特朗普“撒手不管”霍尔木兹海峡，对油价意味着什么？",
+          "url": "https://wallstreetcn.com/articles/3768941",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时33分 ~ 08时00分]"
+        },
+        {
+          "title": "英首相回应特朗普贬损英国军力",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B1%E9%A6%96%E7%9B%B8%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E8%B4%AC%E6%8D%9F%E8%8B%B1%E5%9B%BD%E5%86%9B%E5%8A%9B%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时08分 ~ 08时00分]"
         },
         {
           "title": "据阿联酋国家通讯社：阿联酋总统与美国总统特朗普讨论地区局势发展。",
@@ -340,6 +390,17 @@
           "time_info": "[04时09分 ~ 05时11分]"
         },
         {
+          "title": "英首相回应特朗普：这不是我们的战争，不会卷入其中",
+          "url": "https://news.ifeng.com/c/8ryg5lk6hFZ",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时59分 ~ 08时00分]"
+        },
+        {
           "title": "标普500指数涨超1.2%，道指涨429点、涨幅0.9%。 据以色列广播管理局援引以色列消息人士的话称，以色列越来越担心特朗普会对此次行动的成果感到满意，并宣布行动结束。",
           "url": "https://wallstreetcn.com/livenews/3081056",
           "source": "华尔街见闻-快讯",
@@ -364,6 +425,18 @@
           "time_info": "[04时09分 ~ 05时11分]"
         },
         {
+          "title": "美媒：特朗普拟宣布伊朗战事即将“胜利收官”，把霍尔木兹海峡包袱甩给北约",
+          "url": "https://flash.jin10.com/detail/20260402065010433800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时08分 ~ 08时00分]"
+        },
+        {
           "title": "特朗普听取了关于“运走伊朗近1000磅高浓缩铀”的简报",
           "url": "https://flash.jin10.com/detail/20260402032157316800",
           "source": "金十数据",
@@ -374,6 +447,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时09分 ~ 05时11分]"
+        },
+        {
+          "title": "美国总统特朗普考虑罢免司法部长Bondi。 特朗普希望用环境保护署（EPA）主管Zeldin取代Bondi。（纽约时报）",
+          "url": "https://wallstreetcn.com/livenews/3081139",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时08分 ~ 08时00分]"
         },
         {
           "title": "据纽约时报：多家美国情报机构最近评估认为，伊朗政府目前不愿意进行实质性谈判以结束战争。美国情报部门称，伊朗方面认为特朗普对谈判缺乏诚意。",
@@ -392,28 +477,6 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时33分"
-        },
-        {
-          "title": "美媒：特朗普拟宣布伊朗战事即将“胜利收官”，把霍尔木兹海峡包袱甩给北约",
-          "url": "https://flash.jin10.com/detail/20260402065010433800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时08分"
-        },
-        {
-          "title": "特朗普“撒手不管”霍尔木兹海峡，对油价意味着什么？",
-          "url": "https://wallstreetcn.com/articles/3768941",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -464,24 +527,13 @@
           "time_info": "06时06分"
         },
         {
-          "title": "美国总统特朗普考虑罢免司法部长Bondi。 特朗普希望用环境保护署（EPA）主管Zeldin取代Bondi。（纽约时报）",
-          "url": "https://wallstreetcn.com/livenews/3081139",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时08分"
-        },
-        {
           "title": "消息称特朗普拟对部分制药企业征收新关税",
           "url": "https://flash.jin10.com/detail/20260402064012344800",
           "source": "金十数据",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时08分"
         },
@@ -525,7 +577,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时08分"
         },
@@ -547,7 +599,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时08分"
         },
@@ -580,7 +632,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时08分"
         },
@@ -602,7 +654,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时08分"
         },
@@ -635,7 +687,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时08分"
         },
@@ -646,7 +698,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时08分"
         },
@@ -671,6 +723,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时55分"
+        },
+        {
+          "title": "报道：特朗普政府准备对部分药企加征关税",
+          "url": "https://wallstreetcn.com/livenews/3081146",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时00分"
         },
         {
           "title": "美国总统特朗普：我要求（有关终止政府部分停摆的）法案不迟于6月1日送到我的办公桌上。",
@@ -704,17 +767,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时55分"
-        },
-        {
-          "title": "英首相回应特朗普贬损英国军力",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B1%E9%A6%96%E7%9B%B8%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E8%B4%AC%E6%8D%9F%E8%8B%B1%E5%9B%BD%E5%86%9B%E5%8A%9B%23&t=31&band_rank=28&Refer=top",
-          "source": "微博",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时08分"
         }
       ]
     },
@@ -722,21 +774,6 @@
       "keyword_group": "Claude",
       "match_count": 7,
       "titles": [
-        {
-          "title": "Claude 正在自己设计下一代 Claude，当 AI 开始自我进化，将对行业带来哪些影响？",
-          "url": "https://www.zhihu.com/question/2022254775757009403",
-          "source": "知乎",
-          "ranks": [
-            13,
-            17,
-            16,
-            14,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时33分 ~ 07时08分]"
-        },
         {
           "title": "ClaudeCode源码泄露",
           "url": "https://www.douyin.com/hot/2451216",
@@ -749,8 +786,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时33分 ~ 07时08分]"
+          "appearance_count": 10,
+          "time_info": "[00时33分 ~ 08时00分]"
         },
         {
           "title": "Claude Opus是否会淘汰程序员",
@@ -761,11 +798,12 @@
             16,
             21,
             17,
-            14
+            14,
+            18
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时33分 ~ 07时08分]"
+          "appearance_count": 10,
+          "time_info": "[00时33分 ~ 08时00分]"
         },
         {
           "title": "从泄露源码扒出Claude隐藏彩蛋",
@@ -778,8 +816,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时33分 ~ 07时08分]"
+          "appearance_count": 10,
+          "time_info": "[00时33分 ~ 08时00分]"
         },
         {
           "title": "Claude Code源码分析与复刻实现",
@@ -791,11 +829,12 @@
             20,
             16,
             17,
-            14
+            14,
+            21
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时33分 ~ 07时08分]"
+          "appearance_count": 10,
+          "time_info": "[00时33分 ~ 08时00分]"
         },
         {
           "title": "UP主复现Claude Code代码漏洞",
@@ -807,6 +846,21 @@
             14,
             15,
             18
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时33分 ~ 08时00分]"
+        },
+        {
+          "title": "Claude 正在自己设计下一代 Claude，当 AI 开始自我进化，将对行业带来哪些影响？",
+          "url": "https://www.zhihu.com/question/2022254775757009403",
+          "source": "知乎",
+          "ranks": [
+            13,
+            17,
+            16,
+            14,
+            9
           ],
           "is_new": false,
           "appearance_count": 8,
@@ -840,8 +894,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时33分 ~ 07时08分]"
+          "appearance_count": 10,
+          "time_info": "[00时33分 ~ 08时00分]"
         },
         {
           "title": "国台办：越早实现统一越有利于台湾发展，越有利于台湾同胞过上更好的日子",
@@ -853,8 +907,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时33分 ~ 07时08分]"
+          "appearance_count": 10,
+          "time_info": "[00时33分 ~ 08时00分]"
         },
         {
           "title": "台湾掀“抢塑潮” 国台办回应",
@@ -867,19 +921,20 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时33分 ~ 07时08分]"
+          "appearance_count": 10,
+          "time_info": "[00时33分 ~ 08时00分]"
         },
         {
           "title": "国台办回应台湾石油紧张，称和平统一后，台湾同胞再也无需为各种能源物资短缺而焦虑，如何看待这一表态？",
           "url": "https://www.zhihu.com/question/2022625871878440582",
           "source": "知乎",
           "ranks": [
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时33分 ~ 07时08分]"
+          "appearance_count": 10,
+          "time_info": "[00时33分 ~ 08时00分]"
         },
         {
           "title": "统一后台湾同胞再也无需抢购塑料袋",
