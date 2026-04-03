@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-03T17:32:03.016601+08:00",
-  "total_titles_processed": 1419,
+  "generated_at": "2026-04-03T18:52:18.349161+08:00",
+  "total_titles_processed": 1551,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 52,
+      "match_count": 56,
       "titles": [
         {
           "title": "特朗普自行宣称：对伊朗战事取得“压倒性胜利”，未来两到三周将开展极其猛烈的打击",
@@ -80,6 +80,18 @@
           "time_info": "[00时32分 ~ 11时25分]"
         },
         {
+          "title": "发了又删，特朗普1小时闭门讲话引发巨大争议",
+          "url": "https://news.ifeng.com/c/8s10y0PIEwa",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[11时24分 ~ 18时52分]"
+        },
+        {
           "title": "特朗普讲话后金银直线跳水",
           "url": "https://www.douyin.com/hot/2452230",
           "source": "抖音",
@@ -96,18 +108,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时32分 ~ 08时01分]"
-        },
-        {
-          "title": "发了又删，特朗普1小时闭门讲话引发巨大争议",
-          "url": "https://news.ifeng.com/c/8s10y0PIEwa",
-          "source": "凤凰网",
-          "ranks": [
-            4,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时24分 ~ 17时32分]"
         },
         {
           "title": "伊朗强硬回应特朗普",
@@ -131,8 +131,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时24分 ~ 17时32分]"
+          "appearance_count": 8,
+          "time_info": "[11时24分 ~ 18时52分]"
         },
         {
           "title": "敲定100%关税！特朗普“剑指”进口专利药及制药成分",
@@ -146,6 +146,19 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[11时24分 ~ 17时32分]"
+        },
+        {
+          "title": "美国炸毁伊朗最大桥梁 特朗普威胁：将继续打击桥梁和发电厂！",
+          "url": "https://www.cls.cn/detail/2334381",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时48分 ~ 18时52分]"
         },
         {
           "title": "伊朗回应特朗普所谓已胜利 SpaceX有望冲刺2万亿美元估值 | 环球市场",
@@ -181,19 +194,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时01分"
-        },
-        {
-          "title": "美国炸毁伊朗最大桥梁 特朗普威胁：将继续打击桥梁和发电厂！",
-          "url": "https://www.cls.cn/detail/2334381",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            8,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时48分 ~ 17时32分]"
         },
         {
           "title": "美国总统特朗普：美国司法部长帕姆·邦迪将转任一份在私营部门非常需要且重要的新工作，具体日期将于近期公布，副司法部长托德·布兰奇将接任代理司法部长一职。",
@@ -281,6 +281,18 @@
           "time_info": "[06时04分 ~ 07时02分]"
         },
         {
+          "title": "伊朗警告敢发动地面战绝不留活口，伊称击中敌先进战机、美否认，特朗普放炸桥视频施压",
+          "url": "https://wallstreetcn.com/articles/3769139",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时05分 ~ 18时52分]"
+        },
+        {
           "title": "伊朗外长嘲讽特朗普：石器时代可没有油气",
           "url": "https://flash.jin10.com/detail/20260403035841206800",
           "source": "金十数据",
@@ -306,16 +318,15 @@
           "time_info": "[03时05分 ~ 08时01分]"
         },
         {
-          "title": "伊朗警告敢发动地面战绝不留活口，伊称击中敌先进战机、美否认，特朗普放炸桥视频施压",
-          "url": "https://wallstreetcn.com/articles/3769139",
-          "source": "华尔街见闻",
+          "title": "鲁比奥指责伊朗不把钱用于民生，特朗普：美国的钱要优先用来打仗",
+          "url": "https://news.ifeng.com/c/8s1YO2Kuf9C",
+          "source": "凤凰网",
           "ranks": [
-            10,
-            9
+            10
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[16时05分 ~ 17时32分]"
+          "time_info": "[17时31分 ~ 18时52分]"
         },
         {
           "title": "白宫紧急下架特朗普讲话视频",
@@ -330,6 +341,17 @@
           "time_info": "[13时23分 ~ 16时05分]"
         },
         {
+          "title": "马克龙回怼特朗普",
+          "url": "https://www.douyin.com/hot/2453352",
+          "source": "抖音",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时31分 ~ 18时52分]"
+        },
+        {
           "title": "美国总统特朗普宣称，司法部长Bondi被免职。（福克斯新闻）",
           "url": "https://wallstreetcn.com/livenews/3081729",
           "source": "华尔街见闻-快讯",
@@ -342,17 +364,6 @@
           "time_info": "[01时55分 ~ 03时05分]"
         },
         {
-          "title": "鲁比奥指责伊朗不把钱用于民生，特朗普：美国的钱要优先用来打仗",
-          "url": "https://news.ifeng.com/c/8s1YO2Kuf9C",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时31分 ~ 17时32分]"
-        },
-        {
           "title": "机构：特朗普对伊战争讲话为油市蒙上阴影，到4月底超6亿桶石油供应面临风险",
           "url": "https://wallstreetcn.com/livenews/3081824",
           "source": "华尔街见闻-快讯",
@@ -363,17 +374,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时02分 ~ 08时01分]"
-        },
-        {
-          "title": "马克龙回怼特朗普",
-          "url": "https://www.douyin.com/hot/2453352",
-          "source": "抖音",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时31分 ~ 17时32分]"
         },
         {
           "title": "特朗普放炸桥视频施压伊朗",
@@ -420,6 +420,17 @@
           "time_info": "08时01分"
         },
         {
+          "title": "伊朗外交部发言人巴加埃：（回应特朗普要“让伊朗人回到石器时代”的威胁）伊朗人一直是绿意和柏树的守护者。今天，每位伊朗人都在深厚文化智慧的指引下，怀着目的和意义种下一棵树。爱的国度种下了一棵生命的幼苗——它将茁壮成长，枝繁叶茂，延展到明天。",
+          "url": "https://flash.jin10.com/detail/20260403183236002800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时52分"
+        },
+        {
           "title": "据Politico：在美国司法部长邦迪被解职后，特朗普考虑进一步调整内阁。",
           "url": "https://flash.jin10.com/detail/20260403073914856800",
           "source": "金十数据",
@@ -462,6 +473,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时01分"
+        },
+        {
+          "title": "马克龙批评特朗普，呼吁中等国家团结以制衡美国。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3082149",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时52分"
         },
         {
           "title": "据CNN：美国总统特朗普免去帕姆·邦迪美国司法部长职务。",
@@ -508,6 +530,17 @@
           "time_info": "11时25分"
         },
         {
+          "title": "特朗普夸耀的“战绩”被美情报部门“打脸”",
+          "url": "https://wallstreetcn.com/livenews/3082146",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时52分"
+        },
+        {
           "title": "石破茂公开评价特朗普喜欢被奉承",
           "url": "https://s.weibo.com/weibo?q=%23%E7%9F%B3%E7%A0%B4%E8%8C%82%E5%85%AC%E5%BC%80%E8%AF%84%E4%BB%B7%E7%89%B9%E6%9C%97%E6%99%AE%E5%96%9C%E6%AC%A2%E8%A2%AB%E5%A5%89%E6%89%BF%23&t=31&band_rank=19&Refer=top",
           "source": "微博",
@@ -550,6 +583,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时05分"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-04-03）",
+          "url": "https://flash.jin10.com/detail/20260403181214807800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时52分"
         },
         {
           "title": "特朗普：伊朗新政权领导层必须尽快去做该做的事",
@@ -751,11 +795,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             13,
-            10
+            10,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时05分 ~ 17时32分]"
+          "appearance_count": 4,
+          "time_info": "[16时05分 ~ 18时52分]"
         },
         {
           "title": "谷歌公司推出Gemma 4开源模型，为高级推理打造Gemma 4。 英伟达与谷歌公司致力于为英伟达GPUs优化Gemma 4。 英伟达为本地智能体人工智能（Agentic AI）加速Gemma 4。",
@@ -804,11 +849,12 @@
           "url": "https://www.toutiao.com/trending/7624258513497456703/",
           "source": "今日头条",
           "ranks": [
-            30
+            30,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时31分 ~ 17时32分]"
+          "appearance_count": 3,
+          "time_info": "[17时31分 ~ 18时52分]"
         }
       ]
     }
