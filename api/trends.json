@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-03T22:24:57.505530+08:00",
-  "total_titles_processed": 1872,
+  "generated_at": "2026-04-03T23:11:54.778915+08:00",
+  "total_titles_processed": 1944,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 69,
+      "match_count": 81,
       "titles": [
         {
           "title": "特朗普自行宣称：对伊朗战事取得“压倒性胜利”，未来两到三周将开展极其猛烈的打击",
@@ -50,8 +50,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时24分 ~ 22时24分]"
+          "appearance_count": 13,
+          "time_info": "[11时24分 ~ 23时11分]"
         },
         {
           "title": "外交部谈特朗普涉伊朗言论",
@@ -103,8 +103,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[14时48分 ~ 22时24分]"
+          "appearance_count": 10,
+          "time_info": "[14时48分 ~ 23时11分]"
         },
         {
           "title": "特朗普讲话后金银直线跳水",
@@ -150,6 +150,19 @@
           "time_info": "[11时24分 ~ 18时52分]"
         },
         {
+          "title": "马克龙回怼特朗普",
+          "url": "https://www.douyin.com/hot/2453352",
+          "source": "抖音",
+          "ranks": [
+            12,
+            15,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[17时31分 ~ 23时11分]"
+        },
+        {
           "title": "敲定100%关税！特朗普“剑指”进口专利药及制药成分",
           "url": "https://www.cls.cn/detail/2334117",
           "source": "财联社热门",
@@ -161,19 +174,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[11时24分 ~ 17时32分]"
-        },
-        {
-          "title": "马克龙回怼特朗普",
-          "url": "https://www.douyin.com/hot/2453352",
-          "source": "抖音",
-          "ranks": [
-            12,
-            15,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时31分 ~ 22时24分]"
         },
         {
           "title": "伊朗回应特朗普所谓已胜利 SpaceX有望冲刺2万亿美元估值 | 环球市场",
@@ -206,7 +206,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时24分"
         },
@@ -234,6 +234,17 @@
           "time_info": "[17时31分 ~ 21时18分]"
         },
         {
+          "title": "“再给点时间”！特朗普疯狂叫嚣，扬言要夺石油发大财",
+          "url": "https://flash.jin10.com/detail/20260403224906129800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时11分"
+        },
+        {
           "title": "特朗普“高抬贵手”？金属关税大调整，但50%大棒仍高高举起",
           "url": "https://flash.jin10.com/detail/20260403074051630800",
           "source": "金十数据",
@@ -251,7 +262,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时24分"
         },
@@ -267,15 +278,15 @@
           "time_info": "01时55分"
         },
         {
-          "title": "美国现代史上之最！特朗普抛出1.5万亿天价国防预算",
-          "url": "https://flash.jin10.com/detail/20260403221809438800",
+          "title": "特朗普预算案预计在2027年将获得4640亿美元的关税收入。（外媒更正：非2027财年）",
+          "url": "https://flash.jin10.com/detail/20260403224401371800",
           "source": "金十数据",
           "ranks": [
-            4
+            5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时24分"
+          "time_info": "23时11分"
         },
         {
           "title": "说着硬话但表情沮丧，特朗普的“胜利”之说能信几分？｜907编辑部",
@@ -364,6 +375,18 @@
           "time_info": "[06时04分 ~ 07时02分]"
         },
         {
+          "title": "美国现代史上之最！特朗普抛出1.5万亿天价国防预算",
+          "url": "https://flash.jin10.com/detail/20260403221809438800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时24分 ~ 23时11分]"
+        },
+        {
           "title": "特朗普再提打开霍尔木兹海峡“抢石油”",
           "url": "https://wallstreetcn.com/livenews/3082198",
           "source": "华尔街见闻-快讯",
@@ -423,6 +446,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时55分 ~ 03时05分]"
+        },
+        {
+          "title": "特朗普又又又临阵退缩了？",
+          "url": "https://news.ifeng.com/c/8s1rQuxF293",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时24分 ~ 23时11分]"
         },
         {
           "title": "机构：特朗普对伊战争讲话为油市蒙上阴影，到4月底超6亿桶石油供应面临风险",
@@ -505,6 +539,17 @@
           "time_info": "08时01分"
         },
         {
+          "title": "伊朗总统回应特朗普：“炸回石器时代”言论意味着大规模战争罪",
+          "url": "https://wallstreetcn.com/livenews/3082255",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时11分"
+        },
+        {
           "title": "伊朗外交部发言人巴加埃：（回应特朗普要“让伊朗人回到石器时代”的威胁）伊朗人一直是绿意和柏树的守护者。今天，每位伊朗人都在深厚文化智慧的指引下，怀着目的和意义种下一棵树。爱的国度种下了一棵生命的幼苗——它将茁壮成长，枝繁叶茂，延展到明天。",
           "url": "https://flash.jin10.com/detail/20260403183236002800",
           "source": "金十数据",
@@ -514,6 +559,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时52分"
+        },
+        {
+          "title": "特朗普的预算案预计2027财年CPI将上涨2.3%。",
+          "url": "https://flash.jin10.com/detail/20260403223912210800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时11分"
         },
         {
           "title": "据Politico：在美国司法部长邦迪被解职后，特朗普考虑进一步调整内阁。",
@@ -527,15 +583,15 @@
           "time_info": "08时01分"
         },
         {
-          "title": "特朗普又又又临阵退缩了？",
-          "url": "https://news.ifeng.com/c/8s1rQuxF293",
-          "source": "凤凰网",
+          "title": "特朗普预算案预计2027财年实际GDP增长3.1%。",
+          "url": "https://flash.jin10.com/detail/20260403223852087800",
+          "source": "金十数据",
           "ranks": [
-            10
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时24分"
+          "time_info": "23时11分"
         },
         {
           "title": "白宫官员确认，美国总统特朗普免去了帕姆·邦迪的美国司法部长职务。",
@@ -555,9 +611,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时24分"
+        },
+        {
+          "title": "特朗普的预算案拟为美国农业部提供208亿美元的自由裁量预算授权，较2026财年水平减少49亿美元，降幅达19%。",
+          "url": "https://flash.jin10.com/detail/20260403223623930800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时11分"
         },
         {
           "title": "特朗普想甩手走人，盟友急了：40多国磋商“自己开海峡”，联合国武力方案被挡下",
@@ -591,6 +658,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "21时18分"
+        },
+        {
+          "title": "美国2027财年预算：特朗普拟寻求将近2.2万亿美元，预计CPI将上升2.3%",
+          "url": "https://wallstreetcn.com/livenews/3082250",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时11分"
         },
         {
           "title": "据CNN：美国总统特朗普免去帕姆·邦迪美国司法部长职务。",
@@ -637,6 +715,17 @@
           "time_info": "11时25分"
         },
         {
+          "title": "特朗普2027财年预算拟为美国卫生与公众服务部的自由裁量预算授权设定为1111亿美元，较2026财年的水平减少158亿美元，降幅为12.5%。",
+          "url": "https://flash.jin10.com/detail/20260403223158627800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时11分"
+        },
+        {
           "title": "美媒：特朗普对两部长不满 正考虑进一步调整内阁",
           "url": "https://wallstreetcn.com/livenews/3082199",
           "source": "华尔街见闻-快讯",
@@ -648,6 +737,28 @@
           "time_info": "21时18分"
         },
         {
+          "title": "一周热榜精选：特朗普并未TACO再引巨震！鲍威尔发言修正加息预期",
+          "url": "https://flash.jin10.com/detail/20260403223119763800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时11分"
+        },
+        {
+          "title": "美国总统特朗普预算案提议开始对运输安全管理局进行私有化。",
+          "url": "https://flash.jin10.com/detail/20260403223004160800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时11分"
+        },
+        {
           "title": "石破茂公开评价特朗普喜欢被奉承",
           "url": "https://s.weibo.com/weibo?q=%23%E7%9F%B3%E7%A0%B4%E8%8C%82%E5%85%AC%E5%BC%80%E8%AF%84%E4%BB%B7%E7%89%B9%E6%9C%97%E6%99%AE%E5%96%9C%E6%AC%A2%E8%A2%AB%E5%A5%89%E6%89%BF%23&t=31&band_rank=19&Refer=top",
           "source": "微博",
@@ -657,6 +768,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时23分"
+        },
+        {
+          "title": "特朗普2027年预算拟为环保署提供42亿美元的自由预算授权，比2026年减少46亿美元，降幅达52%。",
+          "url": "https://flash.jin10.com/detail/20260403222420452800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时11分"
         },
         {
           "title": "特朗普演说后，美油价差飙升至历史纪录水平",
@@ -734,6 +856,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "21时18分"
+        },
+        {
+          "title": "特朗普2027财年向美国国家航空航天局申请188亿美元预算，较2026财年水平减少56亿美元，降幅达23%。",
+          "url": "https://flash.jin10.com/detail/20260403222116107800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时11分"
         },
         {
           "title": "美国总统特朗普相信，一旦伊朗战争结束，利率将会下降。（DC Examiner）",
@@ -903,11 +1036,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             9,
-            7
+            7,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时17分 ~ 22时24分]"
+          "appearance_count": 4,
+          "time_info": "[21时17分 ~ 23时11分]"
         },
         {
           "title": "ClaudeCode里到底藏了什么",
@@ -936,11 +1070,12 @@
             4,
             16,
             14,
-            18
+            18,
+            19
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时05分 ~ 22时24分]"
+          "appearance_count": 9,
+          "time_info": "[16时05分 ~ 23时11分]"
         },
         {
           "title": "如何评价 Google 发布的开源大模型 Gemma4？使用体验怎么样？",
@@ -975,7 +1110,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时24分"
         },
