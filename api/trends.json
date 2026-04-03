@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-03T13:23:42.802765+08:00",
-  "total_titles_processed": 1042,
+  "generated_at": "2026-04-03T14:48:40.791429+08:00",
+  "total_titles_processed": 1156,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 47,
+      "match_count": 48,
       "titles": [
         {
           "title": "特朗普自行宣称：对伊朗战事取得“压倒性胜利”，未来两到三周将开展极其猛烈的打击",
@@ -112,6 +112,18 @@
           "time_info": "[01时54分 ~ 08时01分]"
         },
         {
+          "title": "发了又删，特朗普1小时闭门讲话引发巨大争议",
+          "url": "https://news.ifeng.com/c/8s10y0PIEwa",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时24分 ~ 14时48分]"
+        },
+        {
           "title": "外交部谈特朗普涉伊朗言论：再次敦促当事方立即停止军事行动",
           "url": "https://www.cls.cn/detail/2333305",
           "source": "财联社热门",
@@ -145,16 +157,17 @@
           "time_info": "01时55分"
         },
         {
-          "title": "发了又删，特朗普1小时闭门讲话引发巨大争议",
-          "url": "https://news.ifeng.com/c/8s10y0PIEwa",
-          "source": "凤凰网",
+          "title": "伊朗回应特朗普所谓已胜利 SpaceX有望冲刺2万亿美元估值 | 环球市场",
+          "url": "https://www.cls.cn/detail/2334086",
+          "source": "财联社热门",
           "ranks": [
-            4,
+            12,
+            7,
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时24分 ~ 13时23分]"
+          "appearance_count": 5,
+          "time_info": "[08时01分 ~ 14时48分]"
         },
         {
           "title": "特朗普发表讲话谈伊朗战事",
@@ -218,16 +231,27 @@
           "time_info": "[06时04分 ~ 07时02分]"
         },
         {
-          "title": "伊朗回应特朗普所谓已胜利 SpaceX有望冲刺2万亿美元估值 | 环球市场",
-          "url": "https://www.cls.cn/detail/2334086",
-          "source": "财联社热门",
+          "title": "密友出车祸被捕，特朗普紧急出面护短",
+          "url": "https://news.ifeng.com/c/8rs4tUu8kcn",
+          "source": "凤凰网",
           "ranks": [
-            12,
-            7
+            9
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[08时01分 ~ 13时23分]"
+          "time_info": "[11时24分 ~ 14时48分]"
+        },
+        {
+          "title": "敲定100%关税！特朗普“剑指”进口专利药及制药成分",
+          "url": "https://www.cls.cn/detail/2334117",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时24分 ~ 14时48分]"
         },
         {
           "title": "伊朗外长嘲讽特朗普：石器时代可没有油气",
@@ -243,17 +267,6 @@
           "time_info": "[04时04分 ~ 06时04分]"
         },
         {
-          "title": "密友出车祸被捕，特朗普紧急出面护短",
-          "url": "https://news.ifeng.com/c/8rs4tUu8kcn",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时24分 ~ 13时23分]"
-        },
-        {
           "title": "特朗普即将发表讲话，美股首度“两连涨”，黄金已“四连涨”，华尔街FOMO了",
           "url": "https://wallstreetcn.com/articles/3769043",
           "source": "华尔街见闻",
@@ -264,17 +277,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时05分 ~ 08时01分]"
-        },
-        {
-          "title": "敲定100%关税！特朗普“剑指”进口专利药及制药成分",
-          "url": "https://www.cls.cn/detail/2334117",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时24分 ~ 13时23分]"
         },
         {
           "title": "美国总统特朗普宣称，司法部长Bondi被免职。（福克斯新闻）",
@@ -289,6 +291,18 @@
           "time_info": "[01时55分 ~ 03时05分]"
         },
         {
+          "title": "白宫紧急下架特朗普讲话视频",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%99%BD%E5%AE%AB%E7%B4%A7%E6%80%A5%E4%B8%8B%E6%9E%B6%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%B2%E8%AF%9D%E8%A7%86%E9%A2%91%23&t=31&band_rank=11&Refer=top",
+          "source": "微博",
+          "ranks": [
+            11,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时23分 ~ 14时48分]"
+        },
+        {
           "title": "机构：特朗普对伊战争讲话为油市蒙上阴影，到4月底超6亿桶石油供应面临风险",
           "url": "https://wallstreetcn.com/livenews/3081824",
           "source": "华尔街见闻-快讯",
@@ -299,6 +313,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时02分 ~ 08时01分]"
+        },
+        {
+          "title": "说着硬话但表情沮丧，特朗普的“胜利”之说能信几分？｜907编辑部",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32879891",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时23分 ~ 14时48分]"
         },
         {
           "title": "特朗普放炸桥视频施压伊朗",
@@ -378,15 +404,15 @@
           "time_info": "11时25分"
         },
         {
-          "title": "白宫紧急下架特朗普讲话视频",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%99%BD%E5%AE%AB%E7%B4%A7%E6%80%A5%E4%B8%8B%E6%9E%B6%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%B2%E8%AF%9D%E8%A7%86%E9%A2%91%23&t=31&band_rank=11&Refer=top",
-          "source": "微博",
+          "title": "美国炸毁伊朗最大桥梁 特朗普威胁：将继续打击桥梁和发电厂！",
+          "url": "https://www.cls.cn/detail/2334381",
+          "source": "财联社热门",
           "ranks": [
-            11
+            12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时23分"
+          "time_info": "14时48分"
         },
         {
           "title": "市场消息：特朗普据悉将为下一财年提出1.5万亿美元国防预算，增幅“远超”二战以来任何时期。",
@@ -450,18 +476,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时23分"
-        },
-        {
-          "title": "说着硬话但表情沮丧，特朗普的“胜利”之说能信几分？｜907编辑部",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32879891",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时23分"
         },
@@ -598,11 +613,12 @@
             16,
             21,
             26,
-            27
+            27,
+            30
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时32分 ~ 13时23分]"
+          "appearance_count": 14,
+          "time_info": "[00时32分 ~ 14时48分]"
         },
         {
           "title": "UP主复现Claude Code代码漏洞",
@@ -654,24 +670,25 @@
       "match_count": 3,
       "titles": [
         {
+          "title": "如何评价 Google 发布的开源大模型 Gemma4？使用体验怎么样？",
+          "url": "https://www.zhihu.com/question/2023204569811828949",
+          "source": "知乎",
+          "ranks": [
+            8,
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时24分 ~ 14时48分]"
+        },
+        {
           "title": "谷歌最新模型Gemma4发布",
           "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8C%E6%9C%80%E6%96%B0%E6%A8%A1%E5%9E%8BGemma4%E5%8F%91%E5%B8%83",
           "source": "bilibili 热搜",
           "ranks": [
             4,
             6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时24分 ~ 13时23分]"
-        },
-        {
-          "title": "如何评价 Google 发布的开源大模型 Gemma4？使用体验怎么样？",
-          "url": "https://www.zhihu.com/question/2023204569811828949",
-          "source": "知乎",
-          "ranks": [
-            8,
-            3
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -695,6 +712,19 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "网友发现《小眼睛》台湾地区作曲登记为李荣浩公司，其「版权公司结业」说法站不住脚，李荣浩为何要这样回应？",
+          "url": "https://www.zhihu.com/question/2023068334963337209",
+          "source": "知乎",
+          "ranks": [
+            11,
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时24分 ~ 14时48分]"
+        },
+        {
           "title": "台湾馆长：两岸统一成功必然有我",
           "url": "https://www.toutiao.com/trending/7623808052713586739/",
           "source": "今日头条",
@@ -705,18 +735,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时04分 ~ 07时02分]"
-        },
-        {
-          "title": "网友发现《小眼睛》台湾地区作曲登记为李荣浩公司，其「版权公司结业」说法站不住脚，李荣浩为何要这样回应？",
-          "url": "https://www.zhihu.com/question/2023068334963337209",
-          "source": "知乎",
-          "ranks": [
-            11,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时24分 ~ 13时23分]"
         }
       ]
     }
