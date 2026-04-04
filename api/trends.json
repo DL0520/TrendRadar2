@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-04T18:41:45.298024+08:00",
-  "total_titles_processed": 1297,
+  "generated_at": "2026-04-04T19:36:01.273758+08:00",
+  "total_titles_processed": 1356,
   "failed_sources": [],
   "trends": [
     {
@@ -20,8 +20,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[03时23分 ~ 18时41分]"
+          "appearance_count": 16,
+          "time_info": "[03时23分 ~ 19时36分]"
         },
         {
           "title": "发了又删，特朗普1小时闭门讲话引发巨大争议",
@@ -165,15 +165,15 @@
           "time_info": "06时00分"
         },
         {
-          "title": "奥地利副总理：不想卷入特朗普发动的战争",
-          "url": "https://wallstreetcn.com/livenews/3082429",
-          "source": "华尔街见闻-快讯",
+          "title": "二战以来最大军费年增！特朗普政府寻求2027财年国防预算1.5万亿美元，非国防支出压缩10%",
+          "url": "https://wallstreetcn.com/articles/3769222",
+          "source": "华尔街见闻",
           "ranks": [
-            4
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时41分"
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时52分 ~ 19时36分]"
         },
         {
           "title": "凤凰观察：出乎特朗普意料，伊朗正把一手烂牌打得很出色",
@@ -202,6 +202,19 @@
           "time_info": "[04时01分 ~ 07时41分]"
         },
         {
+          "title": "一名美军战机飞行员仍失踪，特朗普：希望“那种情况”不会发生",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32901007",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            16,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时52分 ~ 19时36分]"
+        },
+        {
           "title": "特朗普发文吹嘘自己创造了一个强大的经济增长引擎",
           "url": "https://flash.jin10.com/detail/20260404060440038800",
           "source": "金十数据",
@@ -212,6 +225,29 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时48分 ~ 07时41分]"
+        },
+        {
+          "title": "奥地利副总理：不想卷入特朗普发动的战争",
+          "url": "https://wallstreetcn.com/livenews/3082429",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时41分 ~ 19时36分]"
+        },
+        {
+          "title": "胡锡进：特朗普想在停战前再捞一笔，遭伊朗沉重打击",
+          "url": "https://news.ifeng.com/c/8s3EHhsM4Il",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时47分 ~ 19时36分]"
         },
         {
           "title": "美国总统特朗普在自家社交媒体平台兜售3月非农就业报告。 特朗普鼓吹道：特别是18.6万名在三月份获得私营部门工作的美国人！ 我的经济政策创造了一个强大的经济增长引擎，没有什么能减缓它的速度。 由于快速的本土化和激增的投资，工厂建设岗位大幅增加，而贸易逆差在一年内缩小了52%！",
@@ -302,17 +338,6 @@
           "time_info": "[04时01分 ~ 06时00分]"
         },
         {
-          "title": "二战以来最大军费年增！特朗普政府寻求2027财年国防预算1.5万亿美元，非国防支出压缩10%",
-          "url": "https://wallstreetcn.com/articles/3769222",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时52分 ~ 18时41分]"
-        },
-        {
           "title": "据华尔街日报：美国法官驳回总统特朗普政府恢复针对鲍威尔的传票申请。",
           "url": "https://wallstreetcn.com/livenews/3082306",
           "source": "华尔街见闻-快讯",
@@ -324,30 +349,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时23分 ~ 05时04分]"
-        },
-        {
-          "title": "一名美军战机飞行员仍失踪，特朗普：希望“那种情况”不会发生",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32901007",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            16,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时52分 ~ 18时41分]"
-        },
-        {
-          "title": "胡锡进：特朗普想在停战前再捞一笔，遭伊朗沉重打击",
-          "url": "https://news.ifeng.com/c/8s3EHhsM4Il",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时47分 ~ 18时41分]"
         },
         {
           "title": "如果特朗普休市突袭！开盘第一单该怎么做？",
@@ -372,6 +373,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时04分 ~ 01时05分]"
+        },
+        {
+          "title": "奥地利副总理：不想卷入特朗普发动的战争",
+          "url": "https://flash.jin10.com/detail/20260404180422484800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时41分 ~ 19时36分]"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-04-04）",
+          "url": "https://flash.jin10.com/detail/20260404180154288800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时41分 ~ 19时36分]"
         },
         {
           "title": "美国总统特朗普：3月新增非农就业人口17.8万人，失业率下降。各方都认为这是个好数字，连那些假新闻媒体也如此。让美国再次伟大！",
@@ -408,6 +433,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时04分 ~ 01时05分]"
+        },
+        {
+          "title": "特朗普称伊朗“新政权”更温和 专家称伊朗政权未更迭且更强硬",
+          "url": "https://flash.jin10.com/detail/20260404175453984800",
+          "source": "金十数据",
+          "ranks": [
+            14,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时41分 ~ 19时36分]"
         },
         {
           "title": "特朗普炮轰ABC记者：三流主播又写书瞎编，这家电视台最烂最腐败",
@@ -455,28 +492,6 @@
           "time_info": "16时52分"
         },
         {
-          "title": "奥地利副总理：不想卷入特朗普发动的战争",
-          "url": "https://flash.jin10.com/detail/20260404180422484800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时41分"
-        },
-        {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-04-04）",
-          "url": "https://flash.jin10.com/detail/20260404180154288800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时41分"
-        },
-        {
           "title": "特朗普已就美战机在伊朗被击落听取简报",
           "url": "https://wallstreetcn.com/livenews/3082271",
           "source": "华尔街见闻-快讯",
@@ -486,17 +501,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时05分"
-        },
-        {
-          "title": "特朗普称伊朗“新政权”更温和 专家称伊朗政权未更迭且更强硬",
-          "url": "https://flash.jin10.com/detail/20260404175453984800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时41分"
         },
         {
           "title": "据CNN援引白宫新闻秘书莱维特表示，美国总统特朗普已获知伊朗击落一架无人机的事件。",
@@ -582,11 +586,12 @@
           "ranks": [
             4,
             6,
-            5
+            5,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时34分 ~ 18时41分]"
+          "appearance_count": 6,
+          "time_info": "[15时34分 ~ 19时36分]"
         },
         {
           "title": "如何评价 Anthropic 封杀 OpenClaw，将其踢出 Claude 订阅服务的白名单？",
@@ -597,8 +602,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时34分 ~ 18时41分]"
+          "appearance_count": 6,
+          "time_info": "[15时34分 ~ 19时36分]"
         },
         {
           "title": "Anthropic通过要求订阅用户额外付费，实际上将Openclaw从Claude中禁用。（The Verge）",
@@ -666,8 +671,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[02时03分 ~ 18时41分]"
+          "appearance_count": 18,
+          "time_info": "[02时03分 ~ 19时36分]"
         },
         {
           "title": "多部台湾影片在大陆密集上映",
@@ -675,11 +680,12 @@
           "source": "百度热搜",
           "ranks": [
             27,
-            19
+            19,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时47分 ~ 18时41分]"
+          "appearance_count": 4,
+          "time_info": "[17时47分 ~ 19时36分]"
         },
         {
           "title": "台湾高雄一炼油厂发生火灾",
