@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-04T22:07:12.514870+08:00",
-  "total_titles_processed": 1558,
+  "generated_at": "2026-04-04T23:02:27.397738+08:00",
+  "total_titles_processed": 1616,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 49,
+      "match_count": 51,
       "titles": [
         {
           "title": "一图看懂｜特朗普“解放日”一周年，关税让美国再次伟大了吗？",
@@ -94,8 +94,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时52分 ~ 22时07分]"
+          "appearance_count": 9,
+          "time_info": "[16时52分 ~ 23时02分]"
         },
         {
           "title": "一名美军战机飞行员仍失踪，特朗普：希望“那种情况”不会发生",
@@ -106,11 +106,12 @@
             16,
             15,
             13,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时52分 ~ 22时07分]"
+          "appearance_count": 9,
+          "time_info": "[16时52分 ~ 23时02分]"
         },
         {
           "title": "胡锡进：特朗普想在停战前再捞一笔，遭伊朗沉重打击",
@@ -120,8 +121,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时47分 ~ 22时07分]"
+          "appearance_count": 8,
+          "time_info": "[17时47分 ~ 23时02分]"
         },
         {
           "title": "美国政府2027财年预算草案要点总结：特朗普“重武轻文”，大幅削减民生开支恐引发两党博弈",
@@ -204,26 +205,30 @@
           "time_info": "06时00分"
         },
         {
-          "title": "美国总统特朗普：昨天不仅就业数据非常好，新增了17.8万个工作岗位，而且贸易逆差下降了55%，创下历史最大降幅。感谢关税先生！与此同时，我们还在消除一个拥有核武的伊朗。",
-          "url": "https://flash.jin10.com/detail/20260404213415488800",
-          "source": "金十数据",
+          "title": "奥地利副总理：不想卷入特朗普发动的战争",
+          "url": "https://wallstreetcn.com/livenews/3082429",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            4,
+            6,
+            20,
+            23,
+            29
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时07分"
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时41分 ~ 23时02分]"
         },
         {
-          "title": "特朗普：纽约时报信誉扫地 把北约称为“北美条约组织”",
-          "url": "https://flash.jin10.com/detail/20260404212809199800",
-          "source": "金十数据",
+          "title": "特朗普再警告伊朗：“48小时内”可能采取进一步行动",
+          "url": "https://wallstreetcn.com/livenews/3082457",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时07分"
+          "time_info": "23时02分"
         },
         {
           "title": "凤凰观察：出乎特朗普意料，伊朗正把一手烂牌打得很出色",
@@ -237,18 +242,15 @@
           "time_info": "[14时04分 ~ 18时41分]"
         },
         {
-          "title": "奥地利副总理：不想卷入特朗普发动的战争",
-          "url": "https://wallstreetcn.com/livenews/3082429",
-          "source": "华尔街见闻-快讯",
+          "title": "特朗普再次向伊朗发出48小时最后通牒",
+          "url": "https://flash.jin10.com/detail/20260404220708839800",
+          "source": "金十数据",
           "ranks": [
-            4,
-            6,
-            20,
-            23
+            5
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时41分 ~ 22时07分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时02分"
         },
         {
           "title": "美国总统特朗普最新发文称，保留石油，有人一起吗？",
@@ -276,6 +278,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时48分 ~ 07时41分]"
+        },
+        {
+          "title": "美国总统特朗普：昨天不仅就业数据非常好，新增了17.8万个工作岗位，而且贸易逆差下降了55%，创下历史最大降幅。感谢关税先生！与此同时，我们还在消除一个拥有核武的伊朗。",
+          "url": "https://flash.jin10.com/detail/20260404213415488800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时07分 ~ 23时02分]"
         },
         {
           "title": "美国总统特朗普在自家社交媒体平台兜售3月非农就业报告。 特朗普鼓吹道：特别是18.6万名在三月份获得私营部门工作的美国人！ 我的经济政策创造了一个强大的经济增长引擎，没有什么能减缓它的速度。 由于快速的本土化和激增的投资，工厂建设岗位大幅增加，而贸易逆差在一年内缩小了52%！",
@@ -327,6 +341,18 @@
           "time_info": "[01时05分 ~ 02时04分]"
         },
         {
+          "title": "特朗普：纽约时报信誉扫地 把北约称为“北美条约组织”",
+          "url": "https://flash.jin10.com/detail/20260404212809199800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时07分 ~ 23时02分]"
+        },
+        {
           "title": "特朗普：美军机被击落不会影响与伊朗谈判",
           "url": "https://wallstreetcn.com/livenews/3082320",
           "source": "华尔街见闻-快讯",
@@ -366,6 +392,19 @@
           "time_info": "[04时01分 ~ 06时00分]"
         },
         {
+          "title": "伊朗高官：与其撤换美国将领，不如罢免特朗普",
+          "url": "https://flash.jin10.com/detail/20260404202353358800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            21,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时10分 ~ 23时02分]"
+        },
+        {
           "title": "据华尔街日报：美国法官驳回总统特朗普政府恢复针对鲍威尔的传票申请。",
           "url": "https://wallstreetcn.com/livenews/3082306",
           "source": "华尔街见闻-快讯",
@@ -389,18 +428,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时04分 ~ 01时05分]"
-        },
-        {
-          "title": "伊朗高官：与其撤换美国将领，不如罢免特朗普",
-          "url": "https://flash.jin10.com/detail/20260404202353358800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时10分 ~ 22时07分]"
         },
         {
           "title": "北约方面表示，北约秘书长将于4月8日至12日访美，会见美国总统特朗普、国务卿鲁比奥和国防部长赫格塞思。",
@@ -641,11 +668,12 @@
             5,
             8,
             17,
-            11
+            11,
+            14
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时34分 ~ 22时07分]"
+          "appearance_count": 10,
+          "time_info": "[15时34分 ~ 23时02分]"
         },
         {
           "title": "如何评价 Anthropic 封杀 OpenClaw，将其踢出 Claude 订阅服务的白名单？",
@@ -739,11 +767,12 @@
             19,
             13,
             16,
-            17
+            17,
+            9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时47分 ~ 22时07分]"
+          "appearance_count": 8,
+          "time_info": "[17时47分 ~ 23时02分]"
         },
         {
           "title": "英烈苏艺林归葬天津，曾潜伏台湾获取大量绝密情报",
@@ -751,11 +780,12 @@
           "source": "澎湃新闻",
           "ranks": [
             19,
-            17
+            17,
+            15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时10分 ~ 22时07分]"
+          "appearance_count": 4,
+          "time_info": "[21时10分 ~ 23时02分]"
         },
         {
           "title": "台退将：在东风导弹面前台湾注定输",
