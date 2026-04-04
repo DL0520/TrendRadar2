@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-04T10:44:27.944736+08:00",
-  "total_titles_processed": 782,
+  "generated_at": "2026-04-04T12:57:50.843115+08:00",
+  "total_titles_processed": 892,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 31,
+      "match_count": 33,
       "titles": [
         {
           "title": "发了又删，特朗普1小时闭门讲话引发巨大争议",
@@ -17,6 +17,21 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时04分 ~ 07时41分]"
+        },
+        {
+          "title": "一图看懂｜特朗普“解放日”一周年，关税让美国再次伟大了吗？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32895010",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19,
+            11,
+            7,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[03时23分 ~ 12时57分]"
         },
         {
           "title": "特朗普又又又临阵退缩了？",
@@ -43,32 +58,6 @@
           "time_info": "[00时04分 ~ 07时41分]"
         },
         {
-          "title": "美国炸毁伊朗最大桥梁 特朗普威胁：将继续打击桥梁和发电厂！",
-          "url": "https://www.cls.cn/detail/2334381",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时04分 ~ 03时23分]"
-        },
-        {
-          "title": "一图看懂｜特朗普“解放日”一周年，关税让美国再次伟大了吗？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32895010",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            19,
-            11,
-            7,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[03时23分 ~ 10时44分]"
-        },
-        {
           "title": "特朗普正式对进口专利药品征收 100% 关税，为何其还能收关税，此举会对全球创新药市场产生多大影响？",
           "url": "https://www.zhihu.com/question/2023328039937786913",
           "source": "知乎",
@@ -80,8 +69,19 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[03时23分 ~ 10时44分]"
+          "appearance_count": 9,
+          "time_info": "[03时23分 ~ 12时57分]"
+        },
+        {
+          "title": "美国炸毁伊朗最大桥梁 特朗普威胁：将继续打击桥梁和发电厂！",
+          "url": "https://www.cls.cn/detail/2334381",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时04分 ~ 03时23分]"
         },
         {
           "title": "美国政府2027财年预算草案要点总结：特朗普“重武轻文”，大幅削减民生开支恐引发两党博弈",
@@ -326,6 +326,17 @@
           "time_info": "07时41分"
         },
         {
+          "title": "美国总统特朗普：3月新增非农就业人口17.8万人，失业率下降。各方都认为这是个好数字，连那些假新闻媒体也如此。让美国再次伟大！",
+          "url": "https://flash.jin10.com/detail/20260404110623924800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时57分"
+        },
+        {
           "title": "特朗普已就美战机在伊朗被击落听取简报",
           "url": "https://wallstreetcn.com/livenews/3082271",
           "source": "华尔街见闻-快讯",
@@ -335,6 +346,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时05分"
+        },
+        {
+          "title": "特朗普炮轰ABC记者：三流主播又写书瞎编，这家电视台最烂最腐败",
+          "url": "https://flash.jin10.com/detail/20260404110124771800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时57分"
         },
         {
           "title": "据CNN援引白宫新闻秘书莱维特表示，美国总统特朗普已获知伊朗击落一架无人机的事件。",
@@ -395,7 +417,7 @@
     },
     {
       "keyword_group": "Claude",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "Claude源码能否让全球AI工具大升级",
@@ -406,11 +428,24 @@
             2,
             3,
             4,
-            8
+            8,
+            5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时04分 ~ 10时44分]"
+          "appearance_count": 13,
+          "time_info": "[00时04分 ~ 12时57分]"
+        },
+        {
+          "title": "Anthropic通过要求订阅用户额外付费，实际上将Openclaw从Claude中禁用。（The Verge）",
+          "url": "https://wallstreetcn.com/livenews/3082355",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时44分 ~ 12时57分]"
         },
         {
           "title": "从源码剖析ClaudeCode对话流程",
@@ -424,15 +459,15 @@
           "time_info": "00时04分"
         },
         {
-          "title": "Anthropic通过要求订阅用户额外付费，实际上将Openclaw从Claude中禁用。（The Verge）",
-          "url": "https://wallstreetcn.com/livenews/3082355",
-          "source": "华尔街见闻-快讯",
+          "title": "ClaudeCode底层技术拆解",
+          "url": "https://search.bilibili.com/all?keyword=ClaudeCode%E5%BA%95%E5%B1%82%E6%8A%80%E6%9C%AF%E6%8B%86%E8%A7%A3",
+          "source": "bilibili 热搜",
           "ranks": [
-            19
+            16
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时44分"
+          "time_info": "12时57分"
         }
       ]
     },
@@ -453,8 +488,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[02时03分 ~ 10时44分]"
+          "appearance_count": 11,
+          "time_info": "[02时03分 ~ 12时57分]"
         },
         {
           "title": "台湾高雄一炼油厂发生火灾",
@@ -475,7 +510,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时44分"
         }
@@ -495,11 +530,12 @@
             15,
             20,
             17,
-            14
+            14,
+            18
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时04分 ~ 10时44分]"
+          "appearance_count": 13,
+          "time_info": "[00时04分 ~ 12时57分]"
         },
         {
           "title": "谷歌推出Veo 3.1 Lite版本，并在VertexAI平台新增Veo超分辨率升级功能。",
