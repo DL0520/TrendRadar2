@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-05T19:37:38.725489+08:00",
-  "total_titles_processed": 1245,
+  "generated_at": "2026-04-05T21:12:46.231663+08:00",
+  "total_titles_processed": 1355,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 40,
+      "match_count": 50,
       "titles": [
         {
           "title": "美以伊战争丨特朗普发通牒：地狱将降临到伊朗头上",
@@ -25,11 +25,12 @@
           "ranks": [
             6,
             3,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时20分 ~ 19时37分]"
+          "appearance_count": 11,
+          "time_info": "[11时20分 ~ 21时12分]"
         },
         {
           "title": "自周三以来“未公开露面”！特朗普“一反常态”低调，周末“不停工作”连海湖庄园都不去了",
@@ -39,11 +40,12 @@
             6,
             5,
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时26分 ~ 19时37分]"
+          "appearance_count": 10,
+          "time_info": "[13时26分 ~ 21时12分]"
         },
         {
           "title": "【早报】中国驻以使馆提醒：远离民用基础设施；特朗普再次警告伊朗",
@@ -56,8 +58,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时20分 ~ 19时37分]"
+          "appearance_count": 11,
+          "time_info": "[11时20分 ~ 21时12分]"
         },
         {
           "title": "一名美军战机飞行员仍失踪，特朗普：希望“那种情况”不会发生",
@@ -96,8 +98,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时26分 ~ 19时37分]"
+          "appearance_count": 10,
+          "time_info": "[13时26分 ~ 21时12分]"
         },
         {
           "title": "伊朗军方拒绝特朗普“48小时”通牒",
@@ -110,8 +112,35 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时26分 ~ 19时37分]"
+          "appearance_count": 10,
+          "time_info": "[13时26分 ~ 21时12分]"
+        },
+        {
+          "title": "伊朗拒绝特朗普“48小时”通牒！华尔街紧绷：4月6日后会发生什么？",
+          "url": "https://www.cls.cn/detail/2335478",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10,
+            8,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[15时58分 ~ 21时12分]"
+        },
+        {
+          "title": "特朗普想趁机卖油，美媒：结果可能让他后悔莫及",
+          "url": "https://news.ifeng.com/c/8s4udkTiAOL",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时50分 ~ 21时12分]"
         },
         {
           "title": "特朗普打的越猛，伊朗越强硬：霍尔木兹被推上谈判桌中央！",
@@ -154,18 +183,6 @@
           "time_info": "[05时39分 ~ 11时20分]"
         },
         {
-          "title": "特朗普想趁机卖油，美媒：结果可能让他后悔莫及",
-          "url": "https://news.ifeng.com/c/8s4udkTiAOL",
-          "source": "凤凰网",
-          "ranks": [
-            7,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时50分 ~ 19时37分]"
-        },
-        {
           "title": "特朗普疑似嘲讽盟友的帖子得到了伊朗驻英国使馆的回复",
           "url": "https://flash.jin10.com/detail/20260405042122287800",
           "source": "金十数据",
@@ -178,20 +195,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[05时39分 ~ 11时20分]"
-        },
-        {
-          "title": "伊朗拒绝特朗普“48小时”通牒！华尔街紧绷：4月6日后会发生什么？",
-          "url": "https://www.cls.cn/detail/2335478",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            10,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时58分 ~ 19时37分]"
         },
         {
           "title": "美以伊战争丨伊朗军方拒绝特朗普“48小时”通牒",
@@ -227,6 +230,17 @@
           "time_info": "[00时46分 ~ 06时37分]"
         },
         {
+          "title": "特朗普称被击落战机的第二名机组人员“身受重伤”",
+          "url": "https://wallstreetcn.com/livenews/3082637",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时12分"
+        },
+        {
           "title": "特朗普就其移民政策发表最新讲话",
           "url": "https://flash.jin10.com/detail/20260405030425436800",
           "source": "金十数据",
@@ -240,6 +254,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[03时37分 ~ 07时38分]"
+        },
+        {
+          "title": "特朗普警告伊朗：若48小时内不重新开放霍尔木兹海峡 将进一步升级行动",
+          "url": "https://www.cls.cn/detail/2335423",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时38分 ~ 21时12分]"
         },
         {
           "title": "美媒：特朗普在白宫战情室跟进失踪美军飞行员救援行动",
@@ -266,17 +291,6 @@
           "time_info": "[18时43分 ~ 19时37分]"
         },
         {
-          "title": "特朗普警告伊朗：若48小时内不重新开放霍尔木兹海峡 将进一步升级行动",
-          "url": "https://www.cls.cn/detail/2335423",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时38分 ~ 14时49分]"
-        },
-        {
           "title": "周三演讲“效果不佳”、对“媒体报道”不满、对“战争后果”沮丧！特朗普正考虑“大规模改组”内阁",
           "url": "https://wallstreetcn.com/articles/3769274",
           "source": "华尔街见闻",
@@ -285,8 +299,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时42分 ~ 19时37分]"
+          "appearance_count": 4,
+          "time_info": "[18时42分 ~ 21时12分]"
         },
         {
           "title": "美媒：特朗普在白宫战情室跟进失踪美军飞行员救援行动",
@@ -420,6 +434,17 @@
           "time_info": "[02时54分 ~ 03时37分]"
         },
         {
+          "title": "下周重磅日程：特朗普再发“最后通牒”、中美通胀数据、三星与天孚通信业绩",
+          "url": "https://wallstreetcn.com/articles/3769257",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时12分"
+        },
+        {
           "title": "特朗普称已救回失踪飞行员",
           "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%B7%B2%E6%95%91%E5%9B%9E%E5%A4%B1%E8%B8%AA%E9%A3%9E%E8%A1%8C%E5%91%98",
           "source": "bilibili 热搜",
@@ -429,6 +454,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时58分"
+        },
+        {
+          "title": "特朗普威胁伊朗：4月7日将是伊朗的发电厂日和大桥日",
+          "url": "https://wallstreetcn.com/livenews/3082632",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时12分"
+        },
+        {
+          "title": "以色列总理内塔尼亚胡：祝贺特朗普通过美国勇敢的战士们成功救回了一位勇敢的美国飞行员。",
+          "url": "https://flash.jin10.com/detail/20260405202514812800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时12分"
         },
         {
           "title": "特朗普称已救回飞行员",
@@ -442,6 +489,17 @@
           "time_info": "14时49分"
         },
         {
+          "title": "外媒：特朗普一直待在白宫，并未公开露面接受记者采访",
+          "url": "https://v.ifeng.com/c/8s4k0EtHRMa",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时12分"
+        },
+        {
           "title": "特朗普证实救出失踪飞行员",
           "url": "https://www.douyin.com/hot/2455859",
           "source": "抖音",
@@ -453,6 +511,17 @@
           "time_info": "14时49分"
         },
         {
+          "title": "诺奖得主、国际原子能机构前总干事敦促海湾各国：阻止“疯子”特朗普",
+          "url": "https://wallstreetcn.com/livenews/3082629",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时12分"
+        },
+        {
           "title": "美国前参议员表示特朗普已经住院",
           "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%89%8D%E5%8F%82%E8%AE%AE%E5%91%98%E8%A1%A8%E7%A4%BA%E7%89%B9%E6%9C%97%E6%99%AE%E5%B7%B2%E7%BB%8F%E4%BD%8F%E9%99%A2%23&t=31&band_rank=11&Refer=top",
           "source": "微博",
@@ -462,6 +531,50 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时26分"
+        },
+        {
+          "title": "一周展望：战争第六周特朗普的剧本要崩、CPI将爆，金价又要出大戏？",
+          "url": "https://flash.jin10.com/detail/20260405200932018800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时12分"
+        },
+        {
+          "title": "特朗普“F词”大骂伊朗 威胁打击伊朗电厂和桥梁",
+          "url": "https://flash.jin10.com/detail/20260405200543778800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时12分"
+        },
+        {
+          "title": "特朗普：成功营救F-15飞行员 将于周一举行发布会",
+          "url": "https://flash.jin10.com/detail/20260405195621932800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时12分"
+        },
+        {
+          "title": "美国总统特朗普：我们已从伊朗境内的崇山峻岭中救出了那位伤势严重但非常勇敢的F-15机组人员/军官。",
+          "url": "https://flash.jin10.com/detail/20260405195446661800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时12分"
         },
         {
           "title": "伊朗军方拒绝特朗普“48小时”通牒",
@@ -500,7 +613,7 @@
     },
     {
       "keyword_group": "台湾",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "英烈苏艺林归葬天津，曾潜伏台湾获取大量绝密情报",
@@ -515,6 +628,18 @@
           "time_info": "[00时46分 ~ 11时20分]"
         },
         {
+          "title": "白岩松：郑丽文访陆是台湾最该走的路",
+          "url": "https://www.toutiao.com/trending/7624174177511243839/",
+          "source": "今日头条",
+          "ranks": [
+            10,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时42分 ~ 21时12分]"
+        },
+        {
           "title": "美要求台湾开放转基因食品进校园",
           "url": "https://news.ifeng.com/c/8s4mZ6qtAFi",
           "source": "凤凰网",
@@ -524,18 +649,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[15时58分 ~ 18时43分]"
-        },
-        {
-          "title": "白岩松：郑丽文访陆是台湾最该走的路",
-          "url": "https://www.toutiao.com/trending/7624174177511243839/",
-          "source": "今日头条",
-          "ranks": [
-            10,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时42分 ~ 19时37分]"
         },
         {
           "title": "中国地震台网正式测定：04月05日01时14分在台湾花莲县海域（北纬24.02度，东经121.73度）发生5.0级地震，震源深度10千米。",
@@ -574,6 +687,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时46分"
+        },
+        {
+          "title": "美要求台湾开放转基因食品进校园",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E8%A6%81%E6%B1%82%E5%8F%B0%E6%B9%BE%E5%BC%80%E6%94%BE%E8%BD%AC%E5%9F%BA%E5%9B%A0%E9%A3%9F%E5%93%81%E8%BF%9B%E6%A0%A1%E5%9B%AD%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时12分"
         }
       ]
     },
@@ -593,8 +717,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时46分 ~ 19时37分]"
+          "appearance_count": 21,
+          "time_info": "[00时46分 ~ 21时12分]"
         },
         {
           "title": "从ClaudeCode源码看其竞争优势",
@@ -603,7 +727,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时37分"
         }
