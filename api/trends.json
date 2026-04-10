@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-04-11T00:03:09.184298+08:00",
-  "total_titles_processed": 320,
+  "generated_at": "2026-04-11T01:38:26.738329+08:00",
+  "total_titles_processed": 396,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 8,
+      "match_count": 16,
       "titles": [
+        {
+          "title": "伊朗战争丨特朗普：若未达成协议，将加大对伊朗打击",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时38分"
+        },
         {
           "title": "据纽约邮报：若与伊朗和平谈判失败，特朗普准备动用武力。",
           "url": "https://flash.jin10.com/detail/20260410233248888800",
@@ -14,7 +25,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时03分"
         },
@@ -26,8 +37,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时02分 ~ 00时03分]"
+          "appearance_count": 3,
+          "time_info": "[00时02分 ~ 01时38分]"
         },
         {
           "title": "外媒辛辣提问北约秘书长：你现在还想叫特朗普“爸爸”吗？",
@@ -37,8 +48,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时02分 ~ 00时03分]"
+          "appearance_count": 3,
+          "time_info": "[00时02分 ~ 01时38分]"
         },
         {
           "title": "美媒：特朗普施压，以黎将于华盛顿开展首轮对话",
@@ -48,8 +59,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时02分 ~ 00时03分]"
+          "appearance_count": 3,
+          "time_info": "[00时02分 ~ 01时38分]"
         },
         {
           "title": "泰前总理佩通坦：骗子模仿特朗普让我捐款，我差点信了",
@@ -59,30 +70,87 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时02分 ~ 00时03分]"
+          "appearance_count": 3,
+          "time_info": "[00时02分 ~ 01时38分]"
         },
         {
           "title": "【特朗普：与伊朗的会谈结果将在24小时内明朗】美国总统特朗普10日接受《纽约邮报》采访时表示，与伊朗的会谈结果将在24小时内明朗。（新华社）",
           "url": "https://wallstreetcn.com/livenews/3086016",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            6,
+            26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时03分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时03分 ~ 01时38分]"
         },
         {
           "title": "报道：特朗普准备在没能与伊朗达成协议的情况下采取军事行动",
           "url": "https://wallstreetcn.com/livenews/3086012",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            10,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时03分 ~ 01时38分]"
+        },
+        {
+          "title": "美国参议院民主党成员Warren致函商品期货交易委员会（CFTC），要求调查与总统特朗普伊朗言论相关的石油交易。",
+          "url": "https://wallstreetcn.com/livenews/3086031",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时03分"
+          "time_info": "01时38分"
+        },
+        {
+          "title": "特朗普称若未达成协议，将加大对伊朗军事打击",
+          "url": "https://wallstreetcn.com/livenews/3086029",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时38分"
+        },
+        {
+          "title": "市场消息：美国民主党参议员沃伦致函美国商品期货交易委员会（CFTC），要求调查与美国总统特朗普伊朗论调相关的石油交易。",
+          "url": "https://flash.jin10.com/detail/20260411004405756800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时38分"
+        },
+        {
+          "title": "特朗普：伊朗没有底牌",
+          "url": "https://wallstreetcn.com/livenews/3086027",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时38分"
+        },
+        {
+          "title": "特朗普称若未达成协议 将加大对伊朗军事打击",
+          "url": "https://flash.jin10.com/detail/20260411003436336800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时38分"
         },
         {
           "title": "巴西财政部长：巴西总统卢拉与美国总统特朗普的对话有助于达成协议。这为与美国的其他交易铺平了道路。美国官员表示希望下周在华盛顿与我进一步深入会谈。",
@@ -91,9 +159,31 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时03分"
+        },
+        {
+          "title": "特朗普：伊朗手中已无筹码 存在的原因是为了谈判",
+          "url": "https://flash.jin10.com/detail/20260411003033068800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时38分"
+        },
+        {
+          "title": "美国总统特朗普：伊朗人在应对假新闻媒体和“公关”方面比打仗更在行！",
+          "url": "https://flash.jin10.com/detail/20260411002832276800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时38分"
         }
       ]
     },
@@ -109,8 +199,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时02分 ~ 00时03分]"
+          "appearance_count": 3,
+          "time_info": "[00时02分 ~ 01时38分]"
         },
         {
           "title": "美财长与美联储主席召开紧急会议，称 Claude 新模型对金融业有巨大风险，是指什么？究竟有多危险？",
@@ -120,8 +210,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时02分 ~ 00时03分]"
+          "appearance_count": 3,
+          "time_info": "[00时02分 ~ 01时38分]"
         }
       ]
     },
