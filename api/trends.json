@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-10T11:50:01.551579+08:00",
-  "total_titles_processed": 995,
+  "generated_at": "2026-04-10T14:03:50.174014+08:00",
+  "total_titles_processed": 1137,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 52,
+      "match_count": 57,
       "titles": [
         {
           "title": "特朗普：10项停战条款是“假新闻”，美军将“继续驻扎在伊朗境内及其周边”",
@@ -14,11 +14,12 @@
           "ranks": [
             5,
             4,
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时05分 ~ 11时50分]"
+          "appearance_count": 11,
+          "time_info": "[00时05分 ~ 14时03分]"
         },
         {
           "title": "脆弱的停火：以色列依旧“搅屎棍”，特朗普还是“来回变”",
@@ -94,6 +95,18 @@
           "time_info": "[00时05分 ~ 08时04分]"
         },
         {
+          "title": "美伊“火药味”又浓了？关于霍尔木兹，特朗普和伊朗最高领袖分别说……",
+          "url": "https://www.cls.cn/detail/2339900",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时49分 ~ 14时03分]"
+        },
+        {
           "title": "伊朗战争丨特朗普要求内塔尼亚胡减少打击黎巴嫩",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
           "source": "凤凰网",
@@ -116,15 +129,27 @@
           "time_info": "[11时49分 ~ 11时50分]"
         },
         {
-          "title": "美伊“火药味”又浓了？关于霍尔木兹，特朗普和伊朗最高领袖分别说……",
-          "url": "https://www.cls.cn/detail/2339900",
-          "source": "财联社热门",
+          "title": "以总理指示尽快启动与黎巴嫩直接谈判，特朗普要求以减少袭黎，伊朗称为再发生冲突做好准备",
+          "url": "https://wallstreetcn.com/articles/3769619",
+          "source": "华尔街见闻",
           "ranks": [
-            3
+            8,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时49分 ~ 11时50分]"
+          "appearance_count": 4,
+          "time_info": "[08时04分 ~ 14时03分]"
+        },
+        {
+          "title": "伊朗战争丨美前众议员怼特朗普：发动战争，简直疯了",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时03分"
         },
         {
           "title": "美国总统特朗普：伊朗最好别向经过霍尔木兹海峡的油轮收取通行费；如果收，那就趁早停掉。",
@@ -149,6 +174,17 @@
           "time_info": "01时40分"
         },
         {
+          "title": "拜登儿子“约战”特朗普儿子",
+          "url": "https://www.toutiao.com/trending/7626918230665445418/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时03分"
+        },
+        {
           "title": "关税战没有赢家！外交部回应特朗普关税言论",
           "url": "https://www.cls.cn/detail/2339082",
           "source": "财联社热门",
@@ -158,18 +194,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时05分"
-        },
-        {
-          "title": "以总理指示尽快启动与黎巴嫩直接谈判，特朗普要求以减少袭黎，伊朗称为再发生冲突做好准备",
-          "url": "https://wallstreetcn.com/articles/3769619",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时04分 ~ 11时50分]"
         },
         {
           "title": "美国总统特朗普发表长文，猛烈抨击美国知名主持人塔克·卡尔森、梅根·凯利和坎迪斯·欧文斯对伊朗战争的批评。",
@@ -196,6 +220,42 @@
           "time_info": "[04时42分 ~ 05时13分]"
         },
         {
+          "title": "特朗普警告伊朗不要收霍尔木兹海峡通行费 | 环球市场",
+          "url": "https://www.cls.cn/detail/2339829",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时04分 ~ 14时03分]"
+        },
+        {
+          "title": "伊朗最高领袖提出三点主张 特朗普要求以色列减少对黎巴嫩打击",
+          "url": "https://www.cls.cn/detail/2339842",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时49分 ~ 14时03分]"
+        },
+        {
+          "title": "伊朗提出和谈前提：黎巴嫩实现停火！特朗普：已要求以色列“低调”",
+          "url": "https://www.cls.cn/detail/2339892",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时49分 ~ 14时03分]"
+        },
+        {
           "title": "伊朗称黎巴嫩停火等停战条款被违反、破坏“谈判基础”，特朗普称停火不含黎，万斯称从未承诺包括",
           "url": "https://wallstreetcn.com/articles/3769515",
           "source": "华尔街见闻",
@@ -205,40 +265,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时18分 ~ 05时13分]"
-        },
-        {
-          "title": "特朗普警告伊朗不要收霍尔木兹海峡通行费 | 环球市场",
-          "url": "https://www.cls.cn/detail/2339829",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时04分 ~ 11时50分]"
-        },
-        {
-          "title": "伊朗最高领袖提出三点主张 特朗普要求以色列减少对黎巴嫩打击",
-          "url": "https://www.cls.cn/detail/2339842",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时49分 ~ 11时50分]"
-        },
-        {
-          "title": "伊朗提出和谈前提：黎巴嫩实现停火！特朗普：已要求以色列“低调”",
-          "url": "https://www.cls.cn/detail/2339892",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时49分 ~ 11时50分]"
         },
         {
           "title": "英国首相府：斯塔默与美国总统特朗普讨论了制定切实可行方案以尽快恢复航运的必要性，并同意不久后再次通话。",
@@ -337,6 +363,17 @@
           "time_info": "[07时12分 ~ 08时04分]"
         },
         {
+          "title": "拜登儿子约战特朗普儿子：来场笼斗吧",
+          "url": "https://news.ifeng.com/c/8sCrezhn1o8",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时03分"
+        },
+        {
           "title": "据消息人士称，俄罗斯总统特使德米特里耶夫正在美国，与美国总统特朗普政府的成员会晤，讨论乌克兰问题和经济合作。德米特里耶夫的此次访问正值美国对俄罗斯石油的制裁豁免将于4月11日到期之际。",
           "url": "https://flash.jin10.com/detail/20260410024548617800",
           "source": "金十数据",
@@ -390,6 +427,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时18分"
+        },
+        {
+          "title": "拜登儿子约战特朗普儿子",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%8B%9C%E7%99%BB%E5%84%BF%E5%AD%90%E7%BA%A6%E6%88%98%E7%89%B9%E6%9C%97%E6%99%AE%E5%84%BF%E5%AD%90%23&t=31&band_rank=12&Refer=top",
+          "source": "微博",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时03分"
         },
         {
           "title": "特朗普下令“低调点”！内塔尼亚胡秒变脸：尽快开启以黎直接谈判",
@@ -513,6 +561,17 @@
           "time_info": "06时33分"
         },
         {
+          "title": "美媒称特朗普要求以色列总理内塔尼亚胡减少对黎巴嫩的打击",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32936449",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时03分"
+        },
+        {
           "title": "美媒称特朗普要求内塔尼亚胡减少对黎巴嫩的打击",
           "url": "https://wallstreetcn.com/livenews/3085201",
           "source": "华尔街见闻-快讯",
@@ -574,7 +633,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时50分"
         },
@@ -603,6 +662,45 @@
       ]
     },
     {
+      "keyword_group": "台湾",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "中国台湾证交所加权股价指数收高1.6%报35,417.83点。",
+          "url": "https://wallstreetcn.com/livenews/3085604",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时03分"
+        },
+        {
+          "title": "习近平：欢迎台湾农渔产品、优质商品进入大陆千家万户",
+          "url": "https://flash.jin10.com/detail/20260410133834071800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时03分"
+        },
+        {
+          "title": "台湾加权指数4月10日（周五）收盘上涨556.67点，涨幅1.6%，报35417.83点。",
+          "url": "https://flash.jin10.com/detail/20260410133513266800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时03分"
+        }
+      ]
+    },
+    {
       "keyword_group": "Claude",
       "match_count": 1,
       "titles": [
@@ -611,11 +709,12 @@
           "url": "https://wallstreetcn.com/articles/3769638",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时49分 ~ 11时50分]"
+          "appearance_count": 3,
+          "time_info": "[11时49分 ~ 14时03分]"
         }
       ]
     }
