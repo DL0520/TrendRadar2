@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-04-11T14:40:08.348876+08:00",
-  "total_titles_processed": 995,
+  "generated_at": "2026-04-11T15:55:30.492414+08:00",
+  "total_titles_processed": 1069,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
       "match_count": 35,
       "titles": [
+        {
+          "title": "特朗普：谈判结果24小时内明朗",
+          "url": "https://news.ifeng.com/c/8sDlxLParYe",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[08时02分 ~ 15时55分]"
+        },
         {
           "title": "外媒辛辣提问北约秘书长：你现在还想叫特朗普“爸爸”吗？",
           "url": "https://news.ifeng.com/c/8sDM78iyrZJ",
@@ -31,6 +43,17 @@
           "time_info": "[00时02分 ~ 08时02分]"
         },
         {
+          "title": "美伊谈判倒计时！特朗普：若谈不拢将加大打击 霍尔木兹将很快重开",
+          "url": "https://www.cls.cn/detail/2341151",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时26分 ~ 15时55分]"
+        },
+        {
           "title": "泰前总理佩通坦：骗子模仿特朗普让我捐款，我差点信了",
           "url": "https://news.ifeng.com/c/8sDD7X7ONjw",
           "source": "凤凰网",
@@ -42,29 +65,6 @@
           "time_info": "[00时02分 ~ 08时02分]"
         },
         {
-          "title": "特朗普：谈判结果24小时内明朗",
-          "url": "https://news.ifeng.com/c/8sDlxLParYe",
-          "source": "凤凰网",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时02分 ~ 14时40分]"
-        },
-        {
-          "title": "美伊谈判倒计时！特朗普：若谈不拢将加大打击 霍尔木兹将很快重开",
-          "url": "https://www.cls.cn/detail/2341151",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时26分 ~ 14时40分]"
-        },
-        {
           "title": "谈判前夜美伊“剑拔弩张”：伊朗提“新条件”，特朗普威胁“加大打击”",
           "url": "https://wallstreetcn.com/articles/3769722",
           "source": "华尔街见闻",
@@ -73,8 +73,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时26分 ~ 14时40分]"
+          "appearance_count": 5,
+          "time_info": "[11时26分 ~ 15时55分]"
         },
         {
           "title": "特朗普称若未达成协议 将加大对伊朗军事打击 | 环球市场",
@@ -82,11 +82,12 @@
           "source": "财联社热门",
           "ranks": [
             5,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时02分 ~ 14时40分]"
+          "appearance_count": 6,
+          "time_info": "[08时02分 ~ 15时55分]"
         },
         {
           "title": "伊朗战争丨特朗普：若未达成协议，将加大对伊朗打击",
@@ -100,6 +101,19 @@
           "time_info": "[01时38分 ~ 02时10分]"
         },
         {
+          "title": "无视特朗普力挺！“大空头”伯里放话：Palantir股价腰斩都不够",
+          "url": "https://www.cls.cn/detail/2341106",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[08时02分 ~ 15时55分]"
+        },
+        {
           "title": "特朗普推动芯片出口的计划或正受阻于官僚体制",
           "url": "https://flash.jin10.com/detail/20260411013302688800",
           "source": "金十数据",
@@ -111,6 +125,17 @@
           "time_info": "02时10分"
         },
         {
+          "title": "伊朗代表团已经抵达伊斯兰堡，特朗普称未来 24 小时将成为关键窗口，美伊谈判前景如何？",
+          "url": "https://www.zhihu.com/question/2026203195517477584",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时26分 ~ 15时55分]"
+        },
+        {
           "title": "据纽约邮报：若与伊朗和平谈判失败，特朗普准备动用武力。",
           "url": "https://flash.jin10.com/detail/20260410233248888800",
           "source": "金十数据",
@@ -120,18 +145,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时03分"
-        },
-        {
-          "title": "无视特朗普力挺！“大空头”伯里放话：Palantir股价腰斩都不够",
-          "url": "https://www.cls.cn/detail/2341106",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时02分 ~ 14时40分]"
         },
         {
           "title": "【特朗普：霍尔木兹海峡“很快就会重新开放”】4月10日，美国总统特朗普表示，霍尔木兹海峡“很快就会重新开放，无论如何都会开放”。（央视）",
@@ -154,17 +167,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时02分 ~ 02时10分]"
-        },
-        {
-          "title": "伊朗代表团已经抵达伊斯兰堡，特朗普称未来 24 小时将成为关键窗口，美伊谈判前景如何？",
-          "url": "https://www.zhihu.com/question/2026203195517477584",
-          "source": "知乎",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时26分 ~ 14时40分]"
         },
         {
           "title": "报道：特朗普推动芯片出口的计划或正受阻于官僚体制",
