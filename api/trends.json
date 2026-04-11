@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-11T17:51:44.671537+08:00",
-  "total_titles_processed": 1184,
+  "generated_at": "2026-04-11T18:42:45.644748+08:00",
+  "total_titles_processed": 1246,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 35,
+      "match_count": 36,
       "titles": [
         {
           "title": "美伊谈判倒计时！特朗普：若谈不拢将加大打击 霍尔木兹将很快重开",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时26分 ~ 17时51分]"
+          "appearance_count": 9,
+          "time_info": "[11时26分 ~ 18时42分]"
         },
         {
           "title": "谈判前夜美伊“剑拔弩张”：伊朗提“新条件”，特朗普威胁“加大打击”",
@@ -27,8 +27,23 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时26分 ~ 17时51分]"
+          "appearance_count": 9,
+          "time_info": "[11时26分 ~ 18时42分]"
+        },
+        {
+          "title": "特朗普称若未达成协议 将加大对伊朗军事打击 | 环球市场",
+          "url": "https://www.cls.cn/detail/2341138",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            8,
+            9,
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[08时02分 ~ 18时42分]"
         },
         {
           "title": "特朗普：谈判结果24小时内明朗",
@@ -66,18 +81,18 @@
           "time_info": "[00时02分 ~ 08时02分]"
         },
         {
-          "title": "特朗普称若未达成协议 将加大对伊朗军事打击 | 环球市场",
-          "url": "https://www.cls.cn/detail/2341138",
+          "title": "无视特朗普力挺！“大空头”伯里放话：Palantir股价腰斩都不够",
+          "url": "https://www.cls.cn/detail/2341106",
           "source": "财联社热门",
           "ranks": [
-            5,
-            8,
             9,
+            7,
+            8,
             10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[08时02分 ~ 17时51分]"
+          "appearance_count": 10,
+          "time_info": "[08时02分 ~ 18时42分]"
         },
         {
           "title": "泰前总理佩通坦：骗子模仿特朗普让我捐款，我差点信了",
@@ -89,19 +104,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时02分 ~ 08时02分]"
-        },
-        {
-          "title": "无视特朗普力挺！“大空头”伯里放话：Palantir股价腰斩都不够",
-          "url": "https://www.cls.cn/detail/2341106",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[08时02分 ~ 17时51分]"
         },
         {
           "title": "伊朗代表团已经抵达伊斯兰堡，特朗普称未来 24 小时将成为关键窗口，美伊谈判前景如何？",
@@ -135,6 +137,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时10分"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-04-11）",
+          "url": "https://flash.jin10.com/detail/20260411182741167800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时42分"
         },
         {
           "title": "据纽约邮报：若与伊朗和平谈判失败，特朗普准备动用武力。",
