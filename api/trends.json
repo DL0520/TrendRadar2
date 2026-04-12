@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-12T16:13:32.949876+08:00",
-  "total_titles_processed": 972,
+  "generated_at": "2026-04-12T17:27:12.958714+08:00",
+  "total_titles_processed": 1050,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 28,
+      "match_count": 30,
       "titles": [
         {
           "title": "美伊谈判倒计时！特朗普：若谈不拢将加大打击 霍尔木兹将很快重开",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时51分 ~ 16时13分]"
+          "appearance_count": 15,
+          "time_info": "[00时51分 ~ 17时27分]"
         },
         {
           "title": "谈判前夜美伊“剑拔弩张”：伊朗提“新条件”，特朗普威胁“加大打击”",
@@ -43,6 +43,19 @@
           "time_info": "[00时51分 ~ 13时36分]"
         },
         {
+          "title": "伊美14小时谈判“无果”但12日继续，伊朗拒绝美方“共管霍尔木兹海峡”，特朗普称“不在意是否达成协议”",
+          "url": "https://wallstreetcn.com/articles/3769751",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时27分 ~ 17时27分]"
+        },
+        {
           "title": "一再遭特朗普嘲讽 英首相：我受够了",
           "url": "https://www.baidu.com/s?wd=%E4%B8%80%E5%86%8D%E9%81%AD%E7%89%B9%E6%9C%97%E6%99%AE%E5%98%B2%E8%AE%BD+%E8%8B%B1%E9%A6%96%E7%9B%B8%EF%BC%9A%E6%88%91%E5%8F%97%E5%A4%9F%E4%BA%86",
           "source": "百度热搜",
@@ -65,19 +78,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时51分 ~ 07时42分]"
-        },
-        {
-          "title": "伊美14小时谈判“无果”但12日继续，伊朗拒绝美方“共管霍尔木兹海峡”，特朗普称“不在意是否达成协议”",
-          "url": "https://wallstreetcn.com/articles/3769751",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时27分 ~ 16时13分]"
         },
         {
           "title": "特朗普称若未达成协议 将加大对伊朗军事打击 | 环球市场",
@@ -116,6 +116,20 @@
           "time_info": "[02时56分 ~ 05时40分]"
         },
         {
+          "title": "特朗普威胁通过控制霍尔木兹海峡打击伊朗经济",
+          "url": "https://wallstreetcn.com/livenews/3086335",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            9,
+            13,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时36分 ~ 17时27分]"
+        },
+        {
           "title": "特朗普、佩泽希齐扬、内塔尼亚胡，同日表态",
           "url": "https://news.ifeng.com/c/8sG0csY9qWa",
           "source": "凤凰网",
@@ -125,19 +139,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[11时27分 ~ 16时13分]"
-        },
-        {
-          "title": "特朗普威胁通过控制霍尔木兹海峡打击伊朗经济",
-          "url": "https://wallstreetcn.com/livenews/3086335",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            9,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时36分 ~ 16时13分]"
         },
         {
           "title": "特朗普：是否与伊朗达成协议对我来说无关紧要",
@@ -244,6 +245,17 @@
           "time_info": "[05时40分 ~ 07时42分]"
         },
         {
+          "title": "英国官员：特朗普的言论让英美关系紧张",
+          "url": "https://news.ifeng.com/c/8sGY3tCnh0U",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时26分 ~ 17时27分]"
+        },
+        {
           "title": "特朗普转发威胁伊朗的报道链接",
           "url": "https://flash.jin10.com/detail/20260412123247854800",
           "source": "金十数据",
@@ -254,6 +266,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时36分 ~ 15时24分]"
+        },
+        {
+          "title": "特朗普威胁：如果伊朗拒绝妥协，将控制霍尔木兹海峡打击伊朗经济",
+          "url": "https://wallstreetcn.com/articles/3769762",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时26分 ~ 17时27分]"
         },
         {
           "title": "伊朗谈判生变数 特朗普暗示或采取“海上封锁”手段",
@@ -348,37 +371,8 @@
       ]
     },
     {
-      "keyword_group": "Claude",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "马斯克：Grok要接近Claude Opus 4.6的水平，需要等到五月，而要达到甚至超越它则需等到六月。以常规标准来看，时间很短，但在人工智能领域，这已经算是很长时间了。",
-          "url": "https://wallstreetcn.com/livenews/3086308",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时27分 ~ 13时36分]"
-        },
-        {
-          "title": "你们有哪些好的 claude code skills 推荐？",
-          "url": "https://www.zhihu.com/question/2016657901549266060",
-          "source": "知乎",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时27分"
-        }
-      ]
-    },
-    {
       "keyword_group": "台湾",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "台湾“面包夫妻”深圳逐梦",
@@ -404,9 +398,49 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时13分 ~ 17时27分]"
+        },
+        {
+          "title": "台湾两位“吴宗宪”：两岸交流是好事",
+          "url": "https://www.toutiao.com/trending/7627468586228711478/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时26分 ~ 17时27分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "Claude",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "马斯克：Grok要接近Claude Opus 4.6的水平，需要等到五月，而要达到甚至超越它则需等到六月。以常规标准来看，时间很短，但在人工智能领域，这已经算是很长时间了。",
+          "url": "https://wallstreetcn.com/livenews/3086308",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时27分 ~ 13时36分]"
+        },
+        {
+          "title": "你们有哪些好的 claude code skills 推荐？",
+          "url": "https://www.zhihu.com/question/2016657901549266060",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时13分"
+          "time_info": "11时27分"
         }
       ]
     }
