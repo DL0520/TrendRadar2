@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-13T04:01:57.056876+08:00",
-  "total_titles_processed": 467,
+  "generated_at": "2026-04-13T05:04:12.005723+08:00",
+  "total_titles_processed": 481,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时02分 ~ 04时01分]"
+          "appearance_count": 7,
+          "time_info": "[00时02分 ~ 05时04分]"
         },
         {
           "title": "特朗普：美国将摧毁霍尔木兹海峡的水雷",
@@ -26,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时02分 ~ 04时01分]"
+          "appearance_count": 7,
+          "time_info": "[00时02分 ~ 05时04分]"
         },
         {
           "title": "特朗普：美军将封锁任何试图进出霍尔木兹海峡的船只",
@@ -38,8 +38,47 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时02分 ~ 04时01分]"
+          "appearance_count": 7,
+          "time_info": "[00时02分 ~ 05时04分]"
+        },
+        {
+          "title": "特朗普威胁：如果伊朗拒绝妥协，将控制霍尔木兹海峡打击伊朗经济",
+          "url": "https://wallstreetcn.com/articles/3769762",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时02分 ~ 05时04分]"
+        },
+        {
+          "title": "特朗普：不允许伊朗通过出售石油赚钱",
+          "url": "https://wallstreetcn.com/livenews/3086458",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            13,
+            21,
+            23,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时02分 ~ 05时04分]"
+        },
+        {
+          "title": "特朗普：除核问题外谈判进展顺利 美将封锁霍尔木兹海峡",
+          "url": "https://wallstreetcn.com/articles/3769776",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时07分 ~ 05时04分]"
         },
         {
           "title": "伊朗战争丨特朗普威胁：将把伊朗的残余力量终结",
@@ -53,42 +92,17 @@
           "time_info": "00时02分"
         },
         {
-          "title": "特朗普：不允许伊朗通过出售石油赚钱",
-          "url": "https://wallstreetcn.com/livenews/3086458",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            13,
-            21,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时02分 ~ 04时01分]"
-        },
-        {
           "title": "特朗普：将调集更多扫雷艇前往霍尔木兹海峡",
           "url": "https://wallstreetcn.com/livenews/3086478",
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时04分 ~ 04时01分]"
-        },
-        {
-          "title": "特朗普威胁：如果伊朗拒绝妥协，将控制霍尔木兹海峡打击伊朗经济",
-          "url": "https://wallstreetcn.com/articles/3769762",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
+            6,
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时02分 ~ 04时01分]"
+          "appearance_count": 4,
+          "time_info": "[02时04分 ~ 05时04分]"
         },
         {
           "title": "据伊朗国家媒体：伊朗首席谈判代表卡利巴夫就美国总统特朗普的新威胁表示，此类威胁对伊朗民族毫无作用。",
@@ -97,23 +111,12 @@
           "ranks": [
             1,
             10,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时04分 ~ 04时01分]"
-        },
-        {
-          "title": "特朗普：除核问题外谈判进展顺利 美将封锁霍尔木兹海峡",
-          "url": "https://wallstreetcn.com/articles/3769776",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7
+            16,
+            21
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[01时07分 ~ 04时01分]"
+          "time_info": "[02时04分 ~ 05时04分]"
         },
         {
           "title": "伊朗称特朗普威胁封锁霍尔木兹荒谬",
@@ -121,11 +124,12 @@
           "source": "金十数据",
           "ranks": [
             5,
-            11
+            11,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时24分 ~ 04时01分]"
+          "appearance_count": 3,
+          "time_info": "[03时24分 ~ 05时04分]"
         },
         {
           "title": "美国总统特朗普：石油价格一开始可能降不下来，但最终还是会跌的。 原油价格与汽油价格可能会在中期选举之前下跌，也可能会略微更高。 坦率来说，汽油价格涨势并没有我（原来）想象的那么多。 （美国和以色列发动的伊朗）战争爆发以来，股市跌幅并不是非常大。",
@@ -167,6 +171,19 @@
           "time_info": "[01时07分 ~ 04时01分]"
         },
         {
+          "title": "据伊朗国家媒体：伊朗首席谈判代表卡利巴夫对美国总统特朗普表示：“如果你挑衅，我们就迎战；如果你以理相待，我们就以理相待。”",
+          "url": "https://flash.jin10.com/detail/20260413020447925800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            14,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时24分 ~ 05时04分]"
+        },
+        {
           "title": "特朗普称美国不允许伊朗通过出售石油赚钱",
           "url": "https://flash.jin10.com/detail/20260412231823385800",
           "source": "金十数据",
@@ -177,18 +194,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时02分 ~ 01时07分]"
-        },
-        {
-          "title": "据伊朗国家媒体：伊朗首席谈判代表卡利巴夫对美国总统特朗普表示：“如果你挑衅，我们就迎战；如果你以理相待，我们就以理相待。”",
-          "url": "https://flash.jin10.com/detail/20260413020447925800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时24分 ~ 04时01分]"
         },
         {
           "title": "伊朗议会国家安全与外交政策委员会主席：美国总统唐纳德·特朗普关于霍尔木兹海峡的要求（对霍尔木兹海峡进行海上封锁））永远不会实现。 他说的是他的愿望，那是些从未实现过、也永远不会实现的要求。",
@@ -398,7 +403,7 @@
     },
     {
       "keyword_group": "台湾",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "台湾引进印度劳工,民众怒了",
@@ -409,8 +414,19 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时02分 ~ 04时01分]"
+          "appearance_count": 7,
+          "time_info": "[00时02分 ~ 05时04分]"
+        },
+        {
+          "title": "7月4日起宁波恢复直飞台湾高雄航线",
+          "url": "https://www.baidu.com/s?wd=7%E6%9C%884%E6%97%A5%E8%B5%B7%E5%AE%81%E6%B3%A2%E6%81%A2%E5%A4%8D%E7%9B%B4%E9%A3%9E%E5%8F%B0%E6%B9%BE%E9%AB%98%E9%9B%84%E8%88%AA%E7%BA%BF",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时03分 ~ 05时04分]"
         }
       ]
     },
