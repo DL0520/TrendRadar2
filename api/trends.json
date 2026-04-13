@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-13T07:43:20.131685+08:00",
-  "total_titles_processed": 585,
+  "generated_at": "2026-04-13T11:34:44.210815+08:00",
+  "total_titles_processed": 791,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 37,
+      "match_count": 48,
       "titles": [
         {
           "title": "伊美14小时谈判“无果”但12日继续，伊朗拒绝美方“共管霍尔木兹海峡”，特朗普称“不在意是否达成协议”",
@@ -39,8 +39,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时02分 ~ 07时43分]"
+          "appearance_count": 11,
+          "time_info": "[00时02分 ~ 11时34分]"
         },
         {
           "title": "特朗普：除核问题外谈判进展顺利 美将封锁霍尔木兹海峡",
@@ -50,11 +50,12 @@
             8,
             7,
             5,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时07分 ~ 07时43分]"
+          "appearance_count": 10,
+          "time_info": "[01时07分 ~ 11时34分]"
         },
         {
           "title": "特朗普威胁：如果伊朗拒绝妥协，将控制霍尔木兹海峡打击伊朗经济",
@@ -108,6 +109,50 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时02分"
+        },
+        {
+          "title": "特朗普公开抨击教皇，美伊战争引发白宫与梵蒂冈“外交地震”",
+          "url": "https://flash.jin10.com/detail/20260413111055639800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时34分"
+        },
+        {
+          "title": "美伊对峙再升级！特朗普罕见承认：11月前油价或维持高位",
+          "url": "https://news.ifeng.com/c/8sHhZzUA8FZ",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时34分"
+        },
+        {
+          "title": "前CIA局长呼吁罢免特朗普：这人显然精神失常",
+          "url": "https://news.ifeng.com/c/8sHefjyep0j",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时34分"
+        },
+        {
+          "title": "美国几位大主教接受美国媒体《60分钟》采访时，抨击特朗普发动的伊朗战争“并非公正”。",
+          "url": "https://flash.jin10.com/detail/20260413110821830800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时34分"
         },
         {
           "title": "据伊朗国家媒体：伊朗首席谈判代表卡利巴夫就美国总统特朗普的新威胁表示，此类威胁对伊朗民族毫无作用。",
@@ -311,15 +356,70 @@
           "time_info": "[00时02分 ~ 01时07分]"
         },
         {
+          "title": "美媒：特朗普考虑恢复对伊朗的有限军事打击",
+          "url": "https://news.ifeng.com/c/8sHT0I0yzy3",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时34分"
+        },
+        {
+          "title": "美伊谈判刚不欢而散，特朗普就下令海军封锁霍尔木兹海峡，有何意图？要效仿委内瑞拉模式吗？会带来哪些影响？",
+          "url": "https://www.zhihu.com/question/2026779173369246174",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时34分"
+        },
+        {
+          "title": "美伊对峙再升级！特朗普罕见承认：11月中期选举前油价或维持高位",
+          "url": "https://www.cls.cn/detail/2341748",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时34分"
+        },
+        {
           "title": "特朗普放狠话全面封锁霍尔木兹，美军却说只堵伊朗港口，油价暴拉10%",
           "url": "https://flash.jin10.com/detail/20260413064841077800",
           "source": "金十数据",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时43分"
+        },
+        {
+          "title": "特朗普：美国海军将开始阻止任何船只进出霍尔木兹海峡",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32956224",
+          "source": "澎湃新闻",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时34分"
+        },
+        {
+          "title": "特朗普拟封锁霍尔木，布油跳空高开回到三位数",
+          "url": "https://flash.jin10.com/detail/20260413105656131800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时34分"
         },
         {
           "title": "美国总统特朗普：说实话，油价涨幅并没有我预想的那么大。",
@@ -331,6 +431,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时02分"
+        },
+        {
+          "title": "在抨击梵蒂冈教皇之后，美国总统特朗普发布了一张自己化身成耶稣治愈病人的AI图片，其两侧还有老鹰、战斗机和自由女神像等形象。",
+          "url": "https://flash.jin10.com/detail/20260413105150796800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时34分"
         },
         {
           "title": "美国总统特朗普：战争爆发之后，股市实际上没跌多少。",
@@ -364,6 +475,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时02分"
+        },
+        {
+          "title": "特朗普要封锁霍尔木兹，专家泼冷水：难执行、不可持续、可能引爆新报复",
+          "url": "https://flash.jin10.com/detail/20260413105041654800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时34分"
         },
         {
           "title": "美国总统特朗普：一旦局势平息，石油和天然气的价格最终会降低。",
@@ -457,7 +579,7 @@
     },
     {
       "keyword_group": "台湾",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
         {
           "title": "台湾引进印度劳工,民众怒了",
@@ -465,11 +587,12 @@
           "source": "贴吧",
           "ranks": [
             3,
-            4
+            4,
+            8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时02分 ~ 07时43分]"
+          "appearance_count": 11,
+          "time_info": "[00时02分 ~ 11时34分]"
         },
         {
           "title": "7月4日起宁波恢复直飞台湾高雄航线",
@@ -481,6 +604,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时03分 ~ 05时04分]"
+        },
+        {
+          "title": "名嘴曝台湾“首来族”赴陆人数大增",
+          "url": "https://www.toutiao.com/trending/7627700060780314643/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时34分"
+        },
+        {
+          "title": "郑丽文返抵台湾在机场发表讲话",
+          "url": "https://www.douyin.com/hot/2464182",
+          "source": "抖音",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时34分"
         }
       ]
     },
