@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-14T16:13:18.273400+08:00",
-  "total_titles_processed": 1212,
+  "generated_at": "2026-04-14T17:57:44.331278+08:00",
+  "total_titles_processed": 1372,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 56,
+      "match_count": 61,
       "titles": [
         {
           "title": "贝森特告知特朗普：如果战争持续8-12周，美国面临油价上涨风险，亚欧将受影响最大",
@@ -123,17 +123,6 @@
           "time_info": "[00时44分 ~ 03时50分]"
         },
         {
-          "title": "布林肯阴阳特朗普：他选择退让或是因为厌倦了“胜利”",
-          "url": "https://v.ifeng.com/c/8sIUop0o5UZ",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时44分 ~ 08时09分]"
-        },
-        {
           "title": "美对伊港口“封锁令”生效，特朗普称伊朗致电美方说希望达成协议，威胁消灭伊快速攻击舰",
           "url": "https://wallstreetcn.com/articles/3769872",
           "source": "华尔街见闻",
@@ -144,8 +133,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时09分 ~ 16时13分]"
+          "appearance_count": 5,
+          "time_info": "[08时09分 ~ 17时57分]"
+        },
+        {
+          "title": "布林肯阴阳特朗普：他选择退让或是因为厌倦了“胜利”",
+          "url": "https://v.ifeng.com/c/8sIUop0o5UZ",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时44分 ~ 08时09分]"
         },
         {
           "title": "特朗普“封锁令”倒计时！霍尔木兹航运再陷中断 150美元油价警报拉响",
@@ -199,6 +199,17 @@
           "time_info": "[08时09分 ~ 16时13分]"
         },
         {
+          "title": "伊朗战争丨特朗普威胁向伊朗供武将加税，中方回应",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时57分"
+        },
+        {
           "title": "美国总统特朗普：昨日有34艘船只通过霍尔木兹海峡。",
           "url": "https://flash.jin10.com/detail/20260414003358396800",
           "source": "金十数据",
@@ -227,7 +238,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时13分"
         },
@@ -241,6 +252,20 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时11分"
+        },
+        {
+          "title": "特朗普“封锁令”已生效！资深交易员：美汽油价格或很快突破5美元",
+          "url": "https://www.cls.cn/detail/2342938",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            6,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时51分 ~ 17时57分]"
         },
         {
           "title": "据英国金融时报：美国总统特朗普提名艾琳·布朗尼出任美国财政部国际事务主管。",
@@ -302,6 +327,18 @@
           "time_info": "[00时45分 ~ 02时08分]"
         },
         {
+          "title": "曝伊朗称暂停铀浓缩5年 特朗普拒绝",
+          "url": "https://www.toutiao.com/trending/7628414997059784242/",
+          "source": "今日头条",
+          "ranks": [
+            14,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时51分 ~ 17时57分]"
+        },
+        {
           "title": "特朗普发了一张图，让西方大吃一惊",
           "url": "https://news.ifeng.com/c/8sJFcW7Qqjq",
           "source": "凤凰网",
@@ -325,17 +362,17 @@
           "time_info": "[00时44分 ~ 02时08分]"
         },
         {
-          "title": "特朗普“封锁令”已生效！资深交易员：美汽油价格或很快突破5美元",
-          "url": "https://www.cls.cn/detail/2342938",
-          "source": "财联社热门",
+          "title": "孙宇晨指控「特朗普家族」旗下加密货币公司 WLF 单方面冻结其资产，对此你怎么看？",
+          "url": "https://www.zhihu.com/question/2027301230691596085",
+          "source": "知乎",
           "ranks": [
+            17,
             8,
-            6,
-            7
+            11
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[11时51分 ~ 16时13分]"
+          "time_info": "[14时05分 ~ 17时57分]"
         },
         {
           "title": "特朗普重申将封锁进出伊朗港口船只 中方回应",
@@ -349,16 +386,17 @@
           "time_info": "[00时44分 ~ 02时08分]"
         },
         {
-          "title": "曝伊朗称暂停铀浓缩5年 特朗普拒绝",
-          "url": "https://www.toutiao.com/trending/7628414997059784242/",
-          "source": "今日头条",
+          "title": "特朗普确认美军已开始封锁伊朗：美国不需要霍尔木兹海峡，是世界需要",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32964974",
+          "source": "澎湃新闻",
           "ranks": [
-            14,
-            16
+            19,
+            16,
+            14
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[11时51分 ~ 16时13分]"
+          "time_info": "[14时05分 ~ 17时57分]"
         },
         {
           "title": "美国总统特朗普将在任何时刻讲话。（福克斯新闻）",
@@ -371,18 +409,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时45分 ~ 02时08分]"
-        },
-        {
-          "title": "孙宇晨指控「特朗普家族」旗下加密货币公司 WLF 单方面冻结其资产，对此你怎么看？",
-          "url": "https://www.zhihu.com/question/2027301230691596085",
-          "source": "知乎",
-          "ranks": [
-            17,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时05分 ~ 16时13分]"
         },
         {
           "title": "特朗普：伊朗致电美方说希望达成协议",
@@ -409,18 +435,6 @@
           "time_info": "[07时13分 ~ 08时09分]"
         },
         {
-          "title": "特朗普确认美军已开始封锁伊朗：美国不需要霍尔木兹海峡，是世界需要",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32964974",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时05分 ~ 16时13分]"
-        },
-        {
           "title": "据纽约时报：两名伊朗高级官员和一名美国官员透露，伊朗表示可以暂停铀浓缩活动长达五年，但特朗普政府拒绝了这一提议，坚持要求暂停期限为二十年。",
           "url": "https://flash.jin10.com/detail/20260414064006233800",
           "source": "金十数据",
@@ -431,6 +445,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时13分 ~ 08时09分]"
+        },
+        {
+          "title": "特朗普赐两杯“毒酒”，万斯干了",
+          "url": "https://news.ifeng.com/c/8sJrQz1Ewfw",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时57分"
         },
         {
           "title": "据福克斯新闻：特朗普随时可能发表讲话。",
@@ -519,6 +544,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时11分"
+        },
+        {
+          "title": "克里姆林宫：（就美国总统特朗普发布自己化身耶稣形象的AI图片）不予评论。",
+          "url": "https://flash.jin10.com/detail/20260414173144303800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时57分"
         },
         {
           "title": "特朗普：伊朗“合适的人”致电说“希望达成协议”",
@@ -653,6 +689,28 @@
           "time_info": "02时08分"
         },
         {
+          "title": "意大利总理梅洛尼：针对特朗普的言论，我向教皇利奥表达了声援。",
+          "url": "https://flash.jin10.com/detail/20260414172248258800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时57分"
+        },
+        {
+          "title": "伊朗罕见通报让步细节，欲借欧洲施压特朗普破局",
+          "url": "https://flash.jin10.com/detail/20260414172134329800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时57分"
+        },
+        {
           "title": "特朗普称或对古巴采取行动",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E6%88%96%E5%AF%B9%E5%8F%A4%E5%B7%B4%E9%87%87%E5%8F%96%E8%A1%8C%E5%8A%A8%23&t=31&band_rank=30&Refer=top",
           "source": "微博",
@@ -667,7 +725,7 @@
     },
     {
       "keyword_group": "台湾",
-      "match_count": 4,
+      "match_count": 7,
       "titles": [
         {
           "title": "你问我答!台湾吧友聊岛内生活",
@@ -677,11 +735,12 @@
             1,
             7,
             10,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时44分 ~ 16时13分]"
+          "appearance_count": 12,
+          "time_info": "[00时44分 ~ 17时57分]"
         },
         {
           "title": "台湾引进印度劳工,民众怒了",
@@ -692,11 +751,12 @@
             20,
             23,
             25,
-            27
+            27,
+            29
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时44分 ~ 16时13分]"
+          "appearance_count": 12,
+          "time_info": "[00时44分 ~ 17时57分]"
         },
         {
           "title": "中国台湾证交所加权股价指数收高2.4%报36,296.12点。",
@@ -710,6 +770,28 @@
           "time_info": "14时05分"
         },
         {
+          "title": "过半台湾民众认同须主动面对两岸统一",
+          "url": "https://www.toutiao.com/trending/7627655739393327142/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时57分"
+        },
+        {
+          "title": "台当局对韩国标注“中国台湾”不满，外交部：如此标注理所当然",
+          "url": "https://news.ifeng.com/c/8sJogeR8Yuj",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时57分"
+        },
+        {
           "title": "台湾加权指数4月14日（周二）收盘上涨838.83点，涨幅2.37%，报36296.12点。",
           "url": "https://flash.jin10.com/detail/20260414133549008800",
           "source": "金十数据",
@@ -719,6 +801,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时05分"
+        },
+        {
+          "title": "外交部回应韩国标注“中国台湾”",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E9%9F%A9%E5%9B%BD%E6%A0%87%E6%B3%A8%E2%80%9C%E4%B8%AD%E5%9B%BD%E5%8F%B0%E6%B9%BE%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时57分"
         }
       ]
     },
