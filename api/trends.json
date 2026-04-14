@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-14T17:57:44.331278+08:00",
-  "total_titles_processed": 1372,
+  "generated_at": "2026-04-14T19:13:18.817496+08:00",
+  "total_titles_processed": 1487,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 61,
+      "match_count": 62,
       "titles": [
         {
           "title": "贝森特告知特朗普：如果战争持续8-12周，美国面临油价上涨风险，亚欧将受影响最大",
@@ -98,6 +98,20 @@
           "time_info": "[00时44分 ~ 14时05分]"
         },
         {
+          "title": "美对伊港口“封锁令”生效，特朗普称伊朗致电美方说希望达成协议，威胁消灭伊快速攻击舰",
+          "url": "https://wallstreetcn.com/articles/3769872",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            4,
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[08时09分 ~ 19时13分]"
+        },
+        {
           "title": "特朗普警告伊朗攻击艇勿靠近封锁线",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%AD%A6%E5%91%8A%E4%BC%8A%E6%9C%97%E6%94%BB%E5%87%BB%E8%89%87%E5%8B%BF%E9%9D%A0%E8%BF%91%E5%B0%81%E9%94%81%E7%BA%BF%23&t=31&band_rank=26&Refer=top",
           "source": "微博",
@@ -121,20 +135,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时44分 ~ 03时50分]"
-        },
-        {
-          "title": "美对伊港口“封锁令”生效，特朗普称伊朗致电美方说希望达成协议，威胁消灭伊快速攻击舰",
-          "url": "https://wallstreetcn.com/articles/3769872",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            4,
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时09分 ~ 17时57分]"
         },
         {
           "title": "布林肯阴阳特朗普：他选择退让或是因为厌倦了“胜利”",
@@ -205,9 +205,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时57分"
+        },
+        {
+          "title": "伊朗战争丨特朗普威胁向伊朗供武者加税，中方回应",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时13分"
         },
         {
           "title": "美国总统特朗普：昨日有34艘船只通过霍尔木兹海峡。",
@@ -290,6 +301,19 @@
           "time_info": "06时11分"
         },
         {
+          "title": "曝伊朗称暂停铀浓缩5年 特朗普拒绝",
+          "url": "https://www.toutiao.com/trending/7628414997059784242/",
+          "source": "今日头条",
+          "ranks": [
+            14,
+            16,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时51分 ~ 19时13分]"
+        },
+        {
           "title": "据美国哥伦比亚广播公司（CBS）：特朗普表示，教皇利奥应该远离政治。",
           "url": "https://flash.jin10.com/detail/20260414060651219800",
           "source": "金十数据",
@@ -327,16 +351,31 @@
           "time_info": "[00时45分 ~ 02时08分]"
         },
         {
-          "title": "曝伊朗称暂停铀浓缩5年 特朗普拒绝",
-          "url": "https://www.toutiao.com/trending/7628414997059784242/",
-          "source": "今日头条",
+          "title": "孙宇晨指控「特朗普家族」旗下加密货币公司 WLF 单方面冻结其资产，对此你怎么看？",
+          "url": "https://www.zhihu.com/question/2027301230691596085",
+          "source": "知乎",
           "ranks": [
-            14,
-            16
+            17,
+            8,
+            11
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[11时51分 ~ 17时57分]"
+          "time_info": "[14时05分 ~ 19时13分]"
+        },
+        {
+          "title": "特朗普确认美军已开始封锁伊朗：美国不需要霍尔木兹海峡，是世界需要",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32964974",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            16,
+            14,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时05分 ~ 19时13分]"
         },
         {
           "title": "特朗普发了一张图，让西方大吃一惊",
@@ -362,19 +401,6 @@
           "time_info": "[00时44分 ~ 02时08分]"
         },
         {
-          "title": "孙宇晨指控「特朗普家族」旗下加密货币公司 WLF 单方面冻结其资产，对此你怎么看？",
-          "url": "https://www.zhihu.com/question/2027301230691596085",
-          "source": "知乎",
-          "ranks": [
-            17,
-            8,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时05分 ~ 17时57分]"
-        },
-        {
           "title": "特朗普重申将封锁进出伊朗港口船只 中方回应",
           "url": "https://www.cls.cn/detail/2342207",
           "source": "财联社热门",
@@ -386,17 +412,15 @@
           "time_info": "[00时44分 ~ 02时08分]"
         },
         {
-          "title": "特朗普确认美军已开始封锁伊朗：美国不需要霍尔木兹海峡，是世界需要",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32964974",
-          "source": "澎湃新闻",
+          "title": "特朗普赐两杯“毒酒”，万斯干了",
+          "url": "https://news.ifeng.com/c/8sJrQz1Ewfw",
+          "source": "凤凰网",
           "ranks": [
-            19,
-            16,
-            14
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时05分 ~ 17时57分]"
+          "appearance_count": 2,
+          "time_info": "[17时57分 ~ 19时13分]"
         },
         {
           "title": "美国总统特朗普将在任何时刻讲话。（福克斯新闻）",
@@ -445,17 +469,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时13分 ~ 08时09分]"
-        },
-        {
-          "title": "特朗普赐两杯“毒酒”，万斯干了",
-          "url": "https://news.ifeng.com/c/8sJrQz1Ewfw",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时57分"
         },
         {
           "title": "据福克斯新闻：特朗普随时可能发表讲话。",
@@ -552,7 +565,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时57分"
         },
@@ -695,7 +708,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时57分"
         },
@@ -706,7 +719,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时57分"
         },
@@ -736,11 +749,12 @@
             7,
             10,
             12,
-            13
+            13,
+            17
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时44分 ~ 17时57分]"
+          "appearance_count": 13,
+          "time_info": "[00时44分 ~ 19时13分]"
         },
         {
           "title": "台湾引进印度劳工,民众怒了",
@@ -770,15 +784,28 @@
           "time_info": "14时05分"
         },
         {
+          "title": "外交部回应韩国标注“中国台湾”",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E9%9F%A9%E5%9B%BD%E6%A0%87%E6%B3%A8%E2%80%9C%E4%B8%AD%E5%9B%BD%E5%8F%B0%E6%B9%BE%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            18,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时57分 ~ 19时13分]"
+        },
+        {
           "title": "过半台湾民众认同须主动面对两岸统一",
           "url": "https://www.toutiao.com/trending/7627655739393327142/",
           "source": "今日头条",
           "ranks": [
-            9
+            9,
+            29
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时57分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时57分 ~ 19时13分]"
         },
         {
           "title": "台当局对韩国标注“中国台湾”不满，外交部：如此标注理所当然",
@@ -787,9 +814,9 @@
           "ranks": [
             11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时57分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时57分 ~ 19时13分]"
         },
         {
           "title": "台湾加权指数4月14日（周二）收盘上涨838.83点，涨幅2.37%，报36296.12点。",
@@ -801,17 +828,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时05分"
-        },
-        {
-          "title": "外交部回应韩国标注“中国台湾”",
-          "url": "https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E9%9F%A9%E5%9B%BD%E6%A0%87%E6%B3%A8%E2%80%9C%E4%B8%AD%E5%9B%BD%E5%8F%B0%E6%B9%BE%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时57分"
         }
       ]
     },
