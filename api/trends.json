@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-15T03:27:07.634501+08:00",
-  "total_titles_processed": 468,
+  "generated_at": "2026-04-15T04:32:41.139562+08:00",
+  "total_titles_processed": 535,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
         {
           "title": "美对伊港口“封锁令”生效，特朗普称伊朗致电美方说希望达成协议，威胁消灭伊快速攻击舰",
@@ -30,6 +30,18 @@
           "time_info": "[02时43分 ~ 03时27分]"
         },
         {
+          "title": "特朗普赐两杯“毒酒”，万斯干了",
+          "url": "https://news.ifeng.com/c/8sJrQz1Ewfw",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时31分 ~ 04时32分]"
+        },
+        {
           "title": "伊朗战争丨特朗普：未来两天可能与伊朗再谈",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
           "source": "凤凰网",
@@ -52,15 +64,15 @@
           "time_info": "00时31分"
         },
         {
-          "title": "特朗普赐两杯“毒酒”，万斯干了",
-          "url": "https://news.ifeng.com/c/8sJrQz1Ewfw",
-          "source": "凤凰网",
+          "title": "美国参议院多数党领袖约翰·图恩（John Thune）：（总统特朗普派兵）封锁霍尔木兹海峡是必要的，太聪明了。",
+          "url": "https://wallstreetcn.com/livenews/3087958",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            5
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时31分 ~ 03时27分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时32分"
         },
         {
           "title": "孙宇晨指控「特朗普家族」旗下加密货币公司 WLF 单方面冻结其资产，对此你怎么看？",
@@ -69,11 +81,12 @@
           "ranks": [
             11,
             13,
-            16
+            16,
+            18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时31分 ~ 03时27分]"
+          "appearance_count": 5,
+          "time_info": "[00时31分 ~ 04时32分]"
         },
         {
           "title": "曝伊朗称暂停铀浓缩5年 特朗普拒绝",
@@ -84,8 +97,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时31分 ~ 03时27分]"
+          "appearance_count": 5,
+          "time_info": "[00时31分 ~ 04时32分]"
         },
         {
           "title": "特朗普说伊朗没牌了遭北约盟友打脸",
@@ -95,8 +108,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时43分 ~ 03时27分]"
+          "appearance_count": 4,
+          "time_info": "[02时43分 ~ 04时32分]"
         },
         {
           "title": "不再催降息？特朗普阵营态度微妙转变 贝森特称美联储当前宜观望",
@@ -120,6 +133,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时43分 ~ 03时27分]"
+        },
+        {
+          "title": "特朗普暗示美伊“未来两天”或重启伊斯兰堡会谈",
+          "url": "https://news.ifeng.com/c/8sKPIktXF3q",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时32分"
         },
         {
           "title": "美国总统特朗普：正全力推动本周在众议院通过《外国情报监视法》第702条（FISA 702）的“干净延期”。",
@@ -157,8 +181,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时31分 ~ 03时27分]"
+          "appearance_count": 5,
+          "time_info": "[00时31分 ~ 04时32分]"
         },
         {
           "title": "外交部回应韩国标注中国台湾",
@@ -168,8 +192,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时43分 ~ 03时27分]"
+          "appearance_count": 4,
+          "time_info": "[02时43分 ~ 04时32分]"
         },
         {
           "title": "新疆导游为台湾同胞介绍天山胜利隧道",
