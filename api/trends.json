@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-19T06:01:39.072515+08:00",
-  "total_titles_processed": 453,
+  "generated_at": "2026-04-19T06:51:37.369297+08:00",
+  "total_titles_processed": 463,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时04分 ~ 06时01分]"
+          "appearance_count": 8,
+          "time_info": "[00时04分 ~ 06时51分]"
         },
         {
           "title": "特朗普称若伊不达成停火或发动打击",
@@ -27,8 +27,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时04分 ~ 06时01分]"
+          "appearance_count": 8,
+          "time_info": "[00时04分 ~ 06时51分]"
         },
         {
           "title": "特朗普：伊朗不会拥有核武器",
@@ -38,8 +38,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时04分 ~ 06时01分]"
+          "appearance_count": 8,
+          "time_info": "[00时04分 ~ 06时51分]"
         },
         {
           "title": "伊朗发声：特朗普7项声明“均不属实”，绝不放弃控制霍尔木兹海峡，拒绝将浓缩铀运往国外，不接受临时停火",
@@ -50,8 +50,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时04分 ~ 06时01分]"
+          "appearance_count": 8,
+          "time_info": "[00时04分 ~ 06时51分]"
         },
         {
           "title": "前白宫律师爆料：特朗普表现出典型的痴呆症状",
@@ -61,8 +61,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时04分 ~ 06时01分]"
+          "appearance_count": 8,
+          "time_info": "[00时04分 ~ 06时51分]"
         },
         {
           "title": "特朗普：美国已禁止以色列这样做，适可而止",
@@ -72,8 +72,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时04分 ~ 06时01分]"
+          "appearance_count": 8,
+          "time_info": "[00时04分 ~ 06时51分]"
         },
         {
           "title": "特朗普：以色列，适可而止",
@@ -83,8 +83,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时04分 ~ 06时01分]"
+          "appearance_count": 8,
+          "time_info": "[00时04分 ~ 06时51分]"
         },
         {
           "title": "特朗普证实伊朗宣布开放霍尔木兹海峡",
@@ -94,8 +94,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时04分 ~ 06时01分]"
+          "appearance_count": 8,
+          "time_info": "[00时04分 ~ 06时51分]"
         },
         {
           "title": "特朗普称伊朗无法“要挟”美国",
@@ -105,8 +105,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时04分 ~ 06时01分]"
+          "appearance_count": 8,
+          "time_info": "[00时04分 ~ 06时51分]"
         },
         {
           "title": "特朗普：美伊正对话 “今天结束前会有消息”",
@@ -118,8 +118,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时04分 ~ 06时01分]"
+          "appearance_count": 8,
+          "time_info": "[00时04分 ~ 06时51分]"
         },
         {
           "title": "特朗普签署行政令以促进迷幻药物研究。（彭博）",
@@ -131,8 +131,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时04分 ~ 06时01分]"
+          "appearance_count": 8,
+          "time_info": "[00时04分 ~ 06时51分]"
         },
         {
           "title": "特朗普谈伊朗：我们之间的对话进展顺利。 将在今天结束前获得一些信息。 政权更迭是“强制性的”，我们正在与伊朗对话。 （谈与伊朗的谈判）我们采取强硬立场。 伊朗想再次封锁霍尔木兹海峡，不能让他们以此勒索美国。",
@@ -144,8 +144,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时04分 ~ 06时01分]"
+          "appearance_count": 8,
+          "time_info": "[00时04分 ~ 06时51分]"
         },
         {
           "title": "特朗普确认伊朗开放霍尔木兹，称海峡局势结束、美封锁将持续至达成协议，料协议“一两天内”达成",
@@ -178,11 +178,12 @@
           "source": "金十数据",
           "ranks": [
             4,
-            10
+            10,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时04分 ~ 06时01分]"
+          "appearance_count": 3,
+          "time_info": "[05时04分 ~ 06时51分]"
         },
         {
           "title": "伊朗革命卫队海军发表声明表示，船只及其所有者应遵循伊朗革命卫队海军发布的消息，并称美国总统特朗普关于霍尔木兹海峡的声明“没有有效性”。",
@@ -302,8 +303,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时04分 ~ 06时01分]"
+          "appearance_count": 8,
+          "time_info": "[00时04分 ~ 06时51分]"
         },
         {
           "title": "郑丽文：和大陆比台湾电动车都没跟上",
@@ -315,8 +316,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时04分 ~ 06时01分]"
+          "appearance_count": 8,
+          "time_info": "[00时04分 ~ 06时51分]"
         },
         {
           "title": "解放军凌晨四点管控日舰过航台湾海峡",
@@ -329,11 +330,12 @@
             7,
             18,
             24,
-            25
+            25,
+            17
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时04分 ~ 06时01分]"
+          "appearance_count": 8,
+          "time_info": "[00时04分 ~ 06时51分]"
         },
         {
           "title": "日本驱逐舰过航台湾海峡取证画面",
@@ -341,11 +343,12 @@
           "source": "微博",
           "ranks": [
             18,
-            11
+            11,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时25分 ~ 06时01分]"
+          "appearance_count": 5,
+          "time_info": "[03时25分 ~ 06时51分]"
         }
       ]
     },
@@ -366,8 +369,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时04分 ~ 06时01分]"
+          "appearance_count": 8,
+          "time_info": "[00时04分 ~ 06时51分]"
         }
       ]
     }
