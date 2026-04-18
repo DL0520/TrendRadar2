@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-19T02:05:39.836028+08:00",
-  "total_titles_processed": 384,
+  "generated_at": "2026-04-19T03:25:21.036395+08:00",
+  "total_titles_processed": 413,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 22,
+      "match_count": 23,
       "titles": [
         {
           "title": "特朗普强称“伊朗让步了”，伊朗“他撒谎”，投资者：“他在与市场谈判，完全无视伊朗”",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时04分 ~ 02时05分]"
+          "appearance_count": 4,
+          "time_info": "[00时04分 ~ 03时25分]"
         },
         {
           "title": "特朗普称若伊不达成停火或发动打击",
@@ -27,8 +27,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时04分 ~ 02时05分]"
+          "appearance_count": 4,
+          "time_info": "[00时04分 ~ 03时25分]"
         },
         {
           "title": "特朗普：伊朗不会拥有核武器",
@@ -38,8 +38,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时04分 ~ 02时05分]"
+          "appearance_count": 4,
+          "time_info": "[00时04分 ~ 03时25分]"
         },
         {
           "title": "伊朗发声：特朗普7项声明“均不属实”，绝不放弃控制霍尔木兹海峡，拒绝将浓缩铀运往国外，不接受临时停火",
@@ -50,8 +50,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时04分 ~ 02时05分]"
+          "appearance_count": 4,
+          "time_info": "[00时04分 ~ 03时25分]"
         },
         {
           "title": "前白宫律师爆料：特朗普表现出典型的痴呆症状",
@@ -61,19 +61,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时04分 ~ 02时05分]"
-        },
-        {
-          "title": "美媒：特朗普召开白宫战情室会议，商讨霍尔木兹海峡危机及美伊谈判",
-          "url": "https://flash.jin10.com/detail/20260419013804388800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时05分"
+          "appearance_count": 4,
+          "time_info": "[00时04分 ~ 03时25分]"
         },
         {
           "title": "特朗普确认伊朗开放霍尔木兹，称海峡局势结束、美封锁将持续至达成协议，料协议“一两天内”达成",
@@ -87,6 +76,18 @@
           "time_info": "00时04分"
         },
         {
+          "title": "美媒：特朗普召开白宫战情室会议，商讨霍尔木兹海峡危机及美伊谈判",
+          "url": "https://flash.jin10.com/detail/20260419013804388800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时05分 ~ 03时25分]"
+        },
+        {
           "title": "特朗普：美国已禁止以色列这样做，适可而止",
           "url": "https://www.cls.cn/detail/2348149",
           "source": "财联社热门",
@@ -94,8 +95,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时04分 ~ 02时05分]"
+          "appearance_count": 4,
+          "time_info": "[00时04分 ~ 03时25分]"
         },
         {
           "title": "特朗普：以色列，适可而止",
@@ -105,8 +106,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时04分 ~ 02时05分]"
+          "appearance_count": 4,
+          "time_info": "[00时04分 ~ 03时25分]"
         },
         {
           "title": "特朗普证实伊朗宣布开放霍尔木兹海峡",
@@ -116,8 +117,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时04分 ~ 02时05分]"
+          "appearance_count": 4,
+          "time_info": "[00时04分 ~ 03时25分]"
         },
         {
           "title": "特朗普称伊朗无法“要挟”美国",
@@ -127,8 +128,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时04分 ~ 02时05分]"
+          "appearance_count": 4,
+          "time_info": "[00时04分 ~ 03时25分]"
         },
         {
           "title": "特朗普：美伊正对话 “今天结束前会有消息”",
@@ -138,8 +139,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时04分 ~ 02时05分]"
+          "appearance_count": 4,
+          "time_info": "[00时04分 ~ 03时25分]"
         },
         {
           "title": "特朗普签署行政令以促进迷幻药物研究。（彭博）",
@@ -149,8 +150,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时04分 ~ 02时05分]"
+          "appearance_count": 4,
+          "time_info": "[00时04分 ~ 03时25分]"
         },
         {
           "title": "特朗普谈伊朗：我们之间的对话进展顺利。 将在今天结束前获得一些信息。 政权更迭是“强制性的”，我们正在与伊朗对话。 （谈与伊朗的谈判）我们采取强硬立场。 伊朗想再次封锁霍尔木兹海峡，不能让他们以此勒索美国。",
@@ -160,8 +161,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时04分 ~ 02时05分]"
+          "appearance_count": 4,
+          "time_info": "[00时04分 ~ 03时25分]"
         },
         {
           "title": "特朗普对伊博格碱（Ibogaine）研究发表评论：政府正在投入资金用于对伊博格碱的研究。",
@@ -171,8 +172,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时04分 ~ 02时05分]"
+          "appearance_count": 4,
+          "time_info": "[00时04分 ~ 03时25分]"
         },
         {
           "title": "特朗普：加快对精神致幻药物相关研究的获取。 签署行政命令以审查某些致幻药物。 感谢小罗伯特·肯尼迪在降低药价的努力中做了“出色”的工作。",
@@ -182,8 +183,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时04分 ~ 02时05分]"
+          "appearance_count": 4,
+          "time_info": "[00时04分 ~ 03时25分]"
         },
         {
           "title": "美国总统特朗普：今天结束前会有一些信息。",
@@ -208,6 +209,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时04分 ~ 01时08分]"
+        },
+        {
+          "title": "伊朗革命卫队海军发表声明表示，船只及其所有者应遵循伊朗革命卫队海军发布的消息，并称美国总统特朗普关于霍尔木兹海峡的声明“没有有效性”。",
+          "url": "https://flash.jin10.com/detail/20260419021741854800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时25分"
         },
         {
           "title": "美国总统特朗普：联邦政府将投入5000万美元用于伊博格碱的研究。",
@@ -257,7 +269,7 @@
     },
     {
       "keyword_group": "台湾",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "现场画面丨解放军凌晨四点管控日舰过航台湾海峡",
@@ -267,8 +279,22 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时04分 ~ 02时05分]"
+          "appearance_count": 4,
+          "time_info": "[00时04分 ~ 03时25分]"
+        },
+        {
+          "title": "解放军凌晨四点管控日舰过航台湾海峡",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%A7%A3%E6%94%BE%E5%86%9B%E5%87%8C%E6%99%A8%E5%9B%9B%E7%82%B9%E7%AE%A1%E6%8E%A7%E6%97%A5%E8%88%B0%E8%BF%87%E8%88%AA%E5%8F%B0%E6%B9%BE%E6%B5%B7%E5%B3%A1%23&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9,
+            15,
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时04分 ~ 03时25分]"
         },
         {
           "title": "郑丽文：和大陆比台湾电动车都没跟上",
@@ -279,21 +305,19 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时04分 ~ 02时05分]"
+          "appearance_count": 4,
+          "time_info": "[00时04分 ~ 03时25分]"
         },
         {
-          "title": "解放军凌晨四点管控日舰过航台湾海峡",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%A7%A3%E6%94%BE%E5%86%9B%E5%87%8C%E6%99%A8%E5%9B%9B%E7%82%B9%E7%AE%A1%E6%8E%A7%E6%97%A5%E8%88%B0%E8%BF%87%E8%88%AA%E5%8F%B0%E6%B9%BE%E6%B5%B7%E5%B3%A1%23&t=31&band_rank=9&Refer=top",
+          "title": "日本驱逐舰过航台湾海峡取证画面",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E9%A9%B1%E9%80%90%E8%88%B0%E8%BF%87%E8%88%AA%E5%8F%B0%E6%B9%BE%E6%B5%B7%E5%B3%A1%E5%8F%96%E8%AF%81%E7%94%BB%E9%9D%A2%23&t=31&band_rank=18&Refer=top",
           "source": "微博",
           "ranks": [
-            9,
-            15,
-            10
+            18
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时04分 ~ 02时05分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时25分"
         }
       ]
     },
@@ -308,11 +332,12 @@
           "ranks": [
             18,
             22,
-            12
+            12,
+            21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时04分 ~ 02时05分]"
+          "appearance_count": 4,
+          "time_info": "[00时04分 ~ 03时25分]"
         }
       ]
     }
