@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-19T22:12:03.393933+08:00",
-  "total_titles_processed": 1296,
+  "generated_at": "2026-04-19T23:09:27.127972+08:00",
+  "total_titles_processed": 1347,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 69,
+      "match_count": 73,
       "titles": [
         {
           "title": "伊朗战争丨哈里斯：特朗普意图“转移焦点”",
@@ -27,8 +27,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时04分 ~ 22时12分]"
+          "appearance_count": 25,
+          "time_info": "[00时04分 ~ 23时09分]"
         },
         {
           "title": "停火“还剩三天”，以军袭击黎巴嫩，伊朗军方关闭霍尔木兹海峡，特朗普再召“战情室会议”",
@@ -42,8 +42,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[11时32分 ~ 22时12分]"
+          "appearance_count": 16,
+          "time_info": "[11时32分 ~ 23时09分]"
         },
         {
           "title": "特朗普强称“伊朗让步了”，伊朗“他撒谎”，投资者：“他在与市场谈判，完全无视伊朗”",
@@ -129,11 +129,12 @@
             13,
             14,
             11,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[14时04分 ~ 22时12分]"
+          "appearance_count": 15,
+          "time_info": "[14时04分 ~ 23时09分]"
         },
         {
           "title": "特朗普召开白宫战情室会议，美官员：战争可能几天内重新爆发",
@@ -258,6 +259,28 @@
           "time_info": "21时23分"
         },
         {
+          "title": "特朗普：若美伊达成协议，“很可能”前往伊斯兰堡",
+          "url": "https://wallstreetcn.com/livenews/3090643",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时09分"
+        },
+        {
+          "title": "特朗普：若美伊达成协议 “很可能”前往伊斯兰堡",
+          "url": "https://flash.jin10.com/detail/20260419224124557800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时09分"
+        },
+        {
           "title": "特朗普集团将在格鲁吉亚首都合建摩天大楼",
           "url": "https://flash.jin10.com/detail/20260419034558544800",
           "source": "金十数据",
@@ -280,17 +303,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时04分"
-        },
-        {
-          "title": "美国总统特朗普：坚持认为战争接近结束。（福克斯新闻）",
-          "url": "https://wallstreetcn.com/livenews/3090635",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时12分"
         },
         {
           "title": "美媒：特朗普召开白宫战情室会议，商讨霍尔木兹海峡危机及美伊谈判",
@@ -333,6 +345,19 @@
           "time_info": "[15时55分 ~ 18时10分]"
         },
         {
+          "title": "美国驻联合国大使（驳斥总统特朗普的论调）：副总统万斯将率领美国代表团与伊朗在巴基斯坦对话。（ABC新闻）",
+          "url": "https://wallstreetcn.com/livenews/3090612",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            25,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时23分 ~ 23时09分]"
+        },
+        {
           "title": "伊朗总统：特朗普没有任何理由剥夺伊朗的核权利",
           "url": "https://flash.jin10.com/detail/20260419161437232800",
           "source": "金十数据",
@@ -358,18 +383,6 @@
           "time_info": "[19时10分 ~ 20时02分]"
         },
         {
-          "title": "美国驻联合国大使（驳斥总统特朗普的论调）：副总统万斯将率领美国代表团与伊朗在巴基斯坦对话。（ABC新闻）",
-          "url": "https://wallstreetcn.com/livenews/3090612",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时23分 ~ 22时12分]"
-        },
-        {
           "title": "美国总统特朗普：因为安全的缘故，副总统万斯不会前往巴基斯坦。 伊朗承诺无限期搁置核计划。（MS Now）",
           "url": "https://wallstreetcn.com/livenews/3090611",
           "source": "华尔街见闻-快讯",
@@ -392,6 +405,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[20时02分 ~ 21时23分]"
+        },
+        {
+          "title": "美国总统特朗普：坚持认为战争接近结束。（福克斯新闻）",
+          "url": "https://wallstreetcn.com/livenews/3090635",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时12分 ~ 23时09分]"
         },
         {
           "title": "伊朗革命卫队海军发表声明表示，船只及其所有者应遵循伊朗革命卫队海军发布的消息，并称美国总统特朗普关于霍尔木兹海峡的声明“没有有效性”。",
@@ -430,6 +455,19 @@
           "time_info": "[00时04分 ~ 03时25分]"
         },
         {
+          "title": "特朗普：美代表团将于明晚前往巴基斯坦，若伊朗不接受协议就“不客气了”",
+          "url": "https://flash.jin10.com/detail/20260419201629984800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            15,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时23分 ~ 23时09分]"
+        },
+        {
           "title": "哈里斯：美国人不想打伊朗 特朗普意图“转移焦点”",
           "url": "https://flash.jin10.com/detail/20260419151707226800",
           "source": "金十数据",
@@ -443,28 +481,80 @@
           "time_info": "[15时55分 ~ 18时10分]"
         },
         {
-          "title": "特朗普：美代表团将于明晚前往巴基斯坦，若伊朗不接受协议就“不客气了”",
-          "url": "https://flash.jin10.com/detail/20260419201629984800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时23分 ~ 22时12分]"
-        },
-        {
           "title": "美国总统特朗普：如果伊朗不接受（协议），美国将摧毁伊朗的每一座发电厂和每一座桥梁。再也不客气了。",
           "url": "https://flash.jin10.com/detail/20260419201159316800",
           "source": "金十数据",
           "ranks": [
             7,
+            16,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时23分 ~ 23时09分]"
+        },
+        {
+          "title": "美国总统特朗普：我们提供了一个非常公平合理的交易，我希望他们（伊朗）能接受。",
+          "url": "https://flash.jin10.com/detail/20260419201142387800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            17,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时23分 ~ 23时09分]"
+        },
+        {
+          "title": "美国总统特朗普：我的代表团将前往巴基斯坦伊斯兰堡，他们明天晚上会到那里进行谈判。",
+          "url": "https://flash.jin10.com/detail/20260419201114486800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            18,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时23分 ~ 23时09分]"
+        },
+        {
+          "title": "特朗普称美伊仍能达成协议",
+          "url": "https://flash.jin10.com/detail/20260419200728672800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            20,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时23分 ~ 23时09分]"
+        },
+        {
+          "title": "特朗普称万斯不参加美伊复谈",
+          "url": "https://flash.jin10.com/detail/20260419211604135800",
+          "source": "金十数据",
+          "ranks": [
+            6,
             16
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[21时23分 ~ 22时12分]"
+          "time_info": "[22时12分 ~ 23时09分]"
+        },
+        {
+          "title": "美国总统特朗普：明晚在巴基斯坦的对话“应当是迅速的”。 所有问题都已经（在此前的伊斯兰堡对话中）谈到了。 我们正在主导对话。（福克斯新闻）",
+          "url": "https://wallstreetcn.com/livenews/3090634",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时12分 ~ 23时09分]"
         },
         {
           "title": "特朗普：好说话的日子结束了",
@@ -473,18 +563,6 @@
           "ranks": [
             7,
             29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时23分 ~ 22时12分]"
-        },
-        {
-          "title": "美国总统特朗普：我们提供了一个非常公平合理的交易，我希望他们（伊朗）能接受。",
-          "url": "https://flash.jin10.com/detail/20260419201142387800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            17
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -503,28 +581,16 @@
           "time_info": "[21时23分 ~ 22时12分]"
         },
         {
-          "title": "美国总统特朗普：我的代表团将前往巴基斯坦伊斯兰堡，他们明天晚上会到那里进行谈判。",
-          "url": "https://flash.jin10.com/detail/20260419201114486800",
-          "source": "金十数据",
+          "title": "白宫澄清，美国副总统万斯将率团前往巴基斯坦，“事情变了”。 此前，总统特朗普声称，万斯将因安全问题而不前往伊斯兰堡。",
+          "url": "https://wallstreetcn.com/livenews/3090629",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            9,
-            18
+            10,
+            15
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[21时23分 ~ 22时12分]"
-        },
-        {
-          "title": "特朗普称美伊仍能达成协议",
-          "url": "https://flash.jin10.com/detail/20260419200728672800",
-          "source": "金十数据",
-          "ranks": [
-            11,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时23分 ~ 22时12分]"
+          "time_info": "[22时12分 ~ 23时09分]"
         },
         {
           "title": "据ABC新闻：特朗普在谈及伊朗和平协议时表示“这将会发生”。",
@@ -551,6 +617,18 @@
           "time_info": "[21时23分 ~ 22时12分]"
         },
         {
+          "title": "特朗普：万斯不参加美伊复谈，女婿及总统特使将参与美伊谈判",
+          "url": "https://wallstreetcn.com/livenews/3090623",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时12分 ~ 23时09分]"
+        },
+        {
           "title": "美国总统特朗普：今天结束前会有一些信息。",
           "url": "https://flash.jin10.com/detail/20260418214748360800",
           "source": "金十数据",
@@ -575,26 +653,27 @@
           "time_info": "[00时04分 ~ 01时08分]"
         },
         {
-          "title": "特朗普称万斯不参加美伊复谈",
-          "url": "https://flash.jin10.com/detail/20260419211604135800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时12分"
-        },
-        {
-          "title": "美国总统特朗普：明晚在巴基斯坦的对话“应当是迅速的”。 所有问题都已经（在此前的伊斯兰堡对话中）谈到了。 我们正在主导对话。（福克斯新闻）",
-          "url": "https://wallstreetcn.com/livenews/3090634",
+          "title": "特朗普边称要谈判边威胁伊朗",
+          "url": "https://wallstreetcn.com/livenews/3090618",
           "source": "华尔街见闻-快讯",
           "ranks": [
+            20,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时12分 ~ 23时09分]"
+        },
+        {
+          "title": "哈里斯：美国人不想打伊朗，特朗普意图“转移焦点”",
+          "url": "https://news.ifeng.com/c/8sS3Yag0vCf",
+          "source": "凤凰网",
+          "ranks": [
             6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时12分"
+          "time_info": "23时09分"
         },
         {
           "title": "美媒：特朗普公开表现得趾高气扬，但内心却充满恐惧",
@@ -608,17 +687,6 @@
           "time_info": "14时04分"
         },
         {
-          "title": "白宫澄清，美国副总统万斯将率团前往巴基斯坦，“事情变了”。 此前，总统特朗普声称，万斯将因安全问题而不前往伊斯兰堡。",
-          "url": "https://wallstreetcn.com/livenews/3090629",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时12分"
-        },
-        {
           "title": "美国总统特朗普料将在周日发布“致伊朗人民的信”。 特朗普将在信中高速伊朗，如果不达成协议将会面临风险。 美国为伊朗准备好大量弹药。（福克斯新闻）",
           "url": "https://wallstreetcn.com/livenews/3090602",
           "source": "华尔街见闻-快讯",
@@ -630,6 +698,17 @@
           "time_info": "21时23分"
         },
         {
+          "title": "特朗普称美伊20日将在伊斯兰堡举行谈判",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33006081",
+          "source": "澎湃新闻",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时09分"
+        },
+        {
           "title": "特朗普：美国代表20日抵达伊斯兰堡参加谈判",
           "url": "https://wallstreetcn.com/livenews/3090601",
           "source": "华尔街见闻-快讯",
@@ -639,17 +718,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "21时23分"
-        },
-        {
-          "title": "特朗普：万斯不参加美伊复谈，女婿及总统特使将参与美伊谈判",
-          "url": "https://wallstreetcn.com/livenews/3090623",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时12分"
         },
         {
           "title": "美国总统特朗普：伊朗正利用小船开火。",
@@ -705,17 +773,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "21时23分"
-        },
-        {
-          "title": "特朗普边称要谈判边威胁伊朗",
-          "url": "https://wallstreetcn.com/livenews/3090618",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时12分"
         },
         {
           "title": "市场消息：美国总统特朗普与巴基斯坦陆军参谋长穆尼尔讨论了霍尔木兹海峡局势以及与伊朗的协议的细节。",
@@ -831,19 +888,8 @@
     },
     {
       "keyword_group": "台湾",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
-        {
-          "title": "解放军 17 日管控日舰过航台湾海峡，哪些细节值得关注？131 年前的这天《马关条约》签署，是巧合吗？",
-          "url": "https://www.zhihu.com/question/2028861445954125830",
-          "source": "知乎",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[11时32分 ~ 22时12分]"
-        },
         {
           "title": "现场画面丨解放军凌晨四点管控日舰过航台湾海峡",
           "url": "https://m.thepaper.cn/newsDetail_forward_33000237",
@@ -856,6 +902,18 @@
           "time_info": "[00时04分 ~ 15时55分]"
         },
         {
+          "title": "解放军 17 日管控日舰过航台湾海峡，哪些细节值得关注？131 年前的这天《马关条约》签署，是巧合吗？",
+          "url": "https://www.zhihu.com/question/2028861445954125830",
+          "source": "知乎",
+          "ranks": [
+            1,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 16,
+          "time_info": "[11时32分 ~ 23时09分]"
+        },
+        {
           "title": "国防部回应日舰过航台湾海峡",
           "url": "https://www.douyin.com/hot/2471203",
           "source": "抖音",
@@ -865,8 +923,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[11时32分 ~ 22时12分]"
+          "appearance_count": 16,
+          "time_info": "[11时32分 ~ 23时09分]"
         },
         {
           "title": "郑丽文：和大陆比台湾电动车都没跟上",
@@ -927,6 +985,17 @@
           "time_info": "[17时01分 ~ 18时10分]"
         },
         {
+          "title": "台湾媒体人向台湾民众发出灵魂拷问",
+          "url": "https://www.toutiao.com/trending/7629653338309247039/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时09分"
+        },
+        {
           "title": "台湾新党副主席李胜峰在黄帝故里拜祖",
           "url": "https://www.toutiao.com/trending/7629611714262695942/",
           "source": "今日头条",
@@ -949,28 +1018,30 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            23
+            23,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时23分 ~ 22时12分]"
+          "appearance_count": 3,
+          "time_info": "[21时23分 ~ 23时09分]"
         },
         {
           "title": "据The Information：谷歌正在与迈威尔科技集团(MRVL.O)进行洽谈，计划开发用于推理的新型人工智能芯片。",
           "url": "https://flash.jin10.com/detail/20260419210244122800",
           "source": "金十数据",
           "ranks": [
-            9
+            9,
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时12分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时12分 ~ 23时09分]"
         }
       ]
     },
     {
       "keyword_group": "Claude",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "实测Claude Opus 4.7",
@@ -987,6 +1058,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时04分 ~ 06时51分]"
+        },
+        {
+          "title": "如何评价 claude design 功能发布后 Figma 股价下跌 7%？",
+          "url": "https://www.zhihu.com/question/2028695048301102521",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时09分"
         }
       ]
     }
