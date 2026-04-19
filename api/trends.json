@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-20T06:02:18.573009+08:00",
-  "total_titles_processed": 519,
+  "generated_at": "2026-04-20T07:06:34.736930+08:00",
+  "total_titles_processed": 573,
   "failed_sources": [],
   "trends": [
     {
@@ -15,19 +15,34 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时05分 ~ 06时02分]"
+          "appearance_count": 10,
+          "time_info": "[00时05分 ~ 07时06分]"
         },
         {
           "title": "特朗普称若伊不达成停火或发动打击",
           "url": "https://www.cls.cn/detail/2348194",
           "source": "财联社热门",
           "ranks": [
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时05分 ~ 07时06分]"
+        },
+        {
+          "title": "特朗普称美伊20日将在伊斯兰堡举行谈判",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33006081",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            11,
+            10,
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时05分 ~ 06时02分]"
+          "appearance_count": 10,
+          "time_info": "[00时05分 ~ 07时06分]"
         },
         {
           "title": "哈里斯：美国人不想打伊朗，特朗普意图“转移焦点”",
@@ -37,8 +52,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时05分 ~ 06时02分]"
+          "appearance_count": 10,
+          "time_info": "[00时05分 ~ 07时06分]"
         },
         {
           "title": "美国代表抵达伊斯兰堡参加谈判，特朗普：美伊仍能达成协议",
@@ -49,8 +64,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时05分 ~ 06时02分]"
+          "appearance_count": 10,
+          "time_info": "[00时05分 ~ 07时06分]"
         },
         {
           "title": "伊朗称将控制霍尔木兹海峡直至战争结束，特朗普表示其无法要挟美国",
@@ -59,24 +74,12 @@
           "ranks": [
             7,
             8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时05分 ~ 06时02分]"
-        },
-        {
-          "title": "特朗普称美伊20日将在伊斯兰堡举行谈判",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33006081",
-          "source": "澎湃新闻",
-          "ranks": [
-            13,
-            11,
+            9,
             10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时05分 ~ 06时02分]"
+          "appearance_count": 10,
+          "time_info": "[00时05分 ~ 07时06分]"
         },
         {
           "title": "特朗普：若美伊达成协议，“很可能”前往伊斯兰堡",
@@ -140,11 +143,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
-            6
+            6,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时06分 ~ 06时02分]"
+          "appearance_count": 3,
+          "time_info": "[05时06分 ~ 07时06分]"
         },
         {
           "title": "特朗普：万斯不参加美伊复谈，女婿及总统特使将参与美伊谈判",
@@ -238,7 +242,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时02分"
         },
@@ -312,8 +316,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时05分 ~ 06时02分]"
+          "appearance_count": 10,
+          "time_info": "[00时05分 ~ 07时06分]"
         },
         {
           "title": "台湾媒体人向台湾民众发出灵魂拷问",
@@ -323,11 +327,12 @@
             7,
             8,
             17,
-            16
+            16,
+            15
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时05分 ~ 06时02分]"
+          "appearance_count": 10,
+          "time_info": "[00时05分 ~ 07时06分]"
         },
         {
           "title": "国防部回应日舰过航台湾海峡",
@@ -338,8 +343,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时05分 ~ 06时02分]"
+          "appearance_count": 10,
+          "time_info": "[00时05分 ~ 07时06分]"
         },
         {
           "title": "台湾学者：台湾人根在河南",
@@ -396,8 +401,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时05分 ~ 06时02分]"
+          "appearance_count": 10,
+          "time_info": "[00时05分 ~ 07时06分]"
         }
       ]
     }
