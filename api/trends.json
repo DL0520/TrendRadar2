@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-19T17:02:09.853397+08:00",
-  "total_titles_processed": 951,
+  "generated_at": "2026-04-19T18:10:05.120472+08:00",
+  "total_titles_processed": 1001,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时04分 ~ 17时02分]"
+          "appearance_count": 17,
+          "time_info": "[00时04分 ~ 18时10分]"
         },
         {
           "title": "特朗普强称“伊朗让步了”，伊朗“他撒谎”，投资者：“他在与市场谈判，完全无视伊朗”",
@@ -66,20 +66,6 @@
           "time_info": "[00时04分 ~ 07时42分]"
         },
         {
-          "title": "特朗普：美国已禁止以色列这样做，适可而止",
-          "url": "https://www.cls.cn/detail/2348149",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            10,
-            11,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时04分 ~ 17时02分]"
-        },
-        {
           "title": "停火“还剩三天”，以军袭击黎巴嫩，伊朗军方关闭霍尔木兹海峡，特朗普再召“战情室会议”",
           "url": "https://wallstreetcn.com/articles/3770334",
           "source": "华尔街见闻",
@@ -90,8 +76,33 @@
             2
           ],
           "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[11时32分 ~ 18时10分]"
+        },
+        {
+          "title": "伊朗战争丨哈里斯：特朗普意图“转移焦点”",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
           "appearance_count": 6,
-          "time_info": "[11时32分 ~ 17时02分]"
+          "time_info": "[15时54分 ~ 18时10分]"
+        },
+        {
+          "title": "特朗普：美国已禁止以色列这样做，适可而止",
+          "url": "https://www.cls.cn/detail/2348149",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            10,
+            11,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 17,
+          "time_info": "[00时04分 ~ 18时10分]"
         },
         {
           "title": "特朗普：以色列，适可而止",
@@ -114,17 +125,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时04分 ~ 07时42分]"
-        },
-        {
-          "title": "伊朗战争丨哈里斯：特朗普意图“转移焦点”",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时54分 ~ 17时02分]"
         },
         {
           "title": "特朗普：美伊正对话 “今天结束前会有消息”",
@@ -166,6 +166,18 @@
           "time_info": "[00时04分 ~ 07时42分]"
         },
         {
+          "title": "伊朗伊斯兰革命卫队宣布封锁海峡：特朗普言论不可信",
+          "url": "https://news.ifeng.com/c/8sR74oZ1935",
+          "source": "凤凰网",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[11时32分 ~ 18时10分]"
+        },
+        {
           "title": "特朗普证实伊朗宣布开放霍尔木兹海峡",
           "url": "https://www.cls.cn/detail/2347896",
           "source": "财联社热门",
@@ -177,16 +189,40 @@
           "time_info": "[00时04分 ~ 06时51分]"
         },
         {
-          "title": "伊朗伊斯兰革命卫队宣布封锁海峡：特朗普言论不可信",
-          "url": "https://news.ifeng.com/c/8sR74oZ1935",
+          "title": "特朗普召开白宫战情室会议，美官员：战争可能几天内重新爆发",
+          "url": "https://news.ifeng.com/c/8sRhTpk8W0g",
           "source": "凤凰网",
           "ranks": [
-            8,
-            9
+            10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时32分 ~ 17时02分]"
+          "appearance_count": 7,
+          "time_info": "[14时04分 ~ 18时10分]"
+        },
+        {
+          "title": "记者还没问完，就被特朗普打断：你出去",
+          "url": "https://v.ifeng.com/c/8sRkCC6DpKL",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[14时04分 ~ 18时10分]"
+        },
+        {
+          "title": "伊朗称将控制霍尔木兹海峡直至战争结束，特朗普表示其无法要挟美国",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33004034",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19,
+            17,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[14时04分 ~ 18时10分]"
         },
         {
           "title": "美媒说特朗普召开会议讨论与伊朗谈判的问题",
@@ -196,22 +232,12 @@
             1,
             7,
             8,
-            10
+            10,
+            13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时32分 ~ 17时02分]"
-        },
-        {
-          "title": "伊朗总统：特朗普没有任何理由剥夺伊朗的核权利",
-          "url": "https://flash.jin10.com/detail/20260419161437232800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时02分"
+          "appearance_count": 5,
+          "time_info": "[11时32分 ~ 18时10分]"
         },
         {
           "title": "特朗普集团将在格鲁吉亚首都合建摩天大楼",
@@ -252,51 +278,17 @@
           "time_info": "[02时05分 ~ 05时04分]"
         },
         {
-          "title": "特朗普召开白宫战情室会议，美官员：战争可能几天内重新爆发",
-          "url": "https://news.ifeng.com/c/8sRhTpk8W0g",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时04分 ~ 17时02分]"
-        },
-        {
-          "title": "记者还没问完，就被特朗普打断：你出去",
-          "url": "https://v.ifeng.com/c/8sRkCC6DpKL",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时04分 ~ 17时02分]"
-        },
-        {
-          "title": "伊朗称将控制霍尔木兹海峡直至战争结束，特朗普表示其无法要挟美国",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33004034",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            19,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时04分 ~ 17时02分]"
-        },
-        {
           "title": "白俄罗斯总统卢卡申科：一旦“大协议”准备就绪，与美国总统特朗普的会晤是可能的。",
           "url": "https://flash.jin10.com/detail/20260419152943357800",
           "source": "金十数据",
           "ranks": [
             2,
-            14
+            14,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时55分 ~ 17时02分]"
+          "appearance_count": 3,
+          "time_info": "[15时55分 ~ 18时10分]"
         },
         {
           "title": "伊朗总统佩泽希齐扬：美国总统特朗普没有任何理由剥夺伊朗的核权利。",
@@ -304,11 +296,24 @@
           "source": "金十数据",
           "ranks": [
             3,
-            15
+            15,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时55分 ~ 18时10分]"
+        },
+        {
+          "title": "伊朗总统：特朗普没有任何理由剥夺伊朗的核权利",
+          "url": "https://flash.jin10.com/detail/20260419161437232800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            13
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[15时55分 ~ 17时02分]"
+          "time_info": "[17时02分 ~ 18时10分]"
         },
         {
           "title": "伊朗革命卫队海军发表声明表示，船只及其所有者应遵循伊朗革命卫队海军发布的消息，并称美国总统特朗普关于霍尔木兹海峡的声明“没有有效性”。",
@@ -352,11 +357,12 @@
           "source": "金十数据",
           "ranks": [
             7,
-            19
+            19,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时55分 ~ 17时02分]"
+          "appearance_count": 3,
+          "time_info": "[15时55分 ~ 18时10分]"
         },
         {
           "title": "美国总统特朗普：今天结束前会有一些信息。",
@@ -539,8 +545,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时32分 ~ 17时02分]"
+          "appearance_count": 8,
+          "time_info": "[11时32分 ~ 18时10分]"
         },
         {
           "title": "国防部回应日舰过航台湾海峡",
@@ -552,8 +558,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时32分 ~ 17时02分]"
+          "appearance_count": 8,
+          "time_info": "[11时32分 ~ 18时10分]"
         },
         {
           "title": "郑丽文：和大陆比台湾电动车都没跟上",
@@ -606,11 +612,12 @@
           "url": "https://www.toutiao.com/trending/7629752624275783718/",
           "source": "今日头条",
           "ranks": [
-            15
+            15,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时01分 ~ 17时02分]"
+          "appearance_count": 4,
+          "time_info": "[17时01分 ~ 18时10分]"
         },
         {
           "title": "台湾新党副主席李胜峰在黄帝故里拜祖",
