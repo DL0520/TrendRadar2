@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-20T14:26:10.649867+08:00",
-  "total_titles_processed": 989,
+  "generated_at": "2026-04-20T16:36:37.006770+08:00",
+  "total_titles_processed": 1149,
   "failed_sources": [],
   "trends": [
     {
@@ -26,11 +26,12 @@
             7,
             6,
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时05分 ~ 14时26分]"
+          "appearance_count": 17,
+          "time_info": "[00时05分 ~ 16时36分]"
         },
         {
           "title": "特朗普称若伊不达成停火或发动打击",
@@ -71,6 +72,17 @@
           "time_info": "[00时05分 ~ 08时05分]"
         },
         {
+          "title": "特朗普：美军武力拦截并控制一艘伊朗货船",
+          "url": "https://news.ifeng.com/c/8sSpivPG8Fy",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[08时04分 ~ 16时36分]"
+        },
+        {
           "title": "伊朗称将控制霍尔木兹海峡直至战争结束，特朗普表示其无法要挟美国",
           "url": "https://m.thepaper.cn/newsDetail_forward_33004034",
           "source": "澎湃新闻",
@@ -85,26 +97,16 @@
           "time_info": "[00时05分 ~ 08时05分]"
         },
         {
-          "title": "特朗普：美军武力拦截并控制一艘伊朗货船",
-          "url": "https://news.ifeng.com/c/8sSpivPG8Fy",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时04分 ~ 14时26分]"
-        },
-        {
           "title": "美伊局势追踪：特朗普二轮和谈邀约“遭拒” 美军开火、伊朗誓言报复",
           "url": "https://www.cls.cn/detail/2348774",
           "source": "财联社热门",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时59分 ~ 14时26分]"
+          "appearance_count": 5,
+          "time_info": "[11时59分 ~ 16时36分]"
         },
         {
           "title": "特朗普：若美伊达成协议，“很可能”前往伊斯兰堡",
@@ -120,6 +122,28 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时05分 ~ 06时02分]"
+        },
+        {
+          "title": "特朗普把万斯踢出谈判？曾放话“谈崩了就怪他”",
+          "url": "https://news.ifeng.com/c/8sTZHdV97eY",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时25分 ~ 16时36分]"
+        },
+        {
+          "title": "白宫新闻秘书难招架，特朗普给9个记者9种回答",
+          "url": "https://news.ifeng.com/c/8sTO3SFkNJq",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时25分 ~ 16时36分]"
         },
         {
           "title": "伊朗战争丨特朗普透露谈判消息：伊朗担心有诈",
@@ -163,26 +187,29 @@
           "time_info": "[00时05分 ~ 06时02分]"
         },
         {
-          "title": "特朗普把万斯踢出谈判？曾放话“谈崩了就怪他”",
-          "url": "https://news.ifeng.com/c/8sTZHdV97eY",
-          "source": "凤凰网",
+          "title": "超1600亿美元！“特朗普关税退款”周一启动，企业能全部拿回吗？",
+          "url": "https://www.cls.cn/detail/2348969",
+          "source": "财联社热门",
           "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时25分 ~ 14时26分]"
-        },
-        {
-          "title": "白宫新闻秘书难招架，特朗普给9个记者9种回答",
-          "url": "https://news.ifeng.com/c/8sTO3SFkNJq",
-          "source": "凤凰网",
-          "ranks": [
+            9,
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时25分 ~ 14时26分]"
+          "appearance_count": 3,
+          "time_info": "[14时25分 ~ 16时36分]"
+        },
+        {
+          "title": "特朗普称将重启谈判 伊朗否认三连",
+          "url": "https://www.cls.cn/detail/2348737",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时59分 ~ 16时36分]"
         },
         {
           "title": "特朗普说若达成协议很可能去伊斯兰堡",
@@ -207,18 +234,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时06分 ~ 07时06分]"
-        },
-        {
-          "title": "特朗普称将重启谈判 伊朗否认三连",
-          "url": "https://www.cls.cn/detail/2348737",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时59分 ~ 14时26分]"
         },
         {
           "title": "特朗普：万斯不参加美伊复谈，女婿及总统特使将参与美伊谈判",
@@ -291,17 +306,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时08分 ~ 02时05分]"
-        },
-        {
-          "title": "超1600亿美元！“特朗普关税退款”周一启动，企业能全部拿回吗？",
-          "url": "https://www.cls.cn/detail/2348969",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时25分 ~ 14时26分]"
         },
         {
           "title": "美国总统特朗普：伊朗内部温和派与强硬派之间存在持续冲突。",
@@ -411,7 +415,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时26分"
         },
@@ -479,7 +483,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时26分"
         },
@@ -490,7 +494,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时26分"
         },
