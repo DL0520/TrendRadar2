@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-21T14:08:47.522593+08:00",
-  "total_titles_processed": 1000,
+  "generated_at": "2026-04-21T16:19:22.250274+08:00",
+  "total_titles_processed": 1153,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 43,
+      "match_count": 48,
       "titles": [
         {
           "title": "特朗普：若有突破进展 愿同伊朗高级别领导人会面",
@@ -16,8 +16,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时13分 ~ 14时08分]"
+          "appearance_count": 13,
+          "time_info": "[01时13分 ~ 16时19分]"
         },
         {
           "title": "特朗普：若有突破进展，愿同伊朗高级别领导人会面",
@@ -47,11 +47,12 @@
           "source": "财联社热门",
           "ranks": [
             4,
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时53分 ~ 14时08分]"
+          "appearance_count": 4,
+          "time_info": "[11时53分 ~ 16时19分]"
         },
         {
           "title": "特朗普：延长停火极不可能 在达成“协议”前不会解除对伊朗的封锁",
@@ -68,6 +69,18 @@
           "time_info": "[07时11分 ~ 14时08分]"
         },
         {
+          "title": "特朗普称21日美伊谈判、如未达成协议“几无可能”延长停火，伊朗最高领袖重申三大立场",
+          "url": "https://wallstreetcn.com/articles/3770427",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时53分 ~ 16时19分]"
+        },
+        {
           "title": "特朗普：美军武力拦截并控制一艘伊朗货船",
           "url": "https://news.ifeng.com/c/8sSpivPG8Fy",
           "source": "凤凰网",
@@ -79,6 +92,29 @@
           "time_info": "[01时13分 ~ 02时36分]"
         },
         {
+          "title": "特朗普撇清：以色列可说不动我",
+          "url": "https://news.ifeng.com/c/8sUslKZt0DW",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时08分 ~ 16时19分]"
+        },
+        {
+          "title": "伊朗战争丨特朗普亲信坦言：79岁的他正在失控",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时19分"
+        },
+        {
           "title": "“自满”的投资者小心了：伊朗不是特朗普能指挥的",
           "url": "https://flash.jin10.com/detail/20260421112750416800",
           "source": "金十数据",
@@ -88,29 +124,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时54分"
-        },
-        {
-          "title": "特朗普称21日美伊谈判、如未达成协议“几无可能”延长停火，伊朗最高领袖重申三大立场",
-          "url": "https://wallstreetcn.com/articles/3770427",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时53分 ~ 14时08分]"
-        },
-        {
-          "title": "特朗普撇清：以色列可说不动我",
-          "url": "https://news.ifeng.com/c/8sUslKZt0DW",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时08分"
         },
         {
           "title": "伊朗首席谈判代表：美国总统特朗普正试图将谈判桌变成“投降桌”。",
@@ -194,6 +207,18 @@
           "time_info": "[05时26分 ~ 06时11分]"
         },
         {
+          "title": "美伊局势会如何演绎？特朗普面前有五条路 最危险的通往200美元油价！",
+          "url": "https://www.cls.cn/detail/2350258",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时08分 ~ 16时19分]"
+        },
+        {
           "title": "欧洲央行行长拉加德：央行将根据形势的需要而采取行动。 （欧元区）经济形势仍然高度不确定。 欧元区还没有陷入恶劣的假设场景。 （美国总统特朗普造成的）伊朗战争的“停止-启动”本性让人难以评估战争所构成的影响。 恢复至战争爆发之前的水平谈何容易。 迄今，供应链所受干扰有限。 在（对伊朗战争）得出结论之前，央行需要掌握更多信息。",
           "url": "https://wallstreetcn.com/livenews/3091263",
           "source": "华尔街见闻-快讯",
@@ -206,6 +231,17 @@
           "time_info": "[01时13分 ~ 02时36分]"
         },
         {
+          "title": "特朗普：伊朗将进行谈判，希望双方能够达成“公平协议”",
+          "url": "https://news.ifeng.com/c/8sUsyyCLV6x",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时53分 ~ 16时19分]"
+        },
+        {
           "title": "特朗普将于北京时间21日晚8:30参加CNBC的一档财经节目。",
           "url": "https://flash.jin10.com/detail/20260421053556015800",
           "source": "金十数据",
@@ -216,17 +252,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时11分 ~ 07时12分]"
-        },
-        {
-          "title": "特朗普：伊朗将进行谈判，希望双方能够达成“公平协议”",
-          "url": "https://news.ifeng.com/c/8sUsyyCLV6x",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时53分 ~ 14时08分]"
         },
         {
           "title": "特朗普威胁停火到期将开炸",
@@ -310,17 +335,6 @@
           "time_info": "06时11分"
         },
         {
-          "title": "美伊局势会如何演绎？特朗普面前有五条路 最危险的通往200美元油价！",
-          "url": "https://www.cls.cn/detail/2350258",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时08分"
-        },
-        {
           "title": "伊朗议长：特朗普妄图将谈判桌变成投降桌",
           "url": "https://news.ifeng.com/c/8sUi19J5Hpg",
           "source": "凤凰网",
@@ -365,6 +379,17 @@
           "time_info": "02时36分"
         },
         {
+          "title": "美媒：特朗普不打算延长美伊停火期限",
+          "url": "https://news.ifeng.com/c/8sVOGSgrTOs",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时19分"
+        },
+        {
           "title": "美国总统特朗普：我们与伊朗达成的协议将远比伊朗核协议（JCPOA）更好。",
           "url": "https://flash.jin10.com/detail/20260421013653333800",
           "source": "金十数据",
@@ -374,6 +399,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时36分"
+        },
+        {
+          "title": "事关煤、气、油、电！特朗普动用“战时权力”",
+          "url": "https://www.cls.cn/detail/2350491",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时19分"
         },
         {
           "title": "特朗普：在达成“协议”前不会解除对伊朗的封锁",
@@ -431,6 +467,17 @@
           "time_info": "11时54分"
         },
         {
+          "title": "专家：特朗普错失局势降级良机 反宣“胜利”激化美伊危局",
+          "url": "https://flash.jin10.com/detail/20260421154428912800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时19分"
+        },
+        {
           "title": "美国白宫：特朗普签署与大规模能源及能源相关基础设施有关的决定。",
           "url": "https://flash.jin10.com/detail/20260421042232218800",
           "source": "金十数据",
@@ -481,7 +528,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时08分"
         },
@@ -495,12 +542,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时26分"
+        },
+        {
+          "title": "美媒：特朗普不打算延长美伊停火期限",
+          "url": "https://wallstreetcn.com/livenews/3091620",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时19分"
         }
       ]
     },
     {
       "keyword_group": "台湾",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "媒体评日本军舰穿越台湾海峡",
@@ -511,11 +569,12 @@
             16,
             13,
             10,
-            15
+            15,
+            18
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时13分 ~ 14时08分]"
+          "appearance_count": 13,
+          "time_info": "[01时13分 ~ 16时19分]"
         },
         {
           "title": "2名中国台湾游客在日本坠机身亡",
@@ -533,13 +592,35 @@
           "time_info": "[01时13分 ~ 08时09分]"
         },
         {
+          "title": "中国台湾3月外销订单年率 65.9%，预期41%，前值23.80%。",
+          "url": "https://flash.jin10.com/detail/20260421160023098800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时19分"
+        },
+        {
+          "title": "台湾教师被大陆学生问台湾过春节吗",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%8F%B0%E6%B9%BE%E6%95%99%E5%B8%88%E8%A2%AB%E5%A4%A7%E9%99%86%E5%AD%A6%E7%94%9F%E9%97%AE%E5%8F%B0%E6%B9%BE%E8%BF%87%E6%98%A5%E8%8A%82%E5%90%97%23&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时19分"
+        },
+        {
           "title": "中国台湾证交所加权股价指数收高1.7%报37,605.11点。",
           "url": "https://wallstreetcn.com/livenews/3091551",
           "source": "华尔街见闻-快讯",
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时08分"
         },
@@ -550,7 +631,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时08分"
         }
