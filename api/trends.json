@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-21T11:54:13.402772+08:00",
-  "total_titles_processed": 868,
+  "generated_at": "2026-04-21T14:08:47.522593+08:00",
+  "total_titles_processed": 1000,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 40,
+      "match_count": 43,
       "titles": [
         {
           "title": "特朗普：若有突破进展 愿同伊朗高级别领导人会面",
@@ -16,8 +16,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时13分 ~ 11时54分]"
+          "appearance_count": 12,
+          "time_info": "[01时13分 ~ 14时08分]"
         },
         {
           "title": "特朗普：若有突破进展，愿同伊朗高级别领导人会面",
@@ -42,6 +42,32 @@
           "time_info": "[01时13分 ~ 08时09分]"
         },
         {
+          "title": "美伊停火倒计时？特朗普敲定21日“二轮谈判”，伊朗仍未点头答应！",
+          "url": "https://www.cls.cn/detail/2350106",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时53分 ~ 14时08分]"
+        },
+        {
+          "title": "特朗普：延长停火极不可能 在达成“协议”前不会解除对伊朗的封锁",
+          "url": "https://www.cls.cn/detail/2350029",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            7,
+            5,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时11分 ~ 14时08分]"
+        },
+        {
           "title": "特朗普：美军武力拦截并控制一艘伊朗货船",
           "url": "https://news.ifeng.com/c/8sSpivPG8Fy",
           "source": "凤凰网",
@@ -53,50 +79,38 @@
           "time_info": "[01时13分 ~ 02时36分]"
         },
         {
-          "title": "特朗普：延长停火极不可能 在达成“协议”前不会解除对伊朗的封锁",
-          "url": "https://www.cls.cn/detail/2350029",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时11分 ~ 11时54分]"
-        },
-        {
-          "title": "美伊停火倒计时？特朗普敲定21日“二轮谈判”，伊朗仍未点头答应！",
-          "url": "https://www.cls.cn/detail/2350106",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时53分 ~ 11时54分]"
-        },
-        {
-          "title": "民调：特朗普支持率创第二任期内新低",
-          "url": "https://www.toutiao.com/trending/7630352961877655571/",
-          "source": "今日头条",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时53分 ~ 11时54分]"
-        },
-        {
           "title": "“自满”的投资者小心了：伊朗不是特朗普能指挥的",
           "url": "https://flash.jin10.com/detail/20260421112750416800",
           "source": "金十数据",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时54分"
+        },
+        {
+          "title": "特朗普称21日美伊谈判、如未达成协议“几无可能”延长停火，伊朗最高领袖重申三大立场",
+          "url": "https://wallstreetcn.com/articles/3770427",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时53分 ~ 14时08分]"
+        },
+        {
+          "title": "特朗普撇清：以色列可说不动我",
+          "url": "https://news.ifeng.com/c/8sUslKZt0DW",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时08分"
         },
         {
           "title": "伊朗首席谈判代表：美国总统特朗普正试图将谈判桌变成“投降桌”。",
@@ -127,9 +141,21 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时54分"
+        },
+        {
+          "title": "民调：特朗普支持率创第二任期内新低",
+          "url": "https://www.toutiao.com/trending/7630352961877655571/",
+          "source": "今日头条",
+          "ranks": [
+            5,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时53分 ~ 14时08分]"
         },
         {
           "title": "万斯将推迟与伊朗的谈判至周二，与特朗普所言相悖",
@@ -192,15 +218,15 @@
           "time_info": "[06时11分 ~ 07时12分]"
         },
         {
-          "title": "特朗普称21日美伊谈判、如未达成协议“几无可能”延长停火，伊朗最高领袖重申三大立场",
-          "url": "https://wallstreetcn.com/articles/3770427",
-          "source": "华尔街见闻",
+          "title": "特朗普：伊朗将进行谈判，希望双方能够达成“公平协议”",
+          "url": "https://news.ifeng.com/c/8sUsyyCLV6x",
+          "source": "凤凰网",
           "ranks": [
-            6
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时53分 ~ 11时54分]"
+          "appearance_count": 3,
+          "time_info": "[11时53分 ~ 14时08分]"
         },
         {
           "title": "特朗普威胁停火到期将开炸",
@@ -212,17 +238,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时11分 ~ 07时12分]"
-        },
-        {
-          "title": "特朗普：伊朗将进行谈判，希望双方能够达成“公平协议”",
-          "url": "https://news.ifeng.com/c/8sUsyyCLV6x",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时53分 ~ 11时54分]"
         },
         {
           "title": "美国总统特朗普“重申”：如果不达成伊朗协议，美军就不会解除对霍尔木兹海峡的封锁。 封锁正在摧毁伊朗。",
@@ -293,6 +308,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时11分"
+        },
+        {
+          "title": "美伊局势会如何演绎？特朗普面前有五条路 最危险的通往200美元油价！",
+          "url": "https://www.cls.cn/detail/2350258",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时08分"
         },
         {
           "title": "伊朗议长：特朗普妄图将谈判桌变成投降桌",
@@ -400,7 +426,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时54分"
         },
@@ -433,7 +459,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时54分"
         },
@@ -447,6 +473,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时26分"
+        },
+        {
+          "title": "特朗普称美方从伊朗被炸核设施挖取浓缩铀“漫长且艰难”",
+          "url": "https://wallstreetcn.com/livenews/3091534",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时08分"
         },
         {
           "title": "美国白宫：美国总统特朗普签署与煤炭供应链相关的备忘录。",
@@ -463,7 +500,7 @@
     },
     {
       "keyword_group": "台湾",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
         {
           "title": "媒体评日本军舰穿越台湾海峡",
@@ -473,11 +510,12 @@
             17,
             16,
             13,
-            10
+            10,
+            15
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时13分 ~ 11时54分]"
+          "appearance_count": 12,
+          "time_info": "[01时13分 ~ 14时08分]"
         },
         {
           "title": "2名中国台湾游客在日本坠机身亡",
@@ -493,6 +531,28 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时13分 ~ 08时09分]"
+        },
+        {
+          "title": "中国台湾证交所加权股价指数收高1.7%报37,605.11点。",
+          "url": "https://wallstreetcn.com/livenews/3091551",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时08分"
+        },
+        {
+          "title": "“大陆各省都有春晚 就差台湾了”",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E5%A4%A7%E9%99%86%E5%90%84%E7%9C%81%E9%83%BD%E6%9C%89%E6%98%A5%E6%99%9A+%E5%B0%B1%E5%B7%AE%E5%8F%B0%E6%B9%BE%E4%BA%86%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时08分"
         }
       ]
     },
