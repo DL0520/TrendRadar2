@@ -1,134 +1,77 @@
 {
-  "generated_at": "2026-04-23T22:02:29.304118+08:00",
-  "total_titles_processed": 1617,
+  "generated_at": "2026-04-24T01:55:15.477153+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 69,
+      "match_count": 19,
       "titles": [
-        {
-          "title": "特朗普延长与伊朗停火，外交部回应",
-          "url": "https://news.ifeng.com/c/8sX5InWbAM4",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时14分 ~ 07时53分]"
-        },
-        {
-          "title": "据称特朗普将再给伊朗3至5天停火时间",
-          "url": "https://www.cls.cn/detail/2352682",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时14分 ~ 07时53分]"
-        },
         {
           "title": "特朗普称最快周五或重启美伊和谈，伊朗称他“又说谎”，以媒称停火期26日结束",
           "url": "https://wallstreetcn.com/articles/3770634",
           "source": "华尔街见闻",
           "ranks": [
-            9,
-            7,
-            5,
-            3
+            2
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[03时24分 ~ 22时02分]"
+          "appearance_count": 2,
+          "time_info": "[01时54分 ~ 01时55分]"
         },
         {
           "title": "特朗普称“没有结束时间表”，美伊开启“懦夫博弈”，代价是全球经济",
           "url": "https://wallstreetcn.com/articles/3770662",
           "source": "华尔街见闻",
           "ranks": [
-            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时54分 ~ 01时55分]"
+        },
+        {
+          "title": "特朗普：已下令美海军击沉任何在霍尔木兹海峡布雷的船只",
+          "url": "https://www.cls.cn/detail/2354007",
+          "source": "财联社热门",
+          "ranks": [
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时53分 ~ 22时02分]"
+          "appearance_count": 2,
+          "time_info": "[01时54分 ~ 01时55分]"
         },
         {
-          "title": "“特朗普总是临阵脱逃”：TACO背后的股市反常繁荣和内幕交易争议",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33019660",
-          "source": "澎湃新闻",
+          "title": "美国总统特朗普：感谢海军部长John Phelan。",
+          "url": "https://wallstreetcn.com/livenews/3093453",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            2,
-            3,
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时55分"
+        },
+        {
+          "title": "现货黄金5分钟内上涨5.11美元/盎司，报4711.46美元/盎司。 WTI原油5分钟内上涨0.54美元/桶，报96.87美元/桶。 据Axios报道，美国官员称，总统特朗普即将祝贺以色列大使和黎巴嫩大使。",
+          "url": "https://wallstreetcn.com/livenews/3093452",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时55分"
+        },
+        {
+          "title": "特朗普下令击沉任何在霍尔木兹布雷船，伊朗据称制定反击方案、议长辞去谈判团队职务",
+          "url": "https://wallstreetcn.com/articles/3770720",
+          "source": "华尔街见闻",
+          "ranks": [
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时14分 ~ 06时56分]"
-        },
-        {
-          "title": "伊朗战争丨限制特朗普战争权力议案第5次遭否决",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时05分 ~ 19时42分]"
-        },
-        {
-          "title": "释新闻｜特朗普TACO实录：嘴硬说要打伊朗，身体又按了暂停键",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33025797",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            17,
-            13,
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时14分 ~ 16时06分]"
-        },
-        {
-          "title": "最后时刻反转！伊朗拒绝谈判，特朗普宣布延长停火，维持海上封锁等待伊朗提交方案",
-          "url": "https://wallstreetcn.com/articles/3770539",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时14分 ~ 04时32分]"
-        },
-        {
-          "title": "伊朗：特朗普又说谎了",
-          "url": "https://news.ifeng.com/c/8sXbZA8ZMyL",
-          "source": "凤凰网",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时28分 ~ 18时08分]"
-        },
-        {
-          "title": "特朗普延长对伊朗停火 美股三大期指小幅上涨 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2352533",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时14分 ~ 07时53分]"
+          "appearance_count": 2,
+          "time_info": "[01时54分 ~ 01时55分]"
         },
         {
           "title": "乌官员建议给部分顿巴斯地区改名“特朗普地”",
@@ -138,438 +81,52 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时28分 ~ 22时02分]"
-        },
-        {
-          "title": "伊朗战争丨特朗普：何时结束冲突，目前没有时间表",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时55分 ~ 07时53分]"
-        },
-        {
-          "title": "【早报】 白宫：特朗普未就与伊朗停火延长设最后期限；美股、油价、金价同步上涨",
-          "url": "https://www.cls.cn/detail/2352894",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时53分 ~ 13时53分]"
-        },
-        {
-          "title": "伊朗战争丨伊朗否认举行美伊新谈判：特朗普又说谎了",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时14分 ~ 01时35分]"
-        },
-        {
-          "title": "伊朗战争丨白宫：特朗普未就停火延长设最后期限",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时32分 ~ 05时56分]"
-        },
-        {
-          "title": "美伊局势追踪：特朗普放出“和谈时间表”又被拒 伊朗方面态度强硬",
-          "url": "https://www.cls.cn/detail/2352936",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时28分 ~ 16时06分]"
-        },
-        {
-          "title": "美媒：特朗普再给伊朗3至5天停火时间",
-          "url": "https://news.ifeng.com/c/8sXS8jC94HP",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时14分 ~ 01时35分]"
-        },
-        {
-          "title": "伊朗战争丨以媒：特朗普设定对伊停火期限26日结束",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时24分"
-        },
-        {
-          "title": "伊朗战争丨特朗普：伊朗159艘海军舰艇均已沉入海底",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时02分"
-        },
-        {
-          "title": "据耶路撒冷邮报：以色列官员已接到美方官员通报，特朗普政府已将停火谈判的最后期限延长至周日。",
-          "url": "https://flash.jin10.com/detail/20260423011502024800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时35分"
-        },
-        {
-          "title": "美国总统特朗普：“在理智和常识问题上，你不能妥协！”",
-          "url": "https://flash.jin10.com/detail/20260423025533427800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时24分"
+          "time_info": "[01时54分 ~ 01时55分]"
         },
         {
           "title": "观察｜我们选取了特朗普的50篇战时“小作文”，语言学家这样解码",
           "url": "https://m.thepaper.cn/newsDetail_forward_33028669",
           "source": "澎湃新闻",
           "ranks": [
-            17,
-            13,
             9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时05分 ~ 22时02分]"
-        },
-        {
-          "title": "沃什听证会强调美联储独立性，称绝不会成为特朗普的“提线木偶”，从未被要求作出降息承诺",
-          "url": "https://wallstreetcn.com/articles/3770525",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时14分"
-        },
-        {
-          "title": "据伊朗司法机构旗下网站Mizan News：伊朗否认特朗普关于停止处决女性囚犯的说法。",
-          "url": "https://flash.jin10.com/detail/20260423024809258800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时24分"
-        },
-        {
-          "title": "特朗普、白宫均否认就停火延长设最后期限",
-          "url": "https://flash.jin10.com/detail/20260423052013555800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时56分"
-        },
-        {
-          "title": "特朗普认同，无需达成协议也能从伊朗获得他想要的东西。",
-          "url": "https://wallstreetcn.com/livenews/3093347",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时02分"
-        },
-        {
-          "title": "特朗普：何时结束同伊朗冲突目前“没有时间表”",
-          "url": "https://wallstreetcn.com/livenews/3092859",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时56分"
-        },
-        {
-          "title": "“特朗普说什么都没用” 德黑兰挂起巨幅海报宣告“永久控制”霍尔木兹海峡",
-          "url": "https://wallstreetcn.com/livenews/3093344",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时02分"
-        },
-        {
-          "title": "卢拉讽刺：快给特朗普颁诺贝尔奖，这样就不用生活在战争中了",
-          "url": "https://news.ifeng.com/c/8sXQUmwnG6C",
-          "source": "凤凰网",
-          "ranks": [
-            11,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时53分 ~ 16时06分]"
-        },
-        {
-          "title": "五角大楼：美国海军部长John Phelan退出总统特朗普的政府，将由副部长Hung Cao接替。",
-          "url": "https://wallstreetcn.com/livenews/3092860",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            30
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[05时56分 ~ 06时56分]"
+          "time_info": "[01时54分 ~ 01时55分]"
+        },
+        {
+          "title": "伊朗挂巨幅海报：特朗普说什么都没用",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%8C%82%E5%B7%A8%E5%B9%85%E6%B5%B7%E6%8A%A5%EF%BC%9A%E7%89%B9%E6%9C%97%E6%99%AE%E8%AF%B4%E4%BB%80%E4%B9%88%E9%83%BD%E6%B2%A1%E7%94%A8",
+          "source": "百度热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时54分 ~ 01时55分]"
+        },
+        {
+          "title": "内幕交易疑云再起？特朗普宣布延长停火前 神秘资金精准做空原油",
+          "url": "https://www.cls.cn/detail/2353470",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时54分 ~ 01时55分]"
         },
         {
           "title": "英媒：特朗普特使要求国际足联用意大利替换伊朗参加世界杯",
           "url": "https://m.thepaper.cn/newsDetail_forward_33033905",
           "source": "澎湃新闻",
           "ranks": [
-            20,
-            16,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时07分 ~ 22时02分]"
-        },
-        {
-          "title": "特朗普称不延长停火，威胁恢复轰炸伊朗，消息称伊不会参加22日谈判，万斯推迟赴会",
-          "url": "https://wallstreetcn.com/articles/3770527",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时14分 ~ 03时24分]"
-        },
-        {
-          "title": "美国参议院Graham：今天与总统特朗普和战争部长海格塞斯讨论了伊朗问题。",
-          "url": "https://wallstreetcn.com/livenews/3092740",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时14分 ~ 01时35分]"
-        },
-        {
-          "title": "特朗普：何时结束同伊朗冲突目前“没有时间表”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33032152",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时28分 ~ 13时53分]"
-        },
-        {
-          "title": "John Phelan已经从美国海军部长岗位被（特朗普政府）免职。（福克斯新闻）",
-          "url": "https://wallstreetcn.com/livenews/3092875",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时56分 ~ 07时53分]"
-        },
-        {
-          "title": "美国内政部长Burgum：特朗普针对布雷船只的命令并非事态升级。",
-          "url": "https://wallstreetcn.com/livenews/3093343",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时02分"
-        },
-        {
-          "title": "伊朗否认举行美伊新谈判：特朗普又说谎了",
-          "url": "https://news.ifeng.com/c/8sXbZA8ZMyL",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时53分"
-        },
-        {
-          "title": "美国总统特朗普很快将重新归类大麻。（Axios）",
-          "url": "https://wallstreetcn.com/livenews/3092739",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时14分"
-        },
-        {
-          "title": "SpaceX参与开发美国总统特朗普所谓“金穹”反导系统的操作系统。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3092793",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时24分"
-        },
-        {
-          "title": "美国内政部长伯古姆：美国总统特朗普关于对布设水雷船只采取行动的命令并非升级。",
-          "url": "https://flash.jin10.com/detail/20260423212550093800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时02分"
-        },
-        {
-          "title": "特朗普宣称已“彻底封锁”霍尔木兹海峡 直至伊朗愿达成协议",
-          "url": "https://wallstreetcn.com/livenews/3093337",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时02分"
-        },
-        {
-          "title": "【以媒：特朗普设定对伊朗停火期限26日结束】以色列媒体22日报道说，以方已从美国方面获悉，美国总统特朗普就延长对伊朗停火所设定的期限将于26日到期。（新华社）",
-          "url": "https://wallstreetcn.com/livenews/3092789",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时24分"
-        },
-        {
-          "title": "特朗普深夜连续转发帖文 涉及伊朗和国内选举",
-          "url": "https://flash.jin10.com/detail/20260423111114278800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时28分"
-        },
-        {
-          "title": "伊朗否认举行美伊新谈判，指特朗普“又说谎了”",
-          "url": "https://wallstreetcn.com/livenews/3092734",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时14分"
-        },
-        {
-          "title": "特朗普：我们完全控制霍尔木兹海峡。 在伊朗达成协议之前，霍尔木兹海峡将严密封锁。 未经美国批准，任何船只不得进出霍尔木兹海峡。 伊朗正艰难地试图搞清楚谁是领导人。",
-          "url": "https://wallstreetcn.com/livenews/3093333",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时02分"
-        },
-        {
-          "title": "特朗普下令击沉霍尔木兹布雷船",
-          "url": "https://www.toutiao.com/trending/7631748432839770138/",
-          "source": "今日头条",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时02分"
-        },
-        {
-          "title": "以媒：特朗普设定对伊朗停火期限26日结束",
-          "url": "https://flash.jin10.com/detail/20260423021525008800",
-          "source": "金十数据",
-          "ranks": [
             15
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时24分"
-        },
-        {
-          "title": "特朗普：霍尔木兹海峡被“紧紧封闭”，直到伊朗能够达成协议为止！",
-          "url": "https://flash.jin10.com/detail/20260423211914891800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时02分"
-        },
-        {
-          "title": "报道：特朗普特使企图寻求在世界杯中用意大利取代伊朗",
-          "url": "https://wallstreetcn.com/livenews/3092848",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时56分"
+          "appearance_count": 2,
+          "time_info": "[01时54分 ~ 01时55分]"
         },
         {
           "title": "特朗普称何时结束同伊朗冲突没有时间表，美军已指令 29 艘船只掉头或返回伊朗港口，特朗普表态为何如此反复？",
@@ -578,469 +135,121 @@
           "ranks": [
             15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时02分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时54分 ~ 01时55分]"
         },
         {
-          "title": "否认设限、否认三天窗口期，特朗普与白宫均称：停火延长无硬性最后期限",
-          "url": "https://flash.jin10.com/detail/20260423065238414800",
-          "source": "金十数据",
+          "title": "乌克兰提议以特朗普命名争议区域",
+          "url": "https://www.toutiao.com/trending/7631221261339902006/",
+          "source": "今日头条",
           "ranks": [
-            16
+            24,
+            29
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时53分"
+          "appearance_count": 2,
+          "time_info": "[01时54分 ~ 01时55分]"
         },
         {
-          "title": "特朗普称下令击沉霍尔木兹布雷船",
-          "url": "https://wallstreetcn.com/livenews/3093326",
+          "title": "据美国官员透露，该国总统特朗普并不急于重启战争，但可能别无选择。（以色列第12频道）",
+          "url": "https://wallstreetcn.com/livenews/3093449",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            16
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时02分"
+          "time_info": "01时55分"
         },
         {
-          "title": "美国总统特朗普：我们已完全控制霍尔木兹海峡，未经美国海军批准，任何船只都无法进出。在伊朗达成协议之前，该海峡将被“严密封锁”。",
-          "url": "https://flash.jin10.com/detail/20260423211645142800",
+          "title": "据Axios记者：根据一位美国高级官员的说法，特朗普总统将参加今晚在白宫举行的以色列与黎巴嫩大使会晤的部分环节。",
+          "url": "https://flash.jin10.com/detail/20260424012505533800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时55分"
+        },
+        {
+          "title": "据以色列第12频道援引美国官员的话称，特朗普并不急于重启战争，但可能别无选择。",
+          "url": "https://flash.jin10.com/detail/20260424011813220800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时55分"
+        },
+        {
+          "title": "伊朗挂巨幅海报隔空硬刚：特朗普说什么都没用！",
+          "url": "https://wallstreetcn.com/livenews/3093441",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时55分"
+        },
+        {
+          "title": "据阿拉伯卫星电视台：特朗普将出席在华盛顿举行的黎巴嫩与以色列大使之间的会晤。",
+          "url": "https://flash.jin10.com/detail/20260424010114827800",
           "source": "金十数据",
           "ranks": [
             17
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时02分"
+          "time_info": "01时55分"
         },
         {
-          "title": "美国总统特朗普：伊朗在确定领导人方面面临很大困难。他们根本无法形成共识，内部斗争正在“强硬派”与“温和派”之间展开。",
-          "url": "https://flash.jin10.com/detail/20260423211605502800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时02分"
-        },
-        {
-          "title": "美国检察官：特朗普的司法部不会放弃对美联储的调查，将就阻止鲍威尔传票的法官命令提起上诉",
-          "url": "https://wallstreetcn.com/livenews/3093023",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时28分"
-        },
-        {
-          "title": "【白宫：特朗普未就与伊朗停火延长设最后期限】美国白宫新闻秘书莱维特22日对媒体表示，美总统特朗普未就与伊朗停火的延长时间设定最后期限，希望伊朗方面就美方提议作出“意见一致”的回复。（新华社）",
-          "url": "https://wallstreetcn.com/livenews/3092818",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时32分"
-        },
-        {
-          "title": "白宫顾问哈塞特声称：非常相信美国参议院将针对美联储主席提名人沃什做正确的事（投票确认他的提名资格）。 总统特朗普希望沃什很快就能前往美联储就职。",
-          "url": "https://wallstreetcn.com/livenews/3092842",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时56分"
-        },
-        {
-          "title": "限制特朗普战争权力议案第五次遭美参议院否决",
-          "url": "https://flash.jin10.com/detail/20260423130400036800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时53分"
-        },
-        {
-          "title": "特朗普政府股权收购热潮总额逼近210亿美元",
-          "url": "https://wallstreetcn.com/livenews/3092775",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时24分"
-        },
-        {
-          "title": "国际油价短线拉升，此前特朗普命令海军向在霍尔木兹海峡布雷的船只开火",
-          "url": "https://wallstreetcn.com/livenews/3093320",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时02分"
-        },
-        {
-          "title": "美国总统特朗普：参议院共和党领袖图恩和参议员格雷厄姆已迈出关键第一步，推动通过另一项“和解法案”，该法案旨在为我们的伟大边境巡逻队和移民及海关执法局人员提供资金。",
-          "url": "https://flash.jin10.com/detail/20260423014423775800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时24分"
-        },
-        {
-          "title": "美国总统特朗普：共和党必须团结一致，推动和解法案的通过。",
-          "url": "https://flash.jin10.com/detail/20260423014314020800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时24分"
-        },
-        {
-          "title": "特朗普：我们的扫雷舰现在正在清理海峡。 已下令海军向任何在霍尔木兹海峡布雷的船只开火。 已下令将霍尔木兹海峡的扫雷力量增至“三倍”水平。",
-          "url": "https://wallstreetcn.com/livenews/3093317",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时02分"
-        },
-        {
-          "title": "白宫：特朗普尚未设定与伊朗停火的最后期限",
-          "url": "https://flash.jin10.com/detail/20260423033707983800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时32分"
-        },
-        {
-          "title": "白宫：特朗普认为伊朗扣押船只并不违反停火",
-          "url": "https://flash.jin10.com/detail/20260423033515495800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时32分"
-        },
-        {
-          "title": "白宫新闻秘书Leavitt：美方截获伊朗船只并不构成违反停火协议。 主动权掌握在美国总统特朗普手中，美国仍然掌控着局势。 由于停火时间延长，特朗普拥有灵活性。",
-          "url": "https://wallstreetcn.com/livenews/3092809",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时32分"
-        },
-        {
-          "title": "白宫新闻秘书Leavitt：伊朗无法发出统一的意见。 我们等待伊朗的回应。 伊朗领导层内部存在很多分歧。 特朗普尚未针对伊朗提议设定明确的期限。 美国很清楚和伊朗的哪位谈判。 3-5天的停火时间线是不实的。 伊朗公开说的“胡话”与我们私底下听到的不一样。",
-          "url": "https://wallstreetcn.com/livenews/3092808",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时32分"
-        },
-        {
-          "title": "特朗普或将重新分类大麻，大麻股应声飙升",
-          "url": "https://wallstreetcn.com/livenews/3092739",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时35分"
-        },
-        {
-          "title": "美国总统特朗普预计伊朗外长阿拉格齐将继续参与伊朗谈判。（福克斯新闻）",
-          "url": "https://wallstreetcn.com/livenews/3092804",
-          "source": "华尔街见闻-快讯",
+          "title": "加拿大前总理特鲁多炮轰特朗普政府",
+          "url": "https://www.toutiao.com/trending/7631877586545082410/",
+          "source": "今日头条",
           "ranks": [
             30
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时32分"
+          "time_info": "01时55分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "Claude",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "Anthropic对那些可以连接Claude的扩容。",
+          "url": "https://wallstreetcn.com/livenews/3093450",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时55分"
         }
       ]
     },
     {
       "keyword_group": "稀土",
-      "match_count": 7,
+      "match_count": 1,
       "titles": [
         {
           "title": "稀土公司副总向境外泄露7项国家秘密，国安部披露详情",
           "url": "https://m.thepaper.cn/newsDetail_forward_33032318",
           "source": "澎湃新闻",
           "ranks": [
-            19,
-            17,
-            13,
-            12,
-            9,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时28分 ~ 22时02分]"
-        },
-        {
-          "title": "稀土公司副总向境外泄露7项国家秘密",
-          "url": "https://www.toutiao.com/trending/7631724075135553070/",
-          "source": "今日头条",
-          "ranks": [
-            4,
-            9,
-            15,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时28分 ~ 18时08分]"
-        },
-        {
-          "title": "稀土公司副总向境外泄露7项国家秘密",
-          "url": "https://www.baidu.com/s?wd=%E7%A8%80%E5%9C%9F%E5%85%AC%E5%8F%B8%E5%89%AF%E6%80%BB%E5%90%91%E5%A2%83%E5%A4%96%E6%B3%84%E9%9C%B27%E9%A1%B9%E5%9B%BD%E5%AE%B6%E7%A7%98%E5%AF%86",
-          "source": "百度热搜",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时28分"
-        },
-        {
-          "title": "稀土公司副总向境外泄露7项国家秘密 国家安全部披露详情",
-          "url": "https://wallstreetcn.com/livenews/3092905",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时53分"
-        },
-        {
-          "title": "稀土公司副总向境外泄露7项国家秘密 国家安全部披露详情",
-          "url": "https://www.cls.cn/detail/2352903",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时28分 ~ 16时06分]"
-        },
-        {
-          "title": "稀土公司副总向境外泄露7项国家秘密",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%A8%80%E5%9C%9F%E5%85%AC%E5%8F%B8%E5%89%AF%E6%80%BB%E5%90%91%E5%A2%83%E5%A4%96%E6%B3%84%E9%9C%B27%E9%A1%B9%E5%9B%BD%E5%AE%B6%E7%A7%98%E5%AF%86%23&t=31&band_rank=18&Refer=top",
-          "source": "微博",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时28分"
-        },
-        {
-          "title": "A股稀土、有色板块震荡下挫，中稀有色跌停，英思特跌超10%，章源钨业、翔鹭钨业、盛达资源、中国稀土等跌超6%。",
-          "url": "https://wallstreetcn.com/livenews/3092986",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时28分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "台湾",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "国台办：统一是台湾唯一前途",
-          "url": "https://www.toutiao.com/trending/7631419470229032475/",
-          "source": "今日头条",
-          "ranks": [
-            19,
-            24,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时14分 ~ 11时28分]"
-        },
-        {
-          "title": "中国台湾证交所加权股价指数收低0.4%报37,714.15点。",
-          "url": "https://wallstreetcn.com/livenews/3093076",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时53分"
-        },
-        {
-          "title": "外籍旅客脱口而出：台湾是中国的",
-          "url": "https://www.baidu.com/s?wd=%E5%A4%96%E7%B1%8D%E6%97%85%E5%AE%A2%E8%84%B1%E5%8F%A3%E8%80%8C%E5%87%BA%EF%BC%9A%E5%8F%B0%E6%B9%BE%E6%98%AF%E4%B8%AD%E5%9B%BD%E7%9A%84",
-          "source": "百度热搜",
-          "ranks": [
-            7,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时28分 ~ 16时06分]"
-        },
-        {
-          "title": "外籍旅客脱口而出：台湾是中国的",
-          "url": "https://www.toutiao.com/trending/7630639668366966827/",
-          "source": "今日头条",
-          "ranks": [
-            8,
-            10
+            6
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[07时53分 ~ 11时28分]"
-        },
-        {
-          "title": "台湾青年登祖国军舰落泪",
-          "url": "https://www.baidu.com/s?wd=%E5%8F%B0%E6%B9%BE%E9%9D%92%E5%B9%B4%E7%99%BB%E7%A5%96%E5%9B%BD%E5%86%9B%E8%88%B0%E8%90%BD%E6%B3%AA",
-          "source": "百度热搜",
-          "ranks": [
-            19,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时42分 ~ 22时02分]"
-        },
-        {
-          "title": "台湾退役舰长吕礼诗首登解放军舰艇",
-          "url": "https://www.toutiao.com/trending/7631152304624500778/",
-          "source": "今日头条",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时42分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "谷歌云年度Next大会：TPU打破“内存墙” OCS、液冷题材如期亮相",
-          "url": "https://www.cls.cn/detail/2352843",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时53分 ~ 13时53分]"
-        },
-        {
-          "title": "ServiceNOW一季度营收37.7亿美元，分析师预期37.4亿美元。 一季度剩余待偿还债务126.4亿美元，预计将在二季度增长19%。 公司与谷歌云在AI Agents（AI智能体）领域合作。 预计全年订阅营收157.4亿-157.8亿美元，分析师预期155.4亿美元。 预计二季度订阅用户营收38.2亿美元左右，分析师预期37.5亿美元。 ServiceNOW（NOW）美股盘后重挫12.9%。",
-          "url": "https://wallstreetcn.com/livenews/3092834",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时32分 ~ 05时56分]"
-        },
-        {
-          "title": "谷歌设立7.5亿美元基金，助力咨询公司应用AI",
-          "url": "https://wallstreetcn.com/livenews/3092753",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时35分"
-        },
-        {
-          "title": "芯片股创历史上最长连涨天数，费城半导体指数初步收涨约2.7%，连续第十六个交易日走高，创1994年有数据记录以来最长连涨天数。Arm控股初步收涨11.3%，闪迪Sandisk涨8.5%，美光涨8.4%，AMD涨6.9%。 标普500指数初步收涨1%，科技板块涨2.1%，电信、能源板块涨超1%，房地产板块跌0.8%。 纳斯达克100指数初步收涨1.7%，成分股中，Arm控股初步收涨11.3%，Strategy涨9.3%，闪迪Sandisk涨8.5%，美光涨8.4%，达芬奇手术机器人涨7%，AMD涨6.9%，谷歌A涨2.1%，Workday则收跌2.2%，T-Mobile跌3.3%，路透跌4.1%，Booking跌6.4%。",
-          "url": "https://wallstreetcn.com/livenews/3092822",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时32分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "Claude",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "微软(MSFT.O)：计划将Claude Mythos预览版等先进人工智能模型直接纳入安全开发生命周期。",
-          "url": "https://flash.jin10.com/detail/20260423010140775800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时35分"
-        },
-        {
-          "title": "微软：与Anthropic和行业合作伙伴们密切合作。 我们正在测试Anthropic旗下Claude AI模型Mythos的概览。 利用CTI-Realm评估Mythos。 将在安全开发生命周期内应用Mythos。",
-          "url": "https://wallstreetcn.com/livenews/3092771",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时24分"
+          "time_info": "[01时54分 ~ 01时55分]"
         }
       ]
     }
