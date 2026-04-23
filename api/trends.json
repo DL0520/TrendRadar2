@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-23T19:42:27.240611+08:00",
-  "total_titles_processed": 1485,
+  "generated_at": "2026-04-23T22:02:29.304118+08:00",
+  "total_titles_processed": 1617,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 54,
+      "match_count": 69,
       "titles": [
         {
           "title": "特朗普延长与伊朗停火，外交部回应",
@@ -41,8 +41,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[03时24分 ~ 19时42分]"
+          "appearance_count": 14,
+          "time_info": "[03时24分 ~ 22时02分]"
+        },
+        {
+          "title": "特朗普称“没有结束时间表”，美伊开启“懦夫博弈”，代价是全球经济",
+          "url": "https://wallstreetcn.com/articles/3770662",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时53分 ~ 22时02分]"
         },
         {
           "title": "“特朗普总是临阵脱逃”：TACO背后的股市反常繁荣和内幕交易争议",
@@ -56,18 +68,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时14分 ~ 06时56分]"
-        },
-        {
-          "title": "特朗普称“没有结束时间表”，美伊开启“懦夫博弈”，代价是全球经济",
-          "url": "https://wallstreetcn.com/articles/3770662",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时53分 ~ 19时42分]"
         },
         {
           "title": "伊朗战争丨限制特朗普战争权力议案第5次遭否决",
@@ -131,6 +131,17 @@
           "time_info": "[00时14分 ~ 07时53分]"
         },
         {
+          "title": "乌官员建议给部分顿巴斯地区改名“特朗普地”",
+          "url": "https://news.ifeng.com/c/8sYPEJGNmH6",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[11时28分 ~ 22时02分]"
+        },
+        {
           "title": "伊朗战争丨特朗普：何时结束冲突，目前没有时间表",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
           "source": "凤凰网",
@@ -152,17 +163,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[07时53分 ~ 13时53分]"
-        },
-        {
-          "title": "乌官员建议给部分顿巴斯地区改名“特朗普地”",
-          "url": "https://news.ifeng.com/c/8sYPEJGNmH6",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时28分 ~ 19时42分]"
         },
         {
           "title": "伊朗战争丨伊朗否认举行美伊新谈判：特朗普又说谎了",
@@ -221,6 +221,17 @@
           "time_info": "03时24分"
         },
         {
+          "title": "伊朗战争丨特朗普：伊朗159艘海军舰艇均已沉入海底",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时02分"
+        },
+        {
           "title": "据耶路撒冷邮报：以色列官员已接到美方官员通报，特朗普政府已将停火谈判的最后期限延长至周日。",
           "url": "https://flash.jin10.com/detail/20260423011502024800",
           "source": "金十数据",
@@ -241,6 +252,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时24分"
+        },
+        {
+          "title": "观察｜我们选取了特朗普的50篇战时“小作文”，语言学家这样解码",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33028669",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            13,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时05分 ~ 22时02分]"
         },
         {
           "title": "沃什听证会强调美联储独立性，称绝不会成为特朗普的“提线木偶”，从未被要求作出降息承诺",
@@ -276,6 +300,17 @@
           "time_info": "05时56分"
         },
         {
+          "title": "特朗普认同，无需达成协议也能从伊朗获得他想要的东西。",
+          "url": "https://wallstreetcn.com/livenews/3093347",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时02分"
+        },
+        {
           "title": "特朗普：何时结束同伊朗冲突目前“没有时间表”",
           "url": "https://wallstreetcn.com/livenews/3092859",
           "source": "华尔街见闻-快讯",
@@ -285,6 +320,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时56分"
+        },
+        {
+          "title": "“特朗普说什么都没用” 德黑兰挂起巨幅海报宣告“永久控制”霍尔木兹海峡",
+          "url": "https://wallstreetcn.com/livenews/3093344",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时02分"
         },
         {
           "title": "卢拉讽刺：快给特朗普颁诺贝尔奖，这样就不用生活在战争中了",
@@ -299,18 +345,6 @@
           "time_info": "[07时53分 ~ 16时06分]"
         },
         {
-          "title": "观察｜我们选取了特朗普的50篇战时“小作文”，语言学家这样解码",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33028669",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时05分 ~ 19时42分]"
-        },
-        {
           "title": "五角大楼：美国海军部长John Phelan退出总统特朗普的政府，将由副部长Hung Cao接替。",
           "url": "https://wallstreetcn.com/livenews/3092860",
           "source": "华尔街见闻-快讯",
@@ -323,6 +357,19 @@
           "time_info": "[05时56分 ~ 06时56分]"
         },
         {
+          "title": "英媒：特朗普特使要求国际足联用意大利替换伊朗参加世界杯",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33033905",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            16,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时07分 ~ 22时02分]"
+        },
+        {
           "title": "特朗普称不延长停火，威胁恢复轰炸伊朗，消息称伊不会参加22日谈判，万斯推迟赴会",
           "url": "https://wallstreetcn.com/articles/3770527",
           "source": "华尔街见闻",
@@ -333,18 +380,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时14分 ~ 03时24分]"
-        },
-        {
-          "title": "英媒：特朗普特使要求国际足联用意大利替换伊朗参加世界杯",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33033905",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时07分 ~ 19时42分]"
         },
         {
           "title": "美国参议院Graham：今天与总统特朗普和战争部长海格塞斯讨论了伊朗问题。",
@@ -383,6 +418,17 @@
           "time_info": "[06时56分 ~ 07时53分]"
         },
         {
+          "title": "美国内政部长Burgum：特朗普针对布雷船只的命令并非事态升级。",
+          "url": "https://wallstreetcn.com/livenews/3093343",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时02分"
+        },
+        {
           "title": "伊朗否认举行美伊新谈判：特朗普又说谎了",
           "url": "https://news.ifeng.com/c/8sXbZA8ZMyL",
           "source": "凤凰网",
@@ -414,6 +460,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时24分"
+        },
+        {
+          "title": "美国内政部长伯古姆：美国总统特朗普关于对布设水雷船只采取行动的命令并非升级。",
+          "url": "https://flash.jin10.com/detail/20260423212550093800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时02分"
+        },
+        {
+          "title": "特朗普宣称已“彻底封锁”霍尔木兹海峡 直至伊朗愿达成协议",
+          "url": "https://wallstreetcn.com/livenews/3093337",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时02分"
         },
         {
           "title": "【以媒：特朗普设定对伊朗停火期限26日结束】以色列媒体22日报道说，以方已从美国方面获悉，美国总统特朗普就延长对伊朗停火所设定的期限将于26日到期。（新华社）",
@@ -449,6 +517,28 @@
           "time_info": "00时14分"
         },
         {
+          "title": "特朗普：我们完全控制霍尔木兹海峡。 在伊朗达成协议之前，霍尔木兹海峡将严密封锁。 未经美国批准，任何船只不得进出霍尔木兹海峡。 伊朗正艰难地试图搞清楚谁是领导人。",
+          "url": "https://wallstreetcn.com/livenews/3093333",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时02分"
+        },
+        {
+          "title": "特朗普下令击沉霍尔木兹布雷船",
+          "url": "https://www.toutiao.com/trending/7631748432839770138/",
+          "source": "今日头条",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时02分"
+        },
+        {
           "title": "以媒：特朗普设定对伊朗停火期限26日结束",
           "url": "https://flash.jin10.com/detail/20260423021525008800",
           "source": "金十数据",
@@ -458,6 +548,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时24分"
+        },
+        {
+          "title": "特朗普：霍尔木兹海峡被“紧紧封闭”，直到伊朗能够达成协议为止！",
+          "url": "https://flash.jin10.com/detail/20260423211914891800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时02分"
         },
         {
           "title": "报道：特朗普特使企图寻求在世界杯中用意大利取代伊朗",
@@ -471,6 +572,17 @@
           "time_info": "05时56分"
         },
         {
+          "title": "特朗普称何时结束同伊朗冲突没有时间表，美军已指令 29 艘船只掉头或返回伊朗港口，特朗普表态为何如此反复？",
+          "url": "https://www.zhihu.com/question/2030579933127391060",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时02分"
+        },
+        {
           "title": "否认设限、否认三天窗口期，特朗普与白宫均称：停火延长无硬性最后期限",
           "url": "https://flash.jin10.com/detail/20260423065238414800",
           "source": "金十数据",
@@ -480,6 +592,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时53分"
+        },
+        {
+          "title": "特朗普称下令击沉霍尔木兹布雷船",
+          "url": "https://wallstreetcn.com/livenews/3093326",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时02分"
+        },
+        {
+          "title": "美国总统特朗普：我们已完全控制霍尔木兹海峡，未经美国海军批准，任何船只都无法进出。在伊朗达成协议之前，该海峡将被“严密封锁”。",
+          "url": "https://flash.jin10.com/detail/20260423211645142800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时02分"
+        },
+        {
+          "title": "美国总统特朗普：伊朗在确定领导人方面面临很大困难。他们根本无法形成共识，内部斗争正在“强硬派”与“温和派”之间展开。",
+          "url": "https://flash.jin10.com/detail/20260423211605502800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时02分"
         },
         {
           "title": "美国检察官：特朗普的司法部不会放弃对美联储的调查，将就阻止鲍威尔传票的法官命令提起上诉",
@@ -537,6 +682,17 @@
           "time_info": "03时24分"
         },
         {
+          "title": "国际油价短线拉升，此前特朗普命令海军向在霍尔木兹海峡布雷的船只开火",
+          "url": "https://wallstreetcn.com/livenews/3093320",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时02分"
+        },
+        {
           "title": "美国总统特朗普：参议院共和党领袖图恩和参议员格雷厄姆已迈出关键第一步，推动通过另一项“和解法案”，该法案旨在为我们的伟大边境巡逻队和移民及海关执法局人员提供资金。",
           "url": "https://flash.jin10.com/detail/20260423014423775800",
           "source": "金十数据",
@@ -557,6 +713,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时24分"
+        },
+        {
+          "title": "特朗普：我们的扫雷舰现在正在清理海峡。 已下令海军向任何在霍尔木兹海峡布雷的船只开火。 已下令将霍尔木兹海峡的扫雷力量增至“三倍”水平。",
+          "url": "https://wallstreetcn.com/livenews/3093317",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时02分"
         },
         {
           "title": "白宫：特朗普尚未设定与伊朗停火的最后期限",
@@ -631,6 +798,22 @@
       "match_count": 7,
       "titles": [
         {
+          "title": "稀土公司副总向境外泄露7项国家秘密，国安部披露详情",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33032318",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            17,
+            13,
+            12,
+            9,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[11时28分 ~ 22时02分]"
+        },
+        {
           "title": "稀土公司副总向境外泄露7项国家秘密",
           "url": "https://www.toutiao.com/trending/7631724075135553070/",
           "source": "今日头条",
@@ -643,21 +826,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[11时28分 ~ 18时08分]"
-        },
-        {
-          "title": "稀土公司副总向境外泄露7项国家秘密，国安部披露详情",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33032318",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            17,
-            13,
-            12,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时28分 ~ 19时42分]"
         },
         {
           "title": "稀土公司副总向境外泄露7项国家秘密",
@@ -775,11 +943,12 @@
           "url": "https://www.baidu.com/s?wd=%E5%8F%B0%E6%B9%BE%E9%9D%92%E5%B9%B4%E7%99%BB%E7%A5%96%E5%9B%BD%E5%86%9B%E8%88%B0%E8%90%BD%E6%B3%AA",
           "source": "百度热搜",
           "ranks": [
-            19
+            19,
+            16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时42分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时42分 ~ 22时02分]"
         },
         {
           "title": "台湾退役舰长吕礼诗首登解放军舰艇",
@@ -788,7 +957,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时42分"
         }
