@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-25T17:02:44.862297+08:00",
-  "total_titles_processed": 1060,
+  "generated_at": "2026-04-25T18:12:57.938397+08:00",
+  "total_titles_processed": 1127,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 42,
+      "match_count": 43,
       "titles": [
         {
           "title": "特朗普重申对伊朗“已大赢特赢”，黎以停火将延长三周，以媒称“伊朗议长已从谈判小组辞职”，伊朗否认内部分裂",
@@ -32,6 +32,21 @@
           "time_info": "[00时34分 ~ 07时10分]"
         },
         {
+          "title": "美伊谈判有望？伊朗外长访巴与调解方谈、暂无与美会谈日程，特朗普特使周六赴巴",
+          "url": "https://wallstreetcn.com/articles/3770826",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5,
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[07时10分 ~ 18时12分]"
+        },
+        {
           "title": "特朗普的嘴，开了挂了",
           "url": "https://news.ifeng.com/c/8sZpiNBhf3l",
           "source": "凤凰网",
@@ -52,21 +67,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时34分 ~ 07时10分]"
-        },
-        {
-          "title": "美伊谈判有望？伊朗外长访巴与调解方谈、暂无与美会谈日程，特朗普特使周六赴巴",
-          "url": "https://wallstreetcn.com/articles/3770826",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5,
-            4,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时10分 ~ 17时02分]"
         },
         {
           "title": "伊称谈判重心已转为彻底停战，特朗普称已“彻底封锁”霍尔木兹海峡",
@@ -133,6 +133,17 @@
           "time_info": "[07时10分 ~ 08时07分]"
         },
         {
+          "title": "特朗普，已经压不住油价了",
+          "url": "https://news.ifeng.com/c/8sbbY2vrvZn",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时41分 ~ 18时12分]"
+        },
+        {
           "title": "两年期美债收益率周五跌超5个基点，特朗普政府“暂停”司法调查改善投资者对宽松前景的预期",
           "url": "https://wallstreetcn.com/livenews/3094313",
           "source": "华尔街见闻-快讯",
@@ -159,15 +170,19 @@
           "time_info": "00时34分"
         },
         {
-          "title": "特朗普，已经压不住油价了",
-          "url": "https://news.ifeng.com/c/8sbbY2vrvZn",
-          "source": "凤凰网",
+          "title": "特朗普起诉美财政部和国税局案遭法院质疑",
+          "url": "https://wallstreetcn.com/livenews/3094328",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            9,
+            11,
+            18,
+            23,
+            28
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[11时41分 ~ 17时02分]"
+          "time_info": "[11时42分 ~ 18时12分]"
         },
         {
           "title": "特朗普发帖：只要半句话，美国就会多出1590亿美元",
@@ -256,18 +271,18 @@
           "time_info": "[00时34分 ~ 04时10分]"
         },
         {
-          "title": "特朗普起诉美财政部和国税局案遭法院质疑",
-          "url": "https://wallstreetcn.com/livenews/3094328",
-          "source": "华尔街见闻-快讯",
+          "title": "解析特朗普与教皇冲突",
+          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E6%9E%90%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8E%E6%95%99%E7%9A%87%E5%86%B2%E7%AA%81",
+          "source": "bilibili 热搜",
           "ranks": [
             9,
-            11,
-            18,
-            23
+            14,
+            10,
+            22
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[11时42分 ~ 17时02分]"
+          "time_info": "[13时52分 ~ 18时12分]"
         },
         {
           "title": "特朗普：只要半句话，美国就能省下1590亿美元",
@@ -291,19 +306,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时10分 ~ 06时12分]"
-        },
-        {
-          "title": "解析特朗普与教皇冲突",
-          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E6%9E%90%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8E%E6%95%99%E7%9A%87%E5%86%B2%E7%AA%81",
-          "source": "bilibili 热搜",
-          "ranks": [
-            9,
-            14,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时52分 ~ 17时02分]"
         },
         {
           "title": "美伊谈判有望？伊朗外长率团访巴先与调解方谈、暂不接触美方，特朗普特使周六赴巴",
@@ -494,6 +496,17 @@
           "time_info": "04时10分"
         },
         {
+          "title": "特朗普首赴白宫记者晚宴前遭媒体施压",
+          "url": "https://www.toutiao.com/trending/7631740370464866323/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时12分"
+        },
+        {
           "title": "据CNN：两名政府官员称，特朗普正派遣威特科夫和库什纳前往巴基斯坦，与伊朗外长阿拉格齐进行会谈。",
           "url": "https://flash.jin10.com/detail/20260424234800718800",
           "source": "金十数据",
@@ -516,11 +529,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时52分 ~ 17时02分]"
+          "appearance_count": 4,
+          "time_info": "[13时52分 ~ 18时12分]"
         },
         {
           "title": "美国商品期货交易委员会（CFTC）：就Coinbase与Gemini的行为起诉美国纽约。 （纽约）对“合约市场”监管过多。 纽约在预测市场领域的执法走得太远。（彭博法律Blaw）",
@@ -646,7 +660,7 @@
     },
     {
       "keyword_group": "Claude",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "Claude降智了吗",
@@ -659,8 +673,19 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时41分 ~ 17时02分]"
+          "appearance_count": 6,
+          "time_info": "[11时41分 ~ 18时12分]"
+        },
+        {
+          "title": "凌晨3点，硅谷炸锅！Anthropic源码意外泄露，51万行代码揭露Claude惊天野心",
+          "url": "https://wallstreetcn.com/articles/3770881",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时12分"
         }
       ]
     },
@@ -679,8 +704,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时34分 ~ 17时02分]"
+          "appearance_count": 14,
+          "time_info": "[00时34分 ~ 18时12分]"
         }
       ]
     }
