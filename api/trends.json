@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-25T13:52:26.544541+08:00",
-  "total_titles_processed": 892,
+  "generated_at": "2026-04-25T15:38:58.259402+08:00",
+  "total_titles_processed": 996,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时34分 ~ 13时52分]"
+          "appearance_count": 12,
+          "time_info": "[00时34分 ~ 15时38分]"
         },
         {
           "title": "核专家都感到惊奇，特朗普所说的“核尘埃”是什么？",
@@ -76,8 +76,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时10分 ~ 13时52分]"
+          "appearance_count": 6,
+          "time_info": "[07时10分 ~ 15时38分]"
         },
         {
           "title": "特朗普称伊朗拟提出提议回应美方要求 伊方暂无回应",
@@ -116,6 +116,21 @@
           "time_info": "[07时10分 ~ 08时07分]"
         },
         {
+          "title": "美联邦法院裁定：特朗普边境庇护申请禁令违法",
+          "url": "https://wallstreetcn.com/livenews/3094320",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            7,
+            16,
+            18,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时10分 ~ 15时38分]"
+        },
+        {
           "title": "两年期美债收益率周五跌超5个基点，特朗普政府“暂停”司法调查改善投资者对宽松前景的预期",
           "url": "https://wallstreetcn.com/livenews/3094313",
           "source": "华尔街见闻-快讯",
@@ -140,20 +155,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时34分"
-        },
-        {
-          "title": "美联邦法院裁定：特朗普边境庇护申请禁令违法",
-          "url": "https://wallstreetcn.com/livenews/3094320",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            7,
-            16,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时10分 ~ 13时52分]"
         },
         {
           "title": "特朗普发帖：只要半句话，美国就会多出1590亿美元",
@@ -191,6 +192,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时10分 ~ 05时27分]"
+        },
+        {
+          "title": "特朗普，已经压不住油价了",
+          "url": "https://news.ifeng.com/c/8sbbY2vrvZn",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时41分 ~ 15时38分]"
         },
         {
           "title": "以色列总理：与特朗普就伊朗问题进行了一次“极好的谈话”",
@@ -265,15 +277,17 @@
           "time_info": "[04时10分 ~ 06时12分]"
         },
         {
-          "title": "特朗普，已经压不住油价了",
-          "url": "https://news.ifeng.com/c/8sbbY2vrvZn",
-          "source": "凤凰网",
+          "title": "特朗普起诉美财政部和国税局案遭法院质疑",
+          "url": "https://wallstreetcn.com/livenews/3094328",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            9,
+            11,
+            18
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[11时41分 ~ 13时52分]"
+          "time_info": "[11时42分 ~ 15时38分]"
         },
         {
           "title": "美伊谈判有望？伊朗外长率团访巴先与调解方谈、暂不接触美方，特朗普特使周六赴巴",
@@ -299,16 +313,16 @@
           "time_info": "[00时34分 ~ 01时54分]"
         },
         {
-          "title": "特朗普起诉美财政部和国税局案遭法院质疑",
-          "url": "https://wallstreetcn.com/livenews/3094328",
-          "source": "华尔街见闻-快讯",
+          "title": "解析特朗普与教皇冲突",
+          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E6%9E%90%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8E%E6%95%99%E7%9A%87%E5%86%B2%E7%AA%81",
+          "source": "bilibili 热搜",
           "ranks": [
             9,
-            11
+            14
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时42分 ~ 13时52分]"
+          "time_info": "[13时52分 ~ 15时38分]"
         },
         {
           "title": "曝特朗普女婿及特使将赴巴同伊朗谈判",
@@ -331,17 +345,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时54分"
-        },
-        {
-          "title": "解析特朗普与教皇冲突",
-          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E6%9E%90%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8E%E6%95%99%E7%9A%87%E5%86%B2%E7%AA%81",
-          "source": "bilibili 热搜",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时52分"
         },
         {
           "title": "美官员：特朗普将派遣其女婿及特使赴巴基斯坦同伊朗谈判",
@@ -504,6 +507,18 @@
       "match_count": 8,
       "titles": [
         {
+          "title": "谷歌豪掷400亿锁定Anthropic：AI两强格局成型，御三家时代终结",
+          "url": "https://wallstreetcn.com/articles/3770859",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时52分 ~ 15时38分]"
+        },
+        {
           "title": "美国商品期货交易委员会（CFTC）：就Coinbase与Gemini的行为起诉美国纽约。 （纽约）对“合约市场”监管过多。 纽约在预测市场领域的执法走得太远。（彭博法律Blaw）",
           "url": "https://wallstreetcn.com/livenews/3094294",
           "source": "华尔街见闻-快讯",
@@ -514,17 +529,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时27分 ~ 06时12分]"
-        },
-        {
-          "title": "谷歌豪掷400亿锁定Anthropic：AI两强格局成型，御三家时代终结",
-          "url": "https://wallstreetcn.com/articles/3770859",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时52分"
         },
         {
           "title": "谷歌计划向Anthropic投资高达400亿美元",
@@ -603,11 +607,12 @@
           "url": "https://www.toutiao.com/trending/7632314424594595883/",
           "source": "今日头条",
           "ranks": [
-            1
+            1,
+            24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时52分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时52分 ~ 15时38分]"
         },
         {
           "title": "张凌赫回应了台湾同胞的喜爱",
@@ -626,11 +631,12 @@
           "url": "https://www.baidu.com/s?wd=%E5%8F%B0%E6%B9%BE66%25%E6%B0%91%E4%BC%97%E6%94%AF%E6%8C%81%E4%B8%A4%E5%B2%B8%E9%87%8D%E5%90%AF%E5%8D%8F%E5%95%86",
           "source": "百度热搜",
           "ranks": [
-            14
+            14,
+            27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时52分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时52分 ~ 15时38分]"
         }
       ]
     },
@@ -644,11 +650,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             4,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时41分 ~ 13时52分]"
+          "appearance_count": 4,
+          "time_info": "[11时41分 ~ 15时38分]"
         }
       ]
     },
@@ -663,11 +670,12 @@
           "ranks": [
             13,
             19,
-            21
+            21,
+            20
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时34分 ~ 13时52分]"
+          "appearance_count": 12,
+          "time_info": "[00时34分 ~ 15时38分]"
         }
       ]
     }
