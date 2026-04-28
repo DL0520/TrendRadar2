@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-28T18:22:48.103920+08:00",
-  "total_titles_processed": 1343,
+  "generated_at": "2026-04-28T20:13:09.398404+08:00",
+  "total_titles_processed": 1483,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 53,
+      "match_count": 55,
       "titles": [
         {
           "title": "美记者当面念枪手宣言，特朗普发怒：你真可耻",
@@ -43,6 +43,18 @@
           "time_info": "[00时10分 ~ 09时18分]"
         },
         {
+          "title": "特朗普为什么出现在了这场他拒绝了15年的Party上？｜907编辑部",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33062114",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[09时17分 ~ 20时13分]"
+        },
+        {
           "title": "事关霍尔木兹！伊朗提出“重开新方案” 白宫证实特朗普与团队讨论",
           "url": "https://www.cls.cn/detail/2357460",
           "source": "财联社热门",
@@ -77,18 +89,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时10分 ~ 07时31分]"
-        },
-        {
-          "title": "特朗普为什么出现在了这场他拒绝了15年的Party上？｜907编辑部",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33062114",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时17分 ~ 18时22分]"
         },
         {
           "title": "主持人念枪手宣言惹怒特朗普",
@@ -130,7 +130,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时22分"
         },
@@ -179,6 +179,17 @@
           "time_info": "01时51分"
         },
         {
+          "title": "特朗普与梅拉尼娅在白宫迎接英王夫妇",
+          "url": "https://news.ifeng.com/c/8sgnalbK6o8",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时38分 ~ 20时13分]"
+        },
+        {
           "title": "特朗普取消更多风能租赁项目以刺激油气投资",
           "url": "https://flash.jin10.com/detail/20260428052935112800",
           "source": "金十数据",
@@ -225,17 +236,6 @@
           "time_info": "[15时38分 ~ 18时22分]"
         },
         {
-          "title": "特朗普与梅拉尼娅在白宫迎接英王夫妇",
-          "url": "https://news.ifeng.com/c/8sgnalbK6o8",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时38分 ~ 18时22分]"
-        },
-        {
           "title": "特朗普政府解散美国国家科学委员会",
           "url": "https://www.toutiao.com/trending/7632880889321488425/",
           "source": "今日头条",
@@ -269,6 +269,17 @@
           "time_info": "[09时17分 ~ 09时18分]"
         },
         {
+          "title": "白宫晚宴提前结束，没上桌的2600份龙虾去哪了？特朗普希望重办",
+          "url": "https://news.ifeng.com/c/8sh8ue4fj2Y",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时12分 ~ 20时13分]"
+        },
+        {
           "title": "为何万斯比特朗普更早撤离？华盛顿晚宴枪击事件安保问题受审视",
           "url": "https://m.thepaper.cn/newsDetail_forward_33060737",
           "source": "澎湃新闻",
@@ -290,6 +301,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时10分 ~ 06时28分]"
+        },
+        {
+          "title": "90秒｜被控刺杀总统，实景还原：枪手离特朗普到底有多近",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33069746",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时12分 ~ 20时13分]"
         },
         {
           "title": "特朗普第三度与“死神”擦肩",
@@ -711,6 +733,17 @@
       "match_count": 4,
       "titles": [
         {
+          "title": "受益稀土涨价，中国稀土2025净利润大幅扭亏，2026Q1净利润大增90%",
+          "url": "https://wallstreetcn.com/articles/3771030",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时22分 ~ 20时13分]"
+        },
+        {
           "title": "美稀土概念股全线走高！Critical Metals将以8.35亿美元收购European Lithium",
           "url": "https://www.cls.cn/detail/2357278",
           "source": "财联社热门",
@@ -722,24 +755,13 @@
           "time_info": "[09时17分 ~ 09时18分]"
         },
         {
-          "title": "受益稀土涨价，中国稀土2025净利润大幅扭亏，2026Q1净利润大增90%",
-          "url": "https://wallstreetcn.com/articles/3771030",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时22分"
-        },
-        {
           "title": "北方稀土一季报显示，章建平新进成为第四大股东，持有7225.44万股，占总股本比例2%。",
           "url": "https://flash.jin10.com/detail/20260428180955353800",
           "source": "金十数据",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时22分"
         },
@@ -750,7 +772,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时22分"
         }
