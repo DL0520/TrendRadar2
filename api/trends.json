@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-28T13:02:13.069693+08:00",
-  "total_titles_processed": 1021,
+  "generated_at": "2026-04-28T15:39:06.217987+08:00",
+  "total_titles_processed": 1184,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 48,
+      "match_count": 52,
       "titles": [
         {
           "title": "美记者当面念枪手宣言，特朗普发怒：你真可耻",
@@ -77,6 +77,18 @@
           "time_info": "[09时17分 ~ 09时18分]"
         },
         {
+          "title": "美伊分歧难弥合！美官员：特朗普“不喜欢”伊朗新提案 核问题须优先解决",
+          "url": "https://www.cls.cn/detail/2357692",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时01分 ~ 15时39分]"
+        },
+        {
           "title": "白宫新闻秘书莱维特：特朗普知晓监察长拥有调查美联储主席主导的翻新工程的工具。",
           "url": "https://flash.jin10.com/detail/20260428012651785800",
           "source": "金十数据",
@@ -99,13 +111,25 @@
           "time_info": "01时51分"
         },
         {
+          "title": "特朗普为什么出现在了这场他拒绝了15年的Party上？｜907编辑部",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33062114",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时17分 ~ 15时39分]"
+        },
+        {
           "title": "据英国金融时报：两家精神航空债权人集团支持美国总统特朗普的救助计划。",
           "url": "https://flash.jin10.com/detail/20260428124131731800",
           "source": "金十数据",
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时02分"
         },
@@ -167,18 +191,6 @@
           "time_info": "[05时10分 ~ 06时28分]"
         },
         {
-          "title": "特朗普为什么出现在了这场他拒绝了15年的Party上？｜907编辑部",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33062114",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时17分 ~ 13时02分]"
-        },
-        {
           "title": "伊朗战争丨特朗普及其国安团队开会讨论伊朗新提案",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
           "source": "凤凰网",
@@ -188,6 +200,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时28分 ~ 07时31分]"
+        },
+        {
+          "title": "伊朗战争丨与特朗普说法不同，鲁比奥称伊朗仍有半数导弹库存",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时38分 ~ 15时39分]"
         },
         {
           "title": "特朗普政府解散美国国家科学委员会",
@@ -201,15 +224,15 @@
           "time_info": "[13时01分 ~ 13时02分]"
         },
         {
-          "title": "美伊分歧难弥合！美官员：特朗普“不喜欢”伊朗新提案 核问题须优先解决",
-          "url": "https://www.cls.cn/detail/2357692",
+          "title": "自导自演白宫记协晚宴枪击事件？特朗普回应",
+          "url": "https://www.cls.cn/detail/2357469",
           "source": "财联社热门",
           "ranks": [
-            10
+            8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时01分 ~ 13时02分]"
+          "time_info": "[15时38分 ~ 15时39分]"
         },
         {
           "title": "怕再和特朗普起冲突，北约拟取消2028年年度峰会",
@@ -221,6 +244,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时17分 ~ 09时18分]"
+        },
+        {
+          "title": "特朗普与梅拉尼娅在白宫迎接英王夫妇",
+          "url": "https://news.ifeng.com/c/8sgnalbK6o8",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时38分 ~ 15时39分]"
         },
         {
           "title": "为何万斯比特朗普更早撤离？华盛顿晚宴枪击事件安保问题受审视",
@@ -266,6 +300,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时01分 ~ 13时02分]"
+        },
+        {
+          "title": "美媒：特朗普对伊朗新方案不满意",
+          "url": "https://www.toutiao.com/trending/7633339570876170294/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时38分 ~ 15时39分]"
         },
         {
           "title": "白宫：美国总统特朗普今早已与国家安全团队会面。",
@@ -472,7 +517,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时02分"
         },
@@ -651,7 +696,7 @@
     },
     {
       "keyword_group": "台湾",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "台湾证交所加权股价指数开低0.2%，报39,531.93点。",
@@ -663,6 +708,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时18分"
+        },
+        {
+          "title": "台湾一家三口自杀身亡",
+          "url": "https://www.toutiao.com/trending/7633641258305437702/",
+          "source": "今日头条",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时38分 ~ 15时39分]"
         },
         {
           "title": "台湾加权指数4月28日（周二）开盘上涨43.64点，涨幅0.11%，报39660.27点。",
