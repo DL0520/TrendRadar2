@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-29T19:44:45.981868+08:00",
-  "total_titles_processed": 1371,
+  "generated_at": "2026-04-29T22:15:35.136076+08:00",
+  "total_titles_processed": 1529,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 46,
+      "match_count": 51,
       "titles": [
         {
           "title": "90秒｜被控刺杀总统，实景还原：枪手离特朗普到底有多近",
@@ -59,8 +59,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时37分 ~ 19时44分]"
+          "appearance_count": 3,
+          "time_info": "[17时37分 ~ 22时15分]"
         },
         {
           "title": "伊朗用“羞辱战术”拿捏特朗普？德国总理锐评释放5个信号",
@@ -70,8 +70,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时37分 ~ 19时44分]"
+          "appearance_count": 3,
+          "time_info": "[17时37分 ~ 22时15分]"
         },
         {
           "title": "白宫抓拍英国国王和特朗普握手后配文：“两位国王”！",
@@ -118,6 +118,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时37分"
+        },
+        {
+          "title": "特朗普公布持枪造型，威胁伊朗“放聪明点”",
+          "url": "https://news.ifeng.com/c/8siqYiXyeAp",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时15分"
         },
         {
           "title": "Robinhood预警特朗普账户相关支出，股价盘后下跌",
@@ -170,7 +181,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时44分"
         },
@@ -283,6 +294,17 @@
           "time_info": "12时57分"
         },
         {
+          "title": "伊朗战争丨特朗普：可能延长对伊封锁，迫使其达成协议",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时15分"
+        },
+        {
           "title": "美国多个情报部门正在评估伊朗会对总统特朗普宣布胜利作何反应。（路透）",
           "url": "https://wallstreetcn.com/livenews/3095962",
           "source": "华尔街见闻-快讯",
@@ -336,6 +358,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时31分"
+        },
+        {
+          "title": "特朗普称可能延长对伊朗封锁以迫使其达成协议",
+          "url": "https://wallstreetcn.com/livenews/3096731",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时15分"
         },
         {
           "title": "特朗普一句“爆料”逗笑英国国王",
@@ -426,6 +459,17 @@
           "time_info": "09时20分"
         },
         {
+          "title": "英国查尔斯国王当面嘲讽特朗普，要不是英国，美国现在说的是法语，这是个什么梗？特朗普台下尬笑可能在想啥？",
+          "url": "https://www.zhihu.com/question/2032828585195434245",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时15分"
+        },
+        {
           "title": "因与特朗普分歧加剧，美驻乌临时代办将离任",
           "url": "https://wallstreetcn.com/livenews/3096049",
           "source": "华尔街见闻-快讯",
@@ -479,6 +523,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时10分"
+        },
+        {
+          "title": "白宫官员：特朗普与石油公司讨论了在必要时将伊朗封锁措施持续数月的计划。",
+          "url": "https://wallstreetcn.com/livenews/3096715",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时15分"
         },
         {
           "title": "公开互撕！特朗普回击默茨：他根本不知道自己在说什么",
@@ -652,7 +707,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时44分"
         },
