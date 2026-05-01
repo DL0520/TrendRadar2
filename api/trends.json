@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-01T22:02:45.413857+08:00",
-  "total_titles_processed": 1521,
+  "generated_at": "2026-05-01T23:34:49.737151+08:00",
+  "total_titles_processed": 1647,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 71,
+      "match_count": 76,
       "titles": [
         {
           "title": "美军拟以“高超音速导弹”打击伊朗，周四将向特朗普汇报新“打击计划”",
@@ -84,6 +84,19 @@
           "time_info": "[12时13分 ~ 17时18分]"
         },
         {
+          "title": "伊朗总统表示美国海上封锁不可容忍 特朗普称已摧毁伊朗核能力 | 环球市场",
+          "url": "https://www.cls.cn/detail/2361654",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时13分 ~ 23时34分]"
+        },
+        {
           "title": "美国对伊战争已花掉250亿美元，特朗普欲推出“海上自由联盟”",
           "url": "https://m.thepaper.cn/newsDetail_forward_33082398",
           "source": "澎湃新闻",
@@ -109,19 +122,6 @@
           "time_info": "[01时03分 ~ 08时00分]"
         },
         {
-          "title": "伊朗总统表示美国海上封锁不可容忍 特朗普称已摧毁伊朗核能力 | 环球市场",
-          "url": "https://www.cls.cn/detail/2361654",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时13分 ~ 22时02分]"
-        },
-        {
           "title": "还是不解气，特朗普又炮轰默茨",
           "url": "https://news.ifeng.com/c/8skrGhZKZnd",
           "source": "凤凰网",
@@ -144,6 +144,17 @@
           "time_info": "[12时13分 ~ 15时15分]"
         },
         {
+          "title": "特朗普回应伊朗赴美踢世界杯：我没意见",
+          "url": "https://news.ifeng.com/c/8slyIPscfsJ",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时17分 ~ 23时34分]"
+        },
+        {
           "title": "特朗普，居然这都能搞错？",
           "url": "https://news.ifeng.com/c/8sjpVZ3M3KQ",
           "source": "凤凰网",
@@ -164,17 +175,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时03分"
-        },
-        {
-          "title": "特朗普回应伊朗赴美踢世界杯：我没意见",
-          "url": "https://news.ifeng.com/c/8slyIPscfsJ",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时17分 ~ 22时02分]"
         },
         {
           "title": "美国总统特朗普：与田纳西州州长比尔·李进行了非常愉快的交谈。",
@@ -269,6 +269,31 @@
           "time_info": "[01时03分 ~ 02时54分]"
         },
         {
+          "title": "根据53年前颁布的这项法案，今天以后特朗普还能继续打伊朗吗？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33084769",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            14,
+            11,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时54分 ~ 23时34分]"
+        },
+        {
+          "title": "郑丽文拟访美盼见特朗普，黄国昌回应",
+          "url": "https://news.ifeng.com/c/8sm9eTtZoPK",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时54分 ~ 23时34分]"
+        },
+        {
           "title": "特朗普称美国结束对伊朗战争",
           "url": "https://s.weibo.com/weibo?q=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E7%BE%8E%E5%9B%BD%E7%BB%93%E6%9D%9F%E5%AF%B9%E4%BC%8A%E6%9C%97%E6%88%98%E4%BA%89&t=31&band_rank=19&Refer=top",
           "source": "微博",
@@ -302,30 +327,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[17时17分 ~ 18时54分]"
-        },
-        {
-          "title": "根据53年前颁布的这项法案，今天以后特朗普还能继续打伊朗吗？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33084769",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            14,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时54分 ~ 22时02分]"
-        },
-        {
-          "title": "郑丽文拟访美盼见特朗普，黄国昌回应",
-          "url": "https://news.ifeng.com/c/8sm9eTtZoPK",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时54分 ~ 22时02分]"
         },
         {
           "title": "特朗普：不在乎鲍威尔是否留任理事",
@@ -454,6 +455,17 @@
           "time_info": "02时54分"
         },
         {
+          "title": "航空公司Spirit Airlines准备关闭，该公司没能（与特朗普政府）达成一份救助协议。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3097947",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时34分"
+        },
+        {
           "title": "美国总统特朗普：美国将从伊朗获得核材料。",
           "url": "https://flash.jin10.com/detail/20260501034714128800",
           "source": "金十数据",
@@ -463,6 +475,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时14分"
+        },
+        {
+          "title": "德国副总理：我们不需要特朗普的建议",
+          "url": "https://wallstreetcn.com/livenews/3097945",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时34分"
         },
         {
           "title": "特朗普称他可能需要打破伊朗停火协议",
@@ -485,6 +508,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时35分"
+        },
+        {
+          "title": "屡遭暗杀还不考虑穿防弹衣？特朗普：穿着显胖",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33088375",
+          "source": "澎湃新闻",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时34分"
+        },
+        {
+          "title": "总统能上太空吗？特朗普现场发问，NASA局长：可以安排",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33088692",
+          "source": "澎湃新闻",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时34分"
         },
         {
           "title": "美国总统特朗普致电伊拉克总理提名人阿里·扎伊迪，邀请他在组建新政府后前往华盛顿。",
@@ -628,6 +673,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时13分"
+        },
+        {
+          "title": "美国能源部长赖特：作为特朗普“和平管道”议程的一部分，中欧和东欧正在讨论多个管道项目，以促进繁荣与安全。",
+          "url": "https://flash.jin10.com/detail/20260501225206321800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时34分"
         },
         {
           "title": "美国总统特朗普：美国众议院少数党领袖杰弗瑞斯竟然称美国最高法院是一个“非法的”法院。绝不应允许以这种方式诋毁世界上最伟大的机构之一。他必须立即撤回这一言论。",
@@ -812,7 +868,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时02分"
         }
@@ -820,7 +876,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "经济数据与财报提振信心，标普、纳指新高，谷歌大涨10%，日元暴涨",
@@ -831,8 +887,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[06时58分 ~ 22时02分]"
+          "appearance_count": 11,
+          "time_info": "[06时58分 ~ 23时34分]"
         },
         {
           "title": "美股收盘：标普纳指再创新高 谷歌劲升10%闪迪盘后重挫",
@@ -844,8 +900,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[06时58分 ~ 22时02分]"
+          "appearance_count": 11,
+          "time_info": "[06时58分 ~ 23时34分]"
         },
         {
           "title": "“科技四巨头”罕见同日财报：谷歌大涨Meta重挫，谷歌、微软和亚马逊云增长迅猛，谷歌和Meta上调资本开支",
@@ -867,11 +923,12 @@
           "ranks": [
             8,
             5,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时17分 ~ 22时02分]"
+          "appearance_count": 6,
+          "time_info": "[17时17分 ~ 23时34分]"
         },
         {
           "title": "胡锡进：只要中国赚钱机会越来越多，谷歌就不舍得真正“离开”",
@@ -970,6 +1027,17 @@
           "time_info": "01时03分"
         },
         {
+          "title": "谷歌、卡特彼勒成“大赢家”，AI和财报压倒战争，4月的美股创2020年以来最强",
+          "url": "https://wallstreetcn.com/articles/3771451",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时34分"
+        },
+        {
           "title": "美国五角大楼宣布达成网络人工智能相关协议，已与SpaceX、OpenAI、谷歌(GOOG.O)和英伟达(NVDA.O)签署协议。",
           "url": "https://flash.jin10.com/detail/20260501193320957800",
           "source": "金十数据",
@@ -1030,7 +1098,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时02分"
         },
@@ -1041,7 +1109,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时02分"
         },
@@ -1052,7 +1120,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时02分"
         },
@@ -1063,7 +1131,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时02分"
         },
@@ -1074,7 +1142,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时02分"
         }
