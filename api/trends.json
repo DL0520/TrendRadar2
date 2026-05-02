@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-02T22:55:52.158826+08:00",
-  "total_titles_processed": 1432,
+  "generated_at": "2026-05-02T23:55:37.526547+08:00",
+  "total_titles_processed": 1490,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 99,
+      "match_count": 101,
       "titles": [
         {
           "title": "伊朗转交新方案，“放宽谈判条件”，特朗普称“不满意”，但“倾向于不打击”",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时45分 ~ 22时55分]"
+          "appearance_count": 11,
+          "time_info": "[12时45分 ~ 23时55分]"
         },
         {
           "title": "美伊局势追踪：特朗普“不满”伊朗最新谈判方案 白宫称敌对行动已“结束”",
@@ -31,8 +31,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时45分 ~ 22时55分]"
+          "appearance_count": 11,
+          "time_info": "[12时45分 ~ 23时55分]"
         },
         {
           "title": "德副总理：不需要特朗普指点，他该先关注自己捅出的篓子",
@@ -55,11 +55,12 @@
             11,
             10,
             8,
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时45分 ~ 22时55分]"
+          "appearance_count": 11,
+          "time_info": "[12时45分 ~ 23时55分]"
         },
         {
           "title": "伊朗战争会再次影响访华行程吗？特朗普答凤凰记者问",
@@ -70,8 +71,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时15分 ~ 22时55分]"
+          "appearance_count": 13,
+          "time_info": "[09时15分 ~ 23时55分]"
         },
         {
           "title": "【早报】白宫：与伊朗的敌对行动已经“结束”；特朗普：下周对欧盟输美汽车和卡车加征25%关税",
@@ -84,8 +85,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时15分 ~ 22时55分]"
+          "appearance_count": 13,
+          "time_info": "[09时15分 ~ 23时55分]"
         },
         {
           "title": "伊朗总统表示美国海上封锁不可容忍 特朗普称已摧毁伊朗核能力 | 环球市场",
@@ -116,6 +117,19 @@
           "time_info": "[05时27分 ~ 09时16分]"
         },
         {
+          "title": "特朗普：将于下周对欧盟输美汽车和卡车加征25%关税",
+          "url": "https://wallstreetcn.com/articles/3771467",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[16时51分 ~ 23时55分]"
+        },
+        {
           "title": "根据53年前颁布的这项法案，今天以后特朗普还能继续打伊朗吗？",
           "url": "https://m.thepaper.cn/newsDetail_forward_33084769",
           "source": "澎湃新闻",
@@ -127,19 +141,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时04分 ~ 07时31分]"
-        },
-        {
-          "title": "特朗普：将于下周对欧盟输美汽车和卡车加征25%关税",
-          "url": "https://wallstreetcn.com/articles/3771467",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时51分 ~ 22时55分]"
         },
         {
           "title": "屡遭暗杀还不考虑穿防弹衣？特朗普：穿着显胖",
@@ -197,11 +198,12 @@
             2,
             4,
             15,
-            22
+            22,
+            26
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时25分 ~ 22时55分]"
+          "appearance_count": 5,
+          "time_info": "[19时25分 ~ 23时55分]"
         },
         {
           "title": "特朗普威胁提高汽车关税，欧盟：将“保留所有选项”",
@@ -211,11 +213,23 @@
             3,
             5,
             16,
-            23
+            23,
+            27
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时25分 ~ 22时55分]"
+          "appearance_count": 5,
+          "time_info": "[19时25分 ~ 23时55分]"
+        },
+        {
+          "title": "新战线突然开辟，特朗普怒率美国“两线作战”",
+          "url": "https://news.ifeng.com/c/8so6eb1hVjp",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时55分 ~ 23时55分]"
         },
         {
           "title": "资深共和党官员理查德·沃尔特斯（Richard Walters）有望加入白宫 ，担任特朗普政府的副幕僚长。",
@@ -240,6 +254,20 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时09分 ~ 07时31分]"
+        },
+        {
+          "title": "规避《战争权力法》？特朗普称对伊行动结束，但仍有法律争议",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33092022",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19,
+            17,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[19时24分 ~ 23时55分]"
         },
         {
           "title": "特朗普支持率低迷 共和党冲刺“重划选区”",
@@ -270,17 +298,6 @@
           "time_info": "[12时45分 ~ 18时03分]"
         },
         {
-          "title": "新战线突然开辟，特朗普怒率美国“两线作战”",
-          "url": "https://news.ifeng.com/c/8so6eb1hVjp",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时55分"
-        },
-        {
           "title": "特朗普称60天战争权限“完全违宪”",
           "url": "https://flash.jin10.com/detail/20260502005826166800",
           "source": "金十数据",
@@ -301,19 +318,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[02时40分 ~ 07时31分]"
-        },
-        {
-          "title": "规避《战争权力法》？特朗普称对伊行动结束，但仍有法律争议",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33092022",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            19,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时24分 ~ 22时55分]"
         },
         {
           "title": "特朗普声称美国“几乎能立即”接管古巴",
@@ -462,6 +466,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时40分 ~ 05时27分]"
+        },
+        {
+          "title": "特朗普谈美军扣押伊朗油轮：我们就像海盗",
+          "url": "https://www.cls.cn/detail/2362106",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时55分 ~ 23时55分]"
         },
         {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-05-02）",
@@ -620,17 +636,6 @@
           "time_info": "[05时27分 ~ 06时28分]"
         },
         {
-          "title": "特朗普谈美军扣押伊朗油轮：我们就像海盗",
-          "url": "https://www.cls.cn/detail/2362106",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时55分 ~ 22时55分]"
-        },
-        {
           "title": "美国总统特朗普兜售股市上涨。",
           "url": "https://wallstreetcn.com/livenews/3098055",
           "source": "华尔街见闻-快讯",
@@ -697,9 +702,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时55分"
+        },
+        {
+          "title": "特朗普签署新制裁令，称「几乎能立即」接管古巴，当前美古双边谈判情况如何，古巴能顶住美国的经济封锁吗？",
+          "url": "https://www.zhihu.com/question/2033868695617933924",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时55分"
         },
         {
           "title": "伊朗经调解方转交谈判新方案，特朗普称“不满意”、告知国会与伊战事已“结束”",
@@ -821,6 +837,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时04分"
+        },
+        {
+          "title": "特朗普宣布将于下周对欧盟输美汽车和卡车加征 25% 关税，他为何对欧洲下「狠手」？",
+          "url": "https://www.zhihu.com/question/2033826035330978433",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时55分"
         },
         {
           "title": "美国总统特朗普：伊朗正在索要我无法同意的东西。",
