@@ -1,852 +1,116 @@
 {
-  "generated_at": "2026-05-08T22:05:29.246440+08:00",
-  "total_titles_processed": 1638,
+  "generated_at": "2026-05-09T00:02:48.064833+08:00",
+  "total_titles_processed": 312,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 59,
+      "match_count": 7,
       "titles": [
-        {
-          "title": "特朗普回应打击伊朗：只是轻微敲打",
-          "url": "https://news.ifeng.com/c/8swugAgjYdA",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时29分 ~ 18时06分]"
-        },
-        {
-          "title": "从狂热支持到强烈担忧，日本“铁粉”也要弃特朗普了？",
-          "url": "https://news.ifeng.com/c/8swPaRUXu6L",
-          "source": "凤凰网",
-          "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时19分 ~ 09时21分]"
-        },
-        {
-          "title": "伊朗战争丨特朗普与教皇争吵后，鲁比奥访问梵蒂冈",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时19分 ~ 06时07分]"
-        },
-        {
-          "title": "特朗普访华前瞻——台湾怎么办？",
-          "url": "https://news.ifeng.com/c/8swQYqpheqc",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时19分 ~ 12时41分]"
-        },
         {
           "title": "特朗普称中美元首会谈将按计划举行，外交部回应",
           "url": "https://www.cls.cn/detail/2366051",
           "source": "财联社热门",
           "ranks": [
-            13,
-            3,
-            2
+            3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时25分 ~ 22时05分]"
-        },
-        {
-          "title": "王毅会见美国国会参议员代表团，此访是特朗普总统就任以来首个访华的两党参议员代表团，哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2035771230985380677",
-          "source": "知乎",
-          "ranks": [
-            7,
-            9,
-            10,
-            11,
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时41分 ~ 22时05分]"
-        },
-        {
-          "title": "中方回应何时发布特朗普访华消息",
-          "url": "https://www.toutiao.com/trending/7637034985857810475/",
-          "source": "今日头条",
-          "ranks": [
-            27,
-            2,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时25分 ~ 22时05分]"
+          "appearance_count": 1,
+          "time_info": "00时02分"
         },
         {
           "title": "特朗普全球关税又受阻！122关税被指缺乏依据，后续也能退款？",
           "url": "https://news.ifeng.com/c/8sxspkZXRqe",
           "source": "凤凰网",
           "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时55分 ~ 22时05分]"
-        },
-        {
-          "title": "巴基斯坦消息人士称美伊接近达成停战谅解备忘录，特朗普：有可能下周达成协议",
-          "url": "https://wallstreetcn.com/articles/3771704",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时19分 ~ 07时29分]"
-        },
-        {
-          "title": "卢拉会晤特朗普，称巴西不在中美之间选边站",
-          "url": "https://news.ifeng.com/c/8sx7oAMkRMI",
-          "source": "凤凰网",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时41分 ~ 18时06分]"
-        },
-        {
-          "title": "晚宴枪击事件后，特朗普再为白宫宴会厅项目辩护",
-          "url": "https://news.ifeng.com/c/8sxEzEFSGYq",
-          "source": "凤凰网",
-          "ranks": [
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时41分 ~ 18时06分]"
-        },
-        {
-          "title": "美国总统特朗普：已同意给欧盟委员会主席冯德莱恩时间至美国建国250周年纪念日；否则，很遗憾，他们的关税将立即大幅上调。",
-          "url": "https://flash.jin10.com/detail/20260508031004808800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时17分"
-        },
-        {
-          "title": "美国总统特朗普：与欧盟委员会主席冯德莱恩的通话非常愉快。",
-          "url": "https://flash.jin10.com/detail/20260508030827265800",
-          "source": "金十数据",
-          "ranks": [
             3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时17分"
+          "time_info": "00时02分"
         },
         {
-          "title": "英伟达CEO黄仁勋：若受邀，将随特朗普一同访问中国",
-          "url": "https://wallstreetcn.com/livenews/3100397",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时41分"
-        },
-        {
-          "title": "英伟达CEO黄仁勋：若受邀，将随特朗普一同访问中国",
-          "url": "https://flash.jin10.com/detail/20260508122632973800",
+          "title": "美国总统特朗普将于十分钟后发表讲话。",
+          "url": "https://flash.jin10.com/detail/20260508235000000800",
           "source": "金十数据",
           "ranks": [
             4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时41分"
+          "time_info": "00时02分"
         },
         {
-          "title": "特朗普发图称摧毁伊朗空中目标",
-          "url": "https://flash.jin10.com/detail/20260508174659466800",
-          "source": "金十数据",
+          "title": "王毅会见美国国会参议员代表团，此访是特朗普总统就任以来首个访华的两党参议员代表团，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2035771230985380677",
+          "source": "知乎",
           "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时06分"
-        },
-        {
-          "title": "美国高级官员：特朗普与伊朗的停火还没有结束。（福克斯新闻）",
-          "url": "https://wallstreetcn.com/livenews/3100199",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时50分 ~ 06时07分]"
-        },
-        {
-          "title": "中美双方就特朗普访华保持沟通",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E7%BE%8E%E5%8F%8C%E6%96%B9%E5%B0%B1%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E5%8D%8E%E4%BF%9D%E6%8C%81%E6%B2%9F%E9%80%9A",
-          "source": "百度热搜",
-          "ranks": [
-            20,
             16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时25分 ~ 19时55分]"
+          "appearance_count": 1,
+          "time_info": "00时02分"
         },
         {
-          "title": "黄仁勋：若受邀，将随特朗普一同访问中国",
-          "url": "https://news.ifeng.com/c/8sxPIPLXdSr",
-          "source": "凤凰网",
+          "title": "特朗普称中美元首会谈将按计划举行，外交部回应",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33122464",
+          "source": "澎湃新闻",
           "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时56分 ~ 16时25分]"
-        },
-        {
-          "title": "局势升级！美伊在霍尔木兹交火 特朗普：停火仍有效，只是“轻微敲打”",
-          "url": "https://www.cls.cn/detail/2365546",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时56分 ~ 16时25分]"
-        },
-        {
-          "title": "特朗普称美伊“很可能”达成协议、威胁谈不成更强力轰炸，伊朗指美报道失实、称还在审阅美方提案",
-          "url": "https://wallstreetcn.com/articles/3771687",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时19分 ~ 03时17分]"
-        },
-        {
-          "title": "特朗普：美伊停火仍有效",
-          "url": "https://www.cls.cn/detail/2365528",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时56分 ~ 14时57分]"
-        },
-        {
-          "title": "美伊又在霍尔木兹海峡交火！特朗普：停火还在，这只是“小惩罚”",
-          "url": "https://flash.jin10.com/detail/20260508064900117800",
-          "source": "金十数据",
-          "ranks": [
-            6
+            19
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时29分"
+          "time_info": "00时02分"
         },
         {
-          "title": "美国总统特朗普：会见巴西总统卢拉的情况非常不错。",
-          "url": "https://wallstreetcn.com/livenews/3100155",
-          "source": "华尔街见闻-快讯",
+          "title": "特朗普称中美元首会谈将按计划举行，外交部：目前无进一步信息提供",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33121956",
+          "source": "澎湃新闻",
           "ranks": [
-            6
+            20
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时17分"
+          "time_info": "00时02分"
         },
         {
-          "title": "特朗普称美驱逐舰成功穿过海峡 威胁伊朗迅速达成协议",
-          "url": "https://flash.jin10.com/detail/20260508064638405800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时29分"
-        },
-        {
-          "title": "卢拉：和特朗普见面就像“一见钟情”，希望保持下去",
-          "url": "https://v.ifeng.com/c/8svJjy07D4M",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时55分"
-        },
-        {
-          "title": "美国总统特朗普：伊朗由疯狂的领导人掌控，如果有机会使用核武器，他们会毫不犹豫地这样做——但他们永远不会有这个机会。",
-          "url": "https://flash.jin10.com/detail/20260508063727794800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时29分"
-        },
-        {
-          "title": "沙特科威特解除限制，但特朗普称：巴方要求谈判期间暂停“自由计划”",
-          "url": "https://flash.jin10.com/detail/20260508085204917800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时21分"
-        },
-        {
-          "title": "特朗普：“特朗普的股市再创新高”",
-          "url": "https://flash.jin10.com/detail/20260508121730526800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时41分"
-        },
-        {
-          "title": "特朗普发言时突然跑题吐槽打字软件",
-          "url": "https://www.toutiao.com/trending/7636619045152784426/",
+          "title": "中方回应何时发布特朗普访华消息",
+          "url": "https://www.toutiao.com/trending/7637034985857810475/",
           "source": "今日头条",
           "ranks": [
-            9
+            28
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时41分"
-        },
-        {
-          "title": "美国贸易法院裁定特朗普10%全球关税无效",
-          "url": "https://wallstreetcn.com/articles/3771788",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时05分"
-        },
-        {
-          "title": "美国总统特朗普：如果伊朗不迅速签署协议，那么在将来，我们将会以更猛烈、更激烈的手段来对付他们。",
-          "url": "https://flash.jin10.com/detail/20260508063613403800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时29分"
-        },
-        {
-          "title": "特朗普政府正寻求重启“自由计划”，最早可能在本周实施",
-          "url": "https://wallstreetcn.com/livenews/3100152",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时17分"
-        },
-        {
-          "title": "德国副总理：德国将推动建立新的联盟以对抗特朗普。 德国和欧盟必须防范“勒索”。 欧盟应进一步与英国和加拿大开展合作。",
-          "url": "https://wallstreetcn.com/livenews/3100672",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时55分"
-        },
-        {
-          "title": "美国总统特朗普：三艘驱逐舰没有受到损坏，但伊朗攻击者遭受了重大损失。",
-          "url": "https://flash.jin10.com/detail/20260508063514510800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时29分"
-        },
-        {
-          "title": "特朗普：美伊停火仍有效，3艘美军舰穿越霍尔木兹海峡",
-          "url": "https://wallstreetcn.com/livenews/3100247",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时29分"
-        },
-        {
-          "title": "美国总统特朗普：三艘世界级的美国驱逐舰刚刚成功通过霍尔木兹海峡，期间遭到攻击。",
-          "url": "https://flash.jin10.com/detail/20260508063506045800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时29分"
-        },
-        {
-          "title": "美法院：特朗普政府的全球进口关税缺乏法律依据",
-          "url": "https://wallstreetcn.com/livenews/3100246",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时29分"
-        },
-        {
-          "title": "美法院裁定特朗普的10%全球关税不成立",
-          "url": "https://flash.jin10.com/detail/20260508050930126800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时07分"
-        },
-        {
-          "title": "特朗普：没必要对美国的石油出口进行限制",
-          "url": "https://flash.jin10.com/detail/20260508084134483800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时21分"
-        },
-        {
-          "title": "据英国金融时报：美国企业敦促特朗普干预欧盟新消费者规则。",
-          "url": "https://flash.jin10.com/detail/20260508120936185800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时41分"
-        },
-        {
-          "title": "特朗普回应打击伊朗：只是小惩罚，停火仍然有效",
-          "url": "https://flash.jin10.com/detail/20260508062437973800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时29分"
-        },
-        {
-          "title": "特朗普表示，他与巴西总统卢拉的会晤非常成功。",
-          "url": "https://wallstreetcn.com/livenews/3100279",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时21分"
-        },
-        {
-          "title": "据英国金融时报：特朗普之子已投资于由总部位于特朗普大厦的金融集团Dominari Holdings旗下部门发起的名为American Ventures的基金。",
-          "url": "https://flash.jin10.com/detail/20260508120539317800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时41分"
-        },
-        {
-          "title": "特朗普表示，他已听取有关汉坦病毒的情况汇报，希望疫情能得到有效控制。",
-          "url": "https://wallstreetcn.com/livenews/3100278",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时21分"
-        },
-        {
-          "title": "市场消息：美国贸易法院裁定特朗普提出的10%全球关税提案不成立。",
-          "url": "https://flash.jin10.com/detail/20260508045940660800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时07分"
-        },
-        {
-          "title": "德国副总理急呼组建“新联盟”，以抗衡特朗普",
-          "url": "https://flash.jin10.com/detail/20260508212622995800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时05分"
-        },
-        {
-          "title": "巴西总统卢拉在与特朗普会晤后，预见美巴关系将迎来重启",
-          "url": "https://wallstreetcn.com/livenews/3100208",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时07分"
-        },
-        {
-          "title": "美国总统特朗普：对伊朗目标的军事袭击就是一个“小剐蹭”（love tap）而已。 停火协议正在推进之中，停火是有效的。（ABC新闻）",
-          "url": "https://wallstreetcn.com/livenews/3100240",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时29分"
-        },
-        {
-          "title": "特朗普：我们正在与伊朗进行谈判，伊朗停火协议依然有效。巴基斯坦已请求美国在与伊朗谈判期间不要执行“自由计划”。",
-          "url": "https://wallstreetcn.com/livenews/3100277",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时21分"
-        },
-        {
-          "title": "美国贸易法庭裁定，特朗普10%全球关税败诉",
-          "url": "https://wallstreetcn.com/livenews/3100207",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时07分"
-        },
-        {
-          "title": "特朗普的10%关税遭遇法律挫折 但裁决不具普遍性",
-          "url": "https://flash.jin10.com/detail/20260508061022135800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时29分"
-        },
-        {
-          "title": "美国白宫国家经济委员会主任哈塞特：正在针对最新关税裁决研究各种选项。 备用方案将确保特朗普的贸易政策得以落实。 预计在7月4日之前达成欧盟贸易协议。",
-          "url": "https://wallstreetcn.com/livenews/3100752",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时05分"
-        },
-        {
-          "title": "特朗普：与伊朗谈判进展顺利 可能随时达成协议",
-          "url": "https://flash.jin10.com/detail/20260508082307205800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时21分"
-        },
-        {
-          "title": "美国、巴西两国首脑华盛顿会晤，卢拉认为：特朗普不会对即将到来的巴西选举产任何影响",
-          "url": "https://wallstreetcn.com/livenews/3100233",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时29分"
-        },
-        {
-          "title": "特朗普会见巴西总统卢拉讨论关税等问题",
-          "url": "https://flash.jin10.com/detail/20260508060306052800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时29分"
-        },
-        {
-          "title": "巴西总统卢拉：据翻译称，特朗普告诉我他并未考虑入侵古巴。",
-          "url": "https://flash.jin10.com/detail/20260508035818698800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时50分"
-        },
-        {
-          "title": "报道：特朗普政府将开始吊销拖欠子女抚养费父母的护照",
-          "url": "https://wallstreetcn.com/livenews/3100171",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时50分"
-        },
-        {
-          "title": "美国贸易法庭的裁决并未全面阻止特朗普10%的关税，仅针对两家提起诉讼的公司。",
-          "url": "https://flash.jin10.com/detail/20260508054706756800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时29分"
+          "time_info": "00时02分"
         }
       ]
     },
     {
       "keyword_group": "台湾",
-      "match_count": 11,
+      "match_count": 2,
       "titles": [
         {
-          "title": "台湾问题是中国核心利益中的核心",
-          "url": "https://search.bilibili.com/all?keyword=%E5%8F%B0%E6%B9%BE%E9%97%AE%E9%A2%98%E6%98%AF%E4%B8%AD%E5%9B%BD%E6%A0%B8%E5%BF%83%E5%88%A9%E7%9B%8A%E4%B8%AD%E7%9A%84%E6%A0%B8%E5%BF%83",
-          "source": "bilibili 热搜",
+          "title": "“台湾病例与邮轮事件无关联” A股“汉坦病毒”概念躁动背后有几分真实需求？",
+          "url": "https://www.cls.cn/detail/2366511",
+          "source": "财联社热门",
           "ranks": [
-            2,
-            3,
-            6,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时19分 ~ 09时21分]"
-        },
-        {
-          "title": "外界猜测台湾问题是中美下阶段会晤中方首要关切议题，外交部回应",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33105604",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            15,
-            11,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时19分 ~ 14时57分]"
-        },
-        {
-          "title": "台湾加权指数5月8日（周五）开盘下跌223.93点，跌幅0.53%，报41709.85点。",
-          "url": "https://flash.jin10.com/detail/20260508090126133800",
-          "source": "金十数据",
-          "ranks": [
-            3
+            6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时21分"
-        },
-        {
-          "title": "台湾出现汉坦病毒致死病例",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%8F%B0%E6%B9%BE%E5%87%BA%E7%8E%B0%E6%B1%89%E5%9D%A6%E7%97%85%E6%AF%92%E8%87%B4%E6%AD%BB%E7%97%85%E4%BE%8B%23&t=31&band_rank=4&Refer=top",
-          "source": "微博",
-          "ranks": [
-            4,
-            12,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时25分 ~ 19时55分]"
+          "time_info": "00时02分"
         },
         {
           "title": "台湾出现汉坦病毒致死病例",
           "url": "https://www.baidu.com/s?wd=%E5%8F%B0%E6%B9%BE%E5%87%BA%E7%8E%B0%E6%B1%89%E5%9D%A6%E7%97%85%E6%AF%92%E8%87%B4%E6%AD%BB%E7%97%85%E4%BE%8B",
           "source": "百度热搜",
           "ranks": [
-            22,
-            17,
-            18,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时25分 ~ 22时05分]"
-        },
-        {
-          "title": "台湾出现汉坦病毒致死病例",
-          "url": "https://www.toutiao.com/trending/7636684535199043115/",
-          "source": "今日头条",
-          "ranks": [
-            15,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时05分 ~ 19时55分]"
-        },
-        {
-          "title": "台湾出现汉坦病毒致死病例",
-          "url": "https://news.ifeng.com/c/8sxelmJvJ32",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时55分"
-        },
-        {
-          "title": "台湾出现汉坦病毒致死病例",
-          "url": "https://www.cls.cn/detail/2366020",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时55分"
-        },
-        {
-          "title": "中国地震台网自动测定：05月08日04时57分在台湾花莲县海域附近发生4.2级左右地震，最终结果以正式速报为准。",
-          "url": "https://flash.jin10.com/detail/20260508050051256800",
-          "source": "金十数据",
-          "ranks": [
             16
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时07分"
-        },
-        {
-          "title": "中国台湾4月贸易帐 143.5亿美元，预期191亿美元，前值212.7亿美元。",
-          "url": "https://flash.jin10.com/detail/20260508160029995800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时25分"
-        },
-        {
-          "title": "中国台湾4月进口年率 29.2%，预期38.75%，前值38.30%。",
-          "url": "https://flash.jin10.com/detail/20260508160015736800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时25分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "欧盟委员会发言人：我们将给予谷歌更多时间，以解决与数字市场法案相关的委员会关切。",
-          "url": "https://flash.jin10.com/detail/20260508191200528800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时55分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "稀土",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美财长将访日，讨论稀土和能源采购等问题",
-          "url": "https://news.ifeng.com/c/8swHlfabNZT",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时19分 ~ 09时21分]"
+          "time_info": "00时02分"
         }
       ]
     }
