@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-05-08T07:29:43.462837+08:00",
-  "total_titles_processed": 603,
+  "generated_at": "2026-05-08T09:21:12.973629+08:00",
+  "total_titles_processed": 752,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 31,
+      "match_count": 37,
       "titles": [
         {
           "title": "从狂热支持到强烈担忧，日本“铁粉”也要弃特朗普了？",
           "url": "https://news.ifeng.com/c/8swPaRUXu6L",
           "source": "凤凰网",
           "ranks": [
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时19分 ~ 07时29分]"
+          "appearance_count": 8,
+          "time_info": "[01时19分 ~ 09时21分]"
         },
         {
           "title": "伊朗战争丨特朗普与教皇争吵后，鲁比奥访问梵蒂冈",
@@ -37,8 +38,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时19分 ~ 07时29分]"
+          "appearance_count": 8,
+          "time_info": "[01时19分 ~ 09时21分]"
+        },
+        {
+          "title": "特朗普回应打击伊朗：只是轻微敲打",
+          "url": "https://news.ifeng.com/c/8swugAgjYdA",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时29分 ~ 09时21分]"
         },
         {
           "title": "巴基斯坦消息人士称美伊接近达成停战谅解备忘录，特朗普：有可能下周达成协议",
@@ -62,17 +75,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时17分"
-        },
-        {
-          "title": "特朗普回应打击伊朗：只是轻微敲打",
-          "url": "https://news.ifeng.com/c/8swugAgjYdA",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时29分"
         },
         {
           "title": "美国总统特朗普：与欧盟委员会主席冯德莱恩的通话非常愉快。",
@@ -115,7 +117,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时29分"
         },
@@ -137,7 +139,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时29分"
         },
@@ -148,9 +150,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时29分"
+        },
+        {
+          "title": "沙特科威特解除限制，但特朗普称：巴方要求谈判期间暂停“自由计划”",
+          "url": "https://flash.jin10.com/detail/20260508085204917800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时21分"
         },
         {
           "title": "美国总统特朗普：如果伊朗不迅速签署协议，那么在将来，我们将会以更猛烈、更激烈的手段来对付他们。",
@@ -159,7 +172,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时29分"
         },
@@ -181,7 +194,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时29分"
         },
@@ -192,7 +205,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时29分"
         },
@@ -203,7 +216,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时29分"
         },
@@ -214,7 +227,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时29分"
         },
@@ -230,15 +243,48 @@
           "time_info": "06时07分"
         },
         {
+          "title": "特朗普：没必要对美国的石油出口进行限制",
+          "url": "https://flash.jin10.com/detail/20260508084134483800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时21分"
+        },
+        {
           "title": "特朗普回应打击伊朗：只是小惩罚，停火仍然有效",
           "url": "https://flash.jin10.com/detail/20260508062437973800",
           "source": "金十数据",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时29分"
+        },
+        {
+          "title": "特朗普表示，他与巴西总统卢拉的会晤非常成功。",
+          "url": "https://wallstreetcn.com/livenews/3100279",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时21分"
+        },
+        {
+          "title": "特朗普表示，他已听取有关汉坦病毒的情况汇报，希望疫情能得到有效控制。",
+          "url": "https://wallstreetcn.com/livenews/3100278",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时21分"
         },
         {
           "title": "市场消息：美国贸易法院裁定特朗普提出的10%全球关税提案不成立。",
@@ -269,9 +315,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时29分"
+        },
+        {
+          "title": "特朗普：我们正在与伊朗进行谈判，伊朗停火协议依然有效。巴基斯坦已请求美国在与伊朗谈判期间不要执行“自由计划”。",
+          "url": "https://wallstreetcn.com/livenews/3100277",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时21分"
         },
         {
           "title": "美国贸易法庭裁定，特朗普10%全球关税败诉",
@@ -291,9 +348,20 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时29分"
+        },
+        {
+          "title": "特朗普：与伊朗谈判进展顺利 可能随时达成协议",
+          "url": "https://flash.jin10.com/detail/20260508082307205800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时21分"
         },
         {
           "title": "美国、巴西两国首脑华盛顿会晤，卢拉认为：特朗普不会对即将到来的巴西选举产任何影响",
@@ -302,7 +370,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时29分"
         },
@@ -313,7 +381,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时29分"
         },
@@ -346,7 +414,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时29分"
         }
@@ -354,7 +422,7 @@
     },
     {
       "keyword_group": "台湾",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "台湾问题是中国核心利益中的核心",
@@ -363,11 +431,12 @@
           "ranks": [
             2,
             3,
-            6
+            6,
+            9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时19分 ~ 07时29分]"
+          "appearance_count": 8,
+          "time_info": "[01时19分 ~ 09时21分]"
         },
         {
           "title": "外界猜测台湾问题是中美下阶段会晤中方首要关切议题，外交部回应",
@@ -375,11 +444,23 @@
           "source": "澎湃新闻",
           "ranks": [
             14,
-            15
+            15,
+            11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时19分 ~ 07时29分]"
+          "appearance_count": 8,
+          "time_info": "[01时19分 ~ 09时21分]"
+        },
+        {
+          "title": "台湾加权指数5月8日（周五）开盘下跌223.93点，跌幅0.53%，报41709.85点。",
+          "url": "https://flash.jin10.com/detail/20260508090126133800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时21分"
         },
         {
           "title": "中国地震台网自动测定：05月08日04时57分在台湾花莲县海域附近发生4.2级左右地震，最终结果以正式速报为准。",
@@ -406,8 +487,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时19分 ~ 07时29分]"
+          "appearance_count": 8,
+          "time_info": "[01时19分 ~ 09时21分]"
         }
       ]
     }
