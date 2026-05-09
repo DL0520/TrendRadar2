@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-09T22:02:37.823408+08:00",
-  "total_titles_processed": 1468,
+  "generated_at": "2026-05-09T23:06:29.157983+08:00",
+  "total_titles_processed": 1516,
   "failed_sources": [],
   "trends": [
     {
@@ -39,8 +39,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[11时37分 ~ 22时02分]"
+          "appearance_count": 14,
+          "time_info": "[11时37分 ~ 23时06分]"
         },
         {
           "title": "特朗普称中美元首会谈将按计划举行，外交部：目前无进一步信息提供",
@@ -75,8 +75,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时22分 ~ 22时02分]"
+          "appearance_count": 9,
+          "time_info": "[14时22分 ~ 23时06分]"
         },
         {
           "title": "中方回应何时发布特朗普访华消息",
@@ -107,6 +107,19 @@
           "time_info": "[00时02分 ~ 07时32分]"
         },
         {
+          "title": "特朗普：可能恢复“自由计划”行动，伊朗：正制定霍尔木兹海峡相关法律草案",
+          "url": "https://wallstreetcn.com/articles/3771883",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时53分 ~ 23时06分]"
+        },
+        {
           "title": "伊朗战争丨特朗普称可能恢复“自由计划”",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
           "source": "凤凰网",
@@ -129,18 +142,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[16时18分 ~ 20时12分]"
-        },
-        {
-          "title": "特朗普：可能恢复“自由计划”行动，伊朗：正制定霍尔木兹海峡相关法律草案",
-          "url": "https://wallstreetcn.com/articles/3771883",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时53分 ~ 22时02分]"
         },
         {
           "title": "Replimune Group股价上涨 21%，因有消息称美国总统特朗普正计划解雇美国食品药品监督管理局（FDA） 局长马蒂·马卡里。",
