@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-09T20:12:09.736205+08:00",
-  "total_titles_processed": 1362,
+  "generated_at": "2026-05-09T22:02:37.823408+08:00",
+  "total_titles_processed": 1468,
   "failed_sources": [],
   "trends": [
     {
@@ -39,8 +39,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时37分 ~ 20时12分]"
+          "appearance_count": 13,
+          "time_info": "[11时37分 ~ 22时02分]"
         },
         {
           "title": "特朗普称中美元首会谈将按计划举行，外交部：目前无进一步信息提供",
@@ -65,6 +65,18 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[11时37分 ~ 20时12分]"
+        },
+        {
+          "title": "英特尔大涨！与苹果达成初步芯片制造协议，特朗普政府居中撮合",
+          "url": "https://wallstreetcn.com/articles/3771870",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[14时22分 ~ 22时02分]"
         },
         {
           "title": "中方回应何时发布特朗普访华消息",
@@ -106,18 +118,6 @@
           "time_info": "[11时37分 ~ 11时38分]"
         },
         {
-          "title": "英特尔大涨！与苹果达成初步芯片制造协议，特朗普政府居中撮合",
-          "url": "https://wallstreetcn.com/articles/3771870",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时22分 ~ 19时02分]"
-        },
-        {
           "title": "特朗普称俄乌 9 日起停火三天，互换千名战俘，俄乌为何同意特朗普的提议？各方背后有着怎样的考量？",
           "url": "https://www.zhihu.com/question/2036400046988579032",
           "source": "知乎",
@@ -129,6 +129,18 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[16时18分 ~ 20时12分]"
+        },
+        {
+          "title": "特朗普：可能恢复“自由计划”行动，伊朗：正制定霍尔木兹海峡相关法律草案",
+          "url": "https://wallstreetcn.com/articles/3771883",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时53分 ~ 22时02分]"
         },
         {
           "title": "Replimune Group股价上涨 21%，因有消息称美国总统特朗普正计划解雇美国食品药品监督管理局（FDA） 局长马蒂·马卡里。",
@@ -195,18 +207,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时42分"
-        },
-        {
-          "title": "特朗普：可能恢复“自由计划”行动，伊朗：正制定霍尔木兹海峡相关法律草案",
-          "url": "https://wallstreetcn.com/articles/3771883",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时53分 ~ 20时12分]"
         },
         {
           "title": "伊朗外交部发言人：（特朗普的）“挑衅性行为”以及为其辩护的企图，都掩盖不了其自身的可耻行径。这预示着美伊紧张局势将进一步升级。",
@@ -598,8 +598,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时37分 ~ 20时12分]"
+          "appearance_count": 13,
+          "time_info": "[11时37分 ~ 22时02分]"
         },
         {
           "title": "中国4月铁矿砂及其精矿进口10,385.4万吨；1-4月累计进口41,858.7万吨，同比上升8%。 4月未锻轧铜及铜材进口45.2万吨；1-4月累计进口156.7万吨，同比下降9.8%。 4月铜矿砂及其精矿进口235.2万吨；1-4月累计进口991.5万吨，同比下降0.8%。 4月未锻轧铝及铝材出口59.8万吨；1-4月累计出口205.3万吨，同比上升8.9%。 4月钢材出口949.8万吨；1-4月累计出口3,421.4万吨，同比下降9.7%。 4月稀土出口5,308.6吨；1-4月累计出口19,887.6吨，同比上升4.9%。",
