@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-10T05:13:00.796014+08:00",
-  "total_titles_processed": 465,
+  "generated_at": "2026-05-10T06:10:31.280259+08:00",
+  "total_titles_processed": 482,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时29分 ~ 05时13分]"
+          "appearance_count": 8,
+          "time_info": "[00时29分 ~ 06时10分]"
         },
         {
           "title": "俄方同意特朗普提出的停火方案",
@@ -27,11 +27,12 @@
             26,
             4,
             22,
-            18
+            18,
+            29
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时33分 ~ 05时13分]"
+          "appearance_count": 6,
+          "time_info": "[01时33分 ~ 06时10分]"
         },
         {
           "title": "意媒：特朗普“仍在考虑”调整驻意美军",
@@ -40,9 +41,9 @@
           "ranks": [
             5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时13分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时13分 ~ 06时10分]"
         },
         {
           "title": "美国总统特朗普接受法国LCJ频道采访时表示：伊朗确实希望达成协议。",
