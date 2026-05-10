@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-10T19:04:42.591329+08:00",
-  "total_titles_processed": 1095,
+  "generated_at": "2026-05-10T20:12:40.047641+08:00",
+  "total_titles_processed": 1162,
   "failed_sources": [],
   "trends": [
     {
@@ -52,17 +52,6 @@
           "time_info": "[01时33分 ~ 07时26分]"
         },
         {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-05-10）",
-          "url": "https://flash.jin10.com/detail/20260510184554353800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时04分"
-        },
-        {
           "title": "特朗普还有一场硬仗",
           "url": "https://news.ifeng.com/c/8szUPi5xnTB",
           "source": "凤凰网",
@@ -71,8 +60,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时26分 ~ 19时04分]"
+          "appearance_count": 7,
+          "time_info": "[07时26分 ~ 20时12分]"
         },
         {
           "title": "英媒：在与特朗普产生摩擦后 德国正计划重启采购“战斧”导弹的努力",
@@ -84,6 +73,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时07分"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-05-10）",
+          "url": "https://flash.jin10.com/detail/20260510184554353800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时04分 ~ 20时12分]"
         },
         {
           "title": "美国总统特朗普接受法国LCJ频道采访时表示：伊朗确实希望达成协议。",
@@ -108,6 +109,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时29分 ~ 03时13分]"
+        },
+        {
+          "title": "俄罗斯总统助理乌沙科夫：美国总统特使威特科夫和特朗普女婿库什纳将“很快”抵达莫斯科，俄罗斯将继续与他们对话。",
+          "url": "https://flash.jin10.com/detail/20260510182305585800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时04分 ~ 20时12分]"
         },
         {
           "title": "俄罗斯总统普京：我们当即同意了特朗普关于延长停火并交换囚犯的提议。",
@@ -156,17 +169,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时13分 ~ 04时10分]"
-        },
-        {
-          "title": "俄罗斯总统助理乌沙科夫：美国总统特使威特科夫和特朗普女婿库什纳将“很快”抵达莫斯科，俄罗斯将继续与他们对话。",
-          "url": "https://flash.jin10.com/detail/20260510182305585800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时04分"
         },
         {
           "title": "媒体：特朗普还有一场“硬仗”",
