@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-10T09:22:35.648619+08:00",
-  "total_titles_processed": 627,
+  "generated_at": "2026-05-10T13:07:49.364891+08:00",
+  "total_titles_processed": 782,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "特朗普：可能恢复“自由计划”行动，伊朗：正制定霍尔木兹海峡相关法律草案",
@@ -42,11 +42,23 @@
           "ranks": [
             5,
             6,
-            10
+            10,
+            15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时13分 ~ 09时22分]"
+          "appearance_count": 5,
+          "time_info": "[05时13分 ~ 13时07分]"
+        },
+        {
+          "title": "英媒：在与特朗普产生摩擦后 德国正计划重启采购“战斧”导弹的努力",
+          "url": "https://flash.jin10.com/detail/20260510122534394800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时07分"
         },
         {
           "title": "美国总统特朗普接受法国LCJ频道采访时表示：伊朗确实希望达成协议。",
@@ -77,11 +89,12 @@
           "url": "https://news.ifeng.com/c/8szUPi5xnTB",
           "source": "凤凰网",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时26分 ~ 09时22分]"
+          "appearance_count": 3,
+          "time_info": "[07时26分 ~ 13时07分]"
         },
         {
           "title": "俄罗斯总统普京：我们当即同意了特朗普关于延长停火并交换囚犯的提议。",
@@ -138,7 +151,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时22分"
         },
