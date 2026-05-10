@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-10T20:12:40.047641+08:00",
-  "total_titles_processed": 1162,
+  "generated_at": "2026-05-10T22:02:45.943893+08:00",
+  "total_titles_processed": 1265,
   "failed_sources": [],
   "trends": [
     {
@@ -80,11 +80,12 @@
           "source": "金十数据",
           "ranks": [
             1,
-            11
+            11,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时04分 ~ 20时12分]"
+          "appearance_count": 3,
+          "time_info": "[19时04分 ~ 22时02分]"
         },
         {
           "title": "美国总统特朗普接受法国LCJ频道采访时表示：伊朗确实希望达成协议。",
