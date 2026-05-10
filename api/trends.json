@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-10T22:02:45.943893+08:00",
-  "total_titles_processed": 1265,
+  "generated_at": "2026-05-10T23:33:08.870962+08:00",
+  "total_titles_processed": 1346,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 15,
+      "match_count": 19,
       "titles": [
         {
           "title": "特朗普：可能恢复“自由计划”行动，伊朗：正制定霍尔木兹海峡相关法律草案",
@@ -170,6 +170,50 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时13分 ~ 04时10分]"
+        },
+        {
+          "title": "特朗普：美方一直在监控伊朗埋在废墟下的浓缩铀",
+          "url": "https://flash.jin10.com/detail/20260510222748266800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时33分"
+        },
+        {
+          "title": "美国总统特朗普：我并没有说针对伊朗的敌对行动已经结束，但我说过他们被击败了。",
+          "url": "https://flash.jin10.com/detail/20260510221423480800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时33分"
+        },
+        {
+          "title": "美国总统特朗普：如果有人靠近伊朗掩埋在废墟下的浓缩铀，我们会知道，并且会将其炸毁。",
+          "url": "https://flash.jin10.com/detail/20260510221333169800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时33分"
+        },
+        {
+          "title": "美国总统特朗普：我们正在监测伊朗掩埋在废墟下的浓缩铀，美国太空部队将接管相关任务。",
+          "url": "https://flash.jin10.com/detail/20260510221311512800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时33分"
         },
         {
           "title": "媒体：特朗普还有一场“硬仗”",
