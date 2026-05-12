@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-12T15:36:55.525091+08:00",
-  "total_titles_processed": 1036,
+  "generated_at": "2026-05-12T18:07:14.616596+08:00",
+  "total_titles_processed": 1193,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 57,
+      "match_count": 58,
       "titles": [
         {
           "title": "美国总统特朗普将于5月13日至15日访华",
@@ -67,19 +67,6 @@
           "time_info": "[00时06分 ~ 07时01分]"
         },
         {
-          "title": "外交部介绍特朗普访华具体安排",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A4%96%E4%BA%A4%E9%83%A8%E4%BB%8B%E7%BB%8D%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E5%8D%8E%E5%85%B7%E4%BD%93%E5%AE%89%E6%8E%92",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5,
-            10,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时06分 ~ 15时36分]"
-        },
-        {
           "title": "美国总统特朗普将于 5 月 13 日至 15 日访华，有哪些信息值得关注？",
           "url": "https://www.zhihu.com/question/2037095315845664890",
           "source": "知乎",
@@ -106,6 +93,20 @@
           "time_info": "[00时06分 ~ 08时09分]"
         },
         {
+          "title": "外交部介绍特朗普访华具体安排",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A4%96%E4%BA%A4%E9%83%A8%E4%BB%8B%E7%BB%8D%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E5%8D%8E%E5%85%B7%E4%BD%93%E5%AE%89%E6%8E%92",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5,
+            10,
+            21,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时06分 ~ 18时07分]"
+        },
+        {
           "title": "外交部介绍特朗普访华具体安排和中方期待",
           "url": "https://wallstreetcn.com/articles/3771976",
           "source": "华尔街见闻",
@@ -118,6 +119,19 @@
           "time_info": "[00时06分 ~ 08时09分]"
         },
         {
+          "title": "美国总统特朗普时隔九年再度对中国进行国事访问，双方可能会就哪些问题进行磋商？较上次访华会有什么变化？",
+          "url": "https://www.zhihu.com/question/2037161087863353508",
+          "source": "知乎",
+          "ranks": [
+            14,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[08时09分 ~ 18时07分]"
+        },
+        {
           "title": "【早报】特朗普将访华，中方回应；京沪高铁：部分线路涨价",
           "url": "https://www.cls.cn/detail/2368498",
           "source": "财联社热门",
@@ -128,6 +142,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[08时09分 ~ 15时36分]"
+        },
+        {
+          "title": "特朗普：中国是一个令人惊叹的国家",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E4%B8%AD%E5%9B%BD%E6%98%AF%E4%B8%80%E4%B8%AA%E4%BB%A4%E4%BA%BA%E6%83%8A%E5%8F%B9%E7%9A%84%E5%9B%BD%E5%AE%B6",
+          "source": "百度热搜",
+          "ranks": [
+            1,
+            6,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[08时09分 ~ 18时07分]"
         },
         {
           "title": "特朗普5月13日至15日访华",
@@ -174,18 +201,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时09分"
-        },
-        {
-          "title": "特朗普：中国是一个令人惊叹的国家",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E4%B8%AD%E5%9B%BD%E6%98%AF%E4%B8%80%E4%B8%AA%E4%BB%A4%E4%BA%BA%E6%83%8A%E5%8F%B9%E7%9A%84%E5%9B%BD%E5%AE%B6",
-          "source": "百度热搜",
-          "ranks": [
-            1,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时09分 ~ 15时36分]"
         },
         {
           "title": "白宫官员：特朗普周一将签署行政命令，允许增加牛肉进口并支持美国牛群存栏恢复。",
@@ -243,16 +258,18 @@
           "time_info": "00时07分"
         },
         {
-          "title": "美国总统特朗普时隔九年再度对中国进行国事访问，双方可能会就哪些问题进行磋商？较上次访华会有什么变化？",
-          "url": "https://www.zhihu.com/question/2037161087863353508",
-          "source": "知乎",
+          "title": "僵局难解：伊朗称美坚持“不合理要求”，特朗普称伊方回应愚蠢、停火协议“岌岌可危”",
+          "url": "https://wallstreetcn.com/articles/3772005",
+          "source": "华尔街见闻",
           "ranks": [
-            14,
-            3
+            10,
+            6,
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时09分 ~ 15时36分]"
+          "appearance_count": 5,
+          "time_info": "[08时09分 ~ 18时07分]"
         },
         {
           "title": "美国总统特朗普：封锁伊朗是军事天才之举。",
@@ -314,17 +331,41 @@
           "time_info": "[07时01分 ~ 08时09分]"
         },
         {
-          "title": "僵局难解：伊朗称美坚持“不合理要求”，特朗普称伊方回应愚蠢、停火协议“岌岌可危”",
-          "url": "https://wallstreetcn.com/articles/3772005",
-          "source": "华尔街见闻",
+          "title": "美国总统特朗普：非常期待中国之行",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33160584",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            18,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时25分 ~ 18时07分]"
+        },
+        {
+          "title": "中美关系的潜力、张力、角力｜谁在“只有特朗普”的对华政策决策圈中发挥作用",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33156316",
+          "source": "澎湃新闻",
           "ranks": [
             10,
-            6,
-            8
+            7
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[08时09分 ~ 15时36分]"
+          "time_info": "[15时36分 ~ 18时07分]"
+        },
+        {
+          "title": "一图看懂｜特朗普时隔9年再访华，回顾中美元首历次会晤",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33157149",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时36分 ~ 18时07分]"
         },
         {
           "title": "特朗普金卡遇冷 白宫商业鬼才现原形",
@@ -339,16 +380,15 @@
           "time_info": "[02时19分 ~ 04时20分]"
         },
         {
-          "title": "美国总统特朗普：非常期待中国之行",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33160584",
-          "source": "澎湃新闻",
+          "title": "受邀陪特朗普访华的企业与华有何渊源",
+          "url": "https://www.toutiao.com/trending/7638696162195308570/",
+          "source": "今日头条",
           "ranks": [
-            20,
-            18
+            24
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时25分 ~ 15时36分]"
+          "time_info": "[18时06分 ~ 18时07分]"
         },
         {
           "title": "特朗普发文称非常期待中国之行",
@@ -391,7 +431,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时36分"
         },
@@ -418,17 +458,6 @@
           "time_info": "02时19分"
         },
         {
-          "title": "中美关系的潜力、张力、角力｜谁在“只有特朗普”的对华政策决策圈中发挥作用",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33156316",
-          "source": "澎湃新闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时36分"
-        },
-        {
           "title": "分析：特朗普暂停征收燃油税或每月损失数十亿美元税收",
           "url": "https://flash.jin10.com/detail/20260512062007324800",
           "source": "金十数据",
@@ -446,7 +475,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时36分"
         },
@@ -493,17 +522,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时07分"
-        },
-        {
-          "title": "一图看懂｜特朗普时隔9年再访华，回顾中美元首历次会晤",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33157149",
-          "source": "澎湃新闻",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时36分"
         },
         {
           "title": "多个团体就特朗普政府可能削减住房项目发出警告",
@@ -663,7 +681,7 @@
     },
     {
       "keyword_group": "台湾",
-      "match_count": 6,
+      "match_count": 10,
       "titles": [
         {
           "title": "台湾方面再次无法参加世卫大会，国台办：这一局面完全是民进党当局造成的",
@@ -709,15 +727,37 @@
           "time_info": "[00时06分 ~ 08时09分]"
         },
         {
+          "title": "外交部就中美关系和台湾问题答问",
+          "url": "https://www.toutiao.com/trending/7638197019953791012/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时06分 ~ 18时07分]"
+        },
+        {
           "title": "巴拉圭总统窜访台湾地区，外交部：坚决反对、强烈谴责",
           "url": "https://flash.jin10.com/detail/20260512151828447800",
           "source": "金十数据",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时36分"
+        },
+        {
+          "title": "外交部就中美关系和台湾问题答问",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%B0%B1%E4%B8%AD%E7%BE%8E%E5%85%B3%E7%B3%BB%E5%92%8C%E5%8F%B0%E6%B9%BE%E9%97%AE%E9%A2%98%E7%AD%94%E9%97%AE",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时06分 ~ 18时07分]"
         },
         {
           "title": "国民党副主席：中华文化一直在台湾，台湾人也是堂堂正正的中国人",
@@ -729,6 +769,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时25分 ~ 15时36分]"
+        },
+        {
+          "title": "中方回应巴拉圭总统窜访台湾地区",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E5%B7%B4%E6%8B%89%E5%9C%AD%E6%80%BB%E7%BB%9F%E7%AA%9C%E8%AE%BF%E5%8F%B0%E6%B9%BE%E5%9C%B0%E5%8C%BA",
+          "source": "百度热搜",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时06分 ~ 18时07分]"
+        },
+        {
+          "title": "中方反对美国向中国台湾地区出售武器",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%8F%8D%E5%AF%B9%E7%BE%8E%E5%9B%BD%E5%90%91%E4%B8%AD%E5%9B%BD%E5%8F%B0%E6%B9%BE%E5%9C%B0%E5%8C%BA%E5%87%BA%E5%94%AE%E6%AD%A6%E5%99%A8",
+          "source": "百度热搜",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时06分 ~ 18时07分]"
         },
         {
           "title": "国民党副主席：台湾人也是中国人",
@@ -793,7 +855,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时36分"
         }
