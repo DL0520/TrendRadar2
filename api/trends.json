@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-19T14:15:41.826297+08:00",
-  "total_titles_processed": 991,
+  "generated_at": "2026-05-19T18:25:19.885814+08:00",
+  "total_titles_processed": 1180,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 54,
+      "match_count": 56,
       "titles": [
         {
           "title": "外交部回应特朗普涉台表态",
@@ -82,23 +82,24 @@
           "time_info": "[00时30分 ~ 07时11分]"
         },
         {
-          "title": "【早报】美股存储、半导体板块大跌；特朗普：暂缓对伊打击",
-          "url": "https://www.cls.cn/detail/2374806",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时31分 ~ 14时15分]"
-        },
-        {
           "title": "原定周二对伊朗攻击！特朗普应海湾三国请求推迟，内塔尼亚胡连续两晚开会备战",
           "url": "https://wallstreetcn.com/articles/3772569",
           "source": "华尔街见闻",
           "ranks": [
             5,
-            3
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时31分 ~ 18时25分]"
+        },
+        {
+          "title": "【早报】美股存储、半导体板块大跌；特朗普：暂缓对伊打击",
+          "url": "https://www.cls.cn/detail/2374806",
+          "source": "财联社热门",
+          "ranks": [
+            1
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -142,6 +143,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时31分 ~ 09时32分]"
+        },
+        {
+          "title": "沃什上任在即！特朗普“撤回”降息压力：伊朗战争结束前无法确定利率前景",
+          "url": "https://www.cls.cn/detail/2375112",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时25分"
         },
         {
           "title": "特朗普称“不考虑向德黑兰作出任何让步”",
@@ -219,8 +231,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时31分 ~ 14时15分]"
+          "appearance_count": 4,
+          "time_info": "[09时31分 ~ 18时25分]"
         },
         {
           "title": "特朗普称将推迟对伊朗发动军事打击 SpaceX正式启动拆股计划 | 环球市场",
@@ -267,6 +279,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时32分"
+        },
+        {
+          "title": "特朗普暗示日本过头了",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%9A%97%E7%A4%BA%E6%97%A5%E6%9C%AC%E8%BF%87%E5%A4%B4%E4%BA%86%23&t=31&band_rank=6&Refer=top",
+          "source": "微博",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时25分"
         },
         {
           "title": "美国总统特朗普宣布扩大折扣药品定价计划。",
@@ -330,7 +353,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时15分"
         },
@@ -374,7 +397,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时15分"
         },
@@ -631,11 +654,12 @@
           "url": "https://www.cls.cn/detail/2374982",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时15分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时15分 ~ 18时25分]"
         },
         {
           "title": "黑石集团宣布与谷歌成立合资企业，共同打造新的TPU云服务。",
@@ -730,7 +754,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时15分"
         }
