@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-21T06:27:03.906396+08:00",
-  "total_titles_processed": 463,
+  "generated_at": "2026-05-21T07:50:59.924232+08:00",
+  "total_titles_processed": 553,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "港大学者李成：我觉得特朗普对台军售政策会调整",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时24分 ~ 06时27分]"
+          "appearance_count": 6,
+          "time_info": "[02时24分 ~ 07时50分]"
         },
         {
           "title": "特朗普现身白宫宴会厅施工现场，称这是献给国家的礼物",
@@ -26,8 +26,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时24分 ~ 06时27分]"
+          "appearance_count": 6,
+          "time_info": "[02时24分 ~ 07时50分]"
         },
         {
           "title": "郑丽文：特朗普叫台湾不要再讲“台独”，民进党还装听不懂",
@@ -37,8 +37,19 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时24分 ~ 06时27分]"
+          "appearance_count": 6,
+          "time_info": "[02时24分 ~ 07时50分]"
+        },
+        {
+          "title": "特朗普一句话击穿油市！布油盘中跌超7%，美国库存创纪录暴跌也挡不住",
+          "url": "https://wallstreetcn.com/articles/3772754",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时50分"
         },
         {
           "title": "美国总统特朗普与以色列总理内塔尼亚胡周二就伊朗问题进行了气氛紧张的通话。（Axios）",
@@ -86,11 +97,12 @@
           "ranks": [
             15,
             16,
-            14
+            14,
+            10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时24分 ~ 06时27分]"
+          "appearance_count": 6,
+          "time_info": "[02时24分 ~ 07时50分]"
         },
         {
           "title": "周三（5月20日），美股人工智能（AI）赢家指数涨2.95%，报386.53点。 成分股Astera Labs收涨17.69%，Arm控股涨15.05%，核电股Oklo涨11.99%表现第三、CEG涨7.90%，闪迪涨0.67%表现第九，谷歌A涨0.32%涨幅最小，Lumentum跌2.47%Nebius集团跌2.99%。",
@@ -99,7 +111,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时27分"
         },
@@ -151,8 +163,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时24分 ~ 06时27分]"
+          "appearance_count": 6,
+          "time_info": "[02时24分 ~ 07时50分]"
         },
         {
           "title": "台湾青年支持两岸统一比例持续上升",
@@ -178,11 +190,12 @@
           "ranks": [
             8,
             9,
-            7
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时24分 ~ 06时27分]"
+          "appearance_count": 6,
+          "time_info": "[02时24分 ~ 07时50分]"
         }
       ]
     },
@@ -198,8 +211,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时24分 ~ 06时27分]"
+          "appearance_count": 6,
+          "time_info": "[02时24分 ~ 07时50分]"
         }
       ]
     }
