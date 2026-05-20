@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-20T12:49:05.691858+08:00",
-  "total_titles_processed": 867,
+  "generated_at": "2026-05-20T16:32:15.102301+08:00",
+  "total_titles_processed": 1059,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时53分 ~ 12时49分]"
+          "appearance_count": 9,
+          "time_info": "[00时53分 ~ 16时32分]"
         },
         {
           "title": "原定周二对伊朗攻击！特朗普应海湾三国请求推迟，内塔尼亚胡连续两晚开会备战",
@@ -35,11 +35,12 @@
           "url": "https://www.cls.cn/detail/2376144",
           "source": "财联社热门",
           "ranks": [
-            4
+            4,
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时48分 ~ 12时49分]"
+          "appearance_count": 4,
+          "time_info": "[12时48分 ~ 16时32分]"
         },
         {
           "title": "万斯为特朗普超长交易清单辩护",
@@ -358,7 +359,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时49分"
         },
@@ -451,11 +452,12 @@
           "source": "华尔街见闻",
           "ranks": [
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时13分 ~ 12时49分]"
+          "appearance_count": 5,
+          "time_info": "[08时13分 ~ 16时32分]"
         },
         {
           "title": "谷歌开发者大会火力全开：AI搜索、代码生成、视频模型齐发",
@@ -495,6 +497,18 @@
           "time_info": "[05时04分 ~ 06时46分]"
         },
         {
+          "title": "Token消耗一年暴增7倍！谷歌步入Agent驱动时代 带来什么启示？",
+          "url": "https://www.cls.cn/detail/2376249",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时48分 ~ 16时32分]"
+        },
+        {
           "title": "谷歌I/O大会今夜揭幕： Gemini 4.0悬念、全栈智能体与AI购物",
           "url": "https://wallstreetcn.com/articles/3772609",
           "source": "华尔街见闻",
@@ -525,17 +539,6 @@
           "source": "财联社热门",
           "ranks": [
             11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时48分 ~ 12时49分]"
-        },
-        {
-          "title": "Token消耗一年暴增7倍！谷歌步入Agent驱动时代 带来什么启示？",
-          "url": "https://www.cls.cn/detail/2376249",
-          "source": "财联社热门",
-          "ranks": [
-            12
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -798,7 +801,7 @@
     },
     {
       "keyword_group": "稀土",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "东北发现“更好挖”的新稀土矿",
@@ -809,11 +812,23 @@
             4,
             2,
             6,
-            14
+            14,
+            24
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时53分 ~ 12时49分]"
+          "appearance_count": 9,
+          "time_info": "[00时53分 ~ 16时32分]"
+        },
+        {
+          "title": "对等降税、稀土松绑、波音订单……商务部解读中美经贸磋商成果",
+          "url": "https://wallstreetcn.com/articles/3772691",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时31分 ~ 16时32分]"
         },
         {
           "title": "东北发现“更好挖”的新稀土矿",
@@ -833,7 +848,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时49分"
         }
@@ -841,7 +856,7 @@
     },
     {
       "keyword_group": "台湾",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "菲总统称不希望卷入任何与台湾有关的战争，外交部回应",
@@ -866,6 +881,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时48分 ~ 12时49分]"
+        },
+        {
+          "title": "中国台湾4月外销订单年率 48.1%，预期45%，前值65.90%。",
+          "url": "https://flash.jin10.com/detail/20260520160003365800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时32分"
         }
       ]
     }
