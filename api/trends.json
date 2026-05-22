@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-23T01:58:58.943149+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-05-23T04:02:37.841745+08:00",
+  "total_titles_processed": 390,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "特朗普声称要与赖清德通话，美媒分析后果",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时58分"
+          "appearance_count": 2,
+          "time_info": "[01时58分 ~ 04时02分]"
         },
         {
           "title": "美国总统特朗普：图尔西·加巴德将于6月30日离开政府；国家情报局副局长亚伦·卢卡斯将担任国家情报局代理局长。",
@@ -34,11 +34,12 @@
           "url": "https://wallstreetcn.com/livenews/3108190",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            6,
+            26
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时58分"
+          "appearance_count": 2,
+          "time_info": "[01时58分 ~ 04时02分]"
         },
         {
           "title": "俄方称，普京与特朗普有可能 11 月在中国见面，美俄关系是否有望迎来转机？中国在这其中会扮演怎样的角色？",
@@ -48,8 +49,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时58分"
+          "appearance_count": 2,
+          "time_info": "[01时58分 ~ 04时02分]"
         },
         {
           "title": "特朗普：将缺席儿子的婚礼",
@@ -83,6 +84,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时58分"
+        },
+        {
+          "title": "特朗普政府宣布：外国人必须回本国才能申请绿卡",
+          "url": "https://wallstreetcn.com/livenews/3108198",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时02分"
         },
         {
           "title": "美国商务部长卢特尼克捍卫总统特朗普入股英特尔的做法，要求一名法官驳回该公司股东有关这笔交易涉嫌政府非法持股的指控。",
@@ -120,8 +132,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时58分"
+          "appearance_count": 2,
+          "time_info": "[01时58分 ~ 04时02分]"
         }
       ]
     }
