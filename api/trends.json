@@ -1,11 +1,13 @@
 {
-  "generated_at": "2026-05-23T13:08:36.844236+08:00",
-  "total_titles_processed": 799,
-  "failed_sources": [],
+  "generated_at": "2026-05-23T18:02:21.561492+08:00",
+  "total_titles_processed": 992,
+  "failed_sources": [
+    "ifeng"
+  ],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 23,
+      "match_count": 29,
       "titles": [
         {
           "title": "特朗普声称要与赖清德通话，美媒分析后果",
@@ -19,6 +21,40 @@
           "time_info": "[01时58分 ~ 07时08分]"
         },
         {
+          "title": "美联储新主席宣誓！特朗普呼吁“要遏制通胀，不要遏制伟大”，沃什表态要做格林斯潘",
+          "url": "https://wallstreetcn.com/articles/3772951",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时08分 ~ 18时02分]"
+        },
+        {
+          "title": "美伊冲突升温！特朗普不参加儿子婚礼“坐镇白宫”，伊朗警告若再遭袭将开启战斗3.0，计划“以火力”封锁曼德海峡",
+          "url": "https://wallstreetcn.com/articles/3772968",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时01分 ~ 18时02分]"
+        },
+        {
+          "title": "特朗普变卦前，接到电话警告“会输给中国”",
+          "url": "https://news.ifeng.com/c/8tMYpnHTqBH",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时01分"
+        },
+        {
           "title": "美国总统特朗普：图尔西·加巴德将于6月30日离开政府；国家情报局副局长亚伦·卢卡斯将担任国家情报局代理局长。",
           "url": "https://flash.jin10.com/detail/20260523014007157800",
           "source": "金十数据",
@@ -28,17 +64,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时58分"
-        },
-        {
-          "title": "美联储新主席宣誓！特朗普呼吁“要遏制通胀，不要遏制伟大”，沃什表态要做格林斯潘",
-          "url": "https://wallstreetcn.com/articles/3772951",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时08分"
         },
         {
           "title": "俄方称，普京与特朗普有可能 11 月在中国见面，美俄关系是否有望迎来转机？中国在这其中会扮演怎样的角色？",
@@ -51,6 +76,30 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时58分 ~ 09时24分]"
+        },
+        {
+          "title": "特朗普：告诉沃什放手去做，预计他是位伟大的美联储主席，希望他完全独立",
+          "url": "https://wallstreetcn.com/articles/3772950",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时24分 ~ 18时02分]"
+        },
+        {
+          "title": "美官员称特朗普政府开始制定对古巴军事行动方案，美国为何盯上古巴？目前古巴局势如何？",
+          "url": "https://www.zhihu.com/question/2041148892323000444",
+          "source": "知乎",
+          "ranks": [
+            15,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时08分 ~ 18时02分]"
         },
         {
           "title": "美国总统特朗普将于5月23-24日滞留白宫。",
@@ -77,15 +126,15 @@
           "time_info": "[05时45分 ~ 07时08分]"
         },
         {
-          "title": "特朗普：告诉沃什放手去做，预计他是位伟大的美联储主席，希望他完全独立",
-          "url": "https://wallstreetcn.com/articles/3772950",
+          "title": "“新美联储通讯社”：特朗普选沃什本为降息，但市场已开始押注加息",
+          "url": "https://wallstreetcn.com/articles/3772936",
           "source": "华尔街见闻",
           "ranks": [
             9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时24分 ~ 13时08分]"
+          "time_info": "[18时01分 ~ 18时02分]"
         },
         {
           "title": "特朗普向沃什施压",
@@ -112,6 +161,28 @@
           "time_info": "[05时45分 ~ 07时08分]"
         },
         {
+          "title": "特朗普周末“坐镇白宫”：若谈判破裂或对伊朗发动“决定性打击”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33218086",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时01分 ~ 18时02分]"
+        },
+        {
+          "title": "特朗普取消出席儿子婚礼返回白宫",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%96%E6%B6%88%E5%87%BA%E5%B8%AD%E5%84%BF%E5%AD%90%E5%A9%9A%E7%A4%BC%E8%BF%94%E5%9B%9E%E7%99%BD%E5%AE%AB%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时01分 ~ 18时02分]"
+        },
+        {
           "title": "特朗普儿媳再忆中国行直呼震撼",
           "url": "https://www.toutiao.com/trending/7641561881347309611/",
           "source": "今日头条",
@@ -130,9 +201,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时08分"
+        },
+        {
+          "title": "“回家找妈妈吧！”演讲时遭打断，特朗普嘲讽抗议者",
+          "url": "https://v.ifeng.com/c/8tMPX6NaRot",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时01分"
         },
         {
           "title": "特朗普：将缺席儿子的婚礼",
@@ -152,18 +234,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时08分"
-        },
-        {
-          "title": "美官员称特朗普政府开始制定对古巴军事行动方案，美国为何盯上古巴？目前古巴局势如何？",
-          "url": "https://www.zhihu.com/question/2041148892323000444",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时08分"
         },
@@ -218,7 +289,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时08分"
         },
@@ -298,8 +369,19 @@
     },
     {
       "keyword_group": "台湾",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "美媒：台湾偷偷联系乌克兰，企图“取经”",
+          "url": "https://news.ifeng.com/c/8tMSUo6Z0Qj",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时01分"
+        },
         {
           "title": "馆长怒怼贾永婕：台湾是中国一部分",
           "url": "https://www.toutiao.com/trending/7642446027429052422/",
@@ -307,7 +389,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时08分"
         }
