@@ -1,417 +1,78 @@
 {
-  "generated_at": "2026-05-26T21:28:57.363674+08:00",
-  "total_titles_processed": 1283,
+  "generated_at": "2026-05-27T00:58:24.897302+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 22,
+      "match_count": 3,
       "titles": [
         {
-          "title": "特朗普要求先签“亚伯拉罕协议”，沙特回应",
-          "url": "https://news.ifeng.com/c/8tQf0euzx96",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时26分 ~ 18时09分]"
-        },
-        {
-          "title": "不小心把特朗普归类为“白痴”，鲁比奥紧急救场",
-          "url": "https://v.ifeng.com/c/8tPourOxMbK",
-          "source": "凤凰网",
+          "title": "美国总统特朗普：刚刚在沃尔特·里德军事医疗中心完成了体检，所有检查结果都非常完美。",
+          "url": "https://flash.jin10.com/detail/20260527004216949800",
+          "source": "金十数据",
           "ranks": [
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时26分 ~ 07时12分]"
-        },
-        {
-          "title": "特朗普称美伊协议基本谈成，油价跳水，全球股市走强，日股指新高，金银齐涨",
-          "url": "https://wallstreetcn.com/articles/3773010",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时26分 ~ 04时11分]"
+          "appearance_count": 1,
+          "time_info": "00时58分"
         },
         {
           "title": "特朗普称与伊朗谈判进展顺利、不会签让伊获核武的协议，美官员对近期解决争端乐观",
           "url": "https://wallstreetcn.com/articles/3773076",
           "source": "华尔街见闻",
           "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时26分 ~ 21时28分]"
-        },
-        {
-          "title": "特朗普要求先签“亚伯拉罕协议” 沙特方面回应",
-          "url": "https://flash.jin10.com/detail/20260526051929396800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时46分 ~ 07时12分]"
-        },
-        {
-          "title": "据AXIOS：一位美国高级官员透露，特朗普政府将支持以色列加大对真主党的军事打击力度。",
-          "url": "https://flash.jin10.com/detail/20260526013137022800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时11分 ~ 04时11分]"
-        },
-        {
-          "title": "报道称，图尔西·加巴德辞职后，副总统万斯在美国总统特朗普的政府内部愈发孤立，其在伊朗问题上的非干涉主义主张与特朗普发生冲突，而国务卿卢比奥的影响力正在上升。（每日邮报）",
-          "url": "https://wallstreetcn.com/livenews/3109030",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时46分 ~ 07时12分]"
-        },
-        {
-          "title": "据伊朗塔斯尼姆通讯社援引以色列第12频道的消息报道，美国特使威特科夫和特朗普高级顾问库什纳正前往以色列，以商讨一项可能的美伊合作协议。此次会谈将围绕华盛顿与德黑兰之间可能达成的协议展开讨论，会谈还将继续就霍尔木兹海峡问题和核问题进行协商。",
-          "url": "https://flash.jin10.com/detail/20260526013001335800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时11分 ~ 04时11分]"
-        },
-        {
-          "title": "创纪录！特朗普最新民调曝光",
-          "url": "https://news.ifeng.com/c/8tRHolWd0Kl",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时08分 ~ 21时28分]"
-        },
-        {
-          "title": "美司法部：白宫附近枪击案是针对特朗普的暗杀图谋",
-          "url": "https://news.ifeng.com/c/8tQNDOHHLfR",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时26分 ~ 09时27分]"
-        },
-        {
-          "title": "美国总统特朗普：重申伊朗永远都不会拥有核武器。",
-          "url": "https://wallstreetcn.com/livenews/3108990",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时11分 ~ 04时11分]"
-        },
-        {
-          "title": "美国总统特朗普：现在与委内瑞拉政府紧密接触。",
-          "url": "https://wallstreetcn.com/livenews/3108989",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时11分 ~ 04时11分]"
-        },
-        {
-          "title": "美国总统特朗普：伊朗不会拥有核武器。",
-          "url": "https://flash.jin10.com/detail/20260526011223011800",
-          "source": "金十数据",
-          "ranks": [
-            10,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时11分 ~ 04时11分]"
-        },
-        {
-          "title": "特朗普提出伊朗浓缩铀两种处理方法",
-          "url": "https://flash.jin10.com/detail/20260526064730179800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时12分"
-        },
-        {
-          "title": "美伊局势追踪：特朗普再称谈判“进展顺利” 双方据悉就资产解冻达成谅解",
-          "url": "https://www.cls.cn/detail/2381211",
-          "source": "财联社热门",
-          "ranks": [
             7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时46分"
+          "time_info": "00时58分"
         },
         {
-          "title": "美司法部：白宫附近枪击案是针对特朗普的暗杀图谋",
-          "url": "https://wallstreetcn.com/livenews/3108956",
-          "source": "华尔街见闻-快讯",
+          "title": "释新闻｜美伊谈判冲刺阶段，特朗普为何突然提起《亚伯拉罕协议》？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33237017",
+          "source": "澎湃新闻",
           "ranks": [
-            13
+            18
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时26分"
-        },
-        {
-          "title": "【特朗普称伊朗浓缩铀可运到其他地点销毁】美国总统特朗普25日在社交媒体发文称，伊朗的浓缩铀可以“现场销毁”或者在“另一个可以接受的地点”销毁。（新华社）",
-          "url": "https://wallstreetcn.com/livenews/3109042",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时12分"
-        },
-        {
-          "title": "美国总统特朗普：伊朗要么移交浓缩铀给美国，要么销毁。",
-          "url": "https://wallstreetcn.com/livenews/3109041",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时12分"
-        },
-        {
-          "title": "据Axios记者：特朗普有关伊朗浓缩铀的最新表态似乎表明美国在浓缩铀库存问题上的立场有所软化，更接近伊朗在这一问题上的立场。",
-          "url": "https://flash.jin10.com/detail/20260526060746668800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时12分"
-        },
-        {
-          "title": "特朗普要求先签“亚伯拉罕协议” 沙特方面回应",
-          "url": "https://wallstreetcn.com/livenews/3109035",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时12分"
-        },
-        {
-          "title": "特朗普：浓缩铀要么移交给美国 要么销毁",
-          "url": "https://flash.jin10.com/detail/20260526054700468800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时12分"
-        },
-        {
-          "title": "特朗普敦促沙特承认以色列，将其作为伊朗协议的一部分",
-          "url": "https://wallstreetcn.com/livenews/3108943",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时26分"
+          "time_info": "00时58分"
         }
       ]
     },
     {
       "keyword_group": "台湾",
-      "match_count": 7,
+      "match_count": 1,
       "titles": [
         {
-          "title": "台湾加权指数5月26日（周二）收盘下跌119.03点，跌幅0.27%，报43525.37点。",
-          "url": "https://flash.jin10.com/detail/20260526133526241800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时46分"
-        },
-        {
-          "title": "中国台湾证交所加权股价指数收低0.3%报43,525.37点。",
-          "url": "https://wallstreetcn.com/livenews/3109216",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时46分"
-        },
-        {
-          "title": "萧旭岑：台湾人也是堂堂正正的中国人",
-          "url": "https://www.toutiao.com/trending/7643966580816150574/",
+          "title": "台湾网红馆长盛赞大陆桥梁建造速度",
+          "url": "https://www.toutiao.com/trending/7643430695867875347/",
           "source": "今日头条",
           "ranks": [
-            5
+            10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时46分"
-        },
+          "time_info": "00时58分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "稀土",
+      "match_count": 1,
+      "titles": [
         {
-          "title": "台湾证交所加权股价指数上涨1%至44,090.41点。",
-          "url": "https://wallstreetcn.com/livenews/3109091",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时27分"
-        },
-        {
-          "title": "台湾证交所加权股价指数开高0.1%，报43,708.89点。",
-          "url": "https://wallstreetcn.com/livenews/3109090",
+          "title": "美国稀土公司上涨3.4%，美国锑业公司上涨3.2%，Critical Metals上涨3.1%，NioCorp上涨5.4%，TMC the metals company上涨3.6%，Alpha Metallurgical Resources上涨8.1%，Warrior Met Coal上涨10.9%。",
+          "url": "https://wallstreetcn.com/livenews/3109569",
           "source": "华尔街见闻-快讯",
           "ranks": [
             9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时27分"
-        },
-        {
-          "title": "台湾加权指数5月26日（周二）开盘上涨368.3点，涨幅0.84%，报44012.7点。",
-          "url": "https://flash.jin10.com/detail/20260526090107986800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时27分"
-        },
-        {
-          "title": "中国台湾股市市值升至4.95万亿美元，超过印度。",
-          "url": "https://wallstreetcn.com/livenews/3109080",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时27分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "稀土",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "中国暂停向日本出口部分稀土产品，外交部：依法依规，制止日本拥核企图",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33227433",
-          "source": "澎湃新闻",
-          "ranks": [
-            5,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时26分 ~ 13时46分]"
-        },
-        {
-          "title": "印度外长：美国与印度签署关键矿产和稀土协议。",
-          "url": "https://flash.jin10.com/detail/20260526132741051800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时46分"
-        },
-        {
-          "title": "中方回应停止向日本出口重稀土",
-          "url": "https://www.toutiao.com/trending/7643714981686414884/",
-          "source": "今日头条",
-          "ranks": [
-            26,
-            9,
-            8,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时26分 ~ 07时12分]"
-        },
-        {
-          "title": "中方回应停止向日本出口重稀土",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E5%81%9C%E6%AD%A2%E5%90%91%E6%97%A5%E6%9C%AC%E5%87%BA%E5%8F%A3%E9%87%8D%E7%A8%80%E5%9C%9F",
-          "source": "百度热搜",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时26分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "欧盟计划对谷歌处以高达数亿欧元的罚款",
-          "url": "https://wallstreetcn.com/livenews/3109054",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时12分"
+          "time_info": "00时58分"
         }
       ]
     }
