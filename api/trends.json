@@ -1,12 +1,34 @@
 {
-  "generated_at": "2026-05-27T03:25:46.771255+08:00",
-  "total_titles_processed": 406,
+  "generated_at": "2026-05-27T05:13:17.761126+08:00",
+  "total_titles_processed": 483,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 4,
+      "match_count": 12,
       "titles": [
+        {
+          "title": "美国总统特朗普：考虑到明天可能出现的恶劣天气情况，我们将在白宫举行内阁会议，并推迟前往戴维营的内阁行程。",
+          "url": "https://flash.jin10.com/detail/20260527044831585800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时13分"
+        },
+        {
+          "title": "美国总统特朗普宣称：准备在白宫举办内阁会议，推迟前往戴维营的行程。",
+          "url": "https://wallstreetcn.com/livenews/3109650",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时13分"
+        },
         {
           "title": "美国总统特朗普：刚刚在沃尔特·里德军事医疗中心完成了体检，所有检查结果都非常完美。",
           "url": "https://flash.jin10.com/detail/20260527004216949800",
@@ -19,6 +41,17 @@
           "time_info": "00时58分"
         },
         {
+          "title": "美国贸易代表格里尔：美国与加拿大存在贸易争端，该国对特朗普的关税采取了报复措施。",
+          "url": "https://flash.jin10.com/detail/20260527043602723800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时13分"
+        },
+        {
           "title": "释新闻｜美伊谈判冲刺阶段，特朗普为何突然提起《亚伯拉罕协议》？",
           "url": "https://m.thepaper.cn/newsDetail_forward_33237017",
           "source": "澎湃新闻",
@@ -27,8 +60,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时58分 ~ 03时25分]"
+          "appearance_count": 3,
+          "time_info": "[00时58分 ~ 05时13分]"
         },
         {
           "title": "据AXIOS网站记者：消息人士透露，美国总统特朗普正在与以色列总理内塔尼亚胡通电话。",
@@ -37,7 +70,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时25分"
         },
@@ -51,6 +84,61 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时58分"
+        },
+        {
+          "title": "美国贸易代表格里尔：美国总统特朗普对美国与墨西哥之间的贸易赤字表示担忧。",
+          "url": "https://flash.jin10.com/detail/20260527043047760800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时13分"
+        },
+        {
+          "title": "美国贸易代表格里尔：美国总统特朗普对关税豁免计划不感兴趣。",
+          "url": "https://flash.jin10.com/detail/20260527042055039800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时13分"
+        },
+        {
+          "title": "美伊谈判关键之际，特朗普与内塔尼亚胡通话",
+          "url": "https://wallstreetcn.com/livenews/3109633",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时13分"
+        },
+        {
+          "title": "美伊谈判关键之际 特朗普与内塔尼亚胡通话",
+          "url": "https://flash.jin10.com/detail/20260527033724525800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时13分"
+        },
+        {
+          "title": "美媒：紧要关头，特朗普拟在戴维营召开内阁会议",
+          "url": "https://wallstreetcn.com/livenews/3109620",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时13分"
         }
       ]
     },
@@ -76,7 +164,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时25分"
         }
