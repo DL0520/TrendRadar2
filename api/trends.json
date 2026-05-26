@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-27T00:58:24.897302+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-05-27T03:25:46.771255+08:00",
+  "total_titles_processed": 406,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "美国总统特朗普：刚刚在沃尔特·里德军事医疗中心完成了体检，所有检查结果都非常完美。",
@@ -19,6 +19,29 @@
           "time_info": "00时58分"
         },
         {
+          "title": "释新闻｜美伊谈判冲刺阶段，特朗普为何突然提起《亚伯拉罕协议》？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33237017",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时58分 ~ 03时25分]"
+        },
+        {
+          "title": "据AXIOS网站记者：消息人士透露，美国总统特朗普正在与以色列总理内塔尼亚胡通电话。",
+          "url": "https://flash.jin10.com/detail/20260527025513804800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时25分"
+        },
+        {
           "title": "特朗普称与伊朗谈判进展顺利、不会签让伊获核武的协议，美官员对近期解决争端乐观",
           "url": "https://wallstreetcn.com/articles/3773076",
           "source": "华尔街见闻",
@@ -28,23 +51,12 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时58分"
-        },
-        {
-          "title": "释新闻｜美伊谈判冲刺阶段，特朗普为何突然提起《亚伯拉罕协议》？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33237017",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时58分"
         }
       ]
     },
     {
       "keyword_group": "台湾",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "台湾网红馆长盛赞大陆桥梁建造速度",
@@ -56,6 +68,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时58分"
+        },
+        {
+          "title": "台积电股价屡创新高 中国台湾股市跃升至全球第五大市场",
+          "url": "https://www.cls.cn/detail/2381765",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时25分"
         }
       ]
     },
