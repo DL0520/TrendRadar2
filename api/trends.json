@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-29T07:40:24.824317+08:00",
-  "total_titles_processed": 578,
+  "generated_at": "2026-05-29T12:14:02.376903+08:00",
+  "total_titles_processed": 796,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 13,
+      "match_count": 15,
       "titles": [
         {
           "title": "特朗普称对谈判进程“不满意”、“不在意中选”，对“浓缩铀、制裁、霍尔木兹海峡”等划出红线，伊朗回应“不会退缩”",
@@ -28,8 +28,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时59分 ~ 07时40分]"
+          "appearance_count": 6,
+          "time_info": "[00时59分 ~ 12时14分]"
         },
         {
           "title": "特朗普的两张稀土王牌，先打上“内战”了",
@@ -52,6 +52,28 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时59分 ~ 07时40分]"
+        },
+        {
+          "title": "黄仁勋披露随特朗普访华细节：他让我在华盛顿登机，可我当时在西海岸",
+          "url": "https://news.ifeng.com/c/8tW3etoYczE",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时13分 ~ 12时14分]"
+        },
+        {
+          "title": "美司法部调查指控特朗普性侵的女作家",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%8F%B8%E6%B3%95%E9%83%A8%E8%B0%83%E6%9F%A5%E6%8C%87%E6%8E%A7%E7%89%B9%E6%9C%97%E6%99%AE%E6%80%A7%E4%BE%B5%E7%9A%84%E5%A5%B3%E4%BD%9C%E5%AE%B6%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时13分 ~ 12时14分]"
         },
         {
           "title": "据福克斯新闻记者：美国消息人士向白宫记者团证实，美国和伊朗已达成一项初步协议，但该协议尚待特朗普总统批准。",
@@ -187,7 +209,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时40分"
         },
@@ -206,8 +228,19 @@
     },
     {
       "keyword_group": "Claude",
-      "match_count": 1,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "claude opus 4.8 发布了，相较于 opus4.7，有什么提升的地方？",
+          "url": "https://www.zhihu.com/question/2043503794751791638",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时13分 ~ 12时14分]"
+        },
         {
           "title": "如何看待微软取消了 Claude Code 订阅？",
           "url": "https://www.zhihu.com/question/2042203258689672770",
@@ -218,6 +251,45 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时42分 ~ 06时01分]"
+        },
+        {
+          "title": "Claude Opus 4.8版本来了",
+          "url": "https://www.baidu.com/s?wd=Claude+Opus+4.8%E7%89%88%E6%9C%AC%E6%9D%A5%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时13分 ~ 12时14分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "台湾",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "专家：日本预演台湾有事清空战场",
+          "url": "https://www.toutiao.com/trending/7644415214599405622/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时13分 ~ 12时14分]"
+        },
+        {
+          "title": "外交部：台湾问题是中国人自己的事",
+          "url": "https://www.toutiao.com/trending/7645116445282107398/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时13分 ~ 12时14分]"
         }
       ]
     }
