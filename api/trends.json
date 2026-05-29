@@ -1,58 +1,40 @@
 {
-  "generated_at": "2026-05-29T23:57:12.063635+08:00",
-  "total_titles_processed": 1371,
+  "generated_at": "2026-05-30T02:39:55.780180+08:00",
+  "total_titles_processed": 308,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "特朗普",
-      "match_count": 25,
+      "keyword_group": "台湾",
+      "match_count": 2,
       "titles": [
         {
-          "title": "美媒称美伊达成60天谅解备忘录延长停火、需特朗普最终批准，拟规定霍尔木兹“无限制”通航",
-          "url": "https://wallstreetcn.com/articles/3773378",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时59分 ~ 19时49分]"
-        },
-        {
-          "title": "特朗普称对谈判进程“不满意”、“不在意中选”，对“浓缩铀、制裁、霍尔木兹海峡”等划出红线，伊朗回应“不会退缩”",
-          "url": "https://wallstreetcn.com/articles/3773275",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时59分 ~ 07时40分]"
-        },
-        {
-          "title": "特朗普的两张稀土王牌，先打上“内战”了",
-          "url": "https://news.ifeng.com/c/8tUtQKMFq2T",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时59分 ~ 07时40分]"
-        },
-        {
-          "title": "特朗普调侃赫格塞思：他热衷战争",
-          "url": "https://v.ifeng.com/c/8tSottvMqyW",
-          "source": "凤凰网",
+          "title": "外交部回应加军舰过航台湾海峡",
+          "url": "https://www.douyin.com/hot/2516587",
+          "source": "抖音",
           "ranks": [
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时59分 ~ 07时40分]"
+          "appearance_count": 1,
+          "time_info": "02时39分"
         },
+        {
+          "title": "日本军演转移 12 万居民，专家解读称「日本为预演台湾有事清空战场」，怎样解读日方的行动？",
+          "url": "https://www.zhihu.com/question/2043702700794013075",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时39分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特朗普",
+      "match_count": 1,
+      "titles": [
         {
           "title": "特朗普如何让一个格陵兰激进独立斗士变成“爱国者”",
           "url": "https://news.ifeng.com/c/8tWtCZfg2nz",
@@ -61,390 +43,14 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时56分 ~ 23时57分]"
-        },
-        {
-          "title": "黄仁勋披露随特朗普访华细节：他让我在华盛顿登机，可我当时在西海岸",
-          "url": "https://news.ifeng.com/c/8tW3etoYczE",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时13分 ~ 12时14分]"
-        },
-        {
-          "title": "黄仁勋披露访华细节：特朗普让我在华盛顿登机，可我在西海岸",
-          "url": "https://news.ifeng.com/c/8tW3etoYczE",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时25分 ~ 19时49分]"
-        },
-        {
-          "title": "美司法部调查指控特朗普性侵的女作家",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%8F%B8%E6%B3%95%E9%83%A8%E8%B0%83%E6%9F%A5%E6%8C%87%E6%8E%A7%E7%89%B9%E6%9C%97%E6%99%AE%E6%80%A7%E4%BE%B5%E7%9A%84%E5%A5%B3%E4%BD%9C%E5%AE%B6%23&t=31&band_rank=20&Refer=top",
-          "source": "微博",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时13分 ~ 12时14分]"
-        },
-        {
-          "title": "据福克斯新闻记者：美国消息人士向白宫记者团证实，美国和伊朗已达成一项初步协议，但该协议尚待特朗普总统批准。",
-          "url": "https://flash.jin10.com/detail/20260529002221443800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时59分"
-        },
-        {
-          "title": "美财长称特朗普不会接受“糟糕的伊朗协议”",
-          "url": "https://flash.jin10.com/detail/20260529025050231800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时42分"
-        },
-        {
-          "title": "据知情人士透露，美国与伊朗达成了关于60天停火的谅解备忘录（MoU），但仍需特朗普批准。（路透）",
-          "url": "https://wallstreetcn.com/livenews/3110862",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时59分"
-        },
-        {
-          "title": "特朗普说美伊就核问题和霍尔木兹海峡以外次要事项达成一致",
-          "url": "https://wallstreetcn.com/livenews/3111539",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时57分"
-        },
-        {
-          "title": "特朗普说伊朗浓缩铀材料将被挖出销毁",
-          "url": "https://wallstreetcn.com/livenews/3111538",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时57分"
-        },
-        {
-          "title": "美国财长贝森特：美国财政部正着手筹备一款印有特朗普总统头像的250美元新版纸币。",
-          "url": "https://flash.jin10.com/detail/20260529023847021800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时42分"
-        },
-        {
-          "title": "美国财长贝森特：石油（价格）将低于美国、以色列发动伊朗战争之前的水平。 石油市场将得到很好的供应。 关于伊朗的条款磋商反反复复。 霍尔木兹海峡将免费开放，将近2000艘船只等待离开波斯湾。 总统特朗普不会接受一份糟糕的协议。",
-          "url": "https://wallstreetcn.com/livenews/3110890",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时42分"
-        },
-        {
-          "title": "【特朗普就结束伊朗战事提出条件】美国总统特朗普29日说，伊朗必须同意永远不拥有核武器。霍尔木兹海峡必须立即开放，双向通行无阻，不收取任何通行费。所有水雷必须予以清除。（新华社）",
-          "url": "https://wallstreetcn.com/livenews/3111533",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时57分"
-        },
-        {
-          "title": "无人机制造商Unusual Machines Inc.（UMAC）维持超过68%的涨幅，持稳于盘中历史新高32美元附近，媒体报道称，美国总统特朗普的政府考虑注资该公司，从而提高美国的产量、降低成本。",
-          "url": "https://wallstreetcn.com/livenews/3110888",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时42分"
-        },
-        {
-          "title": "特朗普说即将开会就伊朗战事作出最终决定",
-          "url": "https://wallstreetcn.com/livenews/3111530",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时57分"
-        },
-        {
-          "title": "特朗普对伊朗协议提出要求，称：将做“最终决定”",
-          "url": "https://wallstreetcn.com/livenews/3111525",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时57分"
-        },
-        {
-          "title": "特朗普说美伊就核问题和霍尔木兹海峡以外次要事项达成一致",
-          "url": "https://flash.jin10.com/detail/20260529231353506800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时57分"
-        },
-        {
-          "title": "美国总统特朗普：（置评伊朗冲突）我们掌握所有筹码。伊朗在军事上被击败。",
-          "url": "https://flash.jin10.com/detail/20260529042337161800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时01分"
-        },
-        {
-          "title": "特朗普就结束伊朗战事提出条件",
-          "url": "https://flash.jin10.com/detail/20260529231002596800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时57分"
-        },
-        {
-          "title": "美国财长贝森特：（关于达成协议的报道）团队一直在进行反复沟通，特朗普总统已经明确表示他有几条红线……他不会接受糟糕的交易。",
-          "url": "https://flash.jin10.com/detail/20260529022304555800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时42分"
-        },
-        {
-          "title": "美国总统特朗普声称：我们掌握所有的牌，伊朗在军事上被击败。（福克斯新闻）",
-          "url": "https://wallstreetcn.com/livenews/3110932",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时01分"
-        },
-        {
-          "title": "报道：特朗普政府企图让美国车辆制造在USMCA占比达到50%",
-          "url": "https://wallstreetcn.com/livenews/3111516",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时57分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "台湾",
-      "match_count": 9,
-      "titles": [
-        {
-          "title": "外交部回应加拿大军舰派至台湾海峡",
-          "url": "https://www.toutiao.com/trending/7645152019690831914/",
-          "source": "今日头条",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时25分 ~ 19时49分]"
-        },
-        {
-          "title": "专家：日本预演台湾有事清空战场",
-          "url": "https://www.toutiao.com/trending/7644415214599405622/",
-          "source": "今日头条",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时13分 ~ 12时14分]"
-        },
-        {
-          "title": "中国台湾将2026年出口预测从增长22.22%上调至增长39.77%。",
-          "url": "https://wallstreetcn.com/livenews/3111275",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时25分"
-        },
-        {
-          "title": "日本军演转移 12 万居民，专家解读称「日本为预演台湾有事清空战场」，怎样解读日方的行动？",
-          "url": "https://www.zhihu.com/question/2043702700794013075",
-          "source": "知乎",
-          "ranks": [
-            14,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时49分 ~ 23时57分]"
-        },
-        {
-          "title": "外交部回应加军舰过航台湾海峡",
-          "url": "https://www.douyin.com/hot/2516587",
-          "source": "抖音",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时56分 ~ 23时57分]"
-        },
-        {
-          "title": "报道称加拿大军舰过航台湾海峡，外交部回应",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33263571",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时56分 ~ 23时57分]"
-        },
-        {
-          "title": "外交部：台湾问题是中国人自己的事",
-          "url": "https://www.toutiao.com/trending/7645116445282107398/",
-          "source": "今日头条",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时13分 ~ 12时14分]"
-        },
-        {
-          "title": "中国台湾第一季度GDP年率终值 14.55%，预期13.70%，前值13.69%。",
-          "url": "https://flash.jin10.com/detail/20260529161009135800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时25分"
-        },
-        {
-          "title": "外交部回应加拿大军舰派至台湾海峡",
-          "url": "https://wallstreetcn.com/livenews/3111242",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时25分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "谷歌云：Nano Banana 2和Nano Banana Pro已正式上线。",
-          "url": "https://wallstreetcn.com/livenews/3110860",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时59分"
-        },
-        {
-          "title": "谷歌云：Nano Banana 2和Nano Banana Pro已正式上线。",
-          "url": "https://flash.jin10.com/detail/20260529001147406800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时59分"
-        },
-        {
-          "title": "据美国得克萨斯州车管局（DMV）网站：谷歌母公司Alphabet旗下Waymo已有577辆AVS、317辆Avride登记。 特斯拉有42辆车在美国得州被登记为无人驾驶出租车（Robotaxi）。",
-          "url": "https://wallstreetcn.com/livenews/3110968",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时40分"
-        },
-        {
-          "title": "阿波罗推销360亿美元债务融资，旨在为Anthropic购买谷歌芯片",
-          "url": "https://wallstreetcn.com/livenews/3110939",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时01分"
+          "time_info": "02时39分"
         }
       ]
     },
     {
       "keyword_group": "Claude",
-      "match_count": 4,
+      "match_count": 1,
       "titles": [
         {
           "title": "如何看待 5 月 29 日发布的 Claude4.8Opus 疑似大量蒸馏国内开源模型？",
@@ -454,42 +60,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时49分 ~ 23时57分]"
-        },
-        {
-          "title": "claude opus 4.8 发布了，相较于 opus4.7，有什么提升的地方？",
-          "url": "https://www.zhihu.com/question/2043503794751791638",
-          "source": "知乎",
-          "ranks": [
-            5,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时13分 ~ 16时25分]"
-        },
-        {
-          "title": "如何看待微软取消了 Claude Code 订阅？",
-          "url": "https://www.zhihu.com/question/2042203258689672770",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时42分 ~ 06时01分]"
-        },
-        {
-          "title": "Claude Opus 4.8版本来了",
-          "url": "https://www.baidu.com/s?wd=Claude+Opus+4.8%E7%89%88%E6%9C%AC%E6%9D%A5%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时13分 ~ 12时14分]"
+          "appearance_count": 1,
+          "time_info": "02时39分"
         }
       ]
     }
