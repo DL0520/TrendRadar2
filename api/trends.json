@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-01T09:41:54.581707+08:00",
-  "total_titles_processed": 632,
+  "generated_at": "2026-06-01T15:07:35.555789+08:00",
+  "total_titles_processed": 863,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 12,
+      "match_count": 16,
       "titles": [
         {
           "title": "美伊谈判进入关键拉锯：特朗普临时改协议，签署时间再生变数",
@@ -30,6 +30,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时16分 ~ 07时07分]"
+        },
+        {
+          "title": "特朗普怒斥国内“杂音”不断：伊朗其实很想谈！",
+          "url": "https://flash.jin10.com/detail/20260601145033922800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时07分"
         },
         {
           "title": "多名艺人辞演后特朗普决定自己上台",
@@ -57,6 +68,29 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时16分 ~ 07时07分]"
+        },
+        {
+          "title": "特朗普面临结束战争压力 解冻伊朗资金或招致批评",
+          "url": "https://flash.jin10.com/detail/20260601145026133800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时07分"
+        },
+        {
+          "title": "特朗普提出更强硬条款，伊朗：已准备好谈判破裂",
+          "url": "https://news.ifeng.com/c/8taubWZltKg",
+          "source": "凤凰网",
+          "ranks": [
+            9,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时41分 ~ 15时07分]"
         },
         {
           "title": "贝森特：特朗普将严格执行潜在的伊朗协议 油价将继续走低",
@@ -95,17 +129,6 @@
           "time_info": "[02时47分 ~ 04时16分]"
         },
         {
-          "title": "特朗普提出更强硬条款，伊朗：已准备好谈判破裂",
-          "url": "https://news.ifeng.com/c/8taubWZltKg",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时41分"
-        },
-        {
           "title": "美媒称特朗普政府损失大量法律人才 特朗普：是件好事",
           "url": "https://flash.jin10.com/detail/20260601042418213800",
           "source": "金十数据",
@@ -123,9 +146,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时41分"
+        },
+        {
+          "title": "美伊局势再添迷雾！协议草案遭遇更严苛修改 特朗普重申“不急”",
+          "url": "https://www.cls.cn/detail/2386550",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时07分"
         },
         {
           "title": "据日经新闻：日本将参与美国特朗普政府的“创世使命”（Genesis Mission）AI项目，以推动科研创新。",
@@ -134,7 +168,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时41分"
         },
@@ -148,12 +182,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时16分"
+        },
+        {
+          "title": "特朗普：伊朗真的很想达成协议，最终一切都会顺利解决，大家只需坐下来，放轻松。",
+          "url": "https://wallstreetcn.com/livenews/3112190",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时07分"
         }
       ]
     },
     {
       "keyword_group": "台湾",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "美防长夸赞中美关系却只字未提台湾，“沉默震耳欲聋”",
@@ -167,13 +212,24 @@
           "time_info": "01时16分"
         },
         {
+          "title": "中国台湾证交所加权股价指数收高1.4%报45,337.91点。",
+          "url": "https://wallstreetcn.com/livenews/3112203",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时07分"
+        },
+        {
           "title": "台湾加权指数6月1日（周一）开盘上涨511.31点，涨幅1.14%，报45244.25点。",
           "url": "https://flash.jin10.com/detail/20260601090117285800",
           "source": "金十数据",
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时41分"
         },
@@ -184,7 +240,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时41分"
         }
