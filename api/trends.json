@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-05T06:06:50.171138+08:00",
-  "total_titles_processed": 484,
+  "generated_at": "2026-06-05T07:47:26.746866+08:00",
+  "total_titles_processed": 580,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 40,
+      "match_count": 42,
       "titles": [
         {
           "title": "被特朗普斥责“疯了”后，内塔尼亚胡最新发声",
@@ -19,17 +19,6 @@
           "time_info": "[01时31分 ~ 01时32分]"
         },
         {
-          "title": "美国总统特朗普宣布将于6月24日在华盛顿特区举行庆典，庆祝美国建国250周年。",
-          "url": "https://flash.jin10.com/detail/20260605055248462800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时06分"
-        },
-        {
           "title": "美国总统特朗普：赞赏代理国家情报总监、兼联邦住房金融局(FHFA)局长Bill Pulte在房利美与房地美（两房）的工作。 两房的价值可能有1万亿美元。",
           "url": "https://wallstreetcn.com/livenews/3114612",
           "source": "华尔街见闻-快讯",
@@ -41,15 +30,15 @@
           "time_info": "04时12分"
         },
         {
-          "title": "特朗普：乐见“普泽会”，俄乌会“妥协”",
-          "url": "https://wallstreetcn.com/livenews/3114655",
-          "source": "华尔街见闻-快讯",
+          "title": "特朗普：愿见伊朗新最高领袖，“他在某些圈子里口碑不错”",
+          "url": "https://flash.jin10.com/detail/20260605071426390800",
+          "source": "金十数据",
           "ranks": [
-            2
+            3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时06分"
+          "time_info": "07时47分"
         },
         {
           "title": "俄外长：“拜登的战争”变成“特朗普的战争”",
@@ -74,17 +63,6 @@
           "time_info": "04时12分"
         },
         {
-          "title": "特朗普：乐见“普泽会”，俄乌会“妥协”",
-          "url": "https://flash.jin10.com/detail/20260605054401786800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时06分"
-        },
-        {
           "title": "俄罗斯总统普京：特朗普在阿拉斯加曾要求俄罗斯作出一定妥协，俄方对此已准备就绪。",
           "url": "https://flash.jin10.com/detail/20260605012011254800",
           "source": "金十数据",
@@ -94,6 +72,42 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时32分"
+        },
+        {
+          "title": "美国总统特朗普宣布将于6月24日在华盛顿特区举行庆典，庆祝美国建国250周年。",
+          "url": "https://flash.jin10.com/detail/20260605055248462800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时06分 ~ 07时47分]"
+        },
+        {
+          "title": "特朗普：乐见“普泽会”，俄乌会“妥协”",
+          "url": "https://wallstreetcn.com/livenews/3114655",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时06分 ~ 07时47分]"
+        },
+        {
+          "title": "特朗普：乐见“普泽会”，俄乌会“妥协”",
+          "url": "https://flash.jin10.com/detail/20260605054401786800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时06分 ~ 07时47分]"
         },
         {
           "title": "美众议院通过决议，限制特朗普对伊动武权力",
@@ -112,11 +126,12 @@
           "url": "https://flash.jin10.com/detail/20260605053303350800",
           "source": "金十数据",
           "ranks": [
-            6
+            6,
+            29
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时06分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时06分 ~ 07时47分]"
         },
         {
           "title": "美国总统特朗普：将动用《国防生产法》来保留13座煤电厂。",
@@ -136,7 +151,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时06分"
         },
@@ -169,9 +184,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时06分"
+        },
+        {
+          "title": "OpenAI的CEO Altman与美国总统特朗普谈论政府持股事宜。 美国官员就政府收购AI巨头们的股份开会。 佛蒙特州（vermont）独立议员即将给出的立法草案还建议，对OpenAI、Anthropic、马斯克旗下xAI、以及其他AI公司的股票征税50%。（Notus）",
+          "url": "https://wallstreetcn.com/livenews/3114670",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时47分"
         },
         {
           "title": "美国总统特朗普：风能表现不佳。",
@@ -224,7 +250,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时06分"
         },
@@ -257,7 +283,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时06分"
         },
@@ -268,7 +294,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时06分"
         },
@@ -279,7 +305,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时06分"
         },
@@ -301,7 +327,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时06分"
         },
@@ -312,7 +338,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时06分"
         },
@@ -323,7 +349,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时06分"
         },
@@ -334,7 +360,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时06分"
         },
@@ -345,7 +371,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时06分"
         },
@@ -356,7 +382,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时06分"
         },
@@ -367,7 +393,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时06分"
         },
@@ -378,7 +404,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时06分"
         },
@@ -389,7 +415,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时06分"
         },
@@ -400,7 +426,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时06分"
         },
@@ -411,7 +437,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时06分"
         },
@@ -444,7 +470,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时06分"
         }
@@ -452,18 +478,19 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "博通电话会：CEO坦言谷歌正“另寻新欢”，但需求旺盛订单排到2028年，将打造算力融资平台",
           "url": "https://wallstreetcn.com/articles/3773814",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时31分 ~ 06时06分]"
+          "appearance_count": 5,
+          "time_info": "[01时31分 ~ 07时47分]"
         },
         {
           "title": "市场消息：谷歌(GOOG.O)宣布将在得克萨斯州投资建设新数据中心并加大能源投入。",
@@ -497,6 +524,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时12分"
+        },
+        {
+          "title": "据Business Insider：谷歌(GOOG.O)正悄然裁减其云部门员工。",
+          "url": "https://flash.jin10.com/detail/20260605064523592800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时47分"
         },
         {
           "title": "纳斯达克100指数跌幅收窄至0.5%，成分股博通目前仍然跌14.5%，美光科技跌6.1%，Lumentum跌2.3%，特斯拉跌1.1%，谷歌A则涨3.5%，迈威尔科技/美满科技、Doordash涨3.9%。",
