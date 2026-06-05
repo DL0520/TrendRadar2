@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-05T19:46:02.331100+08:00",
-  "total_titles_processed": 1211,
+  "generated_at": "2026-06-05T23:18:09.720069+08:00",
+  "total_titles_processed": 1399,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 50,
+      "match_count": 57,
       "titles": [
         {
           "title": "特朗普：乐见“普泽会”，俄乌会“妥协”",
@@ -30,6 +30,28 @@
           "time_info": "[01时31分 ~ 01时32分]"
         },
         {
+          "title": "在这件事上，特朗普宣布要花7亿美元",
+          "url": "https://news.ifeng.com/c/8tiAmm9M2oW",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时17分 ~ 23时18分]"
+        },
+        {
+          "title": "俄罗斯总统普京：我不明白乌克兰为什么不想让特朗普政府作为和平谈判的担保方。",
+          "url": "https://flash.jin10.com/detail/20260605231249562800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时18分"
+        },
+        {
           "title": "美国总统特朗普：赞赏代理国家情报总监、兼联邦住房金融局(FHFA)局长Bill Pulte在房利美与房地美（两房）的工作。 两房的价值可能有1万亿美元。",
           "url": "https://wallstreetcn.com/livenews/3114612",
           "source": "华尔街见闻-快讯",
@@ -39,6 +61,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时12分"
+        },
+        {
+          "title": "纳指跌幅扩大至2%，“无视”特朗普隔空喊涨的态度",
+          "url": "https://wallstreetcn.com/livenews/3115234",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时18分"
         },
         {
           "title": "特朗普：愿见伊朗新最高领袖，“他在某些圈子里口碑不错”",
@@ -143,6 +176,18 @@
           "time_info": "[06时06分 ~ 07时47分]"
         },
         {
+          "title": "特朗普称若达成协议，不排除与伊朗最高领袖会晤",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33313125",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时45分 ~ 23时18分]"
+        },
+        {
           "title": "美众议院通过决议，限制特朗普对伊动武权力",
           "url": "https://m.thepaper.cn/newsDetail_forward_33304841",
           "source": "澎湃新闻",
@@ -177,17 +222,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时06分 ~ 07时47分]"
-        },
-        {
-          "title": "特朗普称若达成协议，不排除与伊朗最高领袖会晤",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33313125",
-          "source": "澎湃新闻",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时45分 ~ 19时46分]"
         },
         {
           "title": "美国总统特朗普：将动用《国防生产法》来保留13座煤电厂。",
@@ -267,6 +301,17 @@
           "time_info": "07时47分"
         },
         {
+          "title": "美国参议院Jim Banks发函财长贝森特、战争部长海格塞斯、以及特朗普政府的其他官员。 Banks要求对AI的监管跟上新模型的（发布）节奏。",
+          "url": "https://wallstreetcn.com/livenews/3115225",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时18分"
+        },
+        {
           "title": "美国总统特朗普：风能表现不佳。",
           "url": "https://flash.jin10.com/detail/20260605033206043800",
           "source": "金十数据",
@@ -333,6 +378,17 @@
           "time_info": "04时12分"
         },
         {
+          "title": "一边猛吹非农一边否认通胀隐患，特朗普还在做降息美梦？",
+          "url": "https://flash.jin10.com/detail/20260605230341100800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时18分"
+        },
+        {
           "title": "美国总统特朗普：我们将采取行动，利用煤炭的力量来降低能源价格。",
           "url": "https://flash.jin10.com/detail/20260605033009382800",
           "source": "金十数据",
@@ -355,6 +411,17 @@
           "time_info": "06时06分"
         },
         {
+          "title": "特朗普呼吁股市应随“绝佳”就业报告上涨，标普500指数却逆势下跌",
+          "url": "https://wallstreetcn.com/livenews/3115218",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时18分"
+        },
+        {
           "title": "美国总统特朗普：将很快提名美国代理司法部长布兰奇担任司法部长，相关文件正在准备中。",
           "url": "https://flash.jin10.com/detail/20260605044520253800",
           "source": "金十数据",
@@ -364,6 +431,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时06分"
+        },
+        {
+          "title": "美国总统特朗普：就业报告很棒。 增长并不意味着通胀。",
+          "url": "https://wallstreetcn.com/livenews/3115217",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时18分"
         },
         {
           "title": "特朗普称若达成协议 不排除与伊朗最高领袖会晤",
@@ -559,9 +637,103 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时46分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "台湾",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "荷兰军舰过航台湾海峡解放军跟监警戒",
+          "url": "https://www.toutiao.com/trending/7647896390005165611/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时17分 ~ 23时18分]"
+        },
+        {
+          "title": "荷兰军舰过航台湾海峡 东部战区发声",
+          "url": "https://www.baidu.com/s?wd=%E8%8D%B7%E5%85%B0%E5%86%9B%E8%88%B0%E8%BF%87%E8%88%AA%E5%8F%B0%E6%B9%BE%E6%B5%B7%E5%B3%A1+%E4%B8%9C%E9%83%A8%E6%88%98%E5%8C%BA%E5%8F%91%E5%A3%B0",
+          "source": "百度热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时17分 ~ 23时18分]"
+        },
+        {
+          "title": "荷兰军舰过航台湾海峡，东部战区回应",
+          "url": "https://news.ifeng.com/c/8tiU6W8vHl8",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时17分 ~ 23时18分]"
+        },
+        {
+          "title": "日本为何一直在台湾问题上挑衅",
+          "url": "https://www.toutiao.com/trending/7647502439286145065/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时31分 ~ 16时32分]"
+        },
+        {
+          "title": "东部战区回应荷兰军舰过航台湾海峡",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%9C%E9%83%A8%E6%88%98%E5%8C%BA%E5%9B%9E%E5%BA%94%E8%8D%B7%E5%85%B0%E5%86%9B%E8%88%B0%E8%BF%87%E8%88%AA%E5%8F%B0%E6%B9%BE%E6%B5%B7%E5%B3%A1%23&t=31&band_rank=25&Refer=top",
+          "source": "微博",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时17分 ~ 23时18分]"
+        },
+        {
+          "title": "外交部：在台湾问题上踩踏红线一定会付出代价",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33307417",
+          "source": "澎湃新闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时20分"
+        },
+        {
+          "title": "中国台湾5月季调后CPI月率 0.26%，前值0.47%。",
+          "url": "https://flash.jin10.com/detail/20260605160029280800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时32分"
+        },
+        {
+          "title": "中国台湾5月未季调CPI年率 2.2%，预期2.1%，前值1.74%。",
+          "url": "https://flash.jin10.com/detail/20260605160006600800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时32分"
         }
       ]
     },
@@ -586,11 +758,12 @@
           "url": "https://www.zhihu.com/question/2045932866278895886",
           "source": "知乎",
           "ranks": [
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时45分 ~ 19时46分]"
+          "appearance_count": 4,
+          "time_info": "[19时45分 ~ 23时18分]"
         },
         {
           "title": "市场消息：谷歌(GOOG.O)宣布将在得克萨斯州投资建设新数据中心并加大能源投入。",
@@ -646,56 +819,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时32分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "台湾",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "日本为何一直在台湾问题上挑衅",
-          "url": "https://www.toutiao.com/trending/7647502439286145065/",
-          "source": "今日头条",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时31分 ~ 16时32分]"
-        },
-        {
-          "title": "外交部：在台湾问题上踩踏红线一定会付出代价",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33307417",
-          "source": "澎湃新闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时20分"
-        },
-        {
-          "title": "中国台湾5月季调后CPI月率 0.26%，前值0.47%。",
-          "url": "https://flash.jin10.com/detail/20260605160029280800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时32分"
-        },
-        {
-          "title": "中国台湾5月未季调CPI年率 2.2%，预期2.1%，前值1.74%。",
-          "url": "https://flash.jin10.com/detail/20260605160006600800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时32分"
         }
       ]
     },
