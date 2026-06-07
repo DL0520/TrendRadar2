@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-07T08:11:51.238764+08:00",
-  "total_titles_processed": 538,
+  "generated_at": "2026-06-07T13:10:01.638569+08:00",
+  "total_titles_processed": 741,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 10,
+      "match_count": 13,
       "titles": [
         {
           "title": "特朗普戴上金牌后开玩笑称“不想还了”：我喜欢金子，要留着",
@@ -13,11 +13,12 @@
           "source": "凤凰网",
           "ranks": [
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时42分 ~ 08时11分]"
+          "appearance_count": 9,
+          "time_info": "[00时42分 ~ 13时10分]"
         },
         {
           "title": "特朗普“官宣”：我和马斯克又成朋友了",
@@ -36,11 +37,12 @@
           "source": "财联社热门",
           "ranks": [
             12,
-            11
+            11,
+            13
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时42分 ~ 08时11分]"
+          "appearance_count": 9,
+          "time_info": "[00时42分 ~ 13时10分]"
         },
         {
           "title": "对伊战争百日 特朗普仍未赢得美国民众支持",
@@ -80,6 +82,50 @@
           "time_info": "[00时42分 ~ 02时13分]"
         },
         {
+          "title": "伊朗开价240亿美元，这可要了特朗普的命",
+          "url": "https://news.ifeng.com/c/8tkFdUHRCpm",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时11分 ~ 13时10分]"
+        },
+        {
+          "title": "美防长在法国模仿特朗普，美军被逗得哈哈大笑",
+          "url": "https://v.ifeng.com/c/8tl4ufgZGdN",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时09分 ~ 13时10分]"
+        },
+        {
+          "title": "指控特朗普在商场试衣间性侵，女作家“摊上事了”",
+          "url": "https://news.ifeng.com/c/8tl1E8EOKfx",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时09分 ~ 13时10分]"
+        },
+        {
+          "title": "特朗普女儿女婿，在欧洲被“火烈鸟”围剿了",
+          "url": "https://news.ifeng.com/c/8tkuLp7C2ad",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时09分 ~ 13时10分]"
+        },
+        {
           "title": "伊朗高官：谈判主动权在特朗普手里",
           "url": "https://www.toutiao.com/trending/7648086385831804969/",
           "source": "今日头条",
@@ -89,17 +135,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时55分 ~ 03时56分]"
-        },
-        {
-          "title": "伊朗开价240亿美元，这可要了特朗普的命",
-          "url": "https://news.ifeng.com/c/8tkFdUHRCpm",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时11分"
         },
         {
           "title": "特朗普首席人工智能顾问克里希南将于月底离职",
@@ -148,11 +183,12 @@
             14,
             11,
             9,
-            6
+            6,
+            3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时42分 ~ 08时11分]"
+          "appearance_count": 9,
+          "time_info": "[00时42分 ~ 13时10分]"
         },
         {
           "title": "台湾岛东部海域海上交通专项执法行动启动",
@@ -194,11 +230,12 @@
           "source": "华尔街见闻",
           "ranks": [
             8,
-            6
+            6,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时11分 ~ 08时11分]"
+          "appearance_count": 5,
+          "time_info": "[05时11分 ~ 13时10分]"
         },
         {
           "title": "合计700亿美元！SpaceX先后与Anthropic和谷歌签下大单，“算力租赁”ARR高达260亿美元",
@@ -207,11 +244,12 @@
           "ranks": [
             10,
             9,
-            8
+            8,
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时11分 ~ 08时11分]"
+          "appearance_count": 5,
+          "time_info": "[05时11分 ~ 13时10分]"
         }
       ]
     },
