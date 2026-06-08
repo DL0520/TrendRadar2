@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-08T18:07:21.844724+08:00",
-  "total_titles_processed": 1115,
+  "generated_at": "2026-06-08T22:37:38.390178+08:00",
+  "total_titles_processed": 1329,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 48,
+      "match_count": 49,
       "titles": [
         {
           "title": "特朗普：我说了算，以色列总理别无选择",
@@ -24,11 +24,12 @@
           "url": "https://wallstreetcn.com/articles/3774049",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时16分 ~ 18时07分]"
+          "appearance_count": 3,
+          "time_info": "[13时16分 ~ 22时37分]"
         },
         {
           "title": "据半岛电视台：特朗普和内塔尼亚胡正在进行电话交谈。",
@@ -132,6 +133,18 @@
           "time_info": "[05时20分 ~ 06时40分]"
         },
         {
+          "title": "伊朗“警告性”打击以色列，以色列称“将强力回应”，特朗普警告内塔尼亚胡“不要反击，美伊协议近在咫尺”",
+          "url": "https://wallstreetcn.com/articles/3774055",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时16分 ~ 22时37分]"
+        },
+        {
           "title": "学者：特朗普外交抑制了两极化阵营化",
           "url": "https://www.toutiao.com/trending/7647971110792757299/",
           "source": "今日头条",
@@ -145,16 +158,40 @@
           "time_info": "[02时10分 ~ 06时40分]"
         },
         {
-          "title": "伊朗“警告性”打击以色列，以色列称“将强力回应”，特朗普警告内塔尼亚胡“不要反击，美伊协议近在咫尺”",
-          "url": "https://wallstreetcn.com/articles/3774055",
-          "source": "华尔街见闻",
+          "title": "主持人插不进话，特朗普受访暴怒失控：当场“摔麦”走人",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33331551",
+          "source": "澎湃新闻",
           "ranks": [
-            7,
-            8
+            16,
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时16分 ~ 22时37分]"
+        },
+        {
+          "title": "特朗普：伊朗最高领袖伤得很重",
+          "url": "https://news.ifeng.com/c/8tn0EMcDuKL",
+          "source": "凤凰网",
+          "ranks": [
+            6
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时16分 ~ 18时07分]"
+          "time_info": "[18时07分 ~ 22时37分]"
+        },
+        {
+          "title": "美议员焦虑：“特朗普”级战舰，抗不过中国导弹",
+          "url": "https://news.ifeng.com/c/8tmrYIXSZDx",
+          "source": "凤凰网",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时07分 ~ 22时37分]"
         },
         {
           "title": "据英国每日电讯报：美国总统特朗普考虑收购Chagos Islands。 美国官员们已经制定方案，并附加诸多选项。 美国正与英国讨论迪戈加西亚岛（Diego Garcia）的未来。",
@@ -167,18 +204,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时10分 ~ 03时57分]"
-        },
-        {
-          "title": "主持人插不进话，特朗普受访暴怒失控：当场“摔麦”走人",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33331551",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时16分 ~ 18时07分]"
         },
         {
           "title": "特朗普告诉以色列不要反击",
@@ -217,17 +242,6 @@
           "time_info": "[00时54分 ~ 02时10分]"
         },
         {
-          "title": "特朗普：伊朗最高领袖伤得很重",
-          "url": "https://news.ifeng.com/c/8tn0EMcDuKL",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时07分"
-        },
-        {
           "title": "美国总统特朗普：一切进展顺利。",
           "url": "https://flash.jin10.com/detail/20260608043710675800",
           "source": "金十数据",
@@ -261,15 +275,15 @@
           "time_info": "03时57分"
         },
         {
-          "title": "美议员焦虑：“特朗普”级战舰，抗不过中国导弹",
-          "url": "https://news.ifeng.com/c/8tmrYIXSZDx",
-          "source": "凤凰网",
+          "title": "以伊军事冲突升级，特朗普：双方“正寻求”立即停火",
+          "url": "https://wallstreetcn.com/articles/3774115",
+          "source": "华尔街见闻",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时07分"
+          "time_info": "22时37分"
         },
         {
           "title": "中东冲突愈演愈烈！不顾特朗普反对 以色列攻击伊朗境内目标",
@@ -278,7 +292,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时07分"
         },
@@ -355,7 +369,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时07分"
         },
@@ -465,7 +479,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时07分"
         },
@@ -549,6 +563,45 @@
       ]
     },
     {
+      "keyword_group": "台湾",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "媒体：两岸统一后台湾将不再缺电",
+          "url": "https://www.toutiao.com/trending/7648853210555875370/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时37分"
+        },
+        {
+          "title": "“馆长”喊台湾民众去大陆看看",
+          "url": "https://www.toutiao.com/trending/7648137176563613732/",
+          "source": "今日头条",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时37分"
+        },
+        {
+          "title": "台湾岛东部海域海上交通专项执法行动直击",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33330883",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时37分"
+        }
+      ]
+    },
+    {
       "keyword_group": "谷歌 google gemini",
       "match_count": 2,
       "titles": [
@@ -574,6 +627,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时16分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "稀土",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "中国对日稀土出口骤降八成，日企慌神：快歇菜了",
+          "url": "https://news.ifeng.com/c/8tnLA7aD8pl",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时37分"
         }
       ]
     }
