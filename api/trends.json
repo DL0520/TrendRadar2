@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-06-10T04:31:24.835089+08:00",
-  "total_titles_processed": 396,
+  "generated_at": "2026-06-10T06:12:07.517947+08:00",
+  "total_titles_processed": 464,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
+        {
+          "title": "据华尔街日报：特朗普政府要求人工智能测试机构停止发布公开报告，反映白宫正加强对人工智能模型的管控。",
+          "url": "https://flash.jin10.com/detail/20260610055143921800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时12分"
+        },
         {
           "title": "特朗普警告：若美伊和谈破裂 霍尔木兹海峡或数月无法恢复通航",
           "url": "https://www.cls.cn/detail/2395258",
@@ -16,8 +27,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时13分 ~ 04时31分]"
+          "appearance_count": 5,
+          "time_info": "[02时13分 ~ 06时12分]"
         },
         {
           "title": "特朗普：美伊谈判进入“最后关头”",
@@ -27,19 +38,31 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时13分 ~ 04时31分]"
+          "appearance_count": 5,
+          "time_info": "[02时13分 ~ 06时12分]"
         },
         {
           "title": "37次“即将达成”！特朗普不断预告伊朗协议，却一次次落空",
           "url": "https://wallstreetcn.com/articles/3774230",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时30分 ~ 04时31分]"
+          "appearance_count": 4,
+          "time_info": "[04时30分 ~ 06时12分]"
+        },
+        {
+          "title": "据ABC新闻报道，特朗普在接受该媒体采访时表示：“美国对伊朗做出回应非常重要。他们击落了一架直升机，我们正在予以回应。这是对他们昨晚对我们直升机所做之事的回应，我相信回应应该会非常强硬、非常有力。”",
+          "url": "https://flash.jin10.com/detail/20260610053201143800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时12分"
         },
         {
           "title": "特朗普称伊朗击落一架美军阿帕奇直升机",
@@ -59,7 +82,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时31分"
         },
@@ -70,7 +93,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时31分"
         },
@@ -81,7 +104,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时31分"
         }
@@ -182,8 +205,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时13分 ~ 04时31分]"
+          "appearance_count": 5,
+          "time_info": "[02时13分 ~ 06时12分]"
         },
         {
           "title": "媒体：台湾必须面对被重塑的现实格局",
@@ -210,8 +233,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时13分 ~ 04时31分]"
+          "appearance_count": 5,
+          "time_info": "[02时13分 ~ 06时12分]"
         },
         {
           "title": "美请求恢复对日出口稀土？中方回应",
@@ -219,11 +242,12 @@
           "source": "今日头条",
           "ranks": [
             17,
-            8
+            8,
+            18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时13分 ~ 04时31分]"
+          "appearance_count": 5,
+          "time_info": "[02时13分 ~ 06时12分]"
         }
       ]
     },
@@ -236,11 +260,12 @@
           "url": "https://s.weibo.com/weibo?q=%E8%B0%B7%E6%AD%8C%E8%8B%B1%E4%BC%9F%E8%BE%BE&t=31&band_rank=27&Refer=top",
           "source": "微博",
           "ranks": [
-            27
+            27,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时30分 ~ 04时31分]"
+          "appearance_count": 4,
+          "time_info": "[04时30分 ~ 06时12分]"
         }
       ]
     }
