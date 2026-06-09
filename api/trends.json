@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-09T12:48:06.924130+08:00",
-  "total_titles_processed": 814,
+  "generated_at": "2026-06-09T16:35:13.639259+08:00",
+  "total_titles_processed": 1007,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 34,
+      "match_count": 37,
       "titles": [
         {
           "title": "沃什上任后第一次敲打！特朗普公开发声：没有任何理由加息，加息就是想扼杀我们的成功",
@@ -17,6 +17,30 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时03分 ~ 08时11分]"
+        },
+        {
+          "title": "特朗普：内塔尼亚胡，你最好小心点！",
+          "url": "https://news.ifeng.com/c/8toEUKCFcdF",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时47分 ~ 16时35分]"
+        },
+        {
+          "title": "洛杉矶市长选情逆转，特朗普、马斯克发声质疑",
+          "url": "https://news.ifeng.com/c/8toKe0HelhI",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时47分 ~ 16时35分]"
         },
         {
           "title": "伊朗时隔两个月再袭以色列，特朗普称「希望以色列不要还击」，局势将如何发展？美伊谈判是否会受影响？",
@@ -32,26 +56,16 @@
           "time_info": "[04时41分 ~ 12时48分]"
         },
         {
-          "title": "特朗普：内塔尼亚胡，你最好小心点！",
-          "url": "https://news.ifeng.com/c/8toEUKCFcdF",
-          "source": "凤凰网",
+          "title": "以伊军事冲突升级，特朗普：双方“正寻求”立即停火",
+          "url": "https://wallstreetcn.com/articles/3774115",
+          "source": "华尔街见闻",
           "ranks": [
-            1
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时47分 ~ 12时48分]"
-        },
-        {
-          "title": "洛杉矶市长选情逆转，特朗普、马斯克发声质疑",
-          "url": "https://news.ifeng.com/c/8toKe0HelhI",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时47分 ~ 12时48分]"
+          "appearance_count": 8,
+          "time_info": "[02时03分 ~ 16时35分]"
         },
         {
           "title": "特朗普：未来两周将对伊朗全面胜利",
@@ -65,25 +79,13 @@
           "time_info": "08时11分"
         },
         {
-          "title": "以伊军事冲突升级，特朗普：双方“正寻求”立即停火",
-          "url": "https://wallstreetcn.com/articles/3774115",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时03分 ~ 12时48分]"
-        },
-        {
           "title": "伊以看穿特朗普底牌？三国博弈百日后剧本推演！",
           "url": "https://flash.jin10.com/detail/20260609121739887800",
           "source": "金十数据",
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时48分"
         },
@@ -97,6 +99,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时11分"
+        },
+        {
+          "title": "特朗普“积极介入斡旋”后，伊朗宣布对以打击“告一段落”",
+          "url": "https://wallstreetcn.com/articles/3774122",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[08时11分 ~ 16时35分]"
         },
         {
           "title": "伊朗嘲讽特朗普：已经黔驴技穷 只会“精神胜利”",
@@ -157,18 +172,6 @@
           "time_info": "[06时44分 ~ 08时11分]"
         },
         {
-          "title": "特朗普“积极介入斡旋”后，伊朗宣布对以打击“告一段落”",
-          "url": "https://wallstreetcn.com/articles/3774122",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时11分 ~ 12时48分]"
-        },
-        {
           "title": "特朗普看NBA总决赛睡着了",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%9C%8BNBA%E6%80%BB%E5%86%B3%E8%B5%9B%E7%9D%A1%E7%9D%80%E4%BA%86%23&t=31&band_rank=6&Refer=top",
           "source": "微博",
@@ -178,6 +181,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时47分 ~ 12时48分]"
+        },
+        {
+          "title": "特朗普：未来两周将对伊朗“全面胜利” 油价将会暴跌！",
+          "url": "https://www.cls.cn/detail/2394559",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时34分 ~ 16时35分]"
+        },
+        {
+          "title": "特朗普称美伊和平协议相关工作进入收尾阶段",
+          "url": "https://news.ifeng.com/c/8tohseatV8c",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时34分 ~ 16时35分]"
         },
         {
           "title": "美国总统特朗普：我们已经摧毁了伊朗的军事力量和领导层。 我们（与伊朗）正在谈判。 你们真的将在两周内获胜。 我们将在两周内宣布“全面”胜利。 胜利将发生得“非常迅速”。",
@@ -201,6 +226,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时47分 ~ 12时48分]"
+        },
+        {
+          "title": "特朗普出席NBA总决赛遭全场狂嘘，事后“挽尊”辩解",
+          "url": "https://v.ifeng.com/c/8tojH1TtuMo",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时34分 ~ 16时35分]"
         },
         {
           "title": "美国总统特朗普：以色列不会与伊朗重启战争。",
@@ -423,11 +459,12 @@
           "url": "https://wallstreetcn.com/articles/3774134",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时47分 ~ 12时48分]"
+          "appearance_count": 4,
+          "time_info": "[12时47分 ~ 16时35分]"
         },
         {
           "title": "谷歌A跌幅收窄至不足1%，此前一度跌2.2%。",
@@ -477,7 +514,7 @@
     },
     {
       "keyword_group": "台湾",
-      "match_count": 3,
+      "match_count": 7,
       "titles": [
         {
           "title": "媒体：两岸统一后台湾将不再缺电",
@@ -506,6 +543,17 @@
           "time_info": "[02时03分 ~ 06时44分]"
         },
         {
+          "title": "韩国议员窜访台湾，外交部表态",
+          "url": "https://news.ifeng.com/c/8tokCBuSl1E",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时34分 ~ 16时35分]"
+        },
+        {
           "title": "台湾岛东部海域海上交通专项执法行动直击",
           "url": "https://m.thepaper.cn/newsDetail_forward_33330883",
           "source": "澎湃新闻",
@@ -515,6 +563,78 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时03分"
+        },
+        {
+          "title": "中国台湾5月贸易帐 179.1亿美元，预期152亿美元，前值143.5亿美元。",
+          "url": "https://flash.jin10.com/detail/20260609160018194800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时35分"
+        },
+        {
+          "title": "中国台湾5月进口年率 54.9%，预期37.4%，前值29.20%。",
+          "url": "https://flash.jin10.com/detail/20260609160011868800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时35分"
+        },
+        {
+          "title": "中国台湾5月出口年率 51.7%，预期37.9%，前值39.00%。",
+          "url": "https://flash.jin10.com/detail/20260609160006428800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时35分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "稀土",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "中国对日稀土出口骤降八成，日企慌神：快歇菜了",
+          "url": "https://news.ifeng.com/c/8tnLA7aD8pl",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时03分 ~ 06时44分]"
+        },
+        {
+          "title": "美方请求中方恢复对日稀土出口",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E6%96%B9%E8%AF%B7%E6%B1%82%E4%B8%AD%E6%96%B9%E6%81%A2%E5%A4%8D%E5%AF%B9%E6%97%A5%E7%A8%80%E5%9C%9F%E5%87%BA%E5%8F%A3%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时34分 ~ 16时35分]"
+        },
+        {
+          "title": "美方请求中方恢复对日稀土出口，外交部回应",
+          "url": "https://wallstreetcn.com/livenews/3116632",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时35分"
         }
       ]
     },
@@ -532,23 +652,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时47分 ~ 12时48分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "稀土",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "中国对日稀土出口骤降八成，日企慌神：快歇菜了",
-          "url": "https://news.ifeng.com/c/8tnLA7aD8pl",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时03分 ~ 06时44分]"
         }
       ]
     }
