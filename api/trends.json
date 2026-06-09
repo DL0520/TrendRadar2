@@ -1,8 +1,92 @@
 {
-  "generated_at": "2026-06-10T02:13:54.712022+08:00",
-  "total_titles_processed": 306,
+  "generated_at": "2026-06-10T04:31:24.835089+08:00",
+  "total_titles_processed": 396,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "特朗普",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "特朗普警告：若美伊和谈破裂 霍尔木兹海峡或数月无法恢复通航",
+          "url": "https://www.cls.cn/detail/2395258",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时13分 ~ 04时31分]"
+        },
+        {
+          "title": "特朗普：美伊谈判进入“最后关头”",
+          "url": "https://news.ifeng.com/c/8tooQUA09O3",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时13分 ~ 04时31分]"
+        },
+        {
+          "title": "37次“即将达成”！特朗普不断预告伊朗协议，却一次次落空",
+          "url": "https://wallstreetcn.com/articles/3774230",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时30分 ~ 04时31分]"
+        },
+        {
+          "title": "特朗普称伊朗击落一架美军阿帕奇直升机",
+          "url": "https://wallstreetcn.com/livenews/3116959",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时13分"
+        },
+        {
+          "title": "特朗普透露与内塔尼亚胡通话内容：“不希望损害协议，但你得自己判断”",
+          "url": "https://flash.jin10.com/detail/20260610034226370800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时31分"
+        },
+        {
+          "title": "特朗普称可能参与重建伊朗，但要拿走一半石油",
+          "url": "https://flash.jin10.com/detail/20260610033721122800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时31分"
+        },
+        {
+          "title": "国际油价收跌约3%，特朗普的能源部长称霍尔木兹海峡通航船舶增加",
+          "url": "https://wallstreetcn.com/livenews/3116986",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时31分"
+        }
+      ]
+    },
     {
       "keyword_group": "Claude",
       "match_count": 7,
@@ -87,41 +171,30 @@
       ]
     },
     {
-      "keyword_group": "特朗普",
-      "match_count": 3,
+      "keyword_group": "台湾",
+      "match_count": 2,
       "titles": [
         {
-          "title": "特朗普警告：若美伊和谈破裂 霍尔木兹海峡或数月无法恢复通航",
-          "url": "https://www.cls.cn/detail/2395258",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时13分"
-        },
-        {
-          "title": "特朗普：美伊谈判进入“最后关头”",
-          "url": "https://news.ifeng.com/c/8tooQUA09O3",
+          "title": "韩国议员窜访台湾，外交部表态",
+          "url": "https://news.ifeng.com/c/8tokCBuSl1E",
           "source": "凤凰网",
           "ranks": [
-            8
+            5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时13分"
+          "appearance_count": 3,
+          "time_info": "[02时13分 ~ 04时31分]"
         },
         {
-          "title": "特朗普称伊朗击落一架美军阿帕奇直升机",
-          "url": "https://wallstreetcn.com/livenews/3116959",
-          "source": "华尔街见闻-快讯",
+          "title": "媒体：台湾必须面对被重塑的现实格局",
+          "url": "https://www.toutiao.com/trending/7649021871107080242/",
+          "source": "今日头条",
           "ranks": [
-            16
+            28
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时13分"
+          "appearance_count": 2,
+          "time_info": "[04时30分 ~ 04时31分]"
         }
       ]
     },
@@ -137,36 +210,37 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时13分"
+          "appearance_count": 3,
+          "time_info": "[02时13分 ~ 04时31分]"
         },
         {
           "title": "美请求恢复对日出口稀土？中方回应",
           "url": "https://www.toutiao.com/trending/7648211648611811369/",
           "source": "今日头条",
           "ranks": [
-            17
+            17,
+            8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时13分"
+          "appearance_count": 3,
+          "time_info": "[02时13分 ~ 04时31分]"
         }
       ]
     },
     {
-      "keyword_group": "台湾",
+      "keyword_group": "谷歌 google gemini",
       "match_count": 1,
       "titles": [
         {
-          "title": "韩国议员窜访台湾，外交部表态",
-          "url": "https://news.ifeng.com/c/8tokCBuSl1E",
-          "source": "凤凰网",
+          "title": "谷歌英伟达",
+          "url": "https://s.weibo.com/weibo?q=%E8%B0%B7%E6%AD%8C%E8%8B%B1%E4%BC%9F%E8%BE%BE&t=31&band_rank=27&Refer=top",
+          "source": "微博",
           "ranks": [
-            5
+            27
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时13分"
+          "appearance_count": 2,
+          "time_info": "[04时30分 ~ 04时31分]"
         }
       ]
     }
