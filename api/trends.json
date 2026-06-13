@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-13T21:08:06.774235+08:00",
-  "total_titles_processed": 1227,
+  "generated_at": "2026-06-13T23:19:23.324641+08:00",
+  "total_titles_processed": 1366,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 24,
+      "match_count": 32,
       "titles": [
         {
           "title": "特朗普“TACO”主导市场，原油大跌，美股债大反弹，半导体指数大涨8%，黄金收复4200",
@@ -55,6 +55,18 @@
           "time_info": "[00时49分 ~ 08时25分]"
         },
         {
+          "title": "特朗普否认伊媒披露的美伊协议草案：与双方书面协议毫无关系",
+          "url": "https://www.cls.cn/detail/2398839",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时07分 ~ 23时19分]"
+        },
+        {
           "title": "特朗普扮忍者AI视频引日本不满",
           "url": "https://www.toutiao.com/trending/7649725897653714990/",
           "source": "今日头条",
@@ -66,18 +78,6 @@
           "time_info": "13时07分"
         },
         {
-          "title": "特朗普否认伊媒披露的美伊协议草案：与双方书面协议毫无关系",
-          "url": "https://www.cls.cn/detail/2398839",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时07分 ~ 21时08分]"
-        },
-        {
           "title": "特朗普姓名被从肯尼迪中心外墙移除",
           "url": "https://news.ifeng.com/c/8tvV5h0ssCW",
           "source": "凤凰网",
@@ -85,8 +85,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时21分 ~ 21时08分]"
+          "appearance_count": 4,
+          "time_info": "[19时21分 ~ 23时19分]"
         },
         {
           "title": "华纳兄弟探索公司（WBD）美股盘后增长2%，据Politico报道，美国总统特朗普的司法部批准派拉蒙天舞（Paramount SkyDance）收购该公司的交易。",
@@ -137,13 +137,24 @@
           "time_info": "[13时07分 ~ 16时39分]"
         },
         {
+          "title": "特朗普在Truth Social上分享了巴基斯坦总理谢里夫称协议比以往任何时候都更接近达成的帖子的截图。",
+          "url": "https://wallstreetcn.com/livenews/3119171",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时19分"
+        },
+        {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-06-13）",
           "url": "https://flash.jin10.com/detail/20260613203149483800",
           "source": "金十数据",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时08分"
         },
@@ -170,6 +181,28 @@
           "time_info": "13时07分"
         },
         {
+          "title": "美国高级政府官员：以色列总理内塔尼亚胡将不会参加美国总统特朗普与中东领导人在七国集团会议上的双边会晤。",
+          "url": "https://flash.jin10.com/detail/20260613223904277800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时19分"
+        },
+        {
+          "title": "美军被曝制订抢夺伊朗浓缩铀计划 特朗普未批准",
+          "url": "https://wallstreetcn.com/livenews/3119159",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时19分"
+        },
+        {
           "title": "提醒：美国总统特朗普在自家社交媒体平台上张贴伊朗外长关于两国“协议”（谅解备忘录/MoU）社交媒体帖子的截图。",
           "url": "https://wallstreetcn.com/livenews/3118983",
           "source": "华尔街见闻-快讯",
@@ -179,6 +212,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时49分"
+        },
+        {
+          "title": "美媒细数特朗普曾39次说与伊朗谈好",
+          "url": "https://wallstreetcn.com/livenews/3119158",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时19分"
+        },
+        {
+          "title": "特朗普转发巴总理有关美伊签署协议可能性的推文",
+          "url": "https://flash.jin10.com/detail/20260613223548832800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时19分"
         },
         {
           "title": "特朗普：美军打死“阿拉瓜火车”组织首领尼尼奥·格雷罗",
@@ -203,6 +258,17 @@
           "time_info": "00时49分"
         },
         {
+          "title": "美国高级政府官员：美国总统特朗普还计划与法国、埃及和印度领导人举行双边会晤。",
+          "url": "https://flash.jin10.com/detail/20260613222721867800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时19分"
+        },
+        {
           "title": "雪佛龙CEO Mike Wirth：公司对（波斯湾）石油外流规模的看法并没有美国总统特朗普的能源部长Wright那样乐观。 到7月左右，石油库存水平可能达到令人不安的程度。",
           "url": "https://wallstreetcn.com/livenews/3118976",
           "source": "华尔街见闻-快讯",
@@ -223,6 +289,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时12分"
+        },
+        {
+          "title": "美国高级政府官员：美国总统特朗普将于下周三在凡尔赛与法国总统马克龙共进晚餐。",
+          "url": "https://flash.jin10.com/detail/20260613222707086800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时19分"
+        },
+        {
+          "title": "美国高级政府官员：美国总统特朗普将在七国集团峰会上与阿联酋、卡塔尔及其他中东领导人会晤。",
+          "url": "https://flash.jin10.com/detail/20260613222620601800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时19分"
         },
         {
           "title": "美国总统特朗普：此次行动是在与我们委内瑞拉的朋友密切协调下进行的，我们与委内瑞拉方面合作得非常顺利。",
@@ -282,49 +370,8 @@
       ]
     },
     {
-      "keyword_group": "Claude",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "如何评价 Claude Fable 5 全球暂停访问？",
-          "url": "https://www.zhihu.com/question/2049072203191342205",
-          "source": "知乎",
-          "ranks": [
-            10,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时07分 ~ 21时08分]"
-        },
-        {
-          "title": "亚马逊云服务(AWS)：Anthropic已要求我们撤销所有用户在全部区域范围内对Claude Fable 5和Claude Mythos 5的访问权限。所有其他Anthropic模型不受影响。",
-          "url": "https://wallstreetcn.com/livenews/3119114",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时07分 ~ 16时39分]"
-        },
-        {
-          "title": "亚马逊云服务(AWS)：Anthropic已要求我们撤销所有用户在全部区域范围内对Claude Fable 5和Claude Mythos 5的访问权限。所有其他Anthropic模型不受影响。",
-          "url": "https://flash.jin10.com/detail/20260613093036412800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时07分"
-        }
-      ]
-    },
-    {
       "keyword_group": "台湾",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "李立群吐槽台湾看不到世界杯",
@@ -359,6 +406,59 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时21分"
+        },
+        {
+          "title": "金胞呼吁台湾主动对接大陆发展机遇",
+          "url": "https://www.toutiao.com/trending/7650459638055911462/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时19分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "Claude",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "如何评价 Claude Fable 5 全球暂停访问？",
+          "url": "https://www.zhihu.com/question/2049072203191342205",
+          "source": "知乎",
+          "ranks": [
+            10,
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时07分 ~ 23时19分]"
+        },
+        {
+          "title": "亚马逊云服务(AWS)：Anthropic已要求我们撤销所有用户在全部区域范围内对Claude Fable 5和Claude Mythos 5的访问权限。所有其他Anthropic模型不受影响。",
+          "url": "https://wallstreetcn.com/livenews/3119114",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时07分 ~ 16时39分]"
+        },
+        {
+          "title": "亚马逊云服务(AWS)：Anthropic已要求我们撤销所有用户在全部区域范围内对Claude Fable 5和Claude Mythos 5的访问权限。所有其他Anthropic模型不受影响。",
+          "url": "https://flash.jin10.com/detail/20260613093036412800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时07分"
         }
       ]
     }
