@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-15T08:19:37.556340+08:00",
-  "total_titles_processed": 688,
+  "generated_at": "2026-06-15T13:41:07.746344+08:00",
+  "total_titles_processed": 909,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 46,
+      "match_count": 56,
       "titles": [
         {
           "title": "美伊协议何时签署？特朗普说14日，伊朗否认，“霍尔木兹海峡是否“免费”重开”也各执一词",
@@ -41,6 +41,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时01分 ~ 06时45分]"
+        },
+        {
+          "title": "美伊协议“达成”！特朗普称“霍尔木兹海峡周五免费开放”，抨击内塔尼亚胡“失去理智”，伊朗称“所获成果远大于承诺”",
+          "url": "https://wallstreetcn.com/articles/3774634",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时40分 ~ 13时41分]"
         },
         {
           "title": "自说自话？美媒细数特朗普曾39次说与伊朗“谈好了”",
@@ -122,15 +133,27 @@
           "time_info": "05时20分"
         },
         {
+          "title": "据纽约邮报：特朗普表示，法国必须放弃其科技税制度，否则其对美葡萄酒出口将面临高额关税。",
+          "url": "https://flash.jin10.com/detail/20260615131401277800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时41分"
+        },
+        {
           "title": "80大寿，特朗普被气炸了",
           "url": "https://news.ifeng.com/c/8tyA1p0naKZ",
           "source": "凤凰网",
           "ranks": [
-            4
+            4,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时19分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时19分 ~ 13时41分]"
         },
         {
           "title": "市场消息：以色列总理内塔尼亚胡与美国总统特朗普进行电话会谈。",
@@ -144,6 +167,17 @@
           "time_info": "05时20分"
         },
         {
+          "title": "特朗普就欧洲数字税一事威胁对法国征收100%的葡萄酒关税。（纽约邮报）",
+          "url": "https://wallstreetcn.com/livenews/3119465",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时41分"
+        },
+        {
           "title": "据CNN：在伊朗谈判和黎巴嫩停火紧张局势加剧之际，内塔尼亚胡正寻求在下周末七国集团峰会后与特朗普举行紧急会谈。卡塔尔谈判代表仍留在德黑兰，与美国协调，以保持谈判顺利进行。",
           "url": "https://flash.jin10.com/detail/20260615042413227800",
           "source": "金十数据",
@@ -153,6 +187,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时20分"
+        },
+        {
+          "title": "据纽约邮报：特朗普就数字税问题威胁对法国葡萄酒征收100%关税。",
+          "url": "https://flash.jin10.com/detail/20260615131045423800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时41分"
         },
         {
           "title": "普京与特朗普通话 讨论伊朗局势和乌克兰危机",
@@ -218,6 +263,17 @@
           "time_info": "[06时45分 ~ 08时19分]"
         },
         {
+          "title": "普京与特朗普通话",
+          "url": "https://news.ifeng.com/c/8txdaXj6SxP",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时40分 ~ 13时41分]"
+        },
+        {
           "title": "美伊协议文本浮现多个版本 特朗普坚称周日签署",
           "url": "https://flash.jin10.com/detail/20260615014618261800",
           "source": "金十数据",
@@ -242,6 +298,39 @@
           "time_info": "[02时01分 ~ 03时53分]"
         },
         {
+          "title": "美伊和谈迎突破性进展！特朗普称协议已完成 签署仪式拟周五举行",
+          "url": "https://www.cls.cn/detail/2399494",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时40分 ~ 13时41分]"
+        },
+        {
+          "title": "特朗普：美伊协议“完成”，霍尔木兹海峡开放",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33379774",
+          "source": "澎湃新闻",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时40分 ~ 13时41分]"
+        },
+        {
+          "title": "特朗普批评以色列“干扰”美伊签署协议",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33379411",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时40分 ~ 13时41分]"
+        },
+        {
           "title": "克里姆林宫：普京与特朗普达成一致，史蒂夫·威特科夫和贾里德·库什纳将在近期再次访问俄罗斯。",
           "url": "https://flash.jin10.com/detail/20260614235720172800",
           "source": "金十数据",
@@ -259,9 +348,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时19分"
+        },
+        {
+          "title": "特朗普说海峡周五重开，但船东们不信：过去几个月“狼来了”太多次",
+          "url": "https://flash.jin10.com/detail/20260615130424141800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时41分"
         },
         {
           "title": "泽连斯基与特朗普通话讨论实现乌和平的举措",
@@ -325,7 +425,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时19分"
         },
@@ -391,7 +491,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时19分"
         },
@@ -413,7 +513,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时19分"
         },
@@ -451,13 +551,24 @@
           "time_info": "02时01分"
         },
         {
+          "title": "美国加州州长纽森：白宫是为美国人民而建的。如今却被用来推广特朗普持有股票的公司，销售订阅，宣传企业赞助商，让特朗普及其家族获利。",
+          "url": "https://flash.jin10.com/detail/20260615125029822800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时41分"
+        },
+        {
           "title": "特朗普：霍尔木兹海峡将随美伊协议19日签署而开放",
           "url": "https://wallstreetcn.com/livenews/3119298",
           "source": "华尔街见闻-快讯",
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时19分"
         },
@@ -523,7 +634,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时19分"
         }
@@ -531,8 +642,19 @@
     },
     {
       "keyword_group": "台湾",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "中国台湾证交所加权股价指数收高2.8%报45,396.99点。",
+          "url": "https://wallstreetcn.com/livenews/3119469",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时41分"
+        },
         {
           "title": "台湾演员吐槽“在岛内看不到世界杯”，网友：来大陆免费看！",
           "url": "https://m.thepaper.cn/newsDetail_forward_33376852",
@@ -551,9 +673,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时19分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时19分 ~ 13时41分]"
+        },
+        {
+          "title": "大陆半导体赶超台湾时间表或加快",
+          "url": "https://www.toutiao.com/trending/7651436659396840986/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时40分 ~ 13时41分]"
         }
       ]
     },
@@ -566,11 +699,12 @@
           "url": "https://wallstreetcn.com/articles/3774610",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时28分 ~ 08时19分]"
+          "appearance_count": 8,
+          "time_info": "[00时28分 ~ 13时41分]"
         }
       ]
     }
