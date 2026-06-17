@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-18T03:08:18.652448+08:00",
-  "total_titles_processed": 420,
+  "generated_at": "2026-06-18T05:44:11.153137+08:00",
+  "total_titles_processed": 532,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 41,
+      "match_count": 43,
       "titles": [
         {
           "title": "美国总统特朗普感谢巴基斯坦和卡塔尔在达成协议方面的协助。",
@@ -50,6 +50,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时41分"
+        },
+        {
+          "title": "乌克兰总统泽连斯基：与美国总统特朗普、法国总统马克龙进行了“协调对话”。对特朗普帮助推动和平进程表示感谢，对马克龙组织峰会和共同努力表示感谢。",
+          "url": "https://flash.jin10.com/detail/20260618052155450800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时44分"
         },
         {
           "title": "美国总统特朗普：不会给伊朗钱。",
@@ -103,8 +114,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时41分 ~ 03时08分]"
+          "appearance_count": 4,
+          "time_info": "[00时41分 ~ 05时44分]"
         },
         {
           "title": "特朗普罕见批评以色列：不能每次为找一个人，炸掉整栋楼",
@@ -114,8 +125,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时41分 ~ 03时08分]"
+          "appearance_count": 4,
+          "time_info": "[00时41分 ~ 05时44分]"
         },
         {
           "title": "特朗普又炮轰内塔尼亚胡：没我，就没以色列",
@@ -125,8 +136,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时41分 ~ 03时08分]"
+          "appearance_count": 4,
+          "time_info": "[00时41分 ~ 05时44分]"
         },
         {
           "title": "“特朗普这么干，又给中国打广告”",
@@ -136,8 +147,32 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时41分 ~ 03时08分]"
+          "appearance_count": 4,
+          "time_info": "[00时41分 ~ 05时44分]"
+        },
+        {
+          "title": "特朗普：如果我不满意，将恢复向伊朗投掷炸弹",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33400508",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时41分 ~ 05时44分]"
+        },
+        {
+          "title": "阿联酋总统太小声？特朗普当面调侃：像他那么有钱，确实不用大声",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33397131",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时41分 ~ 05时44分]"
         },
         {
           "title": "特朗普：谅解备忘录不是最终协议 若不满意会重新开火",
@@ -152,26 +187,15 @@
           "time_info": "[00时41分 ~ 03时08分]"
         },
         {
-          "title": "特朗普：如果我不满意，将恢复向伊朗投掷炸弹",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33400508",
-          "source": "澎湃新闻",
+          "title": "特朗普G7峰会迟到后宣告我是老大",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AEG7%E5%B3%B0%E4%BC%9A%E8%BF%9F%E5%88%B0%E5%90%8E%E5%AE%A3%E5%91%8A%E6%88%91%E6%98%AF%E8%80%81%E5%A4%A7%23&t=31&band_rank=25&Refer=top",
+          "source": "微博",
           "ranks": [
-            13
+            25
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时41分 ~ 03时08分]"
-        },
-        {
-          "title": "阿联酋总统太小声？特朗普当面调侃：像他那么有钱，确实不用大声",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33397131",
-          "source": "澎湃新闻",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时41分 ~ 03时08分]"
+          "time_info": "[05时43分 ~ 05时44分]"
         },
         {
           "title": "美国总统特朗普：霍尔木兹海峡的海上交通显著增加。海峡的能源流动将在未来几天恢复。",
@@ -455,7 +479,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时08分"
         }
@@ -474,8 +498,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时41分 ~ 03时08分]"
+          "appearance_count": 4,
+          "time_info": "[00时41分 ~ 05时44分]"
         }
       ]
     },
@@ -488,11 +512,12 @@
           "url": "https://www.baidu.com/s?wd=%E8%82%AF%E5%B0%BC%E4%BA%9A%EF%BC%9A%E8%B0%81%E6%8B%BF%E5%8F%B0%E6%B9%BE%E6%8A%A4%E7%85%A7%E8%B0%81%E8%BF%9D%E6%B3%95",
           "source": "百度热搜",
           "ranks": [
-            20
+            20,
+            25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时08分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时08分 ~ 05时44分]"
         }
       ]
     }
