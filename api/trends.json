@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-27T20:15:36.899215+08:00",
-  "total_titles_processed": 1299,
+  "generated_at": "2026-06-27T22:15:48.375822+08:00",
+  "total_titles_processed": 1428,
   "failed_sources": [],
   "trends": [
     {
@@ -58,11 +58,12 @@
           "url": "https://flash.jin10.com/detail/20260627191008880800",
           "source": "金十数据",
           "ranks": [
-            5
+            5,
+            22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时15分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时15分 ~ 22时15分]"
         },
         {
           "title": "据一位美国官员透露：尽管特朗普总统表示伊朗违反了停火协议，美国与伊朗的谈判预计仍将进行。（NewsNation）",
@@ -75,6 +76,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时12分 ~ 04时19分]"
+        },
+        {
+          "title": "“特朗普在伊朗碰了钉子，所以默许乌克兰袭击莫斯科”",
+          "url": "https://news.ifeng.com/c/8uInDi1ssY8",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时15分 ~ 22时15分]"
         },
         {
           "title": "伊朗称特朗普不遵守谈判和停火原则",
@@ -98,17 +110,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[19时02分 ~ 20时15分]"
-        },
-        {
-          "title": "“特朗普在伊朗碰了钉子，所以默许乌克兰袭击莫斯科”",
-          "url": "https://news.ifeng.com/c/8uInDi1ssY8",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时15分"
         },
         {
           "title": "特朗普指责伊朗攻击霍尔木兹海峡船只违反停火协议",
@@ -278,8 +279,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时02分 ~ 20时15分]"
+          "appearance_count": 3,
+          "time_info": "[19时02分 ~ 22时15分]"
         }
       ]
     },
