@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-02T21:19:49.983629+08:00",
-  "total_titles_processed": 1403,
+  "generated_at": "2026-07-02T23:43:29.544197+08:00",
+  "total_titles_processed": 1539,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 27,
+      "match_count": 30,
       "titles": [
         {
           "title": "美国总统特朗普：正如我所承诺的，油价正在迅速下跌，汽油价格也在下降，但速度还不够快。",
@@ -99,6 +99,19 @@
           "time_info": "[12时43分 ~ 16时16分]"
         },
         {
+          "title": "释新闻｜创下美国总统新纪录，特朗普重返白宫首年赚了多少钱？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33501745",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时11分 ~ 23时43分]"
+        },
+        {
           "title": "据纽约时报：美国副总统万斯为特朗普在伊朗相关的战争与谈判立场进行辩护，称美国正在以军事力量作为和平谈判中的重要筹码。他同时表示，特朗普对军方提出的要求明显高于历任前总统。",
           "url": "https://flash.jin10.com/detail/20260702043036201800",
           "source": "金十数据",
@@ -133,18 +146,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时09分 ~ 06时50分]"
-        },
-        {
-          "title": "释新闻｜创下美国总统新纪录，特朗普重返白宫首年赚了多少钱？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33501745",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时11分 ~ 21时19分]"
         },
         {
           "title": "特朗普又来：绝不让中国接管巴拿马运河",
@@ -191,6 +192,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时16分"
+        },
+        {
+          "title": "高盛(GS.N)：将为员工符合条件的子女的“特朗普账户”提供资金支持。",
+          "url": "https://flash.jin10.com/detail/20260702233114196800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时43分"
         },
         {
           "title": "美国总统特朗普：西班牙并非北约的良好成员。 西班牙将得到教训。 数十年过后，将按我们的方式应对古巴问题。",
@@ -246,6 +258,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时16分"
+        },
+        {
+          "title": "白宫新闻秘书莱维特：6月就业报告显示，过去一年，美国外籍出生劳动力规模大幅下降，这表明特朗普总统打击非法移民的行动正在重塑美国劳动力市场的构成。",
+          "url": "https://flash.jin10.com/detail/20260702232652515800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时43分"
         },
         {
           "title": "美国贸易代表：特朗普已根据新的关税和贸易政策对《美墨加协定》进行了调整，但通过谈判仍有改善局面的可能。",
@@ -312,6 +335,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时09分"
+        },
+        {
+          "title": "特朗普参加活动后直接拿走剪刀",
+          "url": "https://www.toutiao.com/trending/7656820359463518259/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时43分"
         }
       ]
     },
@@ -397,11 +431,12 @@
           "source": "澎湃新闻",
           "ranks": [
             18,
-            16
+            16,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时11分 ~ 21时19分]"
+          "appearance_count": 3,
+          "time_info": "[19时11分 ~ 23时43分]"
         }
       ]
     },
