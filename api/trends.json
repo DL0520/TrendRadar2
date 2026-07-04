@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-04T21:48:02.011675+08:00",
-  "total_titles_processed": 1257,
+  "generated_at": "2026-07-04T23:12:37.586736+08:00",
+  "total_titles_processed": 1321,
   "failed_sources": [],
   "trends": [
     {
@@ -37,8 +37,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时47分 ~ 21时48分]"
+          "appearance_count": 3,
+          "time_info": "[21时47分 ~ 23时12分]"
         },
         {
           "title": "特朗普还不死心：我平息了8场战争，却依然没拿到诺奖",
@@ -48,8 +48,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时47分 ~ 21时48分]"
+          "appearance_count": 3,
+          "time_info": "[21时47分 ~ 23时12分]"
         },
         {
           "title": "借总统身份捞钱？特朗普：赚钱没犯法，不管我家人做啥都有人说“利益冲突”",
@@ -87,6 +87,20 @@
           "time_info": "[00时57分 ~ 08时12分]"
         },
         {
+          "title": "特朗普吹嘘美国“战绩” 称“我们很善良”",
+          "url": "https://wallstreetcn.com/livenews/3128926",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            11,
+            19,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时39分 ~ 23时12分]"
+        },
+        {
           "title": "特朗普前AI顾问：美国不会设立类FDA的AI监管机构",
           "url": "https://wallstreetcn.com/livenews/3128826",
           "source": "华尔街见闻-快讯",
@@ -112,19 +126,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时57分 ~ 03时59分]"
-        },
-        {
-          "title": "特朗普吹嘘美国“战绩” 称“我们很善良”",
-          "url": "https://wallstreetcn.com/livenews/3128926",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            11,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时39分 ~ 21时48分]"
         },
         {
           "title": "美国总统特朗普：伊朗非常想达成协议；因举办哈梅内伊的葬礼，给伊朗放了一周假。",
@@ -158,8 +159,19 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时47分 ~ 21时48分]"
+          "appearance_count": 3,
+          "time_info": "[21时47分 ~ 23时12分]"
+        },
+        {
+          "title": "日本庆祝美国国庆，无人机展示特朗普与高市同框画面",
+          "url": "https://v.ifeng.com/c/8uTnyXsavVt",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时47分 ~ 23时12分]"
         },
         {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-07-04）",
@@ -184,17 +196,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时22分 ~ 15时25分]"
-        },
-        {
-          "title": "日本庆祝美国国庆，无人机展示特朗普与高市同框画面",
-          "url": "https://v.ifeng.com/c/8uTnyXsavVt",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时47分 ~ 21时48分]"
         },
         {
           "title": "伊朗议长反击特朗普“缺粮”言论：美国数千万人靠食品券生活",
@@ -354,8 +355,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时47分 ~ 21时48分]"
+          "appearance_count": 3,
+          "time_info": "[21时47分 ~ 23时12分]"
         },
         {
           "title": "海底稀土够日本用800年？专家泼冷水",
