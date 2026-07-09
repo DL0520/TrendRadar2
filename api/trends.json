@@ -1,694 +1,105 @@
 {
-  "generated_at": "2026-07-09T23:43:00.711646+08:00",
-  "total_titles_processed": 1284,
+  "generated_at": "2026-07-10T02:02:41.891846+08:00",
+  "total_titles_processed": 309,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 53,
+      "match_count": 7,
       "titles": [
-        {
-          "title": "美伊战火重燃！特朗普称谅解备忘录“已终结”，斥伊朗人是“人渣”",
-          "url": "https://wallstreetcn.com/articles/3776459",
-          "source": "华尔街见闻",
-          "ranks": [
-            1,
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时45分 ~ 12时33分]"
-        },
-        {
-          "title": "特朗普：今晚可能再打伊朗",
-          "url": "https://www.cls.cn/detail/2420856",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            2,
-            4,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时45分 ~ 12时33分]"
-        },
         {
           "title": "美军又袭伊朗！特朗普威胁“今夜”再打、恢复海上封锁，后一度“降温”：美伊局势升级会很快平息",
           "url": "https://wallstreetcn.com/articles/3776487",
           "source": "华尔街见闻",
           "ranks": [
-            3,
-            2,
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[06时34分 ~ 23时43分]"
-        },
-        {
-          "title": "国际油价大涨6%金银跳水！特朗普一言引爆全球市场",
-          "url": "https://www.cls.cn/detail/2420505",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时45分 ~ 06时35分]"
-        },
-        {
-          "title": "特朗普称美伊停火结束 美股期指集体下挫 国际油价飙升 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2420785",
-          "source": "财联社热门",
-          "ranks": [
-            2,
-            3,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时45分 ~ 08时17分]"
-        },
-        {
-          "title": "伊朗打击周边国家美军基地 特朗普称美伊谅解备忘录“已终结”",
-          "url": "https://www.cls.cn/detail/2420443",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时45分 ~ 06时35分]"
-        },
-        {
-          "title": "特朗普要求切断与西班牙一切贸易往来，西班牙回应",
-          "url": "https://news.ifeng.com/c/8ub1oqRPQxp",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时45分 ~ 08时17分]"
-        },
-        {
-          "title": "特朗普称“今夜可能再打伊朗”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33544015",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            18,
-            15,
-            11,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时45分 ~ 20时16分]"
+          "appearance_count": 1,
+          "time_info": "02时02分"
         },
         {
           "title": "特朗普\"开火威胁\"搅动全球市场，降温表态后美股跌幅收窄，芯片股力撑纳指收涨，中概股大涨",
           "url": "https://wallstreetcn.com/articles/3776425",
           "source": "华尔街见闻",
           "ranks": [
-            1,
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时17分 ~ 23时43分]"
-        },
-        {
-          "title": "特朗普：美伊谅解备忘录“已终结”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33541797",
-          "source": "澎湃新闻",
-          "ranks": [
-            12,
-            11,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时45分 ~ 12时33分]"
-        },
-        {
-          "title": "特朗普要求切断美国与西班牙贸易往来",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33542019",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            20,
-            17,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时45分 ~ 12时33分]"
-        },
-        {
-          "title": "美国总统特朗普 8 日在北约峰会上说，他认为美伊谅解备忘录「已终结」，这意味着什么？",
-          "url": "https://www.zhihu.com/question/2058225620715418670",
-          "source": "知乎",
-          "ranks": [
-            6,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时45分 ~ 08时17分]"
-        },
-        {
-          "title": "特朗普称“今夜可能再打伊朗”",
-          "url": "https://news.ifeng.com/c/8ubGSNwf6nd",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时45分 ~ 03时43分]"
-        },
-        {
-          "title": "美股收盘：特朗普一句话挽回跌势 阿里巴巴闪耀全球市场",
-          "url": "https://www.cls.cn/detail/2421032",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时17分 ~ 12时33分]"
+          "appearance_count": 1,
+          "time_info": "02时02分"
         },
         {
           "title": "特朗普：伊朗这件事上，中国赢得了美国的尊重",
           "url": "https://news.ifeng.com/c/8ubvs5fh8MS",
           "source": "凤凰网",
           "ranks": [
-            2,
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时33分 ~ 23时43分]"
+          "appearance_count": 1,
+          "time_info": "02时02分"
         },
         {
-          "title": "特朗普先威胁“今夜”再打伊朗、恢复海上封锁，后“降温”：美伊局势升级会很快平息",
-          "url": "https://wallstreetcn.com/articles/3776487",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时45分 ~ 05时16分]"
-        },
-        {
-          "title": "特朗普：我在伊朗的刺杀名单榜首，但我更愿意在TikTok上排第一",
-          "url": "https://news.ifeng.com/c/8ubvs5fh8TF",
+          "title": "政治新星、“民主党版特朗普”，涉性侵丑闻“塌房”退选",
+          "url": "https://news.ifeng.com/c/8ucxOCMpd4c",
           "source": "凤凰网",
           "ranks": [
-            3
+            9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时17分"
-        },
-        {
-          "title": "特朗普就美军再次袭击伊朗发声",
-          "url": "https://news.ifeng.com/c/8ubpmbRlxyi",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时17分"
-        },
-        {
-          "title": "美国官员：美国财政部将与贸易代表办公室和商务部合作，在未来几天向美国总统特朗普提供一份可能受到贸易禁令影响的西班牙产品清单。",
-          "url": "https://flash.jin10.com/detail/20260709055806348800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时35分"
-        },
-        {
-          "title": "OpenAI：在与特朗普政府磋商后对GPT-5.6做出多项调整",
-          "url": "https://flash.jin10.com/detail/20260709233707293800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时43分"
-        },
-        {
-          "title": "特朗普点名批评章家敦，释放一个明确信号",
-          "url": "https://news.ifeng.com/c/8ubwZV9LhlF",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时17分 ~ 12时33分]"
+          "time_info": "02时02分"
         },
         {
           "title": "新闻蒸馏器｜美伊开火海峡重回风暴，特朗普又说很快平息，意味着什么？",
           "url": "https://m.thepaper.cn/newsDetail_forward_33547226",
           "source": "澎湃新闻",
           "ranks": [
-            18,
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时16分 ~ 23时43分]"
+          "appearance_count": 1,
+          "time_info": "02时02分"
         },
         {
-          "title": "特朗普称“伊朗协议已终结”，拉美资产应声下滑",
-          "url": "https://wallstreetcn.com/livenews/3130889",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时16分 ~ 06时35分]"
-        },
-        {
-          "title": "特朗普下令：切断所有与西班牙的贸易往来，“他们是北约内的糟糕盟友”！",
-          "url": "https://wallstreetcn.com/articles/3776465",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时17分 ~ 12时33分]"
-        },
-        {
-          "title": "【特朗普：美伊之间的局势升级会很快平息】美国总统特朗普8日在土耳其首都安卡拉表示，当前美国与伊朗之间的局势升级会很快平息，他不认为会再度爆发与伊朗的战争。（新华社）",
-          "url": "https://wallstreetcn.com/livenews/3130833",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时46分 ~ 03时43分]"
-        },
-        {
-          "title": "美国队惨败，比利时首相：我不会刺激特朗普",
-          "url": "https://news.ifeng.com/c/8uanN9kF7R0",
+          "title": "“二鬼子”章家敦，被特朗普点名批评了",
+          "url": "https://news.ifeng.com/c/8ucs5h8eIWd",
           "source": "凤凰网",
           "ranks": [
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时45分 ~ 01时46分]"
-        },
-        {
-          "title": "特朗普要求切断美国与西班牙贸易往来，如何看待这一举动？",
-          "url": "https://www.zhihu.com/question/2058242652987045100",
-          "source": "知乎",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时33分"
+          "time_info": "02时02分"
         },
         {
-          "title": "据NewsNation：白宫官员称，特朗普与内塔尼亚胡目前尚未安排会面，但特朗普此前透露内塔尼亚胡可能最早下周访问白宫。",
-          "url": "https://flash.jin10.com/detail/20260709032703537800",
+          "title": "乌克兰总统泽连斯基：与美国总统特朗普详细讨论了爱国者导弹生产的许可证问题。",
+          "url": "https://flash.jin10.com/detail/20260710010810950800",
           "source": "金十数据",
           "ranks": [
-            7
+            23
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时43分"
-        },
-        {
-          "title": "美国总统特朗普在社媒上发布数条关于伊朗遭到打击后的爆炸视频或图片。",
-          "url": "https://flash.jin10.com/detail/20260709053855833800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时35分"
-        },
-        {
-          "title": "特朗普称伊朗致电迫切想达成协议",
-          "url": "https://wallstreetcn.com/livenews/3130953",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时17分"
-        },
-        {
-          "title": "特朗普：我在伊朗的刺杀名单排第一位",
-          "url": "https://news.ifeng.com/c/8ubvs5fh8TF",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时33分"
-        },
-        {
-          "title": "市场消息：英国首相斯塔默称，即便卸任英国首相，他仍会继续与特朗普保持沟通。",
-          "url": "https://flash.jin10.com/detail/20260709032458311800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时43分"
-        },
-        {
-          "title": "特朗普：若伊朗再袭船只 后果将更严重",
-          "url": "https://flash.jin10.com/detail/20260709053639585800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时35分"
-        },
-        {
-          "title": "美国贸易代表格里尔：特朗普希望与墨西哥的贸易逆差减少。",
-          "url": "https://flash.jin10.com/detail/20260709200624666800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时16分"
-        },
-        {
-          "title": "北约秘书长吕特：没有必要调整与特朗普相处的方式，盟友们“在选择我的时候就知道他们得到的是什么”。",
-          "url": "https://flash.jin10.com/detail/20260709012637824800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时46分"
-        },
-        {
-          "title": "美国总统特朗普抵达英国。",
-          "url": "https://flash.jin10.com/detail/20260709052945187800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时35分"
-        },
-        {
-          "title": "美国总统特朗普：美方袭击是对伊朗打击船只的“报复性行为”。 如果再次发生，情况会更加糟糕。",
-          "url": "https://wallstreetcn.com/livenews/3130907",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时35分"
-        },
-        {
-          "title": "美国总统特朗普：将立即请求美国最高法院重新审理出生公民身份案件。",
-          "url": "https://flash.jin10.com/detail/20260709052547040800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时35分"
-        },
-        {
-          "title": "伊朗外长：将以行动对特朗普言论作出回应",
-          "url": "https://wallstreetcn.com/livenews/3130854",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时43分"
-        },
-        {
-          "title": "土耳其总统埃尔多安：特朗普强调我们之间的友谊，这对我们来说很有价值，我们感谢他。",
-          "url": "https://flash.jin10.com/detail/20260709012023039800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时46分"
-        },
-        {
-          "title": "特朗普骂人欧洲买单，被改写的是金油定价！",
-          "url": "https://flash.jin10.com/detail/20260709233027826800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时43分"
-        },
-        {
-          "title": "美国总统特朗普：我们现在石油过剩，油价将下跌。 石油（供应）将变得非常充裕，获取非常容易，且见效极快。",
-          "url": "https://wallstreetcn.com/livenews/3130828",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时46分"
-        },
-        {
-          "title": "美国总统特朗普：要求最高法院重新审理出生公民权案件。",
-          "url": "https://wallstreetcn.com/livenews/3130904",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时35分"
-        },
-        {
-          "title": "特朗普称伊朗致电迫切想达成协议",
-          "url": "https://flash.jin10.com/detail/20260709074936602800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时17分"
-        },
-        {
-          "title": "特朗普：不认为会再次爆发伊朗战争",
-          "url": "https://wallstreetcn.com/livenews/3130824",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时46分"
-        },
-        {
-          "title": "特朗普讲话后，美股三大股指跌幅持续收窄，道指跌幅收窄至约1%，标普500跌0.41%，纳指跌0.15%。",
-          "url": "https://flash.jin10.com/detail/20260709011105896800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时46分"
-        },
-        {
-          "title": "特朗普：美伊之间的局势升级会很快平息",
-          "url": "https://flash.jin10.com/detail/20260709010713591800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时46分"
-        },
-        {
-          "title": "德国两年期国债收益率涨超12个基点，特朗普威胁要在美股盘后袭击伊朗，国际油价走高",
-          "url": "https://wallstreetcn.com/livenews/3130817",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时46分"
-        },
-        {
-          "title": "美国总统特朗普：将关注能否维持油价下跌。",
-          "url": "https://wallstreetcn.com/livenews/3130816",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时46分"
-        },
-        {
-          "title": "美国总统特朗普赞赏北约秘书长吕特。",
-          "url": "https://wallstreetcn.com/livenews/3130815",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时46分"
-        },
-        {
-          "title": "美国总统特朗普谈及住房立法草案，声称：我是“拯救美国”立法草案的大粉丝。",
-          "url": "https://wallstreetcn.com/livenews/3130928",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时17分"
-        },
-        {
-          "title": "美国总统特朗普：今天的会议（围绕北约）解决了很多问题。",
-          "url": "https://wallstreetcn.com/livenews/3130927",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时17分"
-        },
-        {
-          "title": "美国总统特朗普：欧洲想在伊朗问题上提供帮助。",
-          "url": "https://wallstreetcn.com/livenews/3130926",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时17分"
+          "time_info": "02时02分"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "世界杯助推谷歌搜索创下每秒查询量新纪录",
-          "url": "https://wallstreetcn.com/livenews/3131088",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时33分"
-        },
-        {
-          "title": "RedVelvet海报疑似Gemini生成",
-          "url": "https://s.weibo.com/weibo?q=RedVelvet%E6%B5%B7%E6%8A%A5%E7%96%91%E4%BC%BCGemini%E7%94%9F%E6%88%90&t=31&band_rank=30&Refer=top",
-          "source": "微博",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时33分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "稀土",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "深成指跌超1%，沪指跌0.74%，创业板指跌0.79%，锂矿、有色金属、电网设备、稀土永磁等方向跌幅居前，沪深京三市下跌个股近4700只。",
-          "url": "https://wallstreetcn.com/livenews/3131067",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时33分"
-        },
-        {
-          "title": "为了稀土 日本已开始捡垃圾",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%BA%E4%BA%86%E7%A8%80%E5%9C%9F+%E6%97%A5%E6%9C%AC%E5%B7%B2%E5%BC%80%E5%A7%8B%E6%8D%A1%E5%9E%83%E5%9C%BE",
-          "source": "百度热搜",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时33分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "台湾",
       "match_count": 1,
       "titles": [
         {
-          "title": "日本裔“台独”分子矢板明夫在台湾被揍，现场曝光",
-          "url": "https://v.ifeng.com/c/8uZDUuQKXXi",
-          "source": "凤凰网",
+          "title": "谷歌公司在广告中提高AI透明度。 谷歌在搜索、Youtube广告中新增AI信息披露标签。",
+          "url": "https://wallstreetcn.com/livenews/3131470",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时17分 ~ 12时33分]"
+          "appearance_count": 1,
+          "time_info": "02时02分"
         }
       ]
     }
