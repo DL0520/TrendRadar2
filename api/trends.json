@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-10T02:02:41.891846+08:00",
-  "total_titles_processed": 309,
+  "generated_at": "2026-07-10T04:23:27.301914+08:00",
+  "total_titles_processed": 393,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 7,
+      "match_count": 14,
       "titles": [
         {
           "title": "美军又袭伊朗！特朗普威胁“今夜”再打、恢复海上封锁，后一度“降温”：美伊局势升级会很快平息",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时02分"
+          "appearance_count": 2,
+          "time_info": "[02时02分 ~ 04时23分]"
         },
         {
           "title": "特朗普\"开火威胁\"搅动全球市场，降温表态后美股跌幅收窄，芯片股力撑纳指收涨，中概股大涨",
@@ -26,8 +26,19 @@
             2
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时02分 ~ 04时23分]"
+        },
+        {
+          "title": "以色列总理办公室：美国总统特朗普通报美方在海湾地区的行动。",
+          "url": "https://wallstreetcn.com/livenews/3131541",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时02分"
+          "time_info": "04时23分"
         },
         {
           "title": "特朗普：伊朗这件事上，中国赢得了美国的尊重",
@@ -37,8 +48,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时02分"
+          "appearance_count": 2,
+          "time_info": "[02时02分 ~ 04时23分]"
         },
         {
           "title": "政治新星、“民主党版特朗普”，涉性侵丑闻“塌房”退选",
@@ -48,8 +59,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时02分"
+          "appearance_count": 2,
+          "time_info": "[02时02分 ~ 04时23分]"
         },
         {
           "title": "新闻蒸馏器｜美伊开火海峡重回风暴，特朗普又说很快平息，意味着什么？",
@@ -59,8 +70,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时02分"
+          "appearance_count": 2,
+          "time_info": "[02时02分 ~ 04时23分]"
         },
         {
           "title": "“二鬼子”章家敦，被特朗普点名批评了",
@@ -70,8 +81,52 @@
             11
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时02分 ~ 04时23分]"
+        },
+        {
+          "title": "以色列总理办公室：特朗普向内塔尼亚胡告知了美国在海湾地区采取的行动。内塔尼亚胡则提及土耳其总统埃尔多安及其盟友针对以色列存在问题发表的强硬言论，并强调维持以色列边境安全区的必要性。",
+          "url": "https://flash.jin10.com/detail/20260710035930896800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时02分"
+          "time_info": "04时23分"
+        },
+        {
+          "title": "以色列总理办公室：以色列总理内塔尼亚胡与美国总统特朗普进行了通话，达成继续在各个领域协调的共识。",
+          "url": "https://flash.jin10.com/detail/20260710035516714800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时23分"
+        },
+        {
+          "title": "美国总统特朗普周四与以色列总理通话。（Axios）",
+          "url": "https://wallstreetcn.com/livenews/3131529",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时23分"
+        },
+        {
+          "title": "据Axios：以色列总理办公室表示，特朗普周四与内塔尼亚胡通话，讨论伊朗局势。",
+          "url": "https://flash.jin10.com/detail/20260710035337454800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时23分"
         },
         {
           "title": "乌克兰总统泽连斯基：与美国总统特朗普详细讨论了爱国者导弹生产的许可证问题。",
@@ -83,6 +138,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时02分"
+        },
+        {
+          "title": "据福克斯新闻：美国商务部长霍华德·卢特尼克表示，特朗普认为未来油价将保持较低水平。",
+          "url": "https://flash.jin10.com/detail/20260710031328477800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时23分"
+        },
+        {
+          "title": "美国商务部长卢特尼克：总统特朗普知道油价会保持在低位。（福克斯商业新闻）",
+          "url": "https://wallstreetcn.com/livenews/3131518",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时23分"
         }
       ]
     },
@@ -100,6 +177,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时02分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "Claude",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "据The Information：Cursor正开发AI智能代理，欲对标Claude Cowork。",
+          "url": "https://flash.jin10.com/detail/20260710035905609800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时23分"
         }
       ]
     }
