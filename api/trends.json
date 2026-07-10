@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-11T03:42:08.505258+08:00",
-  "total_titles_processed": 383,
+  "generated_at": "2026-07-11T05:12:10.246711+08:00",
+  "total_titles_processed": 452,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时55分 ~ 03时42分]"
+          "appearance_count": 6,
+          "time_info": "[01时55分 ~ 05时12分]"
         },
         {
           "title": "特朗普搞中国那套，拿来对付西班牙？",
@@ -26,8 +26,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时55分 ~ 03时42分]"
+          "appearance_count": 6,
+          "time_info": "[01时55分 ~ 05时12分]"
         },
         {
           "title": "特朗普：伊朗要求继续谈判 美已同意",
@@ -38,8 +38,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时55分 ~ 03时42分]"
+          "appearance_count": 6,
+          "time_info": "[01时55分 ~ 05时12分]"
         },
         {
           "title": "市场消息：四名美国参议员称，已与特朗普政府达成协议，将推进对俄制裁法案。",
@@ -78,8 +78,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时55分 ~ 03时42分]"
+          "appearance_count": 6,
+          "time_info": "[01时55分 ~ 05时12分]"
         }
       ]
     },
