@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-11T21:40:56.751022+08:00",
-  "total_titles_processed": 1319,
+  "generated_at": "2026-07-11T23:02:38.819090+08:00",
+  "total_titles_processed": 1390,
   "failed_sources": [],
   "trends": [
     {
@@ -42,8 +42,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时20分 ~ 21时40分]"
+          "appearance_count": 7,
+          "time_info": "[14时20分 ~ 23时02分]"
         },
         {
           "title": "特朗普给了泽连斯基一个重要承诺，舆论泼冷水",
@@ -54,8 +54,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时20分 ~ 21时40分]"
+          "appearance_count": 7,
+          "time_info": "[14时20分 ~ 23时02分]"
         },
         {
           "title": "特朗普：伊朗要求继续谈判 美已同意",
@@ -149,11 +149,12 @@
           "url": "https://flash.jin10.com/detail/20260711210033072800",
           "source": "金十数据",
           "ranks": [
-            7
+            7,
+            24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时40分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时40分 ~ 23时02分]"
         },
         {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-07-11）",
