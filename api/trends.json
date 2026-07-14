@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-14T14:37:29.981124+08:00",
-  "total_titles_processed": 1064,
+  "generated_at": "2026-07-14T17:09:41.330515+08:00",
+  "total_titles_processed": 1225,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 59,
+      "match_count": 62,
       "titles": [
         {
           "title": "特朗普宣称接管霍尔木兹海峡，伊朗警告战火将蔓延全区",
@@ -17,8 +17,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时32分 ~ 14时37分]"
+          "appearance_count": 12,
+          "time_info": "[01时32分 ~ 17时09分]"
         },
         {
           "title": "原油盘中暴涨10%！美军恢复对伊朗封锁，特朗普放话今晚明天“重击”、对海峡货运收两成费用",
@@ -30,8 +30,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时30分 ~ 14时37分]"
+          "appearance_count": 7,
+          "time_info": "[07时30分 ~ 17时09分]"
         },
         {
           "title": "特朗普：恢复对伊朗封锁，将收取海峡货运两成费用",
@@ -44,8 +44,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时32分 ~ 14时37分]"
+          "appearance_count": 12,
+          "time_info": "[01时32分 ~ 17时09分]"
         },
         {
           "title": "特朗普以为中国还得买，等来却是“谢谢，我们不需要了”",
@@ -80,6 +80,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时03分"
+        },
+        {
+          "title": "特朗普强硬重启对伊战事，共和党、白宫双双内讧",
+          "url": "https://news.ifeng.com/c/8ukTbU27CpD",
+          "source": "凤凰网",
+          "ranks": [
+            12,
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时11分 ~ 17时09分]"
         },
         {
           "title": "美国总统特朗普宣称：认为可能会达成伊朗协议。",
@@ -151,18 +164,6 @@
           "time_info": "[06时31分 ~ 07时31分]"
         },
         {
-          "title": "特朗普强硬重启对伊战事，共和党、白宫双双内讧",
-          "url": "https://news.ifeng.com/c/8ukTbU27CpD",
-          "source": "凤凰网",
-          "ranks": [
-            12,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时11分 ~ 14时37分]"
-        },
-        {
           "title": "美国总统特朗普：认为伊朗局势推进得非常迅速。 将消除伊朗与霍尔木兹海峡相关的影响力。 预计我们将彻底控制霍尔木兹海峡。",
           "url": "https://wallstreetcn.com/livenews/3133107",
           "source": "华尔街见闻-快讯",
@@ -173,6 +174,31 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时31分 ~ 07时31分]"
+        },
+        {
+          "title": "美伊战火不停？特朗普已“知会”国会，但仍认为有望达成协议！",
+          "url": "https://www.cls.cn/detail/2425302",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时11分 ~ 17时09分]"
+        },
+        {
+          "title": "特朗普通知国会伊朗战事重新爆发，伊朗称袭击美国海军第五舰队司令部，局势将如何发展？本轮战事会持续多久？",
+          "url": "https://www.zhihu.com/question/2060208521594017084",
+          "source": "知乎",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时37分 ~ 17时09分]"
         },
         {
           "title": "特朗普点名以色列和海湾5国",
@@ -231,18 +257,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时31分 ~ 07时31分]"
-        },
-        {
-          "title": "美伊战火不停？特朗普已“知会”国会，但仍认为有望达成协议！",
-          "url": "https://www.cls.cn/detail/2425302",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时11分 ~ 14时37分]"
         },
         {
           "title": "特朗普：仍可能与伊朗达成协议",
@@ -342,17 +356,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时59分"
-        },
-        {
-          "title": "特朗普通知国会伊朗战事重新爆发，伊朗称袭击美国海军第五舰队司令部，局势将如何发展？本轮战事会持续多久？",
-          "url": "https://www.zhihu.com/question/2060208521594017084",
-          "source": "知乎",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时37分"
         },
         {
           "title": "白宫官员：特朗普将支持格雷厄姆主导的对俄制裁法案",
@@ -482,7 +485,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时37分"
         },
@@ -496,6 +499,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时31分"
+        },
+        {
+          "title": "一图世界｜特朗普威胁收20%过路费，霍尔木兹海峡为何仍是冲突焦点？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33580758",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时09分"
         },
         {
           "title": "美国总统特朗普：（关于伊朗）今晚和明天将对他们进行严厉打击。",
@@ -529,6 +543,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时37分"
+        },
+        {
+          "title": "“送他人儿女上战场”，特朗普政治盟友猝死：他为何被叫“战争贩子”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33575452",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时09分"
         },
         {
           "title": "美国总统特朗普：希望我们在霍尔木兹海峡提供帮助的国家向我们偿付保护费用。",
@@ -595,6 +620,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时03分"
+        },
+        {
+          "title": "韩国称特朗普提出霍尔木兹海峡收费计划后 双方正在进行沟通",
+          "url": "https://wallstreetcn.com/livenews/3133459",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时09分"
         },
         {
           "title": "特朗普预告周五黄金时段讲话，或表明战争再次加速",
@@ -676,6 +712,35 @@
       ]
     },
     {
+      "keyword_group": "稀土",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "同比倍增！6月集成电路、稀土出口额双双迎来爆发",
+          "url": "https://www.cls.cn/detail/2425418",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时37分 ~ 17时09分]"
+        },
+        {
+          "title": "北方稀土：预计上半年净利润19.8亿元到20.6亿元，同比增加112.74%到121.33%。",
+          "url": "https://wallstreetcn.com/livenews/3133446",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时09分"
+        }
+      ]
+    },
+    {
       "keyword_group": "谷歌 google gemini",
       "match_count": 1,
       "titles": [
@@ -720,24 +785,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时37分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "稀土",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "同比倍增！6月集成电路、稀土出口额双双迎来爆发",
-          "url": "https://www.cls.cn/detail/2425418",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时37分"
         }
