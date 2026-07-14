@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-14T19:10:36.447614+08:00",
-  "total_titles_processed": 1376,
+  "generated_at": "2026-07-14T20:49:56.083508+08:00",
+  "total_titles_processed": 1520,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 63,
+      "match_count": 65,
       "titles": [
         {
           "title": "原油盘中暴涨10%！美军恢复对伊朗封锁，特朗普放话今晚明天“重击”、对海峡货运收两成费用",
@@ -18,8 +18,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时30分 ~ 19时10分]"
+          "appearance_count": 9,
+          "time_info": "[07时30分 ~ 20时49分]"
         },
         {
           "title": "特朗普宣称接管霍尔木兹海峡，伊朗警告战火将蔓延全区",
@@ -31,8 +31,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时32分 ~ 19时10分]"
+          "appearance_count": 14,
+          "time_info": "[01时32分 ~ 20时49分]"
         },
         {
           "title": "特朗普：恢复对伊朗封锁，将收取海峡货运两成费用",
@@ -43,22 +43,12 @@
             16,
             14,
             12,
-            10
+            10,
+            7
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时32分 ~ 19时10分]"
-        },
-        {
-          "title": "特朗普以为中国还得买，等来却是“谢谢，我们不需要了”",
-          "url": "https://news.ifeng.com/c/8uj34x8QE0R",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时32分 ~ 07时31分]"
+          "appearance_count": 14,
+          "time_info": "[01时32分 ~ 20时49分]"
         },
         {
           "title": "特朗普强硬重启对伊战事，共和党、白宫双双内讧",
@@ -70,8 +60,19 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时11分 ~ 19时10分]"
+          "appearance_count": 5,
+          "time_info": "[12时11分 ~ 20时49分]"
+        },
+        {
+          "title": "特朗普以为中国还得买，等来却是“谢谢，我们不需要了”",
+          "url": "https://news.ifeng.com/c/8uj34x8QE0R",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时32分 ~ 07时31分]"
         },
         {
           "title": "特朗普点名中东六国",
@@ -178,6 +179,19 @@
           "time_info": "[06时31分 ~ 07时31分]"
         },
         {
+          "title": "一图世界｜特朗普威胁收20%过路费，霍尔木兹海峡为何仍是冲突焦点？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33580758",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            14,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时09分 ~ 20时49分]"
+        },
+        {
           "title": "美伊战火不停？特朗普已“知会”国会，但仍认为有望达成协议！",
           "url": "https://www.cls.cn/detail/2425302",
           "source": "财联社热门",
@@ -261,18 +275,6 @@
           "time_info": "[06时31分 ~ 07时31分]"
         },
         {
-          "title": "一图世界｜特朗普威胁收20%过路费，霍尔木兹海峡为何仍是冲突焦点？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33580758",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时09分 ~ 19时10分]"
-        },
-        {
           "title": "“送他人儿女上战场”，特朗普政治盟友猝死：他为何被叫“战争贩子”",
           "url": "https://m.thepaper.cn/newsDetail_forward_33575452",
           "source": "澎湃新闻",
@@ -305,6 +307,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时58分 ~ 08时59分]"
+        },
+        {
+          "title": "如何看特朗普在霍尔木兹收费",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E7%9C%8B%E7%89%B9%E6%9C%97%E6%99%AE%E5%9C%A8%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E6%94%B6%E8%B4%B9",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时49分"
         },
         {
           "title": "美军三夜连炸伊朗，特朗普放话要端掉地下核设施“镐山”",
@@ -456,7 +469,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时10分"
         },
@@ -703,6 +716,17 @@
           "time_info": "06时31分"
         },
         {
+          "title": "曝特朗普支持沙特对胡塞采取军事行动",
+          "url": "https://www.toutiao.com/trending/7662172518904365062/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时49分"
+        },
+        {
           "title": "据CNN：美国总统特朗普将支持通过由已故参议员林赛·格雷厄姆牵头的两党对俄制裁方案 。",
           "url": "https://flash.jin10.com/detail/20260714033602404800",
           "source": "金十数据",
@@ -723,6 +747,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时31分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "谷歌支持美国大型太阳能项目，以抵消化石燃料排放。",
+          "url": "https://flash.jin10.com/detail/20260714120125930800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时11分"
+        },
+        {
+          "title": "谷歌：Chrome浏览器AI功能将于下月扩展至iOS平台。 将Chrome浏览器内嵌Gemini AI功能扩展至英国用户。",
+          "url": "https://wallstreetcn.com/livenews/3133659",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时49分"
         }
       ]
     },
@@ -748,7 +800,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时10分"
         }
@@ -765,11 +817,12 @@
           "ranks": [
             8,
             3,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时37分 ~ 19时10分]"
+          "appearance_count": 4,
+          "time_info": "[14时37分 ~ 20时49分]"
         },
         {
           "title": "北方稀土：预计上半年净利润19.8亿元到20.6亿元，同比增加112.74%到121.33%。",
@@ -781,23 +834,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时09分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "谷歌支持美国大型太阳能项目，以抵消化石燃料排放。",
-          "url": "https://flash.jin10.com/detail/20260714120125930800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时11分"
         }
       ]
     },
