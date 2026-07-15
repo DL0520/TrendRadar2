@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-15T19:11:31.302716+08:00",
-  "total_titles_processed": 1511,
+  "generated_at": "2026-07-15T20:54:23.136563+08:00",
+  "total_titles_processed": 1651,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 51,
+      "match_count": 53,
       "titles": [
         {
           "title": "沃什国会听证首秀：即使特朗普批评也会按数据行动，6月CPI降温不代表通胀“任务完成”",
@@ -20,8 +20,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[03时28分 ~ 19时11分]"
+          "appearance_count": 11,
+          "time_info": "[03时28分 ~ 20时54分]"
         },
         {
           "title": "特朗普强硬重启对伊战事，共和党、白宫双双内讧",
@@ -70,8 +70,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[06时04分 ~ 19时11分]"
+          "appearance_count": 8,
+          "time_info": "[06时04分 ~ 20时54分]"
         },
         {
           "title": "特朗普放弃霍尔木兹海峡20%收费计划 国际油价回吐部分涨幅",
@@ -130,17 +130,6 @@
           "time_info": "[08时54分 ~ 17时14分]"
         },
         {
-          "title": "遭到潮水般怒斥后，特朗普被迫24小时内改口",
-          "url": "https://news.ifeng.com/c/8ulRMRR0meG",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时27分"
-        },
-        {
           "title": "特朗普：用贸易投资协议取代霍尔木兹海峡货物收费",
           "url": "https://m.thepaper.cn/newsDetail_forward_33586641",
           "source": "澎湃新闻",
@@ -153,8 +142,41 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时27分 ~ 19时11分]"
+          "appearance_count": 7,
+          "time_info": "[07时27分 ~ 20时54分]"
+        },
+        {
+          "title": "利润率不足10%，特朗普硬抽20%，拦路式收费方案一天作废？",
+          "url": "https://news.ifeng.com/c/8umgsdbwja6",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时11分 ~ 20时54分]"
+        },
+        {
+          "title": "特朗普为何频频感谢中俄？",
+          "url": "https://news.ifeng.com/c/8umXJBl3ies",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时11分 ~ 20时54分]"
+        },
+        {
+          "title": "遭到潮水般怒斥后，特朗普被迫24小时内改口",
+          "url": "https://news.ifeng.com/c/8ulRMRR0meG",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时27分"
         },
         {
           "title": "24小时反转！特朗普放弃海峡收费，重启封锁、威胁“摧毁伊朗电厂桥梁”",
@@ -179,17 +201,6 @@
           "time_info": "01时44分"
         },
         {
-          "title": "利润率不足10%，特朗普硬抽20%，拦路式收费方案一天作废？",
-          "url": "https://news.ifeng.com/c/8umgsdbwja6",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时11分"
-        },
-        {
           "title": "特朗普召集会议讨论对伊朗大规模进攻计划",
           "url": "https://wallstreetcn.com/livenews/3134087",
           "source": "华尔街见闻-快讯",
@@ -201,17 +212,6 @@
           "time_info": "12时11分"
         },
         {
-          "title": "特朗普为何频频感谢中俄？",
-          "url": "https://news.ifeng.com/c/8umXJBl3ies",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时11分"
-        },
-        {
           "title": "特朗普重启伊朗战事：美伊“战略韧性”较量下的海峡控制权博弈",
           "url": "https://m.thepaper.cn/newsDetail_forward_33583485",
           "source": "澎湃新闻",
@@ -219,11 +219,12 @@
             17,
             16,
             14,
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时11分 ~ 19时11分]"
+          "appearance_count": 5,
+          "time_info": "[12时11分 ~ 20时54分]"
         },
         {
           "title": "国际空间站运行拟于2030年底结束 特朗普放弃霍尔木兹海峡收费计划 | 环球市场",
@@ -236,6 +237,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[08时54分 ~ 14时38分]"
+        },
+        {
+          "title": "伊拉克总理到访白宫，特朗普：他年轻又帅，这我就不高兴了",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33588226",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            18,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时14分 ~ 20时54分]"
         },
         {
           "title": "特朗普转变态度力挺乌克兰有何意图",
@@ -274,16 +288,16 @@
           "time_info": "[12时11分 ~ 14时38分]"
         },
         {
-          "title": "伊拉克总理到访白宫，特朗普：他年轻又帅，这我就不高兴了",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33588226",
-          "source": "澎湃新闻",
+          "title": "美伊战火愈演愈烈？特朗普被曝白宫战情室开会 讨论对伊“毁灭性打击”",
+          "url": "https://www.cls.cn/detail/2427184",
+          "source": "财联社热门",
           "ranks": [
-            17,
-            18
+            13,
+            10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[17时14分 ~ 19时11分]"
+          "time_info": "[19时11分 ~ 20时54分]"
         },
         {
           "title": "美媒：特朗普要求内塔尼亚胡从叙利亚、黎巴嫩撤军",
@@ -328,6 +342,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时28分"
+        },
+        {
+          "title": "美国财长贝森特：特朗普一美元“金币”将投入生产。",
+          "url": "https://flash.jin10.com/detail/20260715203423732800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时54分"
         },
         {
           "title": "美国总统特朗普告诉以色列总理内塔尼亚胡：将（以色列）军队撤出叙利亚和黎巴嫩。 两人上周四通电话。（Axios）",
@@ -385,17 +410,6 @@
           "time_info": "03时28分"
         },
         {
-          "title": "美伊战火愈演愈烈？特朗普被曝白宫战情室开会 讨论对伊“毁灭性打击”",
-          "url": "https://www.cls.cn/detail/2427184",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时11分"
-        },
-        {
           "title": "特朗普表示，美国将与伊拉克达成大量交易，并从伊拉克开采大量石油",
           "url": "https://flash.jin10.com/detail/20260715010017787800",
           "source": "金十数据",
@@ -435,7 +449,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时11分"
         },
@@ -449,6 +463,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时27分"
+        },
+        {
+          "title": "性侵案败诉，特朗普赔付女作家逾560万美元",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33590389",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时54分"
         },
         {
           "title": "特朗普证实美伊举行对话 暗示仍可能存在谈判路径",
@@ -490,7 +515,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时11分"
         },
@@ -628,7 +653,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时11分"
         },
@@ -639,7 +664,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时11分"
         }
