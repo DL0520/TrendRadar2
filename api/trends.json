@@ -1,12 +1,27 @@
 {
-  "generated_at": "2026-07-15T08:54:59.703576+08:00",
-  "total_titles_processed": 870,
+  "generated_at": "2026-07-15T12:11:26.207306+08:00",
+  "total_titles_processed": 1059,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 38,
+      "match_count": 43,
       "titles": [
+        {
+          "title": "沃什国会听证首秀：即使特朗普批评也会按数据行动，6月CPI降温不代表通胀“任务完成”",
+          "url": "https://wallstreetcn.com/articles/3776932",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5,
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[03时28分 ~ 12时11分]"
+        },
         {
           "title": "特朗普强硬重启对伊战事，共和党、白宫双双内讧",
           "url": "https://news.ifeng.com/c/8ukTbU27CpD",
@@ -31,20 +46,6 @@
           "time_info": "[00时23分 ~ 04时41分]"
         },
         {
-          "title": "沃什国会听证首秀：即使特朗普批评也会按数据行动，6月CPI降温不代表通胀“任务完成”",
-          "url": "https://wallstreetcn.com/articles/3776932",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时28分 ~ 08时54分]"
-        },
-        {
           "title": "一图世界｜特朗普威胁收20%过路费，霍尔木兹海峡为何仍是冲突焦点？",
           "url": "https://m.thepaper.cn/newsDetail_forward_33580758",
           "source": "澎湃新闻",
@@ -54,8 +55,22 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时23分 ~ 08时54分]"
+          "appearance_count": 9,
+          "time_info": "[00时23分 ~ 12时11分]"
+        },
+        {
+          "title": "特朗普放弃霍尔木兹海峡20%收费计划 国际油价回吐部分涨幅",
+          "url": "https://www.cls.cn/detail/2426473",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10,
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[03时28分 ~ 12时11分]"
         },
         {
           "title": "如何看特朗普在霍尔木兹收费",
@@ -74,18 +89,17 @@
           "time_info": "[00时23分 ~ 08时54分]"
         },
         {
-          "title": "特朗普放弃霍尔木兹海峡20%收费计划 国际油价回吐部分涨幅",
-          "url": "https://www.cls.cn/detail/2426473",
-          "source": "财联社热门",
+          "title": "新闻蒸馏器｜边打边放话还要收过路费，特朗普重启60天战争窗口",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33581551",
+          "source": "澎湃新闻",
           "ranks": [
-            13,
-            10,
-            8,
-            5
+            14,
+            17,
+            15
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时28分 ~ 08时54分]"
+          "appearance_count": 7,
+          "time_info": "[03时28分 ~ 12时11分]"
         },
         {
           "title": "遭到潮水般怒斥后，特朗普被迫24小时内改口",
@@ -97,29 +111,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时27分"
-        },
-        {
-          "title": "不到24小时，特朗普态度大转弯",
-          "url": "https://news.ifeng.com/c/8uly6273mL2",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时54分"
-        },
-        {
-          "title": "新闻蒸馏器｜边打边放话还要收过路费，特朗普重启60天战争窗口",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33581551",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时28分 ~ 08时54分]"
         },
         {
           "title": "24小时反转！特朗普放弃海峡收费，重启封锁、威胁“摧毁伊朗电厂桥梁”",
@@ -144,17 +135,54 @@
           "time_info": "01时44分"
         },
         {
+          "title": "特朗普召集会议讨论对伊朗大规模进攻计划",
+          "url": "https://wallstreetcn.com/livenews/3134087",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时11分"
+        },
+        {
           "title": "才一天就改口！特朗普放弃霍尔木兹海峡货运收费20%，美油“闪跌”",
           "url": "https://wallstreetcn.com/articles/3776934",
           "source": "华尔街见闻",
           "ranks": [
             10,
             8,
-            5
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时04分 ~ 12时11分]"
+        },
+        {
+          "title": "不到24小时，特朗普态度大转弯",
+          "url": "https://news.ifeng.com/c/8uly6273mL2",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时54分 ~ 12时11分]"
+        },
+        {
+          "title": "特朗普：用贸易投资协议取代霍尔木兹海峡货物收费",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33586641",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            15,
+            16
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[06时04分 ~ 08时54分]"
+          "time_info": "[07时27分 ~ 12时11分]"
         },
         {
           "title": "特朗普转变态度力挺乌克兰有何意图",
@@ -181,16 +209,16 @@
           "time_info": "[00时23分 ~ 01时44分]"
         },
         {
-          "title": "特朗普：用贸易投资协议取代霍尔木兹海峡货物收费",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33586641",
-          "source": "澎湃新闻",
+          "title": "国际空间站运行拟于2030年底结束 特朗普放弃霍尔木兹海峡收费计划 | 环球市场",
+          "url": "https://www.cls.cn/detail/2426568",
+          "source": "财联社热门",
           "ranks": [
-            18,
-            15
+            10,
+            9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[07时27分 ~ 08时54分]"
+          "time_info": "[08时54分 ~ 12时11分]"
         },
         {
           "title": "美媒：特朗普要求内塔尼亚胡从叙利亚、黎巴嫩撤军",
@@ -202,6 +230,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时44分"
+        },
+        {
+          "title": "美伊战火没完没了？特朗普：要打到我喊停，下周或袭击桥梁发电厂！",
+          "url": "https://www.cls.cn/detail/2426616",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时11分"
         },
         {
           "title": "据AXIOS：美国总统特朗普要求以色列总理内塔尼亚胡将军队撤出叙利亚和黎巴嫩。",
@@ -237,15 +276,15 @@
           "time_info": "01时44分"
         },
         {
-          "title": "国际空间站运行拟于2030年底结束 特朗普放弃霍尔木兹海峡收费计划 | 环球市场",
-          "url": "https://www.cls.cn/detail/2426568",
-          "source": "财联社热门",
+          "title": "特朗普：伊朗就像“伟大的拳击手”，以为他败了，突然出一重拳",
+          "url": "https://v.ifeng.com/c/8uitzwbrrp3",
+          "source": "凤凰网",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时54分"
+          "time_info": "12时11分"
         },
         {
           "title": "新闻交易员：别再笑特朗普反复横跳了，真正要命的不是那张收费单",
@@ -254,7 +293,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时54分"
         },
@@ -301,6 +340,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时27分"
+        },
+        {
+          "title": "特朗普重启伊朗战事：美伊“战略韧性”较量下的海峡控制权博弈",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33583485",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时11分"
         },
         {
           "title": "特朗普：将继续打击伊朗",
@@ -386,7 +436,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时54分"
         },
@@ -444,6 +494,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时27分"
+        },
+        {
+          "title": "特朗普周二就伊朗举行了战情室会议，讨论了扩大对伊朗的打击。（AXIOS）",
+          "url": "https://wallstreetcn.com/livenews/3134050",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时11分"
         }
       ]
     },
@@ -465,6 +526,23 @@
       ]
     },
     {
+      "keyword_group": "台湾",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "台湾证交所加权股价指数上涨2.1%至45,670.23点。",
+          "url": "https://wallstreetcn.com/livenews/3134073",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时11分"
+        }
+      ]
+    },
+    {
       "keyword_group": "稀土",
       "match_count": 1,
       "titles": [
@@ -475,9 +553,9 @@
           "ranks": [
             12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时54分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时54分 ~ 12时11分]"
         }
       ]
     }
