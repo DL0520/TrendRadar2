@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-15T20:54:23.136563+08:00",
-  "total_titles_processed": 1651,
+  "generated_at": "2026-07-15T22:58:36.238343+08:00",
+  "total_titles_processed": 1790,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 53,
+      "match_count": 55,
       "titles": [
         {
           "title": "沃什国会听证首秀：即使特朗普批评也会按数据行动，6月CPI降温不代表通胀“任务完成”",
@@ -20,8 +20,23 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[03时28分 ~ 20时54分]"
+          "appearance_count": 12,
+          "time_info": "[03时28分 ~ 22时58分]"
+        },
+        {
+          "title": "才一天就改口！特朗普放弃霍尔木兹海峡货运收费20%，美油“闪跌”",
+          "url": "https://wallstreetcn.com/articles/3776934",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            5,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[06时04分 ~ 22时58分]"
         },
         {
           "title": "特朗普强硬重启对伊战事，共和党、白宫双双内讧",
@@ -60,20 +75,6 @@
           "time_info": "[00时23分 ~ 12时11分]"
         },
         {
-          "title": "才一天就改口！特朗普放弃霍尔木兹海峡货运收费20%，美油“闪跌”",
-          "url": "https://wallstreetcn.com/articles/3776934",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[06时04分 ~ 20时54分]"
-        },
-        {
           "title": "特朗普放弃霍尔木兹海峡20%收费计划 国际油价回吐部分涨幅",
           "url": "https://www.cls.cn/detail/2426473",
           "source": "财联社热门",
@@ -86,6 +87,23 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[03时28分 ~ 12时11分]"
+        },
+        {
+          "title": "特朗普：用贸易投资协议取代霍尔木兹海峡货物收费",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33586641",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            15,
+            16,
+            13,
+            12,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[07时27分 ~ 22时58分]"
         },
         {
           "title": "如何看特朗普在霍尔木兹收费",
@@ -117,6 +135,17 @@
           "time_info": "[03时28分 ~ 14时38分]"
         },
         {
+          "title": "利润率不足10%，特朗普硬抽20%，拦路式收费方案一天作废？",
+          "url": "https://news.ifeng.com/c/8umgsdbwja6",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时11分 ~ 22时58分]"
+        },
+        {
           "title": "不到24小时，特朗普态度大转弯",
           "url": "https://news.ifeng.com/c/8uly6273mL2",
           "source": "凤凰网",
@@ -130,33 +159,6 @@
           "time_info": "[08时54分 ~ 17时14分]"
         },
         {
-          "title": "特朗普：用贸易投资协议取代霍尔木兹海峡货物收费",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33586641",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            15,
-            16,
-            13,
-            12,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时27分 ~ 20时54分]"
-        },
-        {
-          "title": "利润率不足10%，特朗普硬抽20%，拦路式收费方案一天作废？",
-          "url": "https://news.ifeng.com/c/8umgsdbwja6",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时11分 ~ 20时54分]"
-        },
-        {
           "title": "特朗普为何频频感谢中俄？",
           "url": "https://news.ifeng.com/c/8umXJBl3ies",
           "source": "凤凰网",
@@ -164,8 +166,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时11分 ~ 20时54分]"
+          "appearance_count": 3,
+          "time_info": "[19时11分 ~ 22时58分]"
         },
         {
           "title": "遭到潮水般怒斥后，特朗普被迫24小时内改口",
@@ -177,6 +179,21 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时27分"
+        },
+        {
+          "title": "特朗普重启伊朗战事：美伊“战略韧性”较量下的海峡控制权博弈",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33583485",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            16,
+            14,
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时11分 ~ 22时58分]"
         },
         {
           "title": "24小时反转！特朗普放弃海峡收费，重启封锁、威胁“摧毁伊朗电厂桥梁”",
@@ -212,19 +229,17 @@
           "time_info": "12时11分"
         },
         {
-          "title": "特朗普重启伊朗战事：美伊“战略韧性”较量下的海峡控制权博弈",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33583485",
+          "title": "伊拉克总理到访白宫，特朗普：他年轻又帅，这我就不高兴了",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33588226",
           "source": "澎湃新闻",
           "ranks": [
             17,
-            16,
-            14,
-            11,
-            12
+            18,
+            19
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时11分 ~ 20时54分]"
+          "appearance_count": 4,
+          "time_info": "[17时14分 ~ 22时58分]"
         },
         {
           "title": "国际空间站运行拟于2030年底结束 特朗普放弃霍尔木兹海峡收费计划 | 环球市场",
@@ -239,17 +254,16 @@
           "time_info": "[08时54分 ~ 14时38分]"
         },
         {
-          "title": "伊拉克总理到访白宫，特朗普：他年轻又帅，这我就不高兴了",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33588226",
-          "source": "澎湃新闻",
+          "title": "美伊战火愈演愈烈？特朗普被曝白宫战情室开会 讨论对伊“毁灭性打击”",
+          "url": "https://www.cls.cn/detail/2427184",
+          "source": "财联社热门",
           "ranks": [
-            17,
-            18,
-            19
+            13,
+            10
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[17时14分 ~ 20时54分]"
+          "time_info": "[19时11分 ~ 22时58分]"
         },
         {
           "title": "特朗普转变态度力挺乌克兰有何意图",
@@ -288,16 +302,16 @@
           "time_info": "[12时11分 ~ 14时38分]"
         },
         {
-          "title": "美伊战火愈演愈烈？特朗普被曝白宫战情室开会 讨论对伊“毁灭性打击”",
-          "url": "https://www.cls.cn/detail/2427184",
-          "source": "财联社热门",
+          "title": "性侵案败诉，特朗普赔付女作家逾560万美元",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33590389",
+          "source": "澎湃新闻",
           "ranks": [
-            13,
-            10
+            18,
+            16
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[19时11分 ~ 20时54分]"
+          "time_info": "[20时54分 ~ 22时58分]"
         },
         {
           "title": "美媒：特朗普要求内塔尼亚胡从叙利亚、黎巴嫩撤军",
@@ -333,6 +347,17 @@
           "time_info": "17时14分"
         },
         {
+          "title": "白宫战情室紧急开会！特朗普讨论对伊朗发动大规模进攻计划",
+          "url": "https://wallstreetcn.com/articles/3776989",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时58分"
+        },
+        {
           "title": "美国法官阻止特朗普政府执行针对社交媒体虚假信息研究人员的签证限制政策。",
           "url": "https://flash.jin10.com/detail/20260715030602681800",
           "source": "金十数据",
@@ -350,7 +375,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时54分"
         },
@@ -465,17 +490,6 @@
           "time_info": "07时27分"
         },
         {
-          "title": "性侵案败诉，特朗普赔付女作家逾560万美元",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33590389",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时54分"
-        },
-        {
           "title": "特朗普证实美伊举行对话 暗示仍可能存在谈判路径",
           "url": "https://flash.jin10.com/detail/20260715063311504800",
           "source": "金十数据",
@@ -586,6 +600,17 @@
           "time_info": "07时27分"
         },
         {
+          "title": "美国参议院委员会以12比11票数赞成特朗普提名的劳工统计局（BLS）局长人选。",
+          "url": "https://wallstreetcn.com/livenews/3134420",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时58分"
+        },
+        {
           "title": "据法新社：美国总统特朗普威胁称，如果没有达成协议，将于下周打击伊朗发电厂。",
           "url": "https://flash.jin10.com/detail/20260715061817167800",
           "source": "金十数据",
@@ -671,6 +696,34 @@
       ]
     },
     {
+      "keyword_group": "Claude",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "Stride下跌4%，Anthropic面向教师推出Claude。",
+          "url": "https://wallstreetcn.com/livenews/3133752",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时23分"
+        },
+        {
+          "title": "Claude Code 源码泄露后 OpenCode 却没有一波大更新？是开源社区躺平了，还是另有隐情？",
+          "url": "https://www.zhihu.com/question/2053497628416030104",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时58分"
+        }
+      ]
+    },
+    {
       "keyword_group": "台湾",
       "match_count": 2,
       "titles": [
@@ -695,23 +748,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时38分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "Claude",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "Stride下跌4%，Anthropic面向教师推出Claude。",
-          "url": "https://wallstreetcn.com/livenews/3133752",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时23分"
         }
       ]
     },
