@@ -1,24 +1,12 @@
 {
-  "generated_at": "2026-07-17T23:20:05.544018+08:00",
-  "total_titles_processed": 1637,
+  "generated_at": "2026-07-18T00:43:13.665165+08:00",
+  "total_titles_processed": 312,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 21,
+      "match_count": 4,
       "titles": [
-        {
-          "title": "白宫：特朗普将出席世界杯决赛",
-          "url": "https://news.ifeng.com/c/8upEtP2Gcyf",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时19分 ~ 23时20分]"
-        },
         {
           "title": "中方驳斥特朗普“中国干预美国大选”论调",
           "url": "https://news.ifeng.com/c/8upog6XKRmu",
@@ -27,547 +15,58 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时20分 ~ 23时20分]"
+          "appearance_count": 2,
+          "time_info": "[00时42分 ~ 00时43分]"
         },
         {
-          "title": "担心特朗普全国演讲乱说话，共和党人：我们被吓得“屁滚尿流”",
-          "url": "https://news.ifeng.com/c/8uoXl1Ao0h2",
+          "title": "白宫：特朗普将出席世界杯决赛",
+          "url": "https://news.ifeng.com/c/8upEtP2Gcyf",
           "source": "凤凰网",
           "ranks": [
-            5
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时51分 ~ 05时09分]"
+          "appearance_count": 2,
+          "time_info": "[00时42分 ~ 00时43分]"
         },
         {
           "title": "生死博弈！“特朗普美元”来了",
           "url": "https://news.ifeng.com/c/8uqCpNoRpyA",
           "source": "凤凰网",
           "ranks": [
-            5
+            4
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[23时19分 ~ 23时20分]"
+          "time_info": "[00时42分 ~ 00时43分]"
         },
         {
-          "title": "白宫：特朗普今晚（北京时间今早9点）发表讲话时将谈及伊朗问题。",
-          "url": "https://flash.jin10.com/detail/20260717015332023800",
-          "source": "金十数据",
+          "title": "美国参议院民主党成员Warren发函总统特朗普的司法部，要求众多反垄断监管部门审查福克斯与Roku的并购交易。",
+          "url": "https://wallstreetcn.com/livenews/3135838",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             1
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时11分"
-        },
-        {
-          "title": "美国总统特朗普准备在（今天稍早的）演讲中谈论委内瑞拉大选。（Semafor）",
-          "url": "https://wallstreetcn.com/livenews/3135274",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时09分"
-        },
-        {
-          "title": "特朗普：我们47年前就应该攻击伊朗，那样会容易得多",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33598128",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时19分 ~ 18时20分]"
-        },
-        {
-          "title": "白宫官宣特朗普将出席世界杯决赛",
-          "url": "https://www.toutiao.com/trending/7663253128728657971/",
-          "source": "今日头条",
-          "ranks": [
-            21,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时19分 ~ 14时02分]"
-        },
-        {
-          "title": "白宫再曝内幕交易丑闻！特朗普御用提词员利用演讲信息牟利遭调查",
-          "url": "https://www.cls.cn/detail/2429184",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时25分 ~ 18时20分]"
-        },
-        {
-          "title": "白宫：特朗普总统始终愿意进行外交谈判。",
-          "url": "https://flash.jin10.com/detail/20260717014747492800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时11分"
-        },
-        {
-          "title": "白宫新闻秘书Leavitt：白宫提词器操作员被停职。 美国总统特朗普认为，被控参与下注的提词器操作员“行为可耻”。",
-          "url": "https://wallstreetcn.com/livenews/3135212",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时11分"
-        },
-        {
-          "title": "白宫：特朗普总统与副总统万斯在伊朗冲突问题上意见一致。",
-          "url": "https://flash.jin10.com/detail/20260717014735582800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时11分"
-        },
-        {
-          "title": "欧盟推出银行业改革以回应特朗普的放松监管政策。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3135739",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时51分"
-        },
-        {
-          "title": "白宫：（关于以色列内部有人试图让战争无限持续）特朗普总统认同外国势力会试图影响美国公众舆论，这是一个客观事实。",
-          "url": "https://flash.jin10.com/detail/20260717014701100800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时11分"
-        },
-        {
-          "title": "伊朗称特朗普关于美国囚犯获释的说法不实",
-          "url": "https://wallstreetcn.com/livenews/3135237",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时43分"
-        },
-        {
-          "title": "白宫：特朗普总统不会允许伊朗在霍尔木兹海峡发动袭击而不付出代价。美国可以在任何时间、任何地点打击伊朗。",
-          "url": "https://flash.jin10.com/detail/20260717014539254800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时11分"
-        },
-        {
-          "title": "白宫新闻秘书Leavitt：美国总统特朗普今晚将谈论选举诚信。 重申（特朗普）对沃尔玛的赞赏。 特朗普将前往世界杯决赛现场。",
-          "url": "https://wallstreetcn.com/livenews/3135209",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时11分"
-        },
-        {
-          "title": "据CBS：美国总统特朗普将于当地时间7月22日访问亚特兰大都会区一所高中，推广新的“特朗普账户”投资计划。",
-          "url": "https://flash.jin10.com/detail/20260717024018004800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时43分"
-        },
-        {
-          "title": "美国多家主流电视网未在主要频道直播特朗普演讲 后者称应吊销牌照",
-          "url": "https://flash.jin10.com/detail/20260717105525561800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时20分"
-        },
-        {
-          "title": "美国商品期货交易委员会（CFTC）：提词器操作员在预测平台Kalshi上就特朗普的发言内容下注，CFTC正在调查。",
-          "url": "https://wallstreetcn.com/livenews/3135177",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时51分"
-        },
-        {
-          "title": "特朗普将赴世界杯现场观看决赛",
-          "url": "https://flash.jin10.com/detail/20260717021058975800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时43分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 17,
-      "titles": [
-        {
-          "title": "巴菲特罕见发声：当每个人都喜欢赌博时，很难找到价值，谷歌能击败95%华尔街推的票",
-          "url": "https://wallstreetcn.com/articles/3777063",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时51分 ~ 05时09分]"
-        },
-        {
-          "title": "谷歌盘中跌超4%，有报道称Gemini 3.5 Pro延迟发布",
-          "url": "https://flash.jin10.com/detail/20260717032122881800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时43分"
-        },
-        {
-          "title": "谷歌Gemini模型发布延期传闻引发担忧 股价盘中跳水逾3%",
-          "url": "https://www.cls.cn/detail/2428944",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时19分 ~ 14时02分]"
-        },
-        {
-          "title": "谷歌母公司Alphabet（谷歌A）重挫5%刷新日低，报道称谷歌Gemini模型将推迟发布。",
-          "url": "https://wallstreetcn.com/livenews/3135246",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时43分 ~ 05时09分]"
-        },
-        {
-          "title": "谷歌(GOOG.O)在美国上线搜索AI模式应用集成功能，支持与更多应用协同。",
-          "url": "https://flash.jin10.com/detail/20260717001129809800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时51分"
-        },
-        {
-          "title": "欧盟要求谷歌开放安卓AI功能并共享搜索数据",
-          "url": "https://wallstreetcn.com/livenews/3135211",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时11分"
-        },
-        {
-          "title": "谷歌(GOOG.O)：Google Vids上线Gemini Omni和个人数字形象功能，面向Google AI Pro、AI Ultra订阅用户及Workspace企业客户开放。",
-          "url": "https://flash.jin10.com/detail/20260717001020905800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时51分"
-        },
-        {
-          "title": "谷歌(GOOG.O)推出Gemini Omni，并更新Google Vids个人数字形象功能。",
-          "url": "https://flash.jin10.com/detail/20260717000925338800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时51分"
-        },
-        {
-          "title": "市场消息：英特尔(INTC.O)正在探索基于谷歌云(GOOG.O)的解决方案，以帮助团队简化市场营销和沟通工作流程。",
-          "url": "https://flash.jin10.com/detail/20260717000606202800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时51分"
-        },
-        {
-          "title": "市场消息：英特尔(INTC.O)将整合先进的Gemini驱动的生成式人工智能，覆盖其全球员工。",
-          "url": "https://flash.jin10.com/detail/20260717000518313800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时51分"
-        },
-        {
-          "title": "市场消息：英特尔(INTC.O)与谷歌云(GOOG.O)合作推动英特尔企业人工智能转型。",
-          "url": "https://flash.jin10.com/detail/20260717000450810800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时51分"
-        },
-        {
-          "title": "谷歌A跌幅扩大至2.7%。",
-          "url": "https://wallstreetcn.com/livenews/3135230",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时43分"
-        },
-        {
-          "title": "谷歌A收跌4.4%，市值蒸发2000亿美元。 标普500指数的11个板块中，日用品板块收涨2.9%，保健、房地产板块至少涨2.1%，能源板块涨1%，信息技术/可选消费板块跌1.77%，电信板块跌2.85%。 在标普500指数的所有成分股里，谷歌A跌幅靠前，在标普电信板块，谷歌A跌幅仅次于回声星通信（ECHO）——后者收跌5.21%。",
-          "url": "https://wallstreetcn.com/livenews/3135262",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时09分"
-        },
-        {
-          "title": "谷歌(GOOG.O)日内跌近3%，有消息称谷歌Gemini 3.5 Pro推迟发布。",
-          "url": "https://flash.jin10.com/detail/20260717022948795800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时43分"
-        },
-        {
-          "title": "报道：谷歌Gemini旗舰模型发布推迟，技术能力未达预期目标",
-          "url": "https://wallstreetcn.com/livenews/3135223",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时43分"
-        },
-        {
-          "title": "纳斯达克100指数跌幅扩大至2%，成分股Nebius集团跌14.2%，闪迪跌12.8%，Rocket Labs跌12.2%，希捷科技跌10.6%，西部数据跌10.2%，Astera Labs跌9.8%，迈威尔科技/美满电子、Lumentum、泰瑞达、英特尔至少跌6.9%，谷歌A跌4.7%。 半导体指数跌5%，存储芯片指数维持大约9%的跌幅。 北美科技软件股指数ETF跌幅重新扩大至0.4%，美股盘初一度跌1.9%。",
-          "url": "https://wallstreetcn.com/livenews/3135254",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时09分"
-        },
-        {
-          "title": "谷歌Gemini 3.5 Pro交付进度落后计划数月，因技术能力未达预期目标",
-          "url": "https://flash.jin10.com/detail/20260717021710042800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时43分"
+          "time_info": "00时43分"
         }
       ]
     },
     {
       "keyword_group": "台湾",
-      "match_count": 8,
+      "match_count": 1,
       "titles": [
-        {
-          "title": "国台办：赖清德当局编造所谓“风险”目的是恐吓台湾民众",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33599648",
-          "source": "澎湃新闻",
-          "ranks": [
-            10,
-            9,
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时19分 ~ 19时54分]"
-        },
-        {
-          "title": "男子帮台湾游客拍照 竟是失联大伯",
-          "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%B8%AE%E5%8F%B0%E6%B9%BE%E6%B8%B8%E5%AE%A2%E6%8B%8D%E7%85%A7+%E7%AB%9F%E6%98%AF%E5%A4%B1%E8%81%94%E5%A4%A7%E4%BC%AF",
-          "source": "百度热搜",
-          "ranks": [
-            4,
-            7,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时02分 ~ 19时54分]"
-        },
-        {
-          "title": "中国台湾证交所加权股价指数收低6.5%报42,671.27点。",
-          "url": "https://wallstreetcn.com/livenews/3135498",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时02分"
-        },
         {
           "title": "男子帮台湾游客拍照发现是失联大伯",
           "url": "https://www.toutiao.com/trending/7663079876816175147/",
           "source": "今日头条",
           "ranks": [
-            14,
-            13,
-            27,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时20分 ~ 23时20分]"
-        },
-        {
-          "title": "台湾加权指数7月17日（周五）收盘下跌2953.71点，跌幅6.47%，报42671.27点。台积电跌7.29%。",
-          "url": "https://flash.jin10.com/detail/20260717133558242800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时02分"
-        },
-        {
-          "title": "中国台湾证交所加权股价指数下跌6%至42,869.42点。",
-          "url": "https://wallstreetcn.com/livenews/3135485",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
             13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时02分"
-        },
-        {
-          "title": "外资净卖出创纪录的58亿美元台湾股票。",
-          "url": "https://wallstreetcn.com/livenews/3135561",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时25分"
-        },
-        {
-          "title": "男子帮台湾游客拍照竟是失联的大伯",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%B8%AE%E5%8F%B0%E6%B9%BE%E6%B8%B8%E5%AE%A2%E6%8B%8D%E7%85%A7%E7%AB%9F%E6%98%AF%E5%A4%B1%E8%81%94%E7%9A%84%E5%A4%A7%E4%BC%AF%23&t=31&band_rank=25&Refer=top",
-          "source": "微博",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时25分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "稀土",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "日本拆完空调又回收电动车电池找稀土",
-          "url": "https://www.toutiao.com/trending/7663164380225372179/",
-          "source": "今日头条",
-          "ranks": [
-            17,
-            27
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时25分 ~ 18时20分]"
-        },
-        {
-          "title": "巴西贸易部长罗莎：在稀土问题上，美国要求巴西限制“不遵守市场规则”国家的投资，但巴西不会接受这一要求。",
-          "url": "https://flash.jin10.com/detail/20260717043247802800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时09分"
+          "time_info": "[00时42分 ~ 00时43分]"
         }
       ]
     }
