@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-17T21:51:30.341596+08:00",
-  "total_titles_processed": 1505,
+  "generated_at": "2026-07-17T23:20:05.544018+08:00",
+  "total_titles_processed": 1637,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 20,
+      "match_count": 21,
       "titles": [
         {
           "title": "白宫：特朗普将出席世界杯决赛",
@@ -16,8 +16,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时19分 ~ 21时51分]"
+          "appearance_count": 9,
+          "time_info": "[11时19分 ~ 23时20分]"
+        },
+        {
+          "title": "中方驳斥特朗普“中国干预美国大选”论调",
+          "url": "https://news.ifeng.com/c/8upog6XKRmu",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时20分 ~ 23时20分]"
         },
         {
           "title": "担心特朗普全国演讲乱说话，共和党人：我们被吓得“屁滚尿流”",
@@ -31,15 +42,15 @@
           "time_info": "[00时51分 ~ 05时09分]"
         },
         {
-          "title": "中方驳斥特朗普“中国干预美国大选”论调",
-          "url": "https://news.ifeng.com/c/8upog6XKRmu",
+          "title": "生死博弈！“特朗普美元”来了",
+          "url": "https://news.ifeng.com/c/8uqCpNoRpyA",
           "source": "凤凰网",
           "ranks": [
-            1
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时20分 ~ 21时51分]"
+          "appearance_count": 2,
+          "time_info": "[23时19分 ~ 23时20分]"
         },
         {
           "title": "白宫：特朗普今晚（北京时间今早9点）发表讲话时将谈及伊朗问题。",
@@ -140,7 +151,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时51分"
         },
@@ -478,11 +489,12 @@
           "ranks": [
             14,
             13,
-            27
+            27,
+            24
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时20分 ~ 21时51分]"
+          "appearance_count": 5,
+          "time_info": "[18时20分 ~ 23时20分]"
         },
         {
           "title": "台湾加权指数7月17日（周五）收盘下跌2953.71点，跌幅6.47%，报42671.27点。台积电跌7.29%。",
