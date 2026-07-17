@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-17T16:25:23.700837+08:00",
-  "total_titles_processed": 1085,
+  "generated_at": "2026-07-17T18:20:36.985137+08:00",
+  "total_titles_processed": 1220,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "白宫：特朗普将出席世界杯决赛",
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时19分 ~ 16时25分]"
+          "appearance_count": 5,
+          "time_info": "[11时19分 ~ 18时20分]"
         },
         {
           "title": "担心特朗普全国演讲乱说话，共和党人：我们被吓得“屁滚尿流”",
@@ -29,6 +29,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时51分 ~ 05时09分]"
+        },
+        {
+          "title": "中方驳斥特朗普“中国干预美国大选”论调",
+          "url": "https://news.ifeng.com/c/8upog6XKRmu",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时20分"
         },
         {
           "title": "白宫：特朗普今晚（北京时间今早9点）发表讲话时将谈及伊朗问题。",
@@ -58,11 +69,12 @@
           "source": "澎湃新闻",
           "ranks": [
             15,
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时19分 ~ 16时25分]"
+          "appearance_count": 5,
+          "time_info": "[11时19分 ~ 18时20分]"
         },
         {
           "title": "白宫官宣特朗普将出席世界杯决赛",
@@ -75,6 +87,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时19分 ~ 14时02分]"
+        },
+        {
+          "title": "白宫再曝内幕交易丑闻！特朗普御用提词员利用演讲信息牟利遭调查",
+          "url": "https://www.cls.cn/detail/2429184",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时25分 ~ 18时20分]"
         },
         {
           "title": "白宫：特朗普总统始终愿意进行外交谈判。",
@@ -152,17 +176,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时11分"
-        },
-        {
-          "title": "白宫再曝内幕交易丑闻！特朗普御用提词员利用演讲信息牟利遭调查",
-          "url": "https://www.cls.cn/detail/2429184",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时25分"
         },
         {
           "title": "据CBS：美国总统特朗普将于当地时间7月22日访问亚特兰大都会区一所高中，推广新的“特朗普账户”投资计划。",
@@ -407,19 +420,8 @@
     },
     {
       "keyword_group": "台湾",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
-        {
-          "title": "男子帮台湾游客拍照 竟是失联大伯",
-          "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%B8%AE%E5%8F%B0%E6%B9%BE%E6%B8%B8%E5%AE%A2%E6%8B%8D%E7%85%A7+%E7%AB%9F%E6%98%AF%E5%A4%B1%E8%81%94%E5%A4%A7%E4%BC%AF",
-          "source": "百度热搜",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时02分 ~ 16时25分]"
-        },
         {
           "title": "国台办：赖清德当局编造所谓“风险”目的是恐吓台湾民众",
           "url": "https://m.thepaper.cn/newsDetail_forward_33599648",
@@ -430,8 +432,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时19分 ~ 16时25分]"
+          "appearance_count": 5,
+          "time_info": "[11时19分 ~ 18时20分]"
+        },
+        {
+          "title": "男子帮台湾游客拍照 竟是失联大伯",
+          "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%B8%AE%E5%8F%B0%E6%B9%BE%E6%B8%B8%E5%AE%A2%E6%8B%8D%E7%85%A7+%E7%AB%9F%E6%98%AF%E5%A4%B1%E8%81%94%E5%A4%A7%E4%BC%AF",
+          "source": "百度热搜",
+          "ranks": [
+            4,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时02分 ~ 18时20分]"
         },
         {
           "title": "中国台湾证交所加权股价指数收低6.5%报42,671.27点。",
@@ -473,9 +487,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时25分"
+        },
+        {
+          "title": "男子帮台湾游客拍照发现是失联大伯",
+          "url": "https://www.toutiao.com/trending/7663079876816175147/",
+          "source": "今日头条",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时20分"
         },
         {
           "title": "男子帮台湾游客拍照竟是失联的大伯",
@@ -484,7 +509,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时25分"
         }
@@ -495,6 +520,18 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "日本拆完空调又回收电动车电池找稀土",
+          "url": "https://www.toutiao.com/trending/7663164380225372179/",
+          "source": "今日头条",
+          "ranks": [
+            17,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时25分 ~ 18时20分]"
+        },
+        {
           "title": "巴西贸易部长罗莎：在稀土问题上，美国要求巴西限制“不遵守市场规则”国家的投资，但巴西不会接受这一要求。",
           "url": "https://flash.jin10.com/detail/20260717043247802800",
           "source": "金十数据",
@@ -504,17 +541,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时09分"
-        },
-        {
-          "title": "日本拆完空调又回收电动车电池找稀土",
-          "url": "https://www.toutiao.com/trending/7663164380225372179/",
-          "source": "今日头条",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时25分"
         }
       ]
     }
