@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-18T16:25:24.811718+08:00",
-  "total_titles_processed": 1114,
+  "generated_at": "2026-07-18T18:02:27.269260+08:00",
+  "total_titles_processed": 1206,
   "failed_sources": [],
   "trends": [
     {
@@ -47,11 +47,24 @@
           "url": "https://news.ifeng.com/c/8urPoLCdQ0d",
           "source": "凤凰网",
           "ranks": [
-            4
+            4,
+            1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时25分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时25分 ~ 18时02分]"
+        },
+        {
+          "title": "特朗普支持“兄终妹及”：任期结束后继续参选",
+          "url": "https://news.ifeng.com/c/8ur9XDi7eVj",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时10分 ~ 18时02分]"
         },
         {
           "title": "市场消息：美国法官裁定，特朗普政府无权因新的政策优先事项而广泛取消拨款资金。",
@@ -65,17 +78,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时02分 ~ 07时27分]"
-        },
-        {
-          "title": "特朗普支持“兄终妹及”：任期结束后继续参选",
-          "url": "https://news.ifeng.com/c/8ur9XDi7eVj",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时10分 ~ 16时25分]"
         },
         {
           "title": "美国参议院民主党成员Warren发函总统特朗普的司法部，要求众多反垄断监管部门审查福克斯与Roku的并购交易。",
@@ -101,6 +103,19 @@
           "time_info": "[12时10分 ~ 16时25分]"
         },
         {
+          "title": "分析｜轰炸、备忘录双双失效，特朗普还有C计划吗？专家：美国已陷入“战略死胡同”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33605316",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            14,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时29分 ~ 18时02分]"
+        },
+        {
           "title": "消息人士：特朗普媒体向金融机构推销“Truth API”，三年期优惠价每月6万美元。",
           "url": "https://flash.jin10.com/detail/20260718045100973800",
           "source": "金十数据",
@@ -120,18 +135,6 @@
           "ranks": [
             12,
             11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时29分 ~ 16时25分]"
-        },
-        {
-          "title": "分析｜轰炸、备忘录双双失效，特朗普还有C计划吗？专家：美国已陷入“战略死胡同”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33605316",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            14
           ],
           "is_new": false,
           "appearance_count": 3,
