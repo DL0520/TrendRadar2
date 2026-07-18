@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-07-19T03:19:56.110261+08:00",
-  "total_titles_processed": 424,
+  "generated_at": "2026-07-19T04:22:42.730055+08:00",
+  "total_titles_processed": 452,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "白宫声称特朗普并非针对中国",
           "url": "https://news.ifeng.com/c/8urPoLCdQ0d",
           "source": "凤凰网",
           "ranks": [
-            1
+            1,
+            5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时32分 ~ 03时19分]"
+          "appearance_count": 6,
+          "time_info": "[00时32分 ~ 04时22分]"
         },
         {
           "title": "特朗普支持“兄终妹及”：任期结束后继续参选",
@@ -26,8 +27,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时32分 ~ 03时19分]"
+          "appearance_count": 6,
+          "time_info": "[00时32分 ~ 04时22分]"
         },
         {
           "title": "分析｜轰炸、备忘录双双失效，特朗普还有C计划吗？专家：美国已陷入“战略死胡同”",
@@ -38,8 +39,19 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时32分 ~ 03时19分]"
+          "appearance_count": 6,
+          "time_info": "[00时32分 ~ 04时22分]"
+        },
+        {
+          "title": "穆杰塔巴：特朗普的签名毫无价值、无效",
+          "url": "https://news.ifeng.com/c/8us63AU51TY",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时22分"
         },
         {
           "title": "空气质量影响世界杯决赛？特朗普扬言就加拿大山火烟霾追加关税",
@@ -51,8 +63,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时32分 ~ 03时19分]"
+          "appearance_count": 6,
+          "time_info": "[00时32分 ~ 04时22分]"
         },
         {
           "title": "如何看待白宫提词器操作员提前获取特朗普演讲稿，并据此押注获利近 10 万元，最终被调查？",
@@ -61,11 +73,12 @@
           "ranks": [
             12,
             14,
-            13
+            13,
+            10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时32分 ~ 03时19分]"
+          "appearance_count": 6,
+          "time_info": "[00时32分 ~ 04时22分]"
         },
         {
           "title": "特朗普透露：因凡蒂诺曾建议美国和中国联合举办一届世界杯",
@@ -77,8 +90,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时32分 ~ 03时19分]"
+          "appearance_count": 6,
+          "time_info": "[00时32分 ~ 04时22分]"
         },
         {
           "title": "美媒：特朗普政府仍未说明本轮冲突的持续时间与最终目标",
@@ -117,6 +130,18 @@
           "time_info": "[02时01分 ~ 03时19分]"
         },
         {
+          "title": "美国参议员桑德斯：曾几何时，美国凭借其对民主与正义的坚定承诺激励着全世界。遗憾的是，在特朗普执政之下，情况已不再如此。",
+          "url": "https://flash.jin10.com/detail/20260719020717428800",
+          "source": "金十数据",
+          "ranks": [
+            14,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时19分 ~ 04时22分]"
+        },
+        {
           "title": "伊朗最高领袖指责美国一再违约，称：特朗普的签名“毫无价值、无效”",
           "url": "https://wallstreetcn.com/livenews/3136073",
           "source": "华尔街见闻-快讯",
@@ -126,17 +151,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时01分"
-        },
-        {
-          "title": "美国参议员桑德斯：曾几何时，美国凭借其对民主与正义的坚定承诺激励着全世界。遗憾的是，在特朗普执政之下，情况已不再如此。",
-          "url": "https://flash.jin10.com/detail/20260719020717428800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时19分"
         },
         {
           "title": "伊朗最高领袖：美国一再违背协议，特朗普的签字毫无信誉",
@@ -164,8 +178,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时33分 ~ 03时19分]"
+          "appearance_count": 4,
+          "time_info": "[00时33分 ~ 04时22分]"
         }
       ]
     },
