@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-19T15:32:22.414679+08:00",
-  "total_titles_processed": 1001,
+  "generated_at": "2026-07-19T17:32:00.386529+08:00",
+  "total_titles_processed": 1130,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[04时22分 ~ 15时32分]"
+          "appearance_count": 13,
+          "time_info": "[04时22分 ~ 17时32分]"
         },
         {
           "title": "白宫声称特朗普并非针对中国",
@@ -99,6 +99,19 @@
           "time_info": "[00时32分 ~ 12时52分]"
         },
         {
+          "title": "特朗普最新发声！美军连续八天夜袭伊朗 美国发布全球安全警示",
+          "url": "https://www.cls.cn/detail/2430341",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时52分 ~ 17时32分]"
+        },
+        {
           "title": "特朗普点评英格兰队战术",
           "url": "https://www.douyin.com/hot/2575689",
           "source": "抖音",
@@ -124,18 +137,6 @@
           "time_info": "[05时27分 ~ 09时07分]"
         },
         {
-          "title": "特朗普最新发声！美军连续八天夜袭伊朗 美国发布全球安全警示",
-          "url": "https://www.cls.cn/detail/2430341",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时52分 ~ 15时32分]"
-        },
-        {
           "title": "特朗普：“完全不在乎”伊朗暂停履行临时协议",
           "url": "https://flash.jin10.com/detail/20260719052601155800",
           "source": "金十数据",
@@ -146,6 +147,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时27分 ~ 09时07分]"
+        },
+        {
+          "title": "谁将与特朗普同举大力神杯",
+          "url": "https://search.bilibili.com/all?keyword=%E8%B0%81%E5%B0%86%E4%B8%8E%E7%89%B9%E6%9C%97%E6%99%AE%E5%90%8C%E4%B8%BE%E5%A4%A7%E5%8A%9B%E7%A5%9E%E6%9D%AF",
+          "source": "bilibili 热搜",
+          "ranks": [
+            26,
+            25,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时52分 ~ 17时32分]"
         },
         {
           "title": "美媒：特朗普政府仍未说明本轮冲突的持续时间与最终目标",
@@ -209,18 +223,6 @@
           "time_info": "[06时27分 ~ 09时07分]"
         },
         {
-          "title": "谁将与特朗普同举大力神杯",
-          "url": "https://search.bilibili.com/all?keyword=%E8%B0%81%E5%B0%86%E4%B8%8E%E7%89%B9%E6%9C%97%E6%99%AE%E5%90%8C%E4%B8%BE%E5%A4%A7%E5%8A%9B%E7%A5%9E%E6%9D%AF",
-          "source": "bilibili 热搜",
-          "ranks": [
-            26,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时52分 ~ 15时32分]"
-        },
-        {
           "title": "美国参议员桑德斯：曾几何时，美国凭借其对民主与正义的坚定承诺激励着全世界。遗憾的是，在特朗普执政之下，情况已不再如此。",
           "url": "https://flash.jin10.com/detail/20260719020717428800",
           "source": "金十数据",
@@ -272,7 +274,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时32分"
         }
@@ -302,8 +304,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时31分 ~ 15时32分]"
+          "appearance_count": 4,
+          "time_info": "[15时31分 ~ 17时32分]"
         }
       ]
     },
