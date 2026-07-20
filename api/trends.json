@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-20T13:09:58.310876+08:00",
-  "total_titles_processed": 955,
+  "generated_at": "2026-07-20T16:26:29.597197+08:00",
+  "total_titles_processed": 1133,
   "failed_sources": [],
   "trends": [
     {
@@ -97,6 +97,18 @@
           "time_info": "[02时31分 ~ 06时02分]"
         },
         {
+          "title": "特朗普：痛击伊朗，为身亡美军报仇",
+          "url": "https://news.ifeng.com/c/8uuJZX8B2mu",
+          "source": "凤凰网",
+          "ranks": [
+            10,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时07分 ~ 16时26分]"
+        },
+        {
           "title": "特朗普摸大力神杯",
           "url": "https://s.weibo.com/weibo?q=%E7%89%B9%E6%9C%97%E6%99%AE%E6%91%B8%E5%A4%A7%E5%8A%9B%E7%A5%9E%E6%9D%AF&t=31&band_rank=11&Refer=top",
           "source": "微博",
@@ -145,18 +157,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时05分 ~ 04时58分]"
-        },
-        {
-          "title": "特朗普：痛击伊朗，为身亡美军报仇",
-          "url": "https://news.ifeng.com/c/8uuJZX8B2mu",
-          "source": "凤凰网",
-          "ranks": [
-            10,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时07分 ~ 13时09分]"
         },
         {
           "title": "谁将与特朗普同举大力神杯",
@@ -208,6 +208,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时05分 ~ 03时47分]"
+        },
+        {
+          "title": "西班牙夺冠庆祝合影，特朗普迟迟不肯离场",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33618793",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时09分 ~ 16时26分]"
         },
         {
           "title": "两天三名美军死亡！美伊冲突失控风险骤升，特朗普迎来关键考验",
@@ -263,17 +275,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时07分"
-        },
-        {
-          "title": "西班牙夺冠庆祝合影，特朗普迟迟不肯离场",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33618793",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时09分"
         },
         {
           "title": "美国总统特朗普将大力神杯颁给西班牙队。",
@@ -356,8 +357,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时07分 ~ 13时09分]"
+          "appearance_count": 3,
+          "time_info": "[09时07分 ~ 16时26分]"
         }
       ]
     },
@@ -383,7 +384,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时09分"
         }
