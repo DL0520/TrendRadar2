@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-24T15:36:56.843833+08:00",
-  "total_titles_processed": 1076,
+  "generated_at": "2026-07-24T18:25:39.848122+08:00",
+  "total_titles_processed": 1260,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 25,
+      "match_count": 26,
       "titles": [
         {
           "title": "特朗普：我们与伊朗只是小规模冲突",
@@ -27,11 +27,12 @@
             8,
             7,
             5,
-            4
+            4,
+            6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[03时27分 ~ 15时36分]"
+          "appearance_count": 11,
+          "time_info": "[03时27分 ~ 18时25分]"
         },
         {
           "title": "委内瑞拉石油多着呢！特朗普：我们才不需要霍尔木兹海峡",
@@ -57,8 +58,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时02分 ~ 15时36分]"
+          "appearance_count": 4,
+          "time_info": "[09时02分 ~ 18时25分]"
         },
         {
           "title": "美国总统特朗普：159艘伊朗军舰已被击沉。",
@@ -106,6 +107,30 @@
           "time_info": "[03时28分 ~ 04时39分]"
         },
         {
+          "title": "油价破百！胡塞武装开辟“红海战场”，特朗普权衡“更大规模战争”，乌克兰也来“火上浇油”",
+          "url": "https://wallstreetcn.com/articles/3777830",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时36分 ~ 18时25分]"
+        },
+        {
+          "title": "美国会要让特朗普“踩刹车”，众院通过议案要求停止对伊朗军事行动",
+          "url": "https://wallstreetcn.com/articles/3777809",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时51分 ~ 18时25分]"
+        },
+        {
           "title": "特朗普称将用被冻结的伊朗资金赔偿船只及货物损失 | 环球市场",
           "url": "https://www.cls.cn/detail/2435732",
           "source": "财联社热门",
@@ -118,17 +143,6 @@
           "time_info": "[09时02分 ~ 15时36分]"
         },
         {
-          "title": "美国会要让特朗普“踩刹车”，众院通过议案要求停止对伊朗军事行动",
-          "url": "https://wallstreetcn.com/articles/3777809",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时51分 ~ 15时36分]"
-        },
-        {
           "title": "特朗普重建关税墙！60个经济体被征10%-12.5%新税",
           "url": "https://flash.jin10.com/detail/20260724065207564800",
           "source": "金十数据",
@@ -138,17 +152,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时31分"
-        },
-        {
-          "title": "油价破百！胡塞武装开辟“红海战场”，特朗普权衡“更大规模战争”，乌克兰也来“火上浇油”",
-          "url": "https://wallstreetcn.com/articles/3777830",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时36分"
         },
         {
           "title": "美国总统特朗普：伊朗比四个月前更弱。",
@@ -195,6 +198,17 @@
           "time_info": "03时28分"
         },
         {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-07-24）",
+          "url": "https://flash.jin10.com/detail/20260724180204955800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时25分"
+        },
+        {
           "title": "美国高级官员：美国总统特朗普将动用其掌握的一切工具来实现他所期望的目标，包括使用关税。",
           "url": "https://flash.jin10.com/detail/20260724051248877800",
           "source": "金十数据",
@@ -223,7 +237,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时36分"
         },
@@ -474,6 +488,23 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时39分 ~ 07时31分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "稀土",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "据悉印尼部分金属出口因稀土检查而面临中断",
+          "url": "https://flash.jin10.com/detail/20260724175750767800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时25分"
         }
       ]
     }
