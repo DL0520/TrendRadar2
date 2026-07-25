@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-26T05:00:20.210045+08:00",
-  "total_titles_processed": 408,
+  "generated_at": "2026-07-26T06:03:43.659016+08:00",
+  "total_titles_processed": 430,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时08分 ~ 05时00分]"
+          "appearance_count": 7,
+          "time_info": "[01时08分 ~ 06时03分]"
         },
         {
           "title": "特朗普称准备第四次竞选总统",
@@ -27,8 +27,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时08分 ~ 05时00分]"
+          "appearance_count": 7,
+          "time_info": "[01时08分 ~ 06时03分]"
         },
         {
           "title": "一切都怪战争和通胀！美国股市中的“特朗普交易”正沦为输家",
@@ -38,8 +38,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时08分 ~ 05时00分]"
+          "appearance_count": 5,
+          "time_info": "[01时08分 ~ 06时03分]"
         },
         {
           "title": "美国上诉法院拒绝允许实施特朗普限制邮寄投票的行政命令。",
@@ -47,11 +47,12 @@
           "source": "金十数据",
           "ranks": [
             3,
-            16
+            16,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时48分 ~ 05时00分]"
+          "appearance_count": 3,
+          "time_info": "[03时48分 ~ 06时03分]"
         },
         {
           "title": "特朗普：若不能100%得到想要的 将考虑恢复全面战争",
@@ -59,11 +60,12 @@
           "source": "金十数据",
           "ranks": [
             4,
-            17
+            17,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时48分 ~ 05时00分]"
+          "appearance_count": 3,
+          "time_info": "[03时48分 ~ 06时03分]"
         },
         {
           "title": "专家：特朗普一刀切关税得罪全部盟友",
@@ -125,11 +127,12 @@
           "ranks": [
             24,
             9,
-            17
+            17,
+            12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时29分 ~ 05时00分]"
+          "appearance_count": 6,
+          "time_info": "[02时29分 ~ 06时03分]"
         },
         {
           "title": "印尼海关办公室的一位发言人表示，政府正引入独立检验机构以查明矿产出口的构成，包括检测是否含有稀土金属。 政府并非随意暂停或禁止氧化铝和镍等矿产商品的出口，并正确保符合要求的商品出口顺畅。（彭博）",
@@ -139,8 +142,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时08分 ~ 05时00分]"
+          "appearance_count": 5,
+          "time_info": "[01时08分 ~ 06时03分]"
         },
         {
           "title": "报道：印尼金属出口因稀土核查面临延误",
@@ -150,8 +153,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时08分 ~ 05时00分]"
+          "appearance_count": 5,
+          "time_info": "[01时08分 ~ 06时03分]"
         }
       ]
     },
@@ -170,8 +173,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时08分 ~ 05时00分]"
+          "appearance_count": 7,
+          "time_info": "[01时08分 ~ 06时03分]"
         }
       ]
     }
