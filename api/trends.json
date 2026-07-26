@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-26T20:41:00.816799+08:00",
-  "total_titles_processed": 1143,
+  "generated_at": "2026-07-26T22:41:30.972177+08:00",
+  "total_titles_processed": 1243,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 36,
+      "match_count": 40,
       "titles": [
         {
           "title": "特朗普突然宣布：将第四次竞选总统！他头戴印有“特朗普2028”字样的小红帽称：我已经很有经验了，将再次出马",
@@ -28,23 +28,12 @@
           "ranks": [
             7,
             3,
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时33分 ~ 20时41分]"
-        },
-        {
-          "title": "特朗普称准备第四次竞选总统",
-          "url": "https://news.ifeng.com/c/8v378W8XMdI",
-          "source": "凤凰网",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时08分 ~ 11时33分]"
+          "appearance_count": 8,
+          "time_info": "[11时33分 ~ 22时41分]"
         },
         {
           "title": "【早报】特朗普威胁对欧盟加征报复性关税；韩国存储双雄拟签下9500亿美元大单",
@@ -52,11 +41,12 @@
           "source": "财联社热门",
           "ranks": [
             6,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时33分 ~ 20时41分]"
+          "appearance_count": 8,
+          "time_info": "[11时33分 ~ 22时41分]"
         },
         {
           "title": "特朗普暂缓扩大对伊作战规模，原因曝光",
@@ -66,8 +56,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时20分 ~ 20时41分]"
+          "appearance_count": 6,
+          "time_info": "[17时20分 ~ 22时41分]"
         },
         {
           "title": "特朗普下令暂停空袭伊朗",
@@ -80,8 +70,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时33分 ~ 20时41分]"
+          "appearance_count": 8,
+          "time_info": "[11时33分 ~ 22时41分]"
+        },
+        {
+          "title": "特朗普称准备第四次竞选总统",
+          "url": "https://news.ifeng.com/c/8v378W8XMdI",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时08分 ~ 11时33分]"
         },
         {
           "title": "一切都怪战争和通胀！美国股市中的“特朗普交易”正沦为输家",
@@ -107,8 +109,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时33分 ~ 20时41分]"
+          "appearance_count": 8,
+          "time_info": "[11时33分 ~ 22时41分]"
         },
         {
           "title": "内塔尼亚胡将见特朗普，递交伊朗情报",
@@ -129,11 +131,23 @@
           "ranks": [
             1,
             3,
-            17
+            17,
+            27
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时20分 ~ 20时41分]"
+          "appearance_count": 4,
+          "time_info": "[17时20分 ~ 22时41分]"
+        },
+        {
+          "title": "以色列总理内塔尼亚胡：伊朗问题取决于特朗普的决定。",
+          "url": "https://flash.jin10.com/detail/20260726222401916800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时41分"
         },
         {
           "title": "美国驻联合国大使Waltz声称：美国总统特朗普在伊朗战争问题对所有选项保持开放态度。 特朗普向“伊朗谈判”提供空间，（双边、相关）对话“正在进行”。（NBC News）",
@@ -142,7 +156,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时41分"
         },
@@ -320,6 +334,18 @@
           "time_info": "[02时30分 ~ 03时48分]"
         },
         {
+          "title": "美国中期选举进入100天倒计时，民调显示特朗普支持率处于低位",
+          "url": "https://wallstreetcn.com/livenews/3139838",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时41分 ~ 22时41分]"
+        },
+        {
           "title": "据悉阿曼与伊朗谈判取得进展 特朗普周五叫停对伊打击",
           "url": "https://flash.jin10.com/detail/20260726010043722800",
           "source": "金十数据",
@@ -330,6 +356,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时30分 ~ 03时48分]"
+        },
+        {
+          "title": "内塔尼亚胡称将赴美会晤特朗普",
+          "url": "https://wallstreetcn.com/livenews/3139827",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时41分 ~ 22时41分]"
         },
         {
           "title": "美媒曝光特朗普暂停空袭伊朗原因",
@@ -371,20 +409,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时41分"
         },
         {
-          "title": "美国中期选举进入100天倒计时，民调显示特朗普支持率处于低位",
-          "url": "https://wallstreetcn.com/livenews/3139838",
+          "title": "英国新任首相：若有必要将公开批评特朗普",
+          "url": "https://wallstreetcn.com/livenews/3139848",
           "source": "华尔街见闻-快讯",
           "ranks": [
             8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时41分"
+          "time_info": "22时41分"
         },
         {
           "title": "澳大利亚总理：将就新关税问题向特朗普提出交涉",
@@ -398,15 +436,26 @@
           "time_info": "11时33分"
         },
         {
-          "title": "内塔尼亚胡称将赴美会晤特朗普",
-          "url": "https://wallstreetcn.com/livenews/3139827",
+          "title": "美国驻联合国大使Waltz声称：美国总统特朗普在伊朗战争问题对所有选项保持开放态度。 特朗普向“伊朗谈判”提供空间，（双边、相关）对话“正在进行”。 （关于纽约时报称特朗普因弹药供应不足而暂停袭击伊朗）美军在伊朗战争方面拥有所有的（军事）装备。（NBC News）",
+          "url": "https://wallstreetcn.com/livenews/3139844",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            14
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时41分"
+          "time_info": "22时41分"
+        },
+        {
+          "title": "美国常驻联合国代表迈克·华尔兹表示，美国总统特朗普正在给伊朗谈判“留出一些空间”。",
+          "url": "https://flash.jin10.com/detail/20260726210929420800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时41分"
         },
         {
           "title": "两位巴西消息人士：巴西拒绝向两名试图质询巴西选举制度的特朗普政府特使签发签证。",
@@ -456,7 +505,7 @@
     },
     {
       "keyword_group": "台湾",
-      "match_count": 7,
+      "match_count": 12,
       "titles": [
         {
           "title": "台湾民众大游行怒喊“下架民进党”",
@@ -482,8 +531,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时33分 ~ 20时41分]"
+          "appearance_count": 8,
+          "time_info": "[11时33分 ~ 22时41分]"
         },
         {
           "title": "台湾“致癌油”已查出8000吨",
@@ -532,6 +581,39 @@
           "time_info": "17时20分"
         },
         {
+          "title": "台湾新北4.8级地震 福建多地有震感",
+          "url": "https://www.toutiao.com/trending/7666809391664676927/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时41分"
+        },
+        {
+          "title": "台湾宜兰县海域附近发生4.8级左右地震。（央视）",
+          "url": "https://wallstreetcn.com/livenews/3139847",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时41分"
+        },
+        {
+          "title": "中国地震台网正式测定：07月26日20时36分在台湾新北市（北纬24.94度，东经121.82度）发生4.8级地震，震源深度95千米。",
+          "url": "https://flash.jin10.com/detail/20260726205341402800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时41分"
+        },
+        {
           "title": "台湾“致癌油”已查出8000吨",
           "url": "https://www.toutiao.com/trending/7666238053325324329/",
           "source": "今日头条",
@@ -541,6 +623,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时33分"
+        },
+        {
+          "title": "中国地震台网自动测定：07月26日20时36分在台湾宜兰县海域附近（北纬24.90度，东经121.87度）发生4.8级左右地震，最终结果以正式速报为准。",
+          "url": "https://flash.jin10.com/detail/20260726204044978800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时41分"
+        },
+        {
+          "title": "台湾新北4.8级地震 福建多地有震感",
+          "url": "https://www.baidu.com/s?wd=%E5%8F%B0%E6%B9%BE%E6%96%B0%E5%8C%974.8%E7%BA%A7%E5%9C%B0%E9%9C%87+%E7%A6%8F%E5%BB%BA%E5%A4%9A%E5%9C%B0%E6%9C%89%E9%9C%87%E6%84%9F",
+          "source": "百度热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时41分"
         }
       ]
     },
@@ -598,8 +702,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时04分 ~ 20时41分]"
+          "appearance_count": 5,
+          "time_info": "[19时04分 ~ 22时41分]"
         }
       ]
     },
