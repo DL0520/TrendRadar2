@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-27T15:39:10.067020+08:00",
-  "total_titles_processed": 954,
+  "generated_at": "2026-07-27T19:33:00.192277+08:00",
+  "total_titles_processed": 1146,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 22,
+      "match_count": 23,
       "titles": [
         {
           "title": "特朗普下令暂停空袭伊朗",
@@ -47,11 +47,12 @@
           "source": "凤凰网",
           "ranks": [
             1,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时40分 ~ 15时39分]"
+          "appearance_count": 6,
+          "time_info": "[11时40分 ~ 19时33分]"
         },
         {
           "title": "特朗普叫停对伊朗空袭 为霍尔木兹海峡谈判留出空间",
@@ -100,6 +101,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时35分 ~ 07时31分]"
+        },
+        {
+          "title": "3个选项，特朗普举棋未定",
+          "url": "https://news.ifeng.com/c/8v6CmboAaqd",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时32分 ~ 19时33分]"
         },
         {
           "title": "伊朗和美国之间很快达成新停火协议的机会似乎再次上升，因有报道称美国总统特朗普决定暂停近期对伊朗南部的打击行动。在预测市场Polymarket上，交易员认为在2026年8月31日前实现停火的概率已达到75%。",
@@ -270,7 +282,7 @@
     },
     {
       "keyword_group": "台湾",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
         {
           "title": "评论员谈台湾岛内20万人集会抗议",
@@ -306,6 +318,28 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时07分 ~ 07时31分]"
+        },
+        {
+          "title": "台湾为何会爆发大规模抗议",
+          "url": "https://www.toutiao.com/trending/7666466531745857545/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时32分 ~ 19时33分]"
+        },
+        {
+          "title": "台湾爆毒油事件,食安危机升温",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356545&amp;topic_name=%E5%8F%B0%E6%B9%BE%E7%88%86%E6%AF%92%E6%B2%B9%E4%BA%8B%E4%BB%B6%2C%E9%A3%9F%E5%AE%89%E5%8D%B1%E6%9C%BA%E5%8D%87%E6%B8%A9",
+          "source": "贴吧",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时32分 ~ 19时33分]"
         },
         {
           "title": "台湾爆发大规模抗议",
@@ -356,8 +390,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时40分 ~ 15时39分]"
+          "appearance_count": 6,
+          "time_info": "[11时40分 ~ 19时33分]"
         },
         {
           "title": "日本为找稀土开始拆解废旧空调",
@@ -369,6 +403,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时35分 ~ 01时36分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "Claude",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "Claude Opus 5 系统提示词泄漏，膨胀到 20 万字符的系统提示词，你怎么看？",
+          "url": "https://www.zhihu.com/question/2064349598202779354",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时32分 ~ 19时33分]"
         }
       ]
     }
