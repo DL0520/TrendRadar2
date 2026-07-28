@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-28T19:24:16.446432+08:00",
-  "total_titles_processed": 1312,
+  "generated_at": "2026-07-28T21:12:58.882524+08:00",
+  "total_titles_processed": 1448,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 62,
+      "match_count": 77,
       "titles": [
         {
           "title": "特朗普威胁对欧盟加征巨额报复性关税，为何又是“301调查”？",
@@ -53,6 +53,20 @@
           "time_info": "[10时57分 ~ 16时45分]"
         },
         {
+          "title": "特朗普：有足够耐心与伊朗达成新协议，否则就开打",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33670163",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            15,
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时57分 ~ 21时12分]"
+        },
+        {
           "title": "600名以色列前高官联名致信特朗普，发出警告",
           "url": "https://news.ifeng.com/c/8v7UlJm7wWT",
           "source": "凤凰网",
@@ -73,19 +87,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时01分"
-        },
-        {
-          "title": "特朗普：有足够耐心与伊朗达成新协议，否则就开打",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33670163",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            15,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时57分 ~ 19时24分]"
         },
         {
           "title": "特朗普：美国应拥有全球最低的利率",
@@ -119,6 +120,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时39分"
+        },
+        {
+          "title": "美国总统特朗普：不太想更新美加墨贸易协议。",
+          "url": "https://flash.jin10.com/detail/20260728205234058800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时12分"
         },
         {
           "title": "一名官员称：美国总统特朗普将与即将到访的以色列总理讨论伊朗问题和“亚伯拉罕”协议。（彭博）",
@@ -237,6 +249,17 @@
           "time_info": "06时13分"
         },
         {
+          "title": "美国总统特朗普：丰田在美国建厂以规避关税。",
+          "url": "https://flash.jin10.com/detail/20260728205138029800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时12分"
+        },
+        {
           "title": "美国总统特朗普：关税对通用汽车(GM.N)的影响真是惊人。",
           "url": "https://flash.jin10.com/detail/20260728023159967800",
           "source": "金十数据",
@@ -268,6 +291,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时58分"
+        },
+        {
+          "title": "美国总统特朗普：美墨加协定对加拿大和墨西哥很重要，但对美国并不重要。",
+          "url": "https://flash.jin10.com/detail/20260728205133548800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时12分"
+        },
+        {
+          "title": "特朗普（谈美墨加协定）：我其实不想更新它。",
+          "url": "https://wallstreetcn.com/livenews/3141032",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时12分"
         },
         {
           "title": "特朗普称正与伊朗进行“良好谈判” 暗示可能会发生一些事情",
@@ -325,6 +370,17 @@
           "time_info": "10时58分"
         },
         {
+          "title": "美国总统特朗普对库珀海军上将在伊朗行动中的表现表示赞赏。",
+          "url": "https://flash.jin10.com/detail/20260728205002275800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时12分"
+        },
+        {
           "title": "特朗普称在伊朗问题上“可能会有好事发生”，标普500指数转涨",
           "url": "https://wallstreetcn.com/livenews/3140436",
           "source": "华尔街见闻-快讯",
@@ -358,6 +414,17 @@
           "time_info": "04时39分"
         },
         {
+          "title": "美国总统特朗普：现在是伊朗达成协议的好时机。 如果没有伊朗协议达成，将回去完成这项工作。 我们现在处于非常有利的地位。 希望避免袭击伊朗的桥梁和发电厂。 伊朗没有控制霍尔木兹海峡，我们控制着霍尔木兹海峡。 只有我们想让通过的船只才能通过海峡。",
+          "url": "https://wallstreetcn.com/livenews/3141026",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时12分"
+        },
+        {
           "title": "特朗普连发数十张AI图遭吐槽",
           "url": "https://www.douyin.com/hot/2586656",
           "source": "抖音",
@@ -389,6 +456,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时03分"
+        },
+        {
+          "title": "美国总统特朗普：关税拯救了通用汽车。",
+          "url": "https://flash.jin10.com/detail/20260728204933066800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时12分"
         },
         {
           "title": "特朗普：若外交努力失败就恢复对伊军事行动",
@@ -435,6 +513,17 @@
           "time_info": "06时13分"
         },
         {
+          "title": "美国总统特朗普：新的关税不会伤害经济。",
+          "url": "https://flash.jin10.com/detail/20260728204926633800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时12分"
+        },
+        {
           "title": "美国总统特朗普：（关于美联储）我们应该拥有全球最低的利率。",
           "url": "https://flash.jin10.com/detail/20260728003515441800",
           "source": "金十数据",
@@ -468,6 +557,17 @@
           "time_info": "01时03分"
         },
         {
+          "title": "美国总统特朗普：只有我们允许通过的船只才能通过海峡。",
+          "url": "https://flash.jin10.com/detail/20260728204630444800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时12分"
+        },
+        {
           "title": "美国总统特朗普：（关于美联储）美联储主席沃什必须处理委员会的问题。利率应该降低。",
           "url": "https://flash.jin10.com/detail/20260728003426741800",
           "source": "金十数据",
@@ -477,6 +577,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时03分"
+        },
+        {
+          "title": "美国总统特朗普：伊朗并没有控制霍尔木兹海峡，我们控制着霍尔木兹海峡。",
+          "url": "https://flash.jin10.com/detail/20260728204552118800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时12分"
         },
         {
           "title": "美国总统特朗普：委内瑞拉的资金可以用于军队。",
@@ -567,6 +678,17 @@
           "time_info": "01时03分"
         },
         {
+          "title": "美国总统特朗普：若无法达成协议，将非常轻松地摧毁镐山。",
+          "url": "https://flash.jin10.com/detail/20260728204459915800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时12分"
+        },
+        {
           "title": "美国总统特朗普宣称：目前，伊朗正与我们洽谈达成协议。 伊朗在说“求求你们，别封锁”。 我们很快就会结束伊朗的核威慑。",
           "url": "https://wallstreetcn.com/livenews/3140489",
           "source": "华尔街见闻-快讯",
@@ -600,6 +722,17 @@
           "time_info": "04时39分"
         },
         {
+          "title": "美国总统特朗普：我们现在处于非常有利的立场。",
+          "url": "https://flash.jin10.com/detail/20260728204345072800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时12分"
+        },
+        {
           "title": "美国总统特朗普：以色列总理内塔尼亚胡和我在伊朗问题上有些分歧。",
           "url": "https://flash.jin10.com/detail/20260728003039855800",
           "source": "金十数据",
@@ -609,6 +742,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时03分"
+        },
+        {
+          "title": "美国总统特朗普：伊朗基本上同意不拥有核武器。",
+          "url": "https://flash.jin10.com/detail/20260728204308079800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时12分"
         },
         {
           "title": "美国总统特朗普谴责全美汽车工人联合会（UAW）的领导人Shawn Fain。",
@@ -677,6 +821,17 @@
           "time_info": "13时55分"
         },
         {
+          "title": "美国总统特朗普：以色列总理内塔尼亚胡希望我们继续参与伊朗战争。",
+          "url": "https://flash.jin10.com/detail/20260728204214426800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时12分"
+        },
+        {
           "title": "美国总统特朗普：让我们处理掉夏令时/冬令时问题。",
           "url": "https://wallstreetcn.com/livenews/3140481",
           "source": "华尔街见闻-快讯",
@@ -686,6 +841,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时39分"
+        },
+        {
+          "title": "美国总统特朗普：现在是伊朗达成协议的好时机；希望避免攻击伊朗的桥梁和发电厂。伊朗需要正式声明不拥有核武器。",
+          "url": "https://flash.jin10.com/detail/20260728204140009800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时12分"
         },
         {
           "title": "特朗普：若和伊朗谈不拢就继续打",
@@ -717,8 +883,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[01时03分 ~ 19时24分]"
+          "appearance_count": 15,
+          "time_info": "[01时03分 ~ 21时12分]"
         },
         {
           "title": "台湾为何会爆发大规模抗议",
@@ -782,8 +948,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时57分 ~ 19时24分]"
+          "appearance_count": 7,
+          "time_info": "[10时57分 ~ 21时12分]"
         },
         {
           "title": "IEA警告：关键矿产供应链风险加剧，铜锂稀土争夺进入新阶段（报告摘要）",
