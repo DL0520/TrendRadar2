@@ -1,12 +1,51 @@
 {
-  "generated_at": "2026-07-31T20:31:41.781694+08:00",
-  "total_titles_processed": 1388,
+  "generated_at": "2026-07-31T23:05:08.061074+08:00",
+  "total_titles_processed": 1555,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 21,
+      "match_count": 23,
       "titles": [
+        {
+          "title": "特朗普称与哈马斯及加沙其他武装团体达成解除武装协议",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33688329",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            11,
+            8,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时02分 ~ 23时05分]"
+        },
+        {
+          "title": "特朗普对伊朗战事失去耐心，傅立民：他对谈判的理解本质上就错了",
+          "url": "https://news.ifeng.com/c/8vDDhdP8jJa",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时30分 ~ 23时05分]"
+        },
+        {
+          "title": "事关半导体！特朗普政府再出手：将入股七家科技公司",
+          "url": "https://www.cls.cn/detail/2442363",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时24分 ~ 23时05分]"
+        },
         {
           "title": "布油盘中涨超8%！特朗普一再警告“狠狠打击”伊朗，寻求对伊加征关税",
           "url": "https://wallstreetcn.com/articles/3778237",
@@ -31,31 +70,6 @@
           "time_info": "[08时08分 ~ 12时03分]"
         },
         {
-          "title": "特朗普对伊朗战事失去耐心，傅立民：他对谈判的理解本质上就错了",
-          "url": "https://news.ifeng.com/c/8vDDhdP8jJa",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时30分 ~ 20时31分]"
-        },
-        {
-          "title": "特朗普称与哈马斯及加沙其他武装团体达成解除武装协议",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33688329",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            11,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时02分 ~ 20时31分]"
-        },
-        {
           "title": "美媒爆料：泽连斯基请特朗普说服马斯克，允许乌借助“星链”打击俄导弹发射装置",
           "url": "https://wallstreetcn.com/livenews/3142913",
           "source": "华尔街见闻-快讯",
@@ -67,17 +81,17 @@
           "time_info": "12时03分"
         },
         {
-          "title": "事关半导体！特朗普政府再出手：将入股七家科技公司",
-          "url": "https://www.cls.cn/detail/2442363",
+          "title": "马斯克据称准备再“砸”超1亿美元，为特朗普中期选举铺路！",
+          "url": "https://www.cls.cn/detail/2442307",
           "source": "财联社热门",
           "ranks": [
-            7,
-            6,
-            4
+            13,
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时24分 ~ 20时31分]"
+          "appearance_count": 6,
+          "time_info": "[15时24分 ~ 23时05分]"
         },
         {
           "title": "“极不寻常”！爆料称特朗普或拒绝法国驻美大使提名",
@@ -102,18 +116,6 @@
           "time_info": "[01时41分 ~ 05时17分]"
         },
         {
-          "title": "马斯克据称准备再“砸”超1亿美元，为特朗普中期选举铺路！",
-          "url": "https://www.cls.cn/detail/2442307",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时24分 ~ 20时31分]"
-        },
-        {
           "title": "苹果公司第三财季营收1094.2亿美元，分析师预期1088.5亿美元。 第三财季大中华区营收188.2亿美元，分析师预期195.8亿美元。 第三财季产品营收786.8亿美元，分析师预期772.5亿美元。 第三财季iPhone营收542.5亿美元，分析师预期536亿美元；iPad营收61.9亿美元（预期68.9亿美元），Mac营收103.5亿美元（预期86.2亿美元），可穿戴设备、居家、周边营收78.8亿美元（预期78.7亿美元）。 第三财季服务营收307.4亿美元，分析师预期313.6亿美元。 第三财季每股收益（EPS）为2.02美元——含0.11美元特朗普关税退税利好效应，分析师预期1.89美元。 第三财季EPS和运营现金流均创历史新高。 派息0.27美元/股。 苹果股价盘后跌2.2%。",
           "url": "https://wallstreetcn.com/livenews/3142643",
           "source": "华尔街见闻-快讯",
@@ -124,6 +126,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时17分 ~ 06时38分]"
+        },
+        {
+          "title": "新闻蒸馏器｜想留美工作？先交10万美元：特朗普政府拟对国际毕业生下手",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33688682",
+          "source": "澎湃新闻",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时04分 ~ 23时05分]"
+        },
+        {
+          "title": "伊朗宣布霍尔木兹海峡暂停通行，特朗普“将继续实施强有力的打击”！",
+          "url": "https://flash.jin10.com/detail/20260731224214656800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时05分"
         },
         {
           "title": "亚马逊在二季度获得6亿美元与（美国总统特朗普）关税相关的退款。 公司将向某些客户自动发放关税退款。",
@@ -331,8 +355,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时24分 ~ 20时31分]"
+          "appearance_count": 6,
+          "time_info": "[15时24分 ~ 23时05分]"
         }
       ]
     }
