@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-01T09:05:57.707551+08:00",
-  "total_titles_processed": 688,
+  "generated_at": "2026-08-01T12:56:49.790764+08:00",
+  "total_titles_processed": 876,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 38,
+      "match_count": 42,
       "titles": [
         {
           "title": "特朗普称与哈马斯及加沙其他武装团体达成解除武装协议",
@@ -32,6 +32,18 @@
           "time_info": "[01时07分 ~ 07时09分]"
         },
         {
+          "title": "新闻蒸馏器｜想留美工作？先交10万美元：特朗普政府拟对国际毕业生下手",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33688682",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[01时07分 ~ 12时56分]"
+        },
+        {
           "title": "美官员：特朗普已下令对伊朗发动新一轮袭击",
           "url": "https://news.ifeng.com/c/8vDwIljTGY5",
           "source": "凤凰网",
@@ -41,17 +53,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[05时40分 ~ 07时09分]"
-        },
-        {
-          "title": "新闻蒸馏器｜想留美工作？先交10万美元：特朗普政府拟对国际毕业生下手",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33688682",
-          "source": "澎湃新闻",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时07分 ~ 09时05分]"
         },
         {
           "title": "特朗普：以色列在哈马斯解除武装计划方面“表现出色”",
@@ -74,6 +75,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时41分"
+        },
+        {
+          "title": "多国应对西班牙飞地移民危机，特朗普：这是入侵",
+          "url": "https://news.ifeng.com/c/8vEF0vvkrzw",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时56分"
         },
         {
           "title": "特朗普否认允许乌生产爱国者拦截弹",
@@ -196,6 +208,28 @@
           "time_info": "01时07分"
         },
         {
+          "title": "特朗普称对伊朗协议“失去信心”、据称下令新袭击，美以被曝酝酿周末轰炸伊能源设施",
+          "url": "https://wallstreetcn.com/articles/3778460",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时56分"
+        },
+        {
+          "title": "新一轮袭击箭在弦上？美官员称特朗普已下令 伊朗厉声警告",
+          "url": "https://www.cls.cn/detail/2443172",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时56分"
+        },
+        {
           "title": "特朗普：与伊朗可以达成协议 但对他们越来越不信任",
           "url": "https://flash.jin10.com/detail/20260801003558968800",
           "source": "金十数据",
@@ -315,6 +349,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时07分"
+        },
+        {
+          "title": "你和特朗普谁是老大？内塔尼亚胡：他是大股东，但我也有底线",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33690982",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时56分"
         },
         {
           "title": "美国总统特朗普：（关于伊朗）可以达成协议。",
@@ -474,6 +519,18 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "如何看待 Anthropic 公布 Claude 也发生了沙箱逃逸，真实入侵了三家机构？",
+          "url": "https://www.zhihu.com/question/2066465758503252393",
+          "source": "知乎",
+          "ranks": [
+            14,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时05分 ~ 12时56分]"
+        },
+        {
           "title": "如何看待 Claude 大规模封禁国内开发者账号，让依赖 AI 的程序员「功力尽失」，被调侃天才程序员陨落？",
           "url": "https://www.zhihu.com/question/2065499504187371980",
           "source": "知乎",
@@ -484,17 +541,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时07分 ~ 07时09分]"
-        },
-        {
-          "title": "如何看待 Anthropic 公布 Claude 也发生了沙箱逃逸，真实入侵了三家机构？",
-          "url": "https://www.zhihu.com/question/2066465758503252393",
-          "source": "知乎",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时05分"
         }
       ]
     }
