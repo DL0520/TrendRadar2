@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-04T14:13:10.781464+08:00",
-  "total_titles_processed": 953,
+  "generated_at": "2026-08-04T17:23:02.748205+08:00",
+  "total_titles_processed": 1139,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 52,
+      "match_count": 54,
       "titles": [
         {
           "title": "再度反转！特朗普宣布不打了，重启谈判，伊朗：没有计划",
@@ -18,8 +18,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时13分 ~ 14时13分]"
+          "appearance_count": 11,
+          "time_info": "[01时13分 ~ 17时23分]"
         },
         {
           "title": "特朗普威胁对伊朗采取斩首行动",
@@ -55,6 +55,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时16分 ~ 14时13分]"
+        },
+        {
+          "title": "特朗普威胁对伊朗采取“斩首”行动",
+          "url": "https://www.douyin.com/hot/2596526",
+          "source": "抖音",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时22分 ~ 17时23分]"
         },
         {
           "title": "美国纽约州总检察长詹姆斯起诉特朗普政府，以保护弱势纽约居民的个人信息。总检察长詹姆斯采取行动，阻止非法共享数百万名TANF（贫困家庭临时援助计划）受助者的私人数据。",
@@ -101,6 +112,18 @@
           "time_info": "07时39分"
         },
         {
+          "title": "释新闻｜特朗普再次叫停袭击背后：伊朗“有选择地扩大冲突”如何捆住美国手脚",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33710926",
+          "source": "澎湃新闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时12分 ~ 17时23分]"
+        },
+        {
           "title": "特朗普政府拟放宽奥巴马时期北极油气钻探规定",
           "url": "https://wallstreetcn.com/livenews/3144285",
           "source": "华尔街见闻-快讯",
@@ -111,6 +134,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时14分 ~ 03时08分]"
+        },
+        {
+          "title": "美媒：因凡蒂诺向特朗普求助",
+          "url": "https://www.douyin.com/hot/2596620",
+          "source": "抖音",
+          "ranks": [
+            9,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时12分 ~ 17时23分]"
         },
         {
           "title": "特朗普抨击大型石油公司“赚得太多” 国际油价大幅回落 | 环球市场",
@@ -137,26 +172,15 @@
           "time_info": "[11时16分 ~ 14时13分]"
         },
         {
-          "title": "释新闻｜特朗普再次叫停袭击背后：伊朗“有选择地扩大冲突”如何捆住美国手脚",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33710926",
-          "source": "澎湃新闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时12分 ~ 14时13分]"
-        },
-        {
-          "title": "美媒：因凡蒂诺向特朗普求助",
-          "url": "https://www.douyin.com/hot/2596620",
-          "source": "抖音",
+          "title": "有史以来最大规模铜流入！7月20万吨铜运抵美国，市场等待特朗普铜关税裁决",
+          "url": "https://wallstreetcn.com/articles/3778597",
+          "source": "华尔街见闻",
           "ranks": [
             9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[14时12分 ~ 14时13分]"
+          "time_info": "[17时22分 ~ 17时23分]"
         },
         {
           "title": "美国总统特朗普：在“斩首”之前，希望给予伊朗最后的机会。 在伊朗问题上我不受时间限制。",
@@ -561,7 +585,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时13分"
         },
@@ -674,11 +698,12 @@
           "url": "https://www.toutiao.com/trending/7668932790897033258/",
           "source": "今日头条",
           "ranks": [
-            25
+            25,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时12分 ~ 14时13分]"
+          "appearance_count": 4,
+          "time_info": "[14时12分 ~ 17时23分]"
         },
         {
           "title": "中国台湾证交所加权股价指数收盘变动不大，报43,360.66点。",
@@ -687,7 +712,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时13分"
         },
