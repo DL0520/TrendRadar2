@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-04T19:54:32.125834+08:00",
-  "total_titles_processed": 1309,
+  "generated_at": "2026-08-04T22:43:59.896666+08:00",
+  "total_titles_processed": 1461,
   "failed_sources": [],
   "trends": [
     {
@@ -45,6 +45,20 @@
           "time_info": "[11时16分 ~ 14时13分]"
         },
         {
+          "title": "释新闻｜特朗普再次叫停袭击背后：伊朗“有选择地扩大冲突”如何捆住美国手脚",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33710926",
+          "source": "澎湃新闻",
+          "ranks": [
+            8,
+            7,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时12分 ~ 22时43分]"
+        },
+        {
           "title": "“控制”格陵兰岛，特朗普罕见列出时间表",
           "url": "https://news.ifeng.com/c/8vIdcQIZgcx",
           "source": "凤凰网",
@@ -79,6 +93,19 @@
           "time_info": "01时14分"
         },
         {
+          "title": "美媒：因凡蒂诺向特朗普求助",
+          "url": "https://www.douyin.com/hot/2596620",
+          "source": "抖音",
+          "ranks": [
+            9,
+            11,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时12分 ~ 22时43分]"
+        },
+        {
           "title": "美25州联手，特朗普关税再遭阻击",
           "url": "https://news.ifeng.com/c/8vIzMGikgqm",
           "source": "凤凰网",
@@ -88,19 +115,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时16分"
-        },
-        {
-          "title": "释新闻｜特朗普再次叫停袭击背后：伊朗“有选择地扩大冲突”如何捆住美国手脚",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33710926",
-          "source": "澎湃新闻",
-          "ranks": [
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时12分 ~ 19时54分]"
         },
         {
           "title": "特朗普：与伊朗的谈判正在进行 将分两阶段推进",
@@ -123,18 +137,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时39分"
-        },
-        {
-          "title": "美媒：因凡蒂诺向特朗普求助",
-          "url": "https://www.douyin.com/hot/2596620",
-          "source": "抖音",
-          "ranks": [
-            9,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时12分 ~ 19时54分]"
         },
         {
           "title": "特朗普政府拟放宽奥巴马时期北极油气钻探规定",
