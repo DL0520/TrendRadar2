@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-05T15:18:03.459246+08:00",
-  "total_titles_processed": 1101,
+  "generated_at": "2026-08-05T18:11:22.610543+08:00",
+  "total_titles_processed": 1281,
   "failed_sources": [],
   "trends": [
     {
@@ -28,8 +28,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时17分 ~ 15时18分]"
+          "appearance_count": 4,
+          "time_info": "[12时17分 ~ 18时11分]"
         },
         {
           "title": "特朗普政府关税退税达1000亿美元",
@@ -249,7 +249,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时18分"
         },
@@ -282,7 +282,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时18分"
         },
