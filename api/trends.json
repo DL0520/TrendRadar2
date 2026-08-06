@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-08-06T07:06:57.594566+08:00",
-  "total_titles_processed": 594,
+  "generated_at": "2026-08-06T08:54:29.496236+08:00",
+  "total_titles_processed": 736,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 18,
+      "match_count": 24,
       "titles": [
+        {
+          "title": "特朗普污蔑：中国背后捣鬼",
+          "url": "https://news.ifeng.com/c/8vMN6ChGn3S",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时54分"
+        },
         {
           "title": "美国总统特朗普在拉斯维加斯夸赞通胀下滑。",
           "url": "https://wallstreetcn.com/livenews/3145620",
@@ -17,6 +28,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时50分"
+        },
+        {
+          "title": "特朗普所乘飞机遭遇安全事件，美方启动调查",
+          "url": "https://news.ifeng.com/c/8vLgY5mFkV5",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时54分"
+        },
+        {
+          "title": "特朗普称即将达成霍尔木兹海峡协议，伊朗获更大控制权？",
+          "url": "https://news.ifeng.com/c/8vLi13wh4eq",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时54分"
         },
         {
           "title": "特朗普直升机一度与客机距离过近",
@@ -122,7 +155,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时06分"
         },
@@ -133,9 +166,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时06分"
+        },
+        {
+          "title": "特朗普扬言“猛烈打击”后，伊朗称霍尔木兹海峡不会立即开放",
+          "url": "https://wallstreetcn.com/articles/3778746",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时54分"
         },
         {
           "title": "美国总统特朗普：我更愿意与伊朗达成协议。",
@@ -144,7 +188,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时06分"
         },
@@ -155,7 +199,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时06分"
         },
@@ -177,9 +221,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时06分"
+        },
+        {
+          "title": "美国副总统万斯：在伊朗问题上与特朗普总统并无分歧，我们正努力执行他的决策。",
+          "url": "https://flash.jin10.com/detail/20260806075722145800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时54分"
         },
         {
           "title": "美国总统特朗普谈及叫停加州的电动汽车强制令，声称：我们都爱马斯克。",
@@ -188,7 +243,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时06分"
         },
@@ -199,9 +254,20 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时06分"
+        },
+        {
+          "title": "美媒曝特朗普在弹药储备问题上被误导 向防长倾泻不满",
+          "url": "https://flash.jin10.com/detail/20260806075402361800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时54分"
         },
         {
           "title": "美国总统特朗普在拉斯维加斯夸赞通胀下滑。 特朗普称赞股市上涨。",
@@ -210,7 +276,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时06分"
         }
@@ -337,9 +403,26 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时06分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "稀土",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "唐驳虎：俄盯上中国稀土精炼技术",
+          "url": "https://www.toutiao.com/trending/7670406094615314438/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时54分"
         }
       ]
     }
