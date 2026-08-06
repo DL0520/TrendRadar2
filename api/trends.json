@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-06T15:18:59.758558+08:00",
-  "total_titles_processed": 1086,
+  "generated_at": "2026-08-06T18:13:23.210218+08:00",
+  "total_titles_processed": 1272,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 30,
+      "match_count": 31,
       "titles": [
         {
           "title": "特朗普所乘飞机遭遇安全事件，美方启动调查",
@@ -16,8 +16,20 @@
             3
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时54分 ~ 18时13分]"
+        },
+        {
+          "title": "涉台问题，特朗普的教训还没吃够",
+          "url": "https://news.ifeng.com/c/8vMhTGcR9DP",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[08时54分 ~ 15时18分]"
+          "time_info": "[12时19分 ~ 18时13分]"
         },
         {
           "title": "特朗普称即将达成霍尔木兹海峡协议，伊朗获更大控制权？",
@@ -29,18 +41,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时54分 ~ 12时19分]"
-        },
-        {
-          "title": "涉台问题，特朗普的教训还没吃够",
-          "url": "https://news.ifeng.com/c/8vMhTGcR9DP",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时19分 ~ 15时18分]"
         },
         {
           "title": "美国总统特朗普在拉斯维加斯夸赞通胀下滑。",
@@ -172,6 +172,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时19分 ~ 15时18分]"
+        },
+        {
+          "title": "路透社/益普索民调显示，在特朗普任期内，注册选民首次在应对战争和恐怖主义问题上更青睐民主党人而非共和党人。",
+          "url": "https://flash.jin10.com/detail/20260806180146115800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时13分"
         },
         {
           "title": "数日前伊朗威胁反击能源设施 海湾国家敦促特朗普放弃袭击计划",
@@ -500,7 +511,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时18分"
         }
