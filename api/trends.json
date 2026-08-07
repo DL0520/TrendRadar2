@@ -1,591 +1,177 @@
 {
-  "generated_at": "2026-08-06T22:59:07.534586+08:00",
-  "total_titles_processed": 1474,
+  "generated_at": "2026-08-07T08:43:56.311937+08:00",
+  "total_titles_processed": 312,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 32,
+      "match_count": 10,
       "titles": [
         {
-          "title": "特朗普所乘飞机遭遇安全事件，美方启动调查",
-          "url": "https://news.ifeng.com/c/8vLgY5mFkV5",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时54分 ~ 18时13分]"
-        },
-        {
-          "title": "涉台问题，特朗普的教训还没吃够",
-          "url": "https://news.ifeng.com/c/8vMhTGcR9DP",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时19分 ~ 18时13分]"
-        },
-        {
-          "title": "特朗普称即将达成霍尔木兹海峡协议，伊朗获更大控制权？",
-          "url": "https://news.ifeng.com/c/8vLi13wh4eq",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时54分 ~ 12时19分]"
-        },
-        {
-          "title": "特朗普否认美国弹药短缺",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%90%A6%E8%AE%A4%E7%BE%8E%E5%9B%BD%E5%BC%B9%E8%8D%AF%E7%9F%AD%E7%BC%BA",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时58分 ~ 22时59分]"
-        },
-        {
-          "title": "美国总统特朗普在拉斯维加斯夸赞通胀下滑。",
-          "url": "https://wallstreetcn.com/livenews/3145620",
-          "source": "华尔街见闻-快讯",
+          "title": "【早报】特朗普：对多晶硅及其衍生产品加征关税；美存储股再遭重挫；原油走强、黄金微跌；宇树科技发行价定了",
+          "url": "https://www.cls.cn/detail/2447939",
+          "source": "财联社热门",
           "ranks": [
             1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "05时50分"
+          "time_info": "08时43分"
         },
         {
-          "title": "卡尼不点名调侃特朗普",
-          "url": "https://wallstreetcn.com/livenews/3145797",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时19分"
-        },
-        {
-          "title": "特朗普污蔑：中国背后捣鬼",
-          "url": "https://news.ifeng.com/c/8vMN6ChGn3S",
+          "title": "特朗普签署行政令，宣布加征关税",
+          "url": "https://news.ifeng.com/c/8vNvJb617ek",
           "source": "凤凰网",
           "ranks": [
-            1,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时54分 ~ 15时18分]"
-        },
-        {
-          "title": "特朗普直升机一度与客机距离过近",
-          "url": "https://wallstreetcn.com/livenews/3145542",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
+            1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时26分"
+          "time_info": "08时43分"
         },
         {
-          "title": "美国国会山CBO：特朗普的战列舰舰队耗资或达2750亿美元",
-          "url": "https://wallstreetcn.com/livenews/3145541",
-          "source": "华尔街见闻-快讯",
+          "title": "“向特朗普同志致敬！”美国超级抹红大赛开始了",
+          "url": "https://news.ifeng.com/c/8vO9rqQQ3tN",
+          "source": "凤凰网",
           "ranks": [
             5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时26分"
+          "time_info": "08时43分"
         },
         {
-          "title": "特朗普所乘直升机遭遇飞行安全事件",
-          "url": "https://www.toutiao.com/trending/7670517654829927979/",
-          "source": "今日头条",
-          "ranks": [
-            7,
-            6,
-            22,
-            23,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时48分 ~ 07时06分]"
-        },
-        {
-          "title": "最快今日宣布！霍尔木兹开放协议据悉接近达成 特朗普发声助阵",
-          "url": "https://www.cls.cn/detail/2446327",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时48分 ~ 07时06分]"
-        },
-        {
-          "title": "美国总统特朗普：关税让我们变得富有。",
-          "url": "https://flash.jin10.com/detail/20260806053019525800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时50分 ~ 07时06分]"
-        },
-        {
-          "title": "美国总统特朗普在拉斯维加斯宣称：加拿大领导层很糟糕。",
-          "url": "https://wallstreetcn.com/livenews/3145617",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时50分 ~ 07时06分]"
-        },
-        {
-          "title": "美国总统特朗普：（谈及关税）加拿大“很恶劣”，我们把局势扭转过来了。",
-          "url": "https://flash.jin10.com/detail/20260806052258964800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时50分 ~ 07时06分]"
-        },
-        {
-          "title": "特朗普“一厢情愿”？伊朗：与阿曼就霍尔木兹航线接近达成协议！",
-          "url": "https://www.cls.cn/detail/2446884",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时19分 ~ 15时18分]"
-        },
-        {
-          "title": "路透社/益普索民调显示，在特朗普任期内，注册选民首次在应对战争和恐怖主义问题上更青睐民主党人而非共和党人。",
-          "url": "https://flash.jin10.com/detail/20260806180146115800",
-          "source": "金十数据",
+          "title": "特朗普大发雷霆，美防长甩锅，暴露大问题",
+          "url": "https://v.ifeng.com/c/8vNVrjQyzZJ",
+          "source": "凤凰网",
           "ranks": [
             7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时13分"
+          "time_info": "08时43分"
         },
         {
-          "title": "数日前伊朗威胁反击能源设施 海湾国家敦促特朗普放弃袭击计划",
-          "url": "https://flash.jin10.com/detail/20260806035154028800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时11分"
-        },
-        {
-          "title": "美国总统特朗普：需要让共和党在参议院更强硬。",
-          "url": "https://flash.jin10.com/detail/20260806055819902800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时06分"
-        },
-        {
-          "title": "美国总统特朗普：我们很欣赏马斯克。",
-          "url": "https://flash.jin10.com/detail/20260806055113870800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时06分"
-        },
-        {
-          "title": "特朗普扬言“猛烈打击”后，伊朗称霍尔木兹海峡不会立即开放",
-          "url": "https://wallstreetcn.com/articles/3778746",
-          "source": "华尔街见闻",
+          "title": "特朗普政府禁止钨废料、电池废料出口 以提升关键矿产供应能力",
+          "url": "https://www.cls.cn/detail/2447915",
+          "source": "财联社热门",
           "ranks": [
             10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时54分"
+          "time_info": "08时43分"
         },
         {
-          "title": "美国总统特朗普：我更愿意与伊朗达成协议。",
-          "url": "https://flash.jin10.com/detail/20260806054735118800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时06分"
-        },
-        {
-          "title": "美国总统特朗普：我们正在与伊朗进行对话，将看看会发生什么。",
-          "url": "https://flash.jin10.com/detail/20260806054724205800",
-          "source": "金十数据",
+          "title": "特朗普对多晶硅加征关税",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%AF%B9%E5%A4%9A%E6%99%B6%E7%A1%85%E5%8A%A0%E5%BE%81%E5%85%B3%E7%A8%8E%23&t=31&band_rank=12&Refer=top",
+          "source": "微博",
           "ranks": [
             12
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时06分"
+          "time_info": "08时43分"
         },
         {
-          "title": "特朗普小跑着保护险些摔下台的幼童",
-          "url": "https://www.toutiao.com/trending/7670741330352734262/",
-          "source": "今日头条",
+          "title": "特朗普谈霍尔木兹海峡：进展顺利。",
+          "url": "https://wallstreetcn.com/livenews/3146315",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             13
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时19分"
+          "time_info": "08时43分"
         },
         {
-          "title": "美国民主党参议员Mark Warner：如果特朗普和万斯想打击欺诈行为，他们可以从特朗普在担任总统第一年中中饱私囊的22亿美元开始。",
-          "url": "https://flash.jin10.com/detail/20260806012850217800",
+          "title": "据华尔街日报：特朗普已下令对五角大楼弹药储备泄露事件展开新的调查，政府官员表示，这是他为应对有关伊朗战争的破坏性信息披露而采取的最新升级举措。",
+          "url": "https://flash.jin10.com/detail/20260807073607063800",
           "source": "金十数据",
           "ranks": [
-            13
+            20
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时26分"
+          "time_info": "08时43分"
         },
         {
-          "title": "美国总统特朗普：伊朗不能拥有核武器。",
-          "url": "https://flash.jin10.com/detail/20260806054719148800",
+          "title": "美国总统特朗普：（谈及霍尔木兹海峡）进展顺利。",
+          "url": "https://flash.jin10.com/detail/20260807073117453800",
           "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时06分"
-        },
-        {
-          "title": "美国副总统万斯：在伊朗问题上与特朗普总统并无分歧，我们正努力执行他的决策。",
-          "url": "https://flash.jin10.com/detail/20260806075722145800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时54分"
-        },
-        {
-          "title": "美国白宫否认特朗普与赫格塞思因弹药库存短缺发生争执",
-          "url": "https://wallstreetcn.com/livenews/3145771",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时19分"
-        },
-        {
-          "title": "美国总统特朗普谈及叫停加州的电动汽车强制令，声称：我们都爱马斯克。",
-          "url": "https://wallstreetcn.com/livenews/3145625",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时06分"
-        },
-        {
-          "title": "美国总统特朗普声称：我宁愿与伊朗达成一份协议。 美方与伊朗正在对话，让我们看看会发生什么事。",
-          "url": "https://wallstreetcn.com/livenews/3145624",
-          "source": "华尔街见闻-快讯",
           "ranks": [
             22
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时06分"
+          "time_info": "08时43分"
         },
         {
-          "title": "美媒曝特朗普在弹药储备问题上被误导 向防长倾泻不满",
-          "url": "https://flash.jin10.com/detail/20260806075402361800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时54分"
-        },
-        {
-          "title": "美国总统特朗普在拉斯维加斯夸赞通胀下滑。 特朗普称赞股市上涨。",
-          "url": "https://wallstreetcn.com/livenews/3145620",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时06分"
-        },
-        {
-          "title": "卡尼借提词器故障嘲讽特朗普",
-          "url": "https://www.toutiao.com/trending/7670443518179295258/",
+          "title": "特朗普签署针对出生公民权的行政令",
+          "url": "https://www.toutiao.com/trending/7671022114153529394/",
           "source": "今日头条",
           "ranks": [
-            26
+            24
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时19分"
+          "time_info": "08时43分"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 13,
+      "match_count": 2,
       "titles": [
         {
-          "title": "谷歌对AI领导层进行重大调整 AI负责人卸任主要管理职务",
-          "url": "https://flash.jin10.com/detail/20260806001438716800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时48分"
-        },
-        {
-          "title": "谷歌A跌超5%，谷歌DeepMind负责人哈萨比斯转任主席，公司进行重大人事调整",
-          "url": "https://wallstreetcn.com/livenews/3145508",
-          "source": "华尔街见闻-快讯",
+          "title": "为什么 Jeff Dean 从 Google 离职引起这么大的轰动？",
+          "url": "https://www.zhihu.com/question/2068631767326660517",
+          "source": "知乎",
           "ranks": [
             4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时48分"
-        },
-        {
-          "title": "谷歌 AI 领军人物杰夫・迪恩等离职创业，这预示着 AI 行业哪些新趋势？",
-          "url": "https://www.zhihu.com/question/2068498722300990537",
-          "source": "知乎",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时58分 ~ 22时59分]"
+          "time_info": "08时43分"
         },
         {
           "title": "新闻蒸馏器丨谷歌AI大改组：诺奖得主卸任日常管理，元老率核心人员出走创业",
           "url": "https://m.thepaper.cn/newsDetail_forward_33727851",
           "source": "澎湃新闻",
           "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时58分 ~ 22时59分]"
-        },
-        {
-          "title": "谷歌AI核心人物Jeff Dean离职 创办AI初创公司",
-          "url": "https://flash.jin10.com/detail/20260806000533011800",
-          "source": "金十数据",
-          "ranks": [
-            7
+            17
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时48分"
-        },
-        {
-          "title": "谷歌(GOOG.O)跌幅扩大至逾3%，公司宣布对DeepMind进行领导层重组，谷歌DeepMind负责人Demis Hassabis将卸任首席执行官职务，出任Alphabet首席科学家兼谷歌DeepMind董事长。谷歌DeepMind首席技术官Koray Kavukcuoglu将出任新部门负责人。",
-          "url": "https://flash.jin10.com/detail/20260806000420661800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时48分"
-        },
-        {
-          "title": "谷歌(GOOG.O)短线下挫，现跌1.4%。",
-          "url": "https://flash.jin10.com/detail/20260806000120042800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时48分"
-        },
-        {
-          "title": "谷歌(GOOG.O)首席科学家在任27年后离职，将创办自己的人工智能公司。",
-          "url": "https://flash.jin10.com/detail/20260806000026602800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时48分"
-        },
-        {
-          "title": "据华尔街日报，谷歌公司首席科学家Jeff Dean离职，将创办自己的AI公司。 谷歌母公司Alphabet/谷歌A（GOOGL）跌幅扩大之1.5%，刷新日低。",
-          "url": "https://wallstreetcn.com/livenews/3145502",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时48分"
-        },
-        {
-          "title": "Demis Hassabis辞去谷歌公司Deepmind首席执行官（CEO）职务，将担任主席。 谷歌母公司Alphabet任命Koray Kavukcouglu为Deepmind的高级副总裁（SVP）。",
-          "url": "https://wallstreetcn.com/livenews/3145501",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时48分"
-        },
-        {
-          "title": "谷歌首席科学家Jeff Dean：明天将是我在谷歌工作的最后一天。",
-          "url": "https://flash.jin10.com/detail/20260806032320074800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时11分"
-        },
-        {
-          "title": "谷歌将因被指滥用广告权力而在英国面临集体诉讼",
-          "url": "https://wallstreetcn.com/livenews/3145526",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时26分"
-        },
-        {
-          "title": "周三（8月5日），美国科技股七巨头（Magnificent 7）指数跌0.28%，报226.01点，美股早盘高开低走，北京时间21:33刷新日高至229.56点、00:12刷新日低至225.05点，之后持稳于226点附近。成分股中，谷歌A收跌4.03%——在标普500指数所有成分股里跌幅靠前，特斯拉、亚马逊、微软至多跌1.77%，Meta、苹果至多收涨0.52%，英伟达涨3.43%。 “超大”市值科技股指数跌1.19%，报444.40点。成分股中，除了前述个股之外，AMD收跌7.04%，高通跌3.16%，甲骨文跌0.93%，博通、Adobe、奈飞至多收涨0.86%，Salesforce涨1.04%。",
-          "url": "https://wallstreetcn.com/livenews/3145619",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时06分"
+          "time_info": "08时43分"
         }
       ]
     },
     {
       "keyword_group": "稀土",
-      "match_count": 3,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "中方是否计划在太平洋海底开采稀土？外交部回应",
+          "url": "https://news.ifeng.com/c/8vNMlaCtEbt",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时43分"
+        },
         {
           "title": "中方回应是否在太平洋海底开采稀土",
           "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E6%98%AF%E5%90%A6%E5%9C%A8%E5%A4%AA%E5%B9%B3%E6%B4%8B%E6%B5%B7%E5%BA%95%E5%BC%80%E9%87%87%E7%A8%80%E5%9C%9F",
           "source": "百度热搜",
           "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时58分 ~ 22时59分]"
-        },
-        {
-          "title": "中方回应是否开采太平洋海底稀土资源",
-          "url": "https://www.toutiao.com/trending/7670870725185699878/",
-          "source": "今日头条",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时58分 ~ 22时59分]"
-        },
-        {
-          "title": "唐驳虎：俄盯上中国稀土精炼技术",
-          "url": "https://www.toutiao.com/trending/7670406094615314438/",
-          "source": "今日头条",
-          "ranks": [
-            10
+            23
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时54分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "台湾",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "星展银行首席执行官：中国台湾科技、媒体、电信行业及半导体生态系统被视为推动股市的因素。关注印度可再生能源增长和人工智能基础设施增长的机会。",
-          "url": "https://flash.jin10.com/detail/20260806114306480800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时19分"
-        },
-        {
-          "title": "台湾首位张雪机车车主见到张雪本人",
-          "url": "https://www.toutiao.com/trending/7670444264901361707/",
-          "source": "今日头条",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时18分"
+          "time_info": "08时43分"
         }
       ]
     }
