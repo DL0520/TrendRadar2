@@ -1,12 +1,28 @@
 {
-  "generated_at": "2026-08-07T21:51:58.452364+08:00",
-  "total_titles_processed": 1410,
+  "generated_at": "2026-08-07T22:59:18.997665+08:00",
+  "total_titles_processed": 1514,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 27,
+      "match_count": 31,
       "titles": [
+        {
+          "title": "特朗普宣布对多晶硅及其衍生产品加征关税",
+          "url": "https://wallstreetcn.com/articles/3778896",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8,
+            6,
+            5,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[11时54分 ~ 22时59分]"
+        },
         {
           "title": "“向特朗普同志致敬！”美国超级抹红大赛开始了",
           "url": "https://news.ifeng.com/c/8vO9rqQQ3tN",
@@ -18,21 +34,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[08时43分 ~ 18时05分]"
-        },
-        {
-          "title": "特朗普宣布对多晶硅及其衍生产品加征关税",
-          "url": "https://wallstreetcn.com/articles/3778896",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时54分 ~ 21时51分]"
         },
         {
           "title": "“特朗普想缓和对华关系，美国年轻人也不想陷入新冷战”",
@@ -216,6 +217,28 @@
           "time_info": "11时54分"
         },
         {
+          "title": "乌兹别克斯坦方面称，乌兹别克斯坦总统与美国总统特朗普通电话。",
+          "url": "https://flash.jin10.com/detail/20260807222418037800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时59分"
+        },
+        {
+          "title": "白宫顾问哈塞特：我确定特朗普没有向沃什提供利率建议",
+          "url": "https://wallstreetcn.com/livenews/3146787",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时59分"
+        },
+        {
           "title": "特朗普：数据中心可能会比石油更重要",
           "url": "https://flash.jin10.com/detail/20260807175232367800",
           "source": "金十数据",
@@ -291,6 +314,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时43分"
+        },
+        {
+          "title": "法院裁决显示，美国上诉法院阻止了特朗普4亿美元的白宫宴会厅项目，但暂停执行相关裁决，为期14天，以便政府向最高法院提出上诉。",
+          "url": "https://flash.jin10.com/detail/20260807221921850800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时59分"
+        },
+        {
+          "title": "特朗普再出手打击赴美生子产业意味啥",
+          "url": "https://www.toutiao.com/trending/7671229132105059876/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时59分"
         },
         {
           "title": "泽连斯基要导弹，特朗普最新表态：我们也想要",
@@ -474,7 +519,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "为什么 Jeff Dean 从 Google 离职引起这么大的轰动？",
@@ -497,6 +542,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时54分"
+        },
+        {
+          "title": "核心团队跑路,Gemini陷大危机",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356949&amp;topic_name=%E6%A0%B8%E5%BF%83%E5%9B%A2%E9%98%9F%E8%B7%91%E8%B7%AF%2CGemini%E9%99%B7%E5%A4%A7%E5%8D%B1%E6%9C%BA",
+          "source": "贴吧",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时59分"
         },
         {
           "title": "新闻蒸馏器丨谷歌AI大改组：诺奖得主卸任日常管理，元老率核心人员出走创业",
