@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-08T21:53:36.923472+08:00",
-  "total_titles_processed": 1496,
+  "generated_at": "2026-08-08T22:37:56.373252+08:00",
+  "total_titles_processed": 1550,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 46,
+      "match_count": 47,
       "titles": [
         {
           "title": "中期选举临近，特朗普连续21场败诉",
@@ -31,8 +31,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[13时04分 ~ 21时53分]"
+          "appearance_count": 15,
+          "time_info": "[13时04分 ~ 22时37分]"
         },
         {
           "title": "特朗普在会议上获赠一纯金礼品，当场要求传过来",
@@ -44,8 +44,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[17时12分 ~ 21时53分]"
+          "appearance_count": 10,
+          "time_info": "[17时12分 ~ 22时37分]"
         },
         {
           "title": "释新闻｜槽点密集的造舰计划：特朗普的“黄金舰队”梦能实现吗？",
@@ -77,6 +77,17 @@
           "time_info": "[10时01分 ~ 16时11分]"
         },
         {
+          "title": "白宫宴会厅施工被叫停，特朗普怒了：国家耻辱！",
+          "url": "https://news.ifeng.com/c/8vQSbJyuyMk",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[18时04分 ~ 22时37分]"
+        },
+        {
           "title": "黄金期货价格突破4400美元关口 特朗普继续推进罢免美联储理事库克 | 环球市场",
           "url": "https://www.cls.cn/detail/2448987",
           "source": "财联社热门",
@@ -97,17 +108,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时42分 ~ 05时46分]"
-        },
-        {
-          "title": "白宫宴会厅施工被叫停，特朗普怒了：国家耻辱！",
-          "url": "https://news.ifeng.com/c/8vQSbJyuyMk",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时04分 ~ 21时53分]"
         },
         {
           "title": "涉及白宫宴会厅项目，特朗普称将提起上诉",
@@ -198,6 +198,17 @@
           "time_info": "03时33分"
         },
         {
+          "title": "美议员讽刺特朗普对伊政策：他总在股市开盘前说不打了",
+          "url": "https://wallstreetcn.com/livenews/3147021",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时37分"
+        },
+        {
           "title": "苹果公司、亚马逊、耐克在特朗普政府关税退款问题上遭到美国参议院民主党成员Warren的质询。 Warren要求各家公司提供消费者关税退款。",
           "url": "https://wallstreetcn.com/livenews/3146836",
           "source": "华尔街见闻-快讯",
@@ -261,6 +272,44 @@
           "time_info": "[04时50分 ~ 07时39分]"
         },
         {
+          "title": "特朗普再出手！正式重启罢免美联储理事库克程序，美联储独立性再遭冲击",
+          "url": "https://wallstreetcn.com/articles/3778975",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时01分 ~ 22时37分]"
+        },
+        {
+          "title": "舒默怒斥特朗普：你在哪个星球",
+          "url": "https://www.toutiao.com/trending/7671480510048452651/",
+          "source": "今日头条",
+          "ranks": [
+            19,
+            17,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时01分 ~ 22时37分]"
+        },
+        {
+          "title": "消息人士：若民主党赢得众议院，他们计划对特朗普进行调查而非弹劾",
+          "url": "https://flash.jin10.com/detail/20260808205550359800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时53分 ~ 22时37分]"
+        },
+        {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-08-08）",
           "url": "https://flash.jin10.com/detail/20260808183100642800",
           "source": "金十数据",
@@ -271,18 +320,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[19时03分 ~ 19时56分]"
-        },
-        {
-          "title": "特朗普再出手！正式重启罢免美联储理事库克程序，美联储独立性再遭冲击",
-          "url": "https://wallstreetcn.com/articles/3778975",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时01分 ~ 21时53分]"
         },
         {
           "title": "报道：特朗普继续推进罢免美联储理事库克",
@@ -297,18 +334,6 @@
           "time_info": "[01时26分 ~ 02时24分]"
         },
         {
-          "title": "舒默怒斥特朗普：你在哪个星球",
-          "url": "https://www.toutiao.com/trending/7671480510048452651/",
-          "source": "今日头条",
-          "ranks": [
-            19,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时01分 ~ 21时53分]"
-        },
-        {
           "title": "特朗普关税“换壳”术还能撑多久",
           "url": "https://www.toutiao.com/trending/7671486834458758698/",
           "source": "今日头条",
@@ -319,17 +344,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时04分 ~ 14时09分]"
-        },
-        {
-          "title": "消息人士：若民主党赢得众议院，他们计划对特朗普进行调查而非弹劾",
-          "url": "https://flash.jin10.com/detail/20260808205550359800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时53分"
         },
         {
           "title": "美国参议院Warren：将反对总统特朗普解雇美联储理事库克的企图。",
@@ -544,7 +558,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "核心团队跑路,Gemini陷大危机",
@@ -572,11 +586,23 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             8,
-            9
+            9,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时01分 ~ 21时53分]"
+          "appearance_count": 3,
+          "time_info": "[21时01分 ~ 22时37分]"
+        },
+        {
+          "title": "伯克希尔Q2净利润翻倍，单季回购规模创5年来最大，谷歌进入前五大持仓 | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3778993",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时37分"
         },
         {
           "title": "奥士康：与AMD合作尚处送样阶段，未与英伟达、谷歌开展订单合作",
@@ -619,9 +645,9 @@
           "ranks": [
             22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时53分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时53分 ~ 22时37分]"
         }
       ]
     }
