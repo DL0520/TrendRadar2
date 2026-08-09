@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-09T21:03:40.613899+08:00",
-  "total_titles_processed": 1267,
+  "generated_at": "2026-08-09T22:09:06.068234+08:00",
+  "total_titles_processed": 1345,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "特朗普宣布：将向关键矿产和电池项目投资30亿美元",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 27,
-          "time_info": "[00时40分 ~ 21时03分]"
+          "appearance_count": 29,
+          "time_info": "[00时40分 ~ 22时09分]"
         },
         {
           "title": "特朗普在会议上获赠一纯金礼品，当场要求传过来",
@@ -98,8 +98,21 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[12时01分 ~ 21时03分]"
+          "appearance_count": 16,
+          "time_info": "[12时01分 ~ 22时09分]"
+        },
+        {
+          "title": "特朗普：“很多人称我是最伟大总统之一”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33746686",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[17时47分 ~ 22时09分]"
         },
         {
           "title": "特朗普新飞机掉链子了吗",
@@ -125,16 +138,15 @@
           "time_info": "[00时40分 ~ 03时36分]"
         },
         {
-          "title": "特朗普：“很多人称我是最伟大总统之一”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33746686",
-          "source": "澎湃新闻",
+          "title": "美媒：美官员称特朗普耐心应对伊朗僵局，重点聚焦海峡通航",
+          "url": "https://flash.jin10.com/detail/20260809212948063800",
+          "source": "金十数据",
           "ranks": [
-            11,
-            10
+            1
           ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时47分 ~ 21时03分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时09分"
         },
         {
           "title": "据塔斯社报道，美国中东问题特使威特科夫和特朗普高级顾问库什纳可能在接下来七到十天内访问基辅和莫斯科。",
@@ -169,11 +181,12 @@
           "source": "金十数据",
           "ranks": [
             4,
-            21
+            21,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时36分 ~ 21时03分]"
+          "appearance_count": 3,
+          "time_info": "[19时36分 ~ 22时09分]"
         },
         {
           "title": "舒默怒斥特朗普：你在哪个星球",
@@ -345,8 +358,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[07时34分 ~ 21时03分]"
+          "appearance_count": 19,
+          "time_info": "[07时34分 ~ 22时09分]"
         },
         {
           "title": "日媒关注：中国对日美稀土出口大幅下降，6月对日钇出口降至零",
@@ -355,9 +368,9 @@
           "ranks": [
             11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时03分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时03分 ~ 22时09分]"
         }
       ]
     }
