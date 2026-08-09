@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-09T16:52:45.576940+08:00",
-  "total_titles_processed": 996,
+  "generated_at": "2026-08-09T17:47:42.250681+08:00",
+  "total_titles_processed": 1037,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "特朗普宣布：将向关键矿产和电池项目投资30亿美元",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时40分 ~ 16时52分]"
+          "appearance_count": 22,
+          "time_info": "[00时40分 ~ 17时47分]"
         },
         {
           "title": "特朗普在会议上获赠一纯金礼品，当场要求传过来",
@@ -44,8 +44,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时41分 ~ 16时52分]"
+          "appearance_count": 15,
+          "time_info": "[00时41分 ~ 17时47分]"
         },
         {
           "title": "美上诉法院叫停白宫宴会厅施工，特朗普怒了：国家耻辱！",
@@ -86,8 +86,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时41分 ~ 16时52分]"
+          "appearance_count": 15,
+          "time_info": "[00时41分 ~ 17时47分]"
         },
         {
           "title": "鲁比奥一句“别回头”，特朗普：这画不错，我要带走",
@@ -97,8 +97,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时01分 ~ 16时52分]"
+          "appearance_count": 9,
+          "time_info": "[12时01分 ~ 17时47分]"
         },
         {
           "title": "特朗普再出手！正式重启罢免美联储理事库克程序，美联储独立性再遭冲击",
@@ -163,6 +163,17 @@
           "time_info": "[01时37分 ~ 02时46分]"
         },
         {
+          "title": "特朗普：“很多人称我是最伟大总统之一”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33746686",
+          "source": "澎湃新闻",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时47分"
+        },
+        {
           "title": "消息人士：若民主党赢得众议院，他们计划对特朗普进行调查而非弹劾",
           "url": "https://flash.jin10.com/detail/20260808205550359800",
           "source": "金十数据",
@@ -204,6 +215,19 @@
           "time_info": "[00时40分 ~ 05时37分]"
         },
         {
+          "title": "台湾记者直面白海豚紧抓杆不敢松手",
+          "url": "https://www.toutiao.com/trending/7670776714448096804/",
+          "source": "今日头条",
+          "ranks": [
+            15,
+            19,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时35分 ~ 17时47分]"
+        },
+        {
           "title": "郑丽文：台湾从来没有“独立”过",
           "url": "https://www.toutiao.com/trending/7670678129983209478/",
           "source": "今日头条",
@@ -214,18 +238,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[03时35分 ~ 07时35分]"
-        },
-        {
-          "title": "台湾记者直面白海豚紧抓杆不敢松手",
-          "url": "https://www.toutiao.com/trending/7670776714448096804/",
-          "source": "今日头条",
-          "ranks": [
-            15,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时35分 ~ 16时52分]"
         },
         {
           "title": "台湾现巨型龙卷风树被连根拔起",
@@ -258,8 +270,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时40分 ~ 16时52分]"
+          "appearance_count": 22,
+          "time_info": "[00时40分 ~ 17时47分]"
         },
         {
           "title": "伯克希尔哈撒韦：截至6月30日，股权投资总公允价值中有66%集中在美国运通、苹果、美国银行、阿尔phabet（谷歌母公司）和可口可乐这五家企业。 2025年全年末持有的固定收益证券投资公允价值达170.34亿美元，其中，对美债、外国债券、企业债券的投资公允价值分别为30.02亿美元、126.68亿美元、13.64亿美元。",
@@ -292,8 +304,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[07时34分 ~ 16时52分]"
+          "appearance_count": 12,
+          "time_info": "[07时34分 ~ 17时47分]"
         }
       ]
     }
