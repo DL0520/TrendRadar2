@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-10T21:58:15.236295+08:00",
-  "total_titles_processed": 1684,
+  "generated_at": "2026-08-10T23:09:20.822636+08:00",
+  "total_titles_processed": 1782,
   "failed_sources": [],
   "trends": [
     {
@@ -42,8 +42,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[10时12分 ~ 21时58分]"
+          "appearance_count": 13,
+          "time_info": "[10时12分 ~ 23时09分]"
+        },
+        {
+          "title": "还剩85天，特朗普全面收缩，伊朗左冲右突",
+          "url": "https://news.ifeng.com/c/8vTlIUCd26B",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[19时14分 ~ 23时09分]"
         },
         {
           "title": "2架飞机靠近特朗普高尔夫俱乐部，F-16出动拦截",
@@ -54,19 +65,22 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[10时12分 ~ 21时58分]"
+          "appearance_count": 13,
+          "time_info": "[10时12分 ~ 23时09分]"
         },
         {
-          "title": "还剩85天，特朗普全面收缩，伊朗左冲右突",
-          "url": "https://news.ifeng.com/c/8vTlIUCd26B",
-          "source": "凤凰网",
+          "title": "新闻蒸馏器｜内塔尼亚胡公开拒绝美国15点加沙计划，与特朗普罕见摊牌",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33750452",
+          "source": "澎湃新闻",
           "ranks": [
-            1
+            11,
+            10,
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时14分 ~ 21时58分]"
+          "appearance_count": 9,
+          "time_info": "[15时57分 ~ 23时09分]"
         },
         {
           "title": "美媒焦虑：特朗普这招伤不了中国，买单的将是盟友和自己",
@@ -76,8 +90,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时15分 ~ 21时58分]"
+          "appearance_count": 11,
+          "time_info": "[12时15分 ~ 23时09分]"
         },
         {
           "title": "鲁比奥一句“别回头”，特朗普：这画不错，我要带走",
@@ -91,18 +105,17 @@
           "time_info": "[00时01分 ~ 07时37分]"
         },
         {
-          "title": "新闻蒸馏器｜内塔尼亚胡公开拒绝美国15点加沙计划，与特朗普罕见摊牌",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33750452",
-          "source": "澎湃新闻",
+          "title": "伊朗称“目前伊美没有进行任何谈判”，特朗普表态“正在低调处理”",
+          "url": "https://wallstreetcn.com/articles/3779034",
+          "source": "华尔街见闻",
           "ranks": [
-            11,
-            10,
-            6,
-            5
+            8,
+            7,
+            10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时57分 ~ 21时58分]"
+          "appearance_count": 6,
+          "time_info": "[19时14分 ~ 23时09分]"
         },
         {
           "title": "霍尔木兹协议临门一脚却卡死：伊朗抬高条件，特朗普突然降调改打“耐心牌”",
@@ -114,18 +127,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时37分"
-        },
-        {
-          "title": "伊朗称“目前伊美没有进行任何谈判”，特朗普表态“正在低调处理”",
-          "url": "https://wallstreetcn.com/articles/3779034",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时14分 ~ 21时58分]"
         },
         {
           "title": "美媒：特朗普暂缓对伊动武，称正“低调处理”伊朗问题",
@@ -300,7 +301,7 @@
     },
     {
       "keyword_group": "台湾",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "台湾记者直面白海豚紧抓杆不敢松手",
@@ -318,17 +319,6 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时01分 ~ 10时13分]"
-        },
-        {
-          "title": "台湾不是国家不存在“国格”",
-          "url": "https://www.toutiao.com/trending/7671818136131469353/",
-          "source": "今日头条",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时57分 ~ 21时58分]"
         },
         {
           "title": "台湾加权指数8月10日（周一）收盘上涨702.85点，涨幅1.59%，报44928.76点。",
@@ -353,6 +343,18 @@
           "time_info": "13时57分"
         },
         {
+          "title": "台湾不是国家不存在“国格”",
+          "url": "https://www.toutiao.com/trending/7671818136131469353/",
+          "source": "今日头条",
+          "ranks": [
+            2,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时57分 ~ 23时09分]"
+        },
+        {
           "title": "媒体：两则新闻照见台湾当下困境",
           "url": "https://www.toutiao.com/trending/7672029148286173203/",
           "source": "今日头条",
@@ -373,6 +375,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时13分"
+        },
+        {
+          "title": "台湾不是国家不存在“国格”",
+          "url": "https://www.baidu.com/s?wd=%E5%8F%B0%E6%B9%BE%E4%B8%8D%E6%98%AF%E5%9B%BD%E5%AE%B6%E4%B8%8D%E5%AD%98%E5%9C%A8%E2%80%9C%E5%9B%BD%E6%A0%BC%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时09分"
         },
         {
           "title": "中国驻日本大使馆发言人就台湾地区所谓“驻日代表”声明答记者问",
@@ -424,6 +437,23 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时01分 ~ 02时51分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "谷歌：为谷歌广告和谷歌分析添加人工智能和智能体功能。",
+          "url": "https://flash.jin10.com/detail/20260810223834412800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时09分"
         }
       ]
     }
