@@ -1,50 +1,12 @@
 {
-  "generated_at": "2026-08-10T23:09:20.822636+08:00",
-  "total_titles_processed": 1782,
+  "generated_at": "2026-08-11T00:26:31.594202+08:00",
+  "total_titles_processed": 308,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 24,
+      "match_count": 6,
       "titles": [
-        {
-          "title": "特朗普宣布：将向关键矿产和电池项目投资30亿美元",
-          "url": "https://www.cls.cn/detail/2449039",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时01分 ~ 06时37分]"
-        },
-        {
-          "title": "与特朗普关联的美石油公司拟在格陵兰岛钻探，岛政府强烈警告",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33748556",
-          "source": "澎湃新闻",
-          "ranks": [
-            5,
-            6,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时49分 ~ 17时42分]"
-        },
-        {
-          "title": "特朗普这是此地无银三百两吗？",
-          "url": "https://news.ifeng.com/c/8vT8RYkNUYi",
-          "source": "凤凰网",
-          "ranks": [
-            10,
-            9,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[10时12分 ~ 23时09分]"
-        },
         {
           "title": "还剩85天，特朗普全面收缩，伊朗左冲右突",
           "url": "https://news.ifeng.com/c/8vTlIUCd26B",
@@ -53,407 +15,119 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[19时14分 ~ 23时09分]"
+          "appearance_count": 1,
+          "time_info": "00时26分"
         },
         {
-          "title": "2架飞机靠近特朗普高尔夫俱乐部，F-16出动拦截",
-          "url": "https://news.ifeng.com/c/8vT4r6JlFq0",
+          "title": "伊朗回应特朗普“棋局”比喻：伊朗人是“专业棋手”",
+          "url": "https://news.ifeng.com/c/8vTu2Im0JsI",
           "source": "凤凰网",
           "ranks": [
-            9,
-            8
+            4
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[10时12分 ~ 23时09分]"
+          "appearance_count": 1,
+          "time_info": "00时26分"
         },
         {
           "title": "新闻蒸馏器｜内塔尼亚胡公开拒绝美国15点加沙计划，与特朗普罕见摊牌",
           "url": "https://m.thepaper.cn/newsDetail_forward_33750452",
           "source": "澎湃新闻",
           "ranks": [
-            11,
-            10,
-            6,
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时57分 ~ 23时09分]"
+          "appearance_count": 1,
+          "time_info": "00时26分"
         },
         {
-          "title": "美媒焦虑：特朗普这招伤不了中国，买单的将是盟友和自己",
-          "url": "https://news.ifeng.com/c/8vTIjJmGwAk",
+          "title": "2架飞机靠近特朗普高尔夫俱乐部，F-16出动拦截",
+          "url": "https://news.ifeng.com/c/8vT4r6JlFq0",
           "source": "凤凰网",
           "ranks": [
-            11
+            8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时15分 ~ 23时09分]"
-        },
-        {
-          "title": "鲁比奥一句“别回头”，特朗普：这画不错，我要带走",
-          "url": "https://news.ifeng.com/c/8vRRpAQcjqv",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时01分 ~ 07时37分]"
+          "appearance_count": 1,
+          "time_info": "00时26分"
         },
         {
           "title": "伊朗称“目前伊美没有进行任何谈判”，特朗普表态“正在低调处理”",
           "url": "https://wallstreetcn.com/articles/3779034",
           "source": "华尔街见闻",
           "ranks": [
-            8,
-            7,
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[19时14分 ~ 23时09分]"
-        },
-        {
-          "title": "霍尔木兹协议临门一脚却卡死：伊朗抬高条件，特朗普突然降调改打“耐心牌”",
-          "url": "https://flash.jin10.com/detail/20260810071953536800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时37分"
+          "time_info": "00时26分"
         },
         {
-          "title": "美媒：特朗普暂缓对伊动武，称正“低调处理”伊朗问题",
-          "url": "https://flash.jin10.com/detail/20260810010023977800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            7,
-            13,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时37分 ~ 04时40分]"
-        },
-        {
-          "title": "特朗普公布新任总统助理人选",
-          "url": "https://news.ifeng.com/c/8vT8RYkNUQr",
-          "source": "凤凰网",
-          "ranks": [
-            12,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时12分 ~ 12时15分]"
-        },
-        {
-          "title": "美国总统特朗普：自9月1日起，威尔·沙夫将接替大卫·沃灵顿，成为总统助理兼白宫法律顾问。",
-          "url": "https://flash.jin10.com/detail/20260810052934153800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            14,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时39分 ~ 07时37分]"
-        },
-        {
-          "title": "特朗普称正在“低调处理”伊朗问题",
-          "url": "https://wallstreetcn.com/livenews/3147122",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            10,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时39分 ~ 07时37分]"
-        },
-        {
-          "title": "前美国安全官员警告：特朗普正按“独裁者剧本”行事，美国安全堪忧",
-          "url": "https://flash.jin10.com/detail/20260810030225732800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            12,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时39分 ~ 05时39分]"
-        },
-        {
-          "title": "内塔尼亚胡认为在加沙计划上跟特朗普作对“没有风险”",
-          "url": "https://flash.jin10.com/detail/20260809224743402800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            23,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时02分 ~ 01时37分]"
-        },
-        {
-          "title": "据英国金融时报：前美国安全官员警告，美国总统特朗普正在拆除美国的防护屏障。",
-          "url": "https://flash.jin10.com/detail/20260810025259260800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            14,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时39分 ~ 05时39分]"
-        },
-        {
-          "title": "F-16拦截特朗普高尔夫俱乐部附近两架违规飞机",
-          "url": "https://flash.jin10.com/detail/20260810033626643800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时40分 ~ 05时39分]"
-        },
-        {
-          "title": "前美国官员：特朗普使美国安全恶化",
-          "url": "https://www.toutiao.com/trending/7671249968112173098/",
-          "source": "今日头条",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时57分 ~ 15时58分]"
-        },
-        {
-          "title": "美媒：美官员称特朗普耐心应对伊朗僵局，重点聚焦海峡通航",
-          "url": "https://flash.jin10.com/detail/20260809212948063800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时02分"
-        },
-        {
-          "title": "特朗普会对内塔尼亚胡拒绝加沙和平计划作何反应？",
-          "url": "https://flash.jin10.com/detail/20260810113842057800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时15分"
-        },
-        {
-          "title": "白宫经济顾问哈塞特：如果我现在在美联储，我会选择维持利率不变或降息。 人工智能或许是未来两年最重要的政策议题。 政府正在认真研究人工智能安全问题。 我不会接替丽莎·库克出任美联储理事。 我不会接替丽莎·库克出任美联储理事。 日元行动属于贝森特的职权范围，无可奉告。 沃什是再独立不过的人了。 无需为稳定日元而炮制美债理论。 稳定的日元有助于防止危机蔓延。 美国政府将持有英特尔股票多久，由特朗普决定。",
-          "url": "https://wallstreetcn.com/livenews/3147493",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时11分"
-        },
-        {
-          "title": "特朗普不得已对伊朗降低调门",
-          "url": "https://wallstreetcn.com/livenews/3147448",
-          "source": "华尔街见闻-快讯",
+          "title": "释疑｜总在开盘前喊停？从两万五千条交易数据，看特朗普投资“玄学”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33561179",
+          "source": "澎湃新闻",
           "ranks": [
             19
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时14分"
-        },
-        {
-          "title": "美国白宫国家经济委员会主任哈塞特：美国总统特朗普将决定持有英特尔(INTC.O)股票的时间。",
-          "url": "https://flash.jin10.com/detail/20260810195133798800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时11分"
+          "time_info": "00时26分"
         }
       ]
     },
     {
       "keyword_group": "台湾",
-      "match_count": 9,
+      "match_count": 3,
       "titles": [
         {
-          "title": "台湾记者直面白海豚紧抓杆不敢松手",
-          "url": "https://www.toutiao.com/trending/7670776714448096804/",
-          "source": "今日头条",
+          "title": "台湾不是国家不存在“国格”",
+          "url": "https://www.baidu.com/s?wd=%E5%8F%B0%E6%B9%BE%E4%B8%8D%E6%98%AF%E5%9B%BD%E5%AE%B6%E4%B8%8D%E5%AD%98%E5%9C%A8%E2%80%9C%E5%9B%BD%E6%A0%BC%E2%80%9D",
+          "source": "百度热搜",
           "ranks": [
-            29,
-            18,
-            19,
-            17,
-            9,
-            24,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时01分 ~ 10时13分]"
-        },
-        {
-          "title": "台湾加权指数8月10日（周一）收盘上涨702.85点，涨幅1.59%，报44928.76点。",
-          "url": "https://flash.jin10.com/detail/20260810133509406800",
-          "source": "金十数据",
-          "ranks": [
-            4
+            5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时57分"
+          "time_info": "00时26分"
         },
         {
-          "title": "中国台湾证交所加权股价指数收高1.6%报44,928.76点。",
-          "url": "https://wallstreetcn.com/livenews/3147302",
-          "source": "华尔街见闻-快讯",
+          "title": "中国驻日本大使馆：台湾不是一个国家，不存在“国格”一说",
+          "url": "https://news.ifeng.com/c/8vTrgaTJuzw",
+          "source": "凤凰网",
           "ranks": [
-            4
+            5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时57分"
+          "time_info": "00时26分"
         },
         {
           "title": "台湾不是国家不存在“国格”",
           "url": "https://www.toutiao.com/trending/7671818136131469353/",
           "source": "今日头条",
           "ranks": [
-            2,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时57分 ~ 23时09分]"
-        },
-        {
-          "title": "媒体：两则新闻照见台湾当下困境",
-          "url": "https://www.toutiao.com/trending/7672029148286173203/",
-          "source": "今日头条",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时50分 ~ 02时51分]"
-        },
-        {
-          "title": "台湾证交所加权股价指数上涨2%至45,110.97点。",
-          "url": "https://wallstreetcn.com/livenews/3147186",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
+            27
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时13分"
-        },
-        {
-          "title": "台湾不是国家不存在“国格”",
-          "url": "https://www.baidu.com/s?wd=%E5%8F%B0%E6%B9%BE%E4%B8%8D%E6%98%AF%E5%9B%BD%E5%AE%B6%E4%B8%8D%E5%AD%98%E5%9C%A8%E2%80%9C%E5%9B%BD%E6%A0%BC%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时09分"
-        },
-        {
-          "title": "中国驻日本大使馆发言人就台湾地区所谓“驻日代表”声明答记者问",
-          "url": "https://flash.jin10.com/detail/20260810184014275800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时14分"
-        },
-        {
-          "title": "台湾证交所加权股价指数盘初上涨1%至44,683.14点。",
-          "url": "https://wallstreetcn.com/livenews/3147175",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时13分"
+          "time_info": "00时26分"
         }
       ]
     },
     {
       "keyword_group": "稀土",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
         {
-          "title": "日媒关注：中国对日美稀土出口大幅下降，6月对日钇出口降至零",
-          "url": "https://news.ifeng.com/c/8vS9gp8GIry",
+          "title": "原料、设备和资金全是坑，怎么跟中国争！印度稀土大计卡了",
+          "url": "https://news.ifeng.com/c/8vTuyw7b9OV",
           "source": "凤凰网",
           "ranks": [
             11
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时01分 ~ 07时37分]"
-        },
-        {
-          "title": "磷化铟是下一个“稀土”？关键产业如何成为反制核心，卡住美国光通信的脖子？",
-          "url": "https://wallstreetcn.com/premium/articles/3778945?layout=wscn-layout",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时01分 ~ 02时51分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "谷歌：为谷歌广告和谷歌分析添加人工智能和智能体功能。",
-          "url": "https://flash.jin10.com/detail/20260810223834412800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时09分"
+          "time_info": "00时26分"
         }
       ]
     }
