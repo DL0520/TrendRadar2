@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-12T15:46:58.250475+08:00",
-  "total_titles_processed": 1235,
+  "generated_at": "2026-08-12T17:18:09.212858+08:00",
+  "total_titles_processed": 1376,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 22,
+      "match_count": 25,
       "titles": [
         {
           "title": "特朗普称伊朗谈判代表“非常狡猾”，但美有三种策略",
@@ -42,8 +42,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[06时52分 ~ 15时46分]"
+          "appearance_count": 8,
+          "time_info": "[06时52分 ~ 17时18分]"
         },
         {
           "title": "内塔尼亚胡硬刚特朗普，美以同盟怎么了？",
@@ -105,6 +105,39 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时55分 ~ 06时52分]"
+        },
+        {
+          "title": "中期选举脚步渐近 特朗普酝酿“大招”：据悉考虑削减资本利得税",
+          "url": "https://www.cls.cn/detail/2452049",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时17分 ~ 17时18分]"
+        },
+        {
+          "title": "特朗普：我要伊朗赔钱，把过去50年的账还了",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33765581",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时17分 ~ 17时18分]"
+        },
+        {
+          "title": "如何看待四家美国人权组织起诉特朗普",
+          "url": "https://www.toutiao.com/trending/7672998326190476819/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时17分 ~ 17时18分]"
         },
         {
           "title": "特朗普威胁将针对纽约市税收采取联邦层面行动",
@@ -295,7 +328,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时46分"
         },
@@ -373,6 +406,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时25分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "稀土",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "中国管制稀土对日出口量腰斩，多个品类6月供应清零",
+          "url": "https://news.ifeng.com/c/8vX0aYByCO5",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时17分 ~ 17时18分]"
         }
       ]
     }
