@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-13T19:23:44.131183+08:00",
-  "total_titles_processed": 1543,
+  "generated_at": "2026-08-13T20:12:45.438006+08:00",
+  "total_titles_processed": 1608,
   "failed_sources": [],
   "trends": [
     {
@@ -91,8 +91,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时19分 ~ 19时23分]"
+          "appearance_count": 6,
+          "time_info": "[13时19分 ~ 20时12分]"
+        },
+        {
+          "title": "鲁比奥吐槽：特朗普总先发帖再通知，我都不知道自己要当国务卿",
+          "url": "https://news.ifeng.com/c/8vYj1925EKl",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时23分 ~ 20时12分]"
         },
         {
           "title": "美国白宫：特朗普签署备忘录，授权美国执法部门利用网络工具，打击境外网络犯罪网络。",
@@ -106,15 +117,15 @@
           "time_info": "06时13分"
         },
         {
-          "title": "鲁比奥吐槽：特朗普总先发帖再通知，我都不知道自己要当国务卿",
-          "url": "https://news.ifeng.com/c/8vYj1925EKl",
+          "title": "特朗普宣称美国“完全掌控”霍尔木兹海峡",
+          "url": "https://news.ifeng.com/c/8vYdZtyCxYa",
           "source": "凤凰网",
           "ranks": [
-            5
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时23分"
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时39分 ~ 20时12分]"
         },
         {
           "title": "特朗普：白宫新闻秘书莱维特将卸任，以便有更多时间陪伴家人。莱维特将成为我的高级外部顾问之一。",
@@ -240,15 +251,28 @@
           "time_info": "[04时12分 ~ 05时23分]"
         },
         {
-          "title": "特朗普宣称美国“完全掌控”霍尔木兹海峡",
-          "url": "https://news.ifeng.com/c/8vYdZtyCxYa",
-          "source": "凤凰网",
+          "title": "特朗普：我想谋求第三任期，但美国法律太严",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33769936",
+          "source": "澎湃新闻",
           "ranks": [
+            17,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时39分 ~ 20时12分]"
+        },
+        {
+          "title": "美新闻机构起诉特朗普",
+          "url": "https://www.douyin.com/hot/2607917",
+          "source": "抖音",
+          "ranks": [
+            10,
             7
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[16时39分 ~ 19时23分]"
+          "time_info": "[18时14分 ~ 20时12分]"
         },
         {
           "title": "特朗普声称掌控霍尔木兹、伊朗坚决否认 海峡通行量跌至三个月最低",
@@ -261,30 +285,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[13时19分 ~ 16时39分]"
-        },
-        {
-          "title": "特朗普：我想谋求第三任期，但美国法律太严",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33769936",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时39分 ~ 19时23分]"
-        },
-        {
-          "title": "美新闻机构起诉特朗普",
-          "url": "https://www.douyin.com/hot/2607917",
-          "source": "抖音",
-          "ranks": [
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时14分 ~ 19时23分]"
         },
         {
           "title": "据Axios：特朗普政府批评以色列国防部长卡茨有关继续占领黎巴嫩南部的言论，并表示相关表态违背了以色列政府与美国及黎巴嫩签署协议中的承诺。",
@@ -408,7 +408,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时23分"
         },
@@ -419,7 +419,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时23分"
         }
@@ -546,6 +546,34 @@
       ]
     },
     {
+      "keyword_group": "台湾",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "台湾新款机器狗被踹倒要7秒起身被嘲",
+          "url": "https://www.toutiao.com/trending/7673052724426506303/",
+          "source": "今日头条",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时39分"
+        },
+        {
+          "title": "台学者称台湾沿海本就是中国领海",
+          "url": "https://www.toutiao.com/trending/7672547916657262655/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时12分"
+        }
+      ]
+    },
+    {
       "keyword_group": "稀土",
       "match_count": 2,
       "titles": [
@@ -590,23 +618,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[08时09分 ~ 13时19分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "台湾",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "台湾新款机器狗被踹倒要7秒起身被嘲",
-          "url": "https://www.toutiao.com/trending/7673052724426506303/",
-          "source": "今日头条",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时39分"
         }
       ]
     }
