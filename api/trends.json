@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-14T19:02:41.171678+08:00",
-  "total_titles_processed": 1605,
+  "generated_at": "2026-08-14T20:12:05.698196+08:00",
+  "total_titles_processed": 1723,
   "failed_sources": [],
   "trends": [
     {
@@ -78,8 +78,19 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时08分 ~ 19时02分]"
+          "appearance_count": 9,
+          "time_info": "[11时08分 ~ 20时12分]"
+        },
+        {
+          "title": "事关特朗普与马斯克，美媒最新爆料",
+          "url": "https://news.ifeng.com/c/8vaHza2NSPn",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时02分 ~ 20时12分]"
         },
         {
           "title": "特朗普专机上全是一箱又一箱麦当劳",
@@ -91,17 +102,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时55分 ~ 14时56分]"
-        },
-        {
-          "title": "事关特朗普与马斯克，美媒最新爆料",
-          "url": "https://news.ifeng.com/c/8vaHza2NSPn",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时02分"
         },
         {
           "title": "美媒：特朗普下令美海军弃用电磁弹射系统，改回蒸汽弹射",
@@ -261,7 +261,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时02分"
         },
@@ -619,7 +619,7 @@
     },
     {
       "keyword_group": "台湾",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "台湾首辆张雪机车820RR遭查扣封杀",
@@ -632,6 +632,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[13时17分 ~ 16时21分]"
+        },
+        {
+          "title": "泸沽湖偶遇的台湾大伯回乡了",
+          "url": "https://www.baidu.com/s?wd=%E6%B3%B8%E6%B2%BD%E6%B9%96%E5%81%B6%E9%81%87%E7%9A%84%E5%8F%B0%E6%B9%BE%E5%A4%A7%E4%BC%AF%E5%9B%9E%E4%B9%A1%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时11分 ~ 20时12分]"
         },
         {
           "title": "中国台湾证交所加权股价指数收低0.5%报45,811.01点。",
