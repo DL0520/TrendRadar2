@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-14T16:21:49.605914+08:00",
-  "total_titles_processed": 1362,
+  "generated_at": "2026-08-14T17:38:10.444789+08:00",
+  "total_titles_processed": 1481,
   "failed_sources": [],
   "trends": [
     {
@@ -45,6 +45,18 @@
           "time_info": "[00时27分 ~ 08时10分]"
         },
         {
+          "title": "下黑手！特朗普政府开发AI工具打击贸易伙伴：让你们帮中国",
+          "url": "https://news.ifeng.com/c/8vYz7iCdmvg",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时17分 ~ 17时38分]"
+        },
+        {
           "title": "特朗普或迎新“纪录”：30年期美债融资成本恐创2001年来最高",
           "url": "https://www.cls.cn/detail/2453615",
           "source": "财联社热门",
@@ -56,18 +68,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时27分 ~ 08时10分]"
-        },
-        {
-          "title": "下黑手！特朗普政府开发AI工具打击贸易伙伴：让你们帮中国",
-          "url": "https://news.ifeng.com/c/8vYz7iCdmvg",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时17分 ~ 16时21分]"
         },
         {
           "title": "特朗普专机上全是一箱又一箱麦当劳",
@@ -90,6 +90,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时08分"
+        },
+        {
+          "title": "美国政府设备重新允许使用 TikTok，特朗普称其在 TikTok 上长期霸榜，靠它帮助赢下大选，如何解读？",
+          "url": "https://www.zhihu.com/question/2070813507499643585",
+          "source": "知乎",
+          "ranks": [
+            17,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时08分 ~ 17时38分]"
         },
         {
           "title": "特朗普宣称美国“完全掌控”霍尔木兹海峡",
@@ -120,7 +132,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时21分"
         },
@@ -172,18 +184,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时27分 ~ 06时20分]"
-        },
-        {
-          "title": "美国政府设备重新允许使用 TikTok，特朗普称其在 TikTok 上长期霸榜，靠它帮助赢下大选，如何解读？",
-          "url": "https://www.zhihu.com/question/2070813507499643585",
-          "source": "知乎",
-          "ranks": [
-            17,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时08分 ~ 16时21分]"
         },
         {
           "title": "特朗普下令美海军弃用电磁弹射系统，改回蒸汽弹射",
