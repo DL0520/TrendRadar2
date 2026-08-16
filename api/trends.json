@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-08-16T09:43:52.662072+08:00",
-  "total_titles_processed": 549,
+  "generated_at": "2026-08-16T12:10:25.860609+08:00",
+  "total_titles_processed": 654,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
-        {
-          "title": "特朗普：击败伊朗后会宣布霍尔木兹海峡为美国领土",
-          "url": "https://wallstreetcn.com/articles/3779487",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时49分 ~ 04时53分]"
-        },
         {
           "title": "特朗普称“很快将宣布霍尔木兹海峡为美国领土” | 环球市场",
           "url": "https://www.cls.cn/detail/2455058",
@@ -28,8 +17,19 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时49分 ~ 09时43分]"
+          "appearance_count": 9,
+          "time_info": "[01时49分 ~ 12时10分]"
+        },
+        {
+          "title": "特朗普：击败伊朗后会宣布霍尔木兹海峡为美国领土",
+          "url": "https://wallstreetcn.com/articles/3779487",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时49分 ~ 04时53分]"
         },
         {
           "title": "特朗普：击败伊朗后，将宣布霍尔木兹海峡为美国领土",
@@ -44,28 +44,6 @@
           "time_info": "[01时49分 ~ 09时43分]"
         },
         {
-          "title": "特朗普誓言美航母重回锅气时代",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E8%AA%93%E8%A8%80%E7%BE%8E%E8%88%AA%E6%AF%8D%E9%87%8D%E5%9B%9E%E9%94%85%E6%B0%94%E6%97%B6%E4%BB%A3",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时43分"
-        },
-        {
-          "title": "据CNN：71%的人认为美国总统特朗普在降低日常商品价格方面的努力还不够，较去年58%的比例有所上升。",
-          "url": "https://flash.jin10.com/detail/20260816090134155800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时43分"
-        },
-        {
           "title": "特朗普称“很快将宣布霍尔木兹海峡为美国领土”",
           "url": "https://www.cls.cn/detail/2455050",
           "source": "财联社热门",
@@ -75,6 +53,42 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时49分 ~ 07时26分]"
+        },
+        {
+          "title": "特朗普誓言美航母重回锅气时代",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E8%AA%93%E8%A8%80%E7%BE%8E%E8%88%AA%E6%AF%8D%E9%87%8D%E5%9B%9E%E9%94%85%E6%B0%94%E6%97%B6%E4%BB%A3",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时43分 ~ 12时10分]"
+        },
+        {
+          "title": "据CNN：71%的人认为美国总统特朗普在降低日常商品价格方面的努力还不够，较去年58%的比例有所上升。",
+          "url": "https://flash.jin10.com/detail/20260816090134155800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时43分 ~ 12时10分]"
+        },
+        {
+          "title": "美国总统特朗普周日日程一览",
+          "url": "https://flash.jin10.com/detail/20260816080736055800",
+          "source": "金十数据",
+          "ranks": [
+            14,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时43分 ~ 12时10分]"
         },
         {
           "title": "美国总统特朗普在社交平台上发布图片，图中他佩戴“Trump 2028”的帽子，并配文“我们将会赢（We are going to win）”。",
@@ -88,26 +102,38 @@
           "time_info": "[07时26分 ~ 07时49分]"
         },
         {
-          "title": "美国总统特朗普周日日程一览",
-          "url": "https://flash.jin10.com/detail/20260816080736055800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时43分"
-        },
-        {
           "title": "哥伦比亚总统：因地震影响，在与美国总统特朗普的电话中请求美国暂时暂停对哥伦比亚产品的关税。",
           "url": "https://flash.jin10.com/detail/20260816080613858800",
           "source": "金十数据",
           "ranks": [
-            15
+            15,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时43分 ~ 12时10分]"
+        },
+        {
+          "title": "美国总统特朗普：参议院必须尽快投票通过《不再改变时钟法案》。白天多些阳光总是好的（还能打击犯罪！），但更重要的，别再每年两次荒唐地来回拨时钟和手表了，又混乱又麻烦。赶紧把它搞定！",
+          "url": "https://flash.jin10.com/detail/20260816102212922800",
+          "source": "金十数据",
+          "ranks": [
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时43分"
+          "time_info": "12时10分"
+        },
+        {
+          "title": "海峡控制权“各说各话”：特朗普放话“拿下”霍尔木兹，伊朗称已与阿曼就通行方案达成协议",
+          "url": "https://wallstreetcn.com/articles/3779521",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时10分"
         }
       ]
     },
