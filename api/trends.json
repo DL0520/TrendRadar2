@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-16T15:37:07.468356+08:00",
-  "total_titles_processed": 873,
+  "generated_at": "2026-08-16T16:36:47.079366+08:00",
+  "total_titles_processed": 931,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,19 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[01时49分 ~ 15时37分]"
+          "appearance_count": 15,
+          "time_info": "[01时49分 ~ 16时36分]"
+        },
+        {
+          "title": "特朗普称“很快将宣布霍尔木兹海峡为美国领土”",
+          "url": "https://www.cls.cn/detail/2455050",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时49分 ~ 16时36分]"
         },
         {
           "title": "特朗普：击败伊朗后会宣布霍尔木兹海峡为美国领土",
@@ -32,15 +43,30 @@
           "time_info": "[01时49分 ~ 04时53分]"
         },
         {
-          "title": "特朗普称“很快将宣布霍尔木兹海峡为美国领土”",
-          "url": "https://www.cls.cn/detail/2455050",
-          "source": "财联社热门",
+          "title": "特朗普又发旧照，称“与金正恩相处融洽”(图)",
+          "url": "https://news.ifeng.com/c/8vd6r6o7WHm",
+          "source": "凤凰网",
           "ranks": [
-            13
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时49分 ~ 15时37分]"
+          "appearance_count": 6,
+          "time_info": "[13时03分 ~ 16时36分]"
+        },
+        {
+          "title": "海峡控制权“各说各话”：特朗普放话“拿下”霍尔木兹，伊朗称已与阿曼就通行方案达成协议",
+          "url": "https://wallstreetcn.com/articles/3779521",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时10分 ~ 16时36分]"
         },
         {
           "title": "特朗普：击败伊朗后，将宣布霍尔木兹海峡为美国领土",
@@ -55,32 +81,6 @@
           "time_info": "[01时49分 ~ 09时43分]"
         },
         {
-          "title": "特朗普又发旧照，称“与金正恩相处融洽”(图)",
-          "url": "https://news.ifeng.com/c/8vd6r6o7WHm",
-          "source": "凤凰网",
-          "ranks": [
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时03分 ~ 15时37分]"
-        },
-        {
-          "title": "海峡控制权“各说各话”：特朗普放话“拿下”霍尔木兹，伊朗称已与阿曼就通行方案达成协议",
-          "url": "https://wallstreetcn.com/articles/3779521",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时10分 ~ 15时37分]"
-        },
-        {
           "title": "民调：大多数美国选民认为，在特朗普领导下生活状况变得更糟",
           "url": "https://flash.jin10.com/detail/20260816123425273800",
           "source": "金十数据",
@@ -88,11 +88,12 @@
             3,
             9,
             12,
-            20
+            20,
+            28
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时03分 ~ 15时37分]"
+          "appearance_count": 5,
+          "time_info": "[13时03分 ~ 16时36分]"
         },
         {
           "title": "美媒：应特朗普要求，美国海军正研究重新设计战舰",
@@ -101,11 +102,12 @@
           "ranks": [
             5,
             8,
-            16
+            16,
+            24
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时56分 ~ 15时37分]"
+          "appearance_count": 4,
+          "time_info": "[13时56分 ~ 16时36分]"
         },
         {
           "title": "特朗普誓言美航母重回锅气时代",
@@ -218,11 +220,12 @@
             3,
             6,
             9,
-            11
+            11,
+            18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时03分 ~ 15时37分]"
+          "appearance_count": 5,
+          "time_info": "[13时03分 ~ 16时36分]"
         },
         {
           "title": "段永平二季度减持英伟达、谷歌，新建阿里巴巴仓位",
@@ -247,8 +250,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时49分 ~ 15时37分]"
+          "appearance_count": 4,
+          "time_info": "[14时49分 ~ 16时36分]"
         },
         {
           "title": "阿贝尔掌舵半年伯克希尔大举增持谷歌、A类股晋升前五重仓，Q2加码航空和房产股",
