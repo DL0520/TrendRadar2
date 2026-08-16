@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-16T13:56:39.827135+08:00",
-  "total_titles_processed": 770,
+  "generated_at": "2026-08-16T14:49:52.274363+08:00",
+  "total_titles_processed": 815,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "特朗普称“很快将宣布霍尔木兹海峡为美国领土” | 环球市场",
@@ -17,8 +17,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时49分 ~ 13时56分]"
+          "appearance_count": 12,
+          "time_info": "[01时49分 ~ 14时49分]"
         },
         {
           "title": "特朗普：击败伊朗后会宣布霍尔木兹海峡为美国领土",
@@ -44,17 +44,6 @@
           "time_info": "[01时49分 ~ 09时43分]"
         },
         {
-          "title": "美媒：应特朗普要求，美国海军正研究重新设计战舰",
-          "url": "https://flash.jin10.com/detail/20260816130111375800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时56分"
-        },
-        {
           "title": "特朗普称“很快将宣布霍尔木兹海峡为美国领土”",
           "url": "https://www.cls.cn/detail/2455050",
           "source": "财联社热门",
@@ -62,8 +51,47 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时49分 ~ 07时26分]"
+          "appearance_count": 6,
+          "time_info": "[01时49分 ~ 14时49分]"
+        },
+        {
+          "title": "特朗普又发旧照，称“与金正恩相处融洽”(图)",
+          "url": "https://news.ifeng.com/c/8vd6r6o7WHm",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时03分 ~ 14时49分]"
+        },
+        {
+          "title": "海峡控制权“各说各话”：特朗普放话“拿下”霍尔木兹，伊朗称已与阿曼就通行方案达成协议",
+          "url": "https://wallstreetcn.com/articles/3779521",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时10分 ~ 14时49分]"
+        },
+        {
+          "title": "民调：大多数美国选民认为，在特朗普领导下生活状况变得更糟",
+          "url": "https://flash.jin10.com/detail/20260816123425273800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            9,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时03分 ~ 14时49分]"
         },
         {
           "title": "特朗普誓言美航母重回锅气时代",
@@ -76,30 +104,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时43分 ~ 12时10分]"
-        },
-        {
-          "title": "民调：大多数美国选民认为，在特朗普领导下生活状况变得更糟",
-          "url": "https://flash.jin10.com/detail/20260816123425273800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时03分 ~ 13时56分]"
-        },
-        {
-          "title": "特朗普又发旧照，称“与金正恩相处融洽”(图)",
-          "url": "https://news.ifeng.com/c/8vd6r6o7WHm",
-          "source": "凤凰网",
-          "ranks": [
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时03分 ~ 13时56分]"
         },
         {
           "title": "据CNN：71%的人认为美国总统特朗普在降低日常商品价格方面的努力还不够，较去年58%的比例有所上升。",
@@ -115,17 +119,16 @@
           "time_info": "[09时43分 ~ 13时03分]"
         },
         {
-          "title": "海峡控制权“各说各话”：特朗普放话“拿下”霍尔木兹，伊朗称已与阿曼就通行方案达成协议",
-          "url": "https://wallstreetcn.com/articles/3779521",
-          "source": "华尔街见闻",
+          "title": "美媒：应特朗普要求，美国海军正研究重新设计战舰",
+          "url": "https://flash.jin10.com/detail/20260816130111375800",
+          "source": "金十数据",
           "ranks": [
-            10,
-            8,
-            6
+            5,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时10分 ~ 13时56分]"
+          "appearance_count": 2,
+          "time_info": "[13时56分 ~ 14时49分]"
         },
         {
           "title": "美国总统特朗普：参议院必须尽快投票通过《不再改变时钟法案》。白天多些阳光总是好的（还能打击犯罪！），但更重要的，别再每年两次荒唐地来回拨时钟和手表了，又混乱又麻烦。赶紧把它搞定！",
@@ -134,11 +137,12 @@
           "ranks": [
             9,
             19,
-            25
+            25,
+            28
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时10分 ~ 13时56分]"
+          "appearance_count": 4,
+          "time_info": "[12时10分 ~ 14时49分]"
         },
         {
           "title": "美国总统特朗普周日日程一览",
@@ -182,15 +186,26 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时56分"
+        },
+        {
+          "title": "特朗普为何要求航母改回蒸汽弹射",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%BA%E4%BD%95%E8%A6%81%E6%B1%82%E8%88%AA%E6%AF%8D%E6%94%B9%E5%9B%9E%E8%92%B8%E6%B1%BD%E5%BC%B9%E5%B0%84",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时49分"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "段永平二季度减持英伟达、谷歌，新建阿里巴巴仓位",
@@ -198,11 +213,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            6
+            6,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时03分 ~ 13时56分]"
+          "appearance_count": 3,
+          "time_info": "[13时03分 ~ 14时49分]"
         },
         {
           "title": "段永平二季度减持英伟达、谷歌，新建阿里巴巴仓位",
@@ -210,11 +226,12 @@
           "source": "金十数据",
           "ranks": [
             4,
-            10
+            10,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时03分 ~ 13时56分]"
+          "appearance_count": 3,
+          "time_info": "[13时03分 ~ 14时49分]"
         },
         {
           "title": "阿贝尔掌舵半年伯克希尔大举增持谷歌、A类股晋升前五重仓，Q2加码航空和房产股",
@@ -226,6 +243,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时49分 ~ 03时48分]"
+        },
+        {
+          "title": "段永平二季度减持英伟达、谷歌，新建阿里巴巴仓位",
+          "url": "https://wallstreetcn.com/articles/3779527",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时49分"
         }
       ]
     }
