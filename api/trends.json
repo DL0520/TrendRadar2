@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-16T17:34:05.216393+08:00",
-  "total_titles_processed": 985,
+  "generated_at": "2026-08-16T18:29:58.781169+08:00",
+  "total_titles_processed": 1057,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 16,
+      "match_count": 18,
       "titles": [
         {
           "title": "海峡控制权“各说各话”：特朗普放话“拿下”霍尔木兹，伊朗称已与阿曼就通行方案达成协议",
@@ -16,11 +16,12 @@
             8,
             6,
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时10分 ~ 17时34分]"
+          "appearance_count": 10,
+          "time_info": "[12时10分 ~ 18时29分]"
         },
         {
           "title": "特朗普又发旧照，称“与金正恩相处融洽”(图)",
@@ -31,8 +32,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时03分 ~ 17时34分]"
+          "appearance_count": 9,
+          "time_info": "[13时03分 ~ 18时29分]"
         },
         {
           "title": "特朗普称“很快将宣布霍尔木兹海峡为美国领土” | 环球市场",
@@ -44,8 +45,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[01时49分 ~ 17时34分]"
+          "appearance_count": 18,
+          "time_info": "[01时49分 ~ 18时29分]"
         },
         {
           "title": "特朗普称“很快将宣布霍尔木兹海峡为美国领土”",
@@ -55,8 +56,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时49分 ~ 17时34分]"
+          "appearance_count": 12,
+          "time_info": "[01时49分 ~ 18时29分]"
         },
         {
           "title": "特朗普：击败伊朗后会宣布霍尔木兹海峡为美国领土",
@@ -95,6 +96,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[13时03分 ~ 16时36分]"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-08-16）",
+          "url": "https://flash.jin10.com/detail/20260816180839464800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时29分"
         },
         {
           "title": "美媒：应特朗普要求，美国海军正研究重新设计战舰",
@@ -207,6 +219,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时56分"
+        },
+        {
+          "title": "据沙特媒体哈达斯（Alhadath）：消息人士称，特朗普特使库什纳将与哈马斯代表会面，届时将有埃及、土耳其和卡塔尔的调解人出席，库什纳与哈马斯的会晤旨在防止加沙协议的崩溃。",
+          "url": "https://flash.jin10.com/detail/20260816172332854800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时29分"
         }
       ]
     },
@@ -224,11 +247,12 @@
             9,
             11,
             18,
-            20
+            20,
+            23
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时03分 ~ 17时34分]"
+          "appearance_count": 7,
+          "time_info": "[13时03分 ~ 18时29分]"
         },
         {
           "title": "段永平二季度减持英伟达、谷歌，新建阿里巴巴仓位",
@@ -236,11 +260,12 @@
           "source": "华尔街见闻",
           "ranks": [
             8,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时49分 ~ 17时34分]"
+          "appearance_count": 7,
+          "time_info": "[14时49分 ~ 18时29分]"
         },
         {
           "title": "段永平二季度减持英伟达、谷歌，新建阿里巴巴仓位",
@@ -261,11 +286,12 @@
           "url": "https://wallstreetcn.com/articles/3779522",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时33分 ~ 17时34分]"
+          "appearance_count": 3,
+          "time_info": "[17时33分 ~ 18时29分]"
         },
         {
           "title": "阿贝尔掌舵半年伯克希尔大举增持谷歌、A类股晋升前五重仓，Q2加码航空和房产股",
