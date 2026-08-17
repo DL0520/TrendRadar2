@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-08-18T05:55:40.353742+08:00",
-  "total_titles_processed": 312,
+  "generated_at": "2026-08-18T06:44:50.105482+08:00",
+  "total_titles_processed": 346,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
       "match_count": 14,
       "titles": [
-        {
-          "title": "土耳其总统埃尔多安与美国总统特朗普通电话。（土耳其媒体Anadolu）",
-          "url": "https://wallstreetcn.com/livenews/3150700",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时55分"
-        },
         {
           "title": "特朗普要求伊朗举白旗投降",
           "url": "https://news.ifeng.com/c/8vfb7aoIQAb",
@@ -26,30 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时55分"
-        },
-        {
-          "title": "土耳其总统埃尔多安告诉美国总统特朗普，以色列正在加沙袭击巴勒斯坦人，而和平计划第二阶段本应在此时生效。",
-          "url": "https://flash.jin10.com/detail/20260818053902807800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时55分"
-        },
-        {
-          "title": "特朗普称金正恩已回应其“对话”请求",
-          "url": "https://wallstreetcn.com/livenews/3150699",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时55分"
+          "appearance_count": 2,
+          "time_info": "[05时55分 ~ 06时44分]"
         },
         {
           "title": "特朗普威胁：若阿曼阻碍美伊和平协议 将对其发动轰炸",
@@ -59,8 +26,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时55分"
+          "appearance_count": 2,
+          "time_info": "[05时55分 ~ 06时44分]"
         },
         {
           "title": "特朗普向朝韩发出强烈信号，信息量很大",
@@ -70,74 +37,116 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时55分"
+          "appearance_count": 2,
+          "time_info": "[05时55分 ~ 06时44分]"
+        },
+        {
+          "title": "土耳其总统埃尔多安告诉美国总统特朗普，以色列正在加沙袭击巴勒斯坦人，而和平计划第二阶段本应在此时生效。",
+          "url": "https://flash.jin10.com/detail/20260818053902807800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时55分 ~ 06时44分]"
+        },
+        {
+          "title": "土耳其总统埃尔多安与美国总统特朗普通电话。（土耳其媒体Anadolu）",
+          "url": "https://wallstreetcn.com/livenews/3150700",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时55分 ~ 06时44分]"
         },
         {
           "title": "土耳其总统埃尔多安对美国总统特朗普表示，继续与伊朗对话以充分利用外交途径十分重要，土耳其已准备好为此作出贡献。",
           "url": "https://flash.jin10.com/detail/20260818053738229800",
           "source": "金十数据",
           "ranks": [
-            3
+            3,
+            7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时55分"
+          "appearance_count": 2,
+          "time_info": "[05时55分 ~ 06时44分]"
         },
         {
-          "title": "美国法官阻止特朗普政府将联邦调查局（FBI）新总部选址从马里兰州迁至华盛顿特区的计划。",
-          "url": "https://wallstreetcn.com/livenews/3150697",
+          "title": "特朗普称金正恩已回应其“对话”请求",
+          "url": "https://wallstreetcn.com/livenews/3150699",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            2,
+            10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时55分"
+          "appearance_count": 2,
+          "time_info": "[05时55分 ~ 06时44分]"
         },
         {
           "title": "土耳其总统埃尔多安与美国总统特朗普讨论了双边关系、伊朗和加沙的战争，以及与巴基斯坦和沙特阿拉伯的防务协议。",
           "url": "https://flash.jin10.com/detail/20260818053641857800",
           "source": "金十数据",
           "ranks": [
-            4
+            4,
+            8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时55分"
+          "appearance_count": 2,
+          "time_info": "[05时55分 ~ 06时44分]"
+        },
+        {
+          "title": "美国法官阻止特朗普政府将联邦调查局（FBI）新总部选址从马里兰州迁至华盛顿特区的计划。",
+          "url": "https://wallstreetcn.com/livenews/3150697",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时55分 ~ 06时44分]"
         },
         {
           "title": "土耳其总统埃尔多安与美国总统特朗普通电话。双方讨论了土耳其与美国的双边关系以及地区和全球局势。",
           "url": "https://flash.jin10.com/detail/20260818053526620800",
           "source": "金十数据",
           "ranks": [
-            5
+            5,
+            9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时55分"
+          "appearance_count": 2,
+          "time_info": "[05时55分 ~ 06时44分]"
         },
         {
           "title": "特朗普：伊朗“不会达成我认为必要的那种协议”",
           "url": "https://wallstreetcn.com/livenews/3150694",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            6,
+            14
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时55分"
+          "appearance_count": 2,
+          "time_info": "[05时55分 ~ 06时44分]"
         },
         {
           "title": "美国法官阻止了特朗普政府将新的美国联邦调查局总部从马里兰州迁至华盛顿特区的计划。",
           "url": "https://flash.jin10.com/detail/20260818052628706800",
           "source": "金十数据",
           "ranks": [
-            7
+            7,
+            11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时55分"
+          "appearance_count": 2,
+          "time_info": "[05时55分 ~ 06时44分]"
         },
         {
           "title": "特朗普将宣布霍尔木兹为美国领土",
@@ -147,8 +156,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时55分"
+          "appearance_count": 2,
+          "time_info": "[05时55分 ~ 06时44分]"
         },
         {
           "title": "美国贸易代表格里尔称，总统特朗普扬言对英国征收100%关税并非虚张声势。 当被问及英国废除数字服务税是否设有最后期限时，格里尔表示：“我不会设定人为划定的时间期限。”（英国泰晤士报）",
